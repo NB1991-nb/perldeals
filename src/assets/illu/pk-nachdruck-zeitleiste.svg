@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Zeitleiste eines Nachdrucks vom Gerücht bis zur Reaktion des Marktes</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">So läuft ein Nachdruck ab</text>
+
+  <!-- Linie -->
+  <path d="M90 170 H710" stroke="#55645F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M90 170 H230" stroke="#F6C343" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 12"/>
+
+  <!-- Stationen -->
+  <circle cx="90" cy="170" r="16" fill="#F6C343"/>
+  <g fill="#0B776B"><circle cx="245" cy="170" r="16"/><circle cx="400" cy="170" r="16"/><circle cx="555" cy="170" r="16"/></g>
+  <circle cx="710" cy="170" r="16" fill="#FFFFFF" stroke="#0B776B" stroke-width="4"/>
+  <g fill="#FFFFFF" font-size="18" font-weight="700" text-anchor="middle">
+    <text x="90" y="176" fill="#0E1C1B">?</text><text x="245" y="176">1</text><text x="400" y="176">2</text><text x="555" y="176">3</text>
+  </g>
+
+  <g text-anchor="middle" font-size="20" font-weight="700" fill="#0E1C1B">
+    <text x="90" y="124">Gerücht</text>
+    <text x="245" y="110">Offizielle</text><text x="245" y="134">Ankündigung</text>
+    <text x="400" y="110">Vorbestellung</text><text x="400" y="134">oder Lotterie</text>
+    <text x="555" y="124">Auslieferung</text>
+    <text x="710" y="110">Markt</text><text x="710" y="134">reagiert</text>
+  </g>
+  <g text-anchor="middle" font-size="18" fill="#55645F">
+    <text x="90" y="218">unbestätigt</text>
+    <text x="245" y="218">Quelle prüfen</text>
+    <text x="400" y="218">Händler, Shop</text>
+    <text x="555" y="218">oft Monate</text><text x="555" y="242">später</text>
+    <text x="710" y="218">Preise können</text><text x="710" y="242">sinken</text>
+  </g>
+
+  <!-- Verlässlich / unsicher -->
+  <rect x="40" y="290" width="350" height="140" rx="16" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+  <text x="64" y="326" font-size="20" font-weight="700" fill="#0B776B">Verlässlich</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="64" y="358">offizielle Pokémon-Seiten</text>
+    <text x="64" y="386">Pokémon Center, Händler-Infos</text>
+    <text x="64" y="414">News mit nachprüfbarer Quelle</text>
+  </g>
+  <rect x="410" y="290" width="350" height="140" rx="16" fill="#FFFFFF" stroke="#E5484D" stroke-width="2"/>
+  <text x="434" y="326" font-size="20" font-weight="700" fill="#E5484D">Vorsicht</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="434" y="358">Stückzahlen ohne Quelle</text>
+    <text x="434" y="386">Screenshots aus Gruppen</text>
+    <text x="434" y="414">„Insider“ mit Verkaufsinteresse</text>
+  </g>
+  <text x="40" y="462" font-size="18" fill="#55645F">Schematisch – nicht jeder Nachdruck läuft so ab.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Rolle Luftpolsterfolie, teilweise abgerollt</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M84 96 H196 L206 186 H84 Z" fill="#FFFFFF" fill-opacity="0.7" stroke="#55645F" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#D6EDE8" stroke="#55645F" stroke-width="1.2"><circle cx="110" cy="110" r="7"/><circle cx="130" cy="110" r="7"/><circle cx="150" cy="110" r="7"/><circle cx="170" cy="110" r="7"/><circle cx="190" cy="110" r="7"/><circle cx="120" cy="130" r="7"/><circle cx="140" cy="130" r="7"/><circle cx="160" cy="130" r="7"/><circle cx="180" cy="130" r="7"/><circle cx="200" cy="130" r="7"/><circle cx="110" cy="150" r="7"/><circle cx="130" cy="150" r="7"/><circle cx="150" cy="150" r="7"/><circle cx="170" cy="150" r="7"/><circle cx="190" cy="150" r="7"/><circle cx="120" cy="170" r="7"/><circle cx="140" cy="170" r="7"/><circle cx="160" cy="170" r="7"/><circle cx="180" cy="170" r="7"/><circle cx="200" cy="170" r="7"/></g>
+  <rect x="44" y="70" width="60" height="124" fill="#FFFFFF" stroke="#55645F" stroke-width="2.5"/>
+  <ellipse cx="74" cy="70" rx="30" ry="12" fill="#F1F4F2" stroke="#55645F" stroke-width="2.5"/>
+  <ellipse cx="74" cy="70" rx="10" ry="4" fill="#B8955A"/>
+  <ellipse cx="74" cy="194" rx="30" ry="12" fill="#FFFFFF" stroke="#55645F" stroke-width="2.5"/>
+  <rect x="45.5" y="150" width="57" height="44" fill="#FFFFFF"/>
+  <path d="M44 150 V194 M104 150 V194" stroke="#55645F" stroke-width="2.5"/>
+  <g fill="#D6EDE8" stroke="#55645F" stroke-width="1.2"><circle cx="58" cy="100" r="6"/><circle cx="78" cy="100" r="6"/><circle cx="96" cy="100" r="5"/><circle cx="68" cy="122" r="6"/><circle cx="88" cy="122" r="6"/><circle cx="58" cy="144" r="6"/><circle cx="78" cy="144" r="6"/><circle cx="96" cy="144" r="5"/><circle cx="68" cy="166" r="6"/><circle cx="88" cy="166" r="6"/></g>
+</svg>

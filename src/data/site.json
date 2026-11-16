@@ -1,0 +1,13 @@
+{
+  "name": "perldeals",
+  "url": "https://perldeals.com",
+  "operator": "Nico Bökenkröger",
+  "street": "Iburger Straße 20",
+  "zip": "49170",
+  "city": "Hagen a.T.W.",
+  "country": {"de": "Deutschland", "en": "Germany"},
+  "email": "kontakt@perldeals.com",
+  "phone": "+49 5401 9198",
+  "vatId": "DE312474809",
+  "host": {"name": "IONOS SE", "address": "Elgendorfer Str. 57, 56410 Montabaur"}
+}

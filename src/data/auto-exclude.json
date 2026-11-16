@@ -1,0 +1,7 @@
+{
+ "_info": "Auto-Deals, die trotz Shop-Preisverlauf kein echter Deal sind (idealo-Gegencheck). Treffer per Teilstring im Produktnamen (ohne Groß/Klein).",
+ "names": [
+  {"match": "Legion Pro 34WD-10", "reason": "nbb 699 € > idealo-Median 30 T 689 €, idealo-Tiefstpreis 642,76 € (10.11.2026)"},
+  {"match": "HP Z2 Mini G1a", "reason": "Joybuy 4.570,99 € nur ca. 10 % unter idealo-Median 30 T (5.100,95 €); Shop-Vorpreis 9.109 € unrealistisch (12.11.2026)"}
+ ]
+}

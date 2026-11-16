@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Lichttest: Handy-Taschenlampe hinter echter Karte und Fälschung</title>
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#FFF6CF"/>
+      <stop offset="0.35" stop-color="#F6C343" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#F6C343" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pL"><rect x="40" y="76" width="345" height="356" rx="18"/></clipPath>
+    <clipPath id="pR"><rect x="415" y="76" width="345" height="356" rx="18"/></clipPath>
+    <g id="phone">
+      <rect x="0" y="0" width="84" height="160" rx="14" fill="#0E1C1B"/>
+      <rect x="10" y="10" width="30" height="30" rx="8" fill="#55645F"/>
+      <circle cx="25" cy="25" r="8" fill="#0E1C1B"/>
+      <circle cx="58" cy="22" r="6" fill="#FFF6CF"/>
+    </g>
+    <g id="card">
+      <rect width="140" height="196" rx="9" fill="#0B776B"/>
+      <rect x="7" y="7" width="126" height="182" rx="5" fill="#FFFFFF"/>
+      <rect x="14" y="16" width="56" height="10" rx="5" fill="#0E1C1B" opacity="0.8"/>
+      <rect x="14" y="34" width="112" height="74" rx="4" fill="#D6EDE8"/>
+      <circle cx="48" cy="66" r="15" fill="#F6C343"/>
+      <path d="M14 108 L52 80 L76 98 L98 82 L126 104 L126 108 Z" fill="#0B776B"/>
+      <rect x="14" y="122" width="96" height="7" rx="3.5" fill="#D3DCD8"/>
+      <rect x="14" y="136" width="112" height="7" rx="3.5" fill="#D3DCD8"/>
+      <rect x="14" y="150" width="74" height="7" rx="3.5" fill="#D3DCD8"/>
+    </g>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="54" font-size="26" font-weight="700" fill="#0E1C1B">Lichttest mit der Handy-Taschenlampe</text>
+
+  <!-- Echt -->
+  <rect x="40" y="76" width="345" height="356" rx="18" fill="#FFFFFF" stroke="#D3DCD8"/>
+  <g clip-path="url(#pL)">
+    <circle cx="222" cy="232" r="130" fill="url(#glow)"/>
+    <use href="#phone" x="96" y="168"/>
+    <use href="#card" x="152" y="128"/>
+  </g>
+  <circle cx="72" cy="108" r="14" fill="#2E9E5B"/>
+  <path d="M65 108 l5 5 l9 -10" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="96" y="115" font-size="20" font-weight="700" fill="#0E1C1B">Echte Karte</text>
+  <!-- Schichtaufbau -->
+  <g transform="translate(316 196)">
+    <rect width="44" height="12" rx="3" fill="#FFFFFF" stroke="#D3DCD8"/>
+    <rect y="14" width="44" height="12" rx="3" fill="#0E1C1B"/>
+    <rect y="28" width="44" height="12" rx="3" fill="#FFFFFF" stroke="#D3DCD8"/>
+  </g>
+  <text x="62" y="376" font-size="20" font-weight="700" fill="#0E1C1B">Licht kommt kaum durch</text>
+  <text x="62" y="404" font-size="18" fill="#55645F">dunkle Mittelschicht blockt</text>
+
+  <!-- Fälschung -->
+  <rect x="415" y="76" width="345" height="356" rx="18" fill="#FFFFFF" stroke="#D3DCD8"/>
+  <g clip-path="url(#pR)">
+    <circle cx="597" cy="232" r="130" fill="url(#glow)"/>
+    <use href="#phone" x="471" y="168"/>
+    <use href="#card" x="527" y="128"/>
+    <circle cx="597" cy="226" r="72" fill="url(#glow)" opacity="0.95"/>
+  </g>
+  <circle cx="447" cy="108" r="14" fill="#E5484D"/>
+  <path d="M441 102 l12 12 M453 102 l-12 12" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="471" y="115" font-size="20" font-weight="700" fill="#0E1C1B">Fälschung</text>
+  <g transform="translate(691 196)">
+    <rect width="44" height="12" rx="3" fill="#FFFFFF" stroke="#D3DCD8"/>
+    <rect y="14" width="44" height="12" rx="3" fill="#FFFFFF" stroke="#D3DCD8"/>
+    <rect y="28" width="44" height="12" rx="3" fill="#FFFFFF" stroke="#D3DCD8"/>
+  </g>
+  <text x="437" y="376" font-size="20" font-weight="700" fill="#0E1C1B">Licht scheint stark durch</text>
+  <text x="437" y="404" font-size="18" fill="#55645F">oft keine dunkle Mittelschicht</text>
+
+  <text x="40" y="460" font-size="18" fill="#55645F">Nur kurz anleuchten und mit einer echten Karte vergleichen.</text>
+</svg>

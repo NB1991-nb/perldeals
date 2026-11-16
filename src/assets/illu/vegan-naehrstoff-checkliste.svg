@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Nährstoff-Checkliste für vegane Ernährung nach DGE</title>
+<rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+<text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Nährstoff-Check nach DGE</text>
+<text x="760" y="56" font-size="18" fill="#55645F" text-anchor="end">vegan im Alltag</text>
+<rect x="30" y="82" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="67" cy="119" r="22" fill="#FDECEC"/>
+<path d="M57 120 l7 7 l13 -15" fill="none" stroke="#E5484D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="113" font-size="20" font-weight="700" fill="#0E1C1B">Vitamin B12</text>
+<text x="102" y="139" font-size="18" fill="#55645F">immer als Präparat</text>
+<rect x="415" y="82" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="452" cy="119" r="22" fill="#D6EDE8"/>
+<path d="M442 120 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="113" font-size="20" font-weight="700" fill="#0E1C1B">Jod</text>
+<text x="487" y="139" font-size="18" fill="#55645F">Jodsalz verwenden</text>
+<rect x="30" y="168" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="67" cy="205" r="22" fill="#D6EDE8"/>
+<path d="M57 206 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="199" font-size="20" font-weight="700" fill="#0E1C1B">Omega-3</text>
+<text x="102" y="225" font-size="18" fill="#55645F">Raps-, Leinöl, Algenöl</text>
+<rect x="415" y="168" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="452" cy="205" r="22" fill="#D6EDE8"/>
+<path d="M442 206 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="199" font-size="20" font-weight="700" fill="#0E1C1B">Eisen</text>
+<text x="487" y="225" font-size="18" fill="#55645F">Hülsenfrüchte + Vitamin C</text>
+<rect x="30" y="254" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="67" cy="291" r="22" fill="#D6EDE8"/>
+<path d="M57 292 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="285" font-size="20" font-weight="700" fill="#0E1C1B">Calcium</text>
+<text x="102" y="311" font-size="18" fill="#55645F">Grünkohl, Tofu, Mineralwasser</text>
+<rect x="415" y="254" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="452" cy="291" r="22" fill="#D6EDE8"/>
+<path d="M442 292 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="285" font-size="20" font-weight="700" fill="#0E1C1B">Vitamin D</text>
+<text x="487" y="311" font-size="18" fill="#55645F">Sonne, ggf. Präparat</text>
+<rect x="30" y="340" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="67" cy="377" r="22" fill="#D6EDE8"/>
+<path d="M57 378 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="371" font-size="20" font-weight="700" fill="#0E1C1B">Zink</text>
+<text x="102" y="397" font-size="18" fill="#55645F">Vollkorn, Nüsse, Samen</text>
+<rect x="415" y="340" width="355" height="74" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+<circle cx="452" cy="377" r="22" fill="#D6EDE8"/>
+<path d="M442 378 l7 7 l13 -15" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="487" y="371" font-size="20" font-weight="700" fill="#0E1C1B">Selen</text>
+<text x="487" y="397" font-size="18" fill="#55645F">Kohl, Pilze, Paranüsse</text>
+<text x="400" y="448" font-size="18" fill="#55645F" text-anchor="middle">Blutwerte regelmäßig ärztlich prüfen lassen · Präparate ärztlich abklären</text>
+</svg>

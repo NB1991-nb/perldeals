@@ -1,0 +1,36 @@
+name: Newsletter-Bilder holen (einmalig, manuell)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Produktbilder laden und auf 496x372 (weiß) bringen
+        run: |
+          npm i --no-save --no-audit --no-fund sharp@0.34.4
+          set -e
+          D=src/assets/mail/nl-2026-11
+          mkdir -p $D
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0 Safari/537.36"
+          get() { curl -fsSL --max-time 30 -A "$UA" -e "https://www.notebooksbilliger.de/" "$2" -o "/tmp/$1.src"; node -e "require('sharp')('/tmp/$1.src').resize(456,332,{fit:'contain',background:'#ffffff'}).extend({top:20,bottom:20,left:20,right:20,background:'#ffffff'}).flatten({background:'#ffffff'}).jpeg({quality:82}).toFile('$D/$1.jpg').then(()=>console.log('ok $1'))"; }
+          get mova https://media2.nbb-cdn.de/images/products/Mova-Z60-Ultra-Hero_450e.jpg
+          get deebot https://media2.nbb-cdn.de/images/products/Ecovacs-T50-Omni-Hero.jpeg
+          get thinkpad https://media2.nbb-cdn.de/images/products/ThinkPad_E16_Gen_3_Intel_CT1_03_8f80.jpg
+          get nordvpn https://media2.nbb-cdn.de/images/products/Nord_VPN_Komplett_7739.png
+          ls -la $D
+      - name: Einchecken
+        run: |
+          git config user.name "perldeals-bot"
+          git config user.email "kontakt@perldeals.com"
+          git add src/assets/mail/nl-2026-11
+          git commit -m "Newsletter-Produktbilder (automatisch geladen)" || echo "nichts neu"
+          git push

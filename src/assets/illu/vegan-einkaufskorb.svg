@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Einkaufskorb mit günstigen veganen Grundnahrungsmitteln</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Günstige vegane Basis für die Woche</text>
+
+  <!-- Inhalt hinter dem Korb -->
+  <rect x="78" y="160" width="62" height="120" rx="8" fill="#F6C343"/>
+  <rect x="88" y="186" width="42" height="30" rx="4" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="150" y="140" width="34" height="140" rx="10" fill="#2E9E5B"/>
+  <rect x="158" y="124" width="18" height="22" rx="4" fill="#1F7A44"/>
+  <rect x="194" y="176" width="70" height="104" rx="10" fill="#D6EDE8" stroke="#0B776B" stroke-width="3"/>
+  <circle cx="214" cy="226" r="7" fill="#0B776B"/><circle cx="232" cy="214" r="7" fill="#0B776B"/><circle cx="246" cy="234" r="7" fill="#0B776B"/><circle cx="226" cy="244" r="7" fill="#0B776B"/>
+  <circle cx="300" cy="226" r="34" fill="#E5484D"/>
+  <path d="M300 192 q6 -14 18 -16" stroke="#2E9E5B" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="114" cy="270" rx="34" ry="20" fill="#C9A26B"/>
+
+  <!-- Korb -->
+  <path d="M50 260 H350 L322 420 Q318 438 300 438 H100 Q82 438 78 420 Z" fill="#0B776B"/>
+  <path d="M40 252 H360 a10 10 0 0 1 0 20 H40 a10 10 0 0 1 0 -20 Z" fill="#095F56"/>
+  <g stroke="#D6EDE8" stroke-width="4" opacity="0.7">
+    <path d="M70 300 H330 M76 340 H324 M82 380 H318"/>
+    <path d="M120 272 L126 436 M170 272 L172 436 M230 272 L228 436 M280 272 L274 436"/>
+  </g>
+  <path d="M110 252 Q200 120 290 252" fill="none" stroke="#095F56" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Liste -->
+  <rect x="400" y="84" width="370" height="314" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <g font-size="18" fill="#0E1C1B">
+    <g fill="#2E9E5B">
+      <circle cx="428" cy="122" r="6"/><circle cx="428" cy="162" r="6"/><circle cx="428" cy="202" r="6"/><circle cx="428" cy="242" r="6"/><circle cx="428" cy="282" r="6"/><circle cx="428" cy="322" r="6"/><circle cx="428" cy="362" r="6"/>
+      <circle cx="610" cy="122" r="6"/><circle cx="610" cy="162" r="6"/><circle cx="610" cy="202" r="6"/><circle cx="610" cy="242" r="6"/><circle cx="610" cy="282" r="6"/><circle cx="610" cy="322" r="6"/>
+    </g>
+    <text x="444" y="128">Linsen</text>
+    <text x="444" y="168">Kichererbsen</text>
+    <text x="444" y="208">Bohnen</text>
+    <text x="444" y="248">Haferflocken</text>
+    <text x="444" y="288">Reis</text>
+    <text x="444" y="328">Vollkornnudeln</text>
+    <text x="444" y="368">Kartoffeln</text>
+    <text x="626" y="128">TK-Gemüse</text>
+    <text x="626" y="168">Saisonobst</text>
+    <text x="626" y="208">Tofu</text>
+    <text x="626" y="248">Pflanzendrink</text>
+    <text x="626" y="288">Rapsöl</text>
+    <text x="626" y="328">Jodsalz</text>
+  </g>
+  <rect x="400" y="412" width="370" height="40" rx="12" fill="#F6C343"/>
+  <text x="585" y="439" font-size="18" font-weight="700" fill="#0E1C1B" text-anchor="middle">Grundpreis pro kg vergleichen</text>
+</svg>

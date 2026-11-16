@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Etiketten-Check: Ist das vegan?</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Ist das vegan? Der Etiketten-Check</text>
+
+  <!-- Verpackung -->
+  <rect x="40" y="84" width="330" height="364" rx="18" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="60" y="104" width="120" height="20" rx="6" fill="#D3DCD8"/>
+  <rect x="60" y="134" width="90" height="14" rx="6" fill="#E4EAE7"/>
+  <rect x="60" y="160" width="110" height="60" rx="10" fill="#D6EDE8"/>
+  <!-- neutrales Beispiel-Siegel -->
+  <circle cx="282" cy="170" r="80" fill="#FFFFFF" stroke="#0B776B" stroke-width="4"/>
+  <circle cx="282" cy="170" r="70" fill="none" stroke="#0B776B" stroke-width="2" stroke-dasharray="4 5"/>
+  <text x="282" y="167" font-size="18" font-weight="800" fill="#0B776B" text-anchor="middle">Vegan-Siegel</text>
+  <text x="282" y="191" font-size="18" fill="#0B776B" text-anchor="middle">(Beispiel)</text>
+
+  <!-- Zutatenliste -->
+  <rect x="56" y="256" width="298" height="176" rx="12" fill="#F7F9F8" stroke="#D3DCD8"/>
+  <text x="72" y="286" font-size="18" font-weight="700" fill="#0E1C1B">Zutaten:</text>
+  <text x="72" y="316" font-size="18" fill="#0E1C1B">Zucker, Glukosesirup,</text>
+  <rect x="68" y="328" width="82" height="28" rx="6" fill="#FDECEC"/>
+  <text x="72" y="348" font-size="18" font-weight="700" fill="#E5484D">Gelatine</text>
+  <text x="150" y="348" font-size="18" fill="#0E1C1B">, Säuerungsmittel,</text>
+  <text x="72" y="380" font-size="18" fill="#0E1C1B">Farbstoff:</text>
+  <rect x="160" y="362" width="160" height="28" rx="6" fill="#FDECEC"/>
+  <text x="164" y="382" font-size="18" font-weight="700" fill="#E5484D">Karmin (E 120)</text>
+  <text x="72" y="416" font-size="18" fill="#55645F">Kann Spuren von Milch …</text>
+
+  <!-- Schritte -->
+  <g>
+    <circle cx="424" cy="112" r="20" fill="#0B776B"/><text x="424" y="119" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="456" y="110" font-size="20" font-weight="700" fill="#0E1C1B">Siegel suchen</text>
+    <text x="456" y="136" font-size="18" fill="#55645F">z. B. V-Label vegan, Veganblume</text>
+
+    <circle cx="424" cy="200" r="20" fill="#E5484D"/><text x="424" y="207" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="456" y="198" font-size="20" font-weight="700" fill="#0E1C1B">Zutaten lesen</text>
+    <text x="456" y="224" font-size="18" fill="#55645F">Milch, Ei, Gelatine, E 120</text>
+
+    <circle cx="424" cy="288" r="20" fill="#2E9E5B"/><text x="424" y="295" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="456" y="286" font-size="20" font-weight="700" fill="#0E1C1B">Spurenhinweis</text>
+    <text x="456" y="312" font-size="18" fill="#55645F">ist kein Ausschluss</text>
+
+    <circle cx="424" cy="376" r="20" fill="#F6C343"/><text x="424" y="383" font-size="20" font-weight="800" fill="#0E1C1B" text-anchor="middle">4</text>
+    <text x="456" y="374" font-size="20" font-weight="700" fill="#0E1C1B">Wein &amp; Saft</text>
+    <text x="456" y="400" font-size="18" fill="#55645F">Klärung steht nicht drauf</text>
+  </g>
+  <path d="M424 134 V178 M424 222 V266 M424 310 V354" stroke="#D3DCD8" stroke-width="3" stroke-dasharray="4 5"/>
+</svg>

@@ -1,0 +1,381 @@
+{
+  "updated": "2026-11-05",
+  "ipExplainer": {
+    "text": [
+      "Der IP-Code (\"Ingress Protection\") ist in der Norm IEC 60529 (in Deutschland DIN EN 60529) festgelegt. Er besteht aus den Buchstaben IP und zwei Ziffern: Die erste Ziffer beschreibt den Schutz gegen feste Fremdkörper und Staub, die zweite den Schutz gegen Wasser.",
+      "Bei der ersten Ziffer bedeutet 5 \"staubgeschützt\" (etwas Staub darf eindringen, solange das Gerät normal funktioniert), 6 bedeutet \"staubdicht\" – es darf kein Staub ins Gehäuse gelangen.",
+      "Bei der zweiten Ziffer steht 7 für zeitweiliges Untertauchen (Prüfung bis 1 m Tiefe für 30 Minuten), 8 für dauerhaftes Untertauchen unter Bedingungen, die der Hersteller festlegt – deshalb nennen Samsung, Apple und Xiaomi bei IP68 unterschiedliche Tiefen (z. B. 1,5 m, 2 m oder 6 m). Steht statt einer Ziffer ein X (z. B. IPX7), wurde dieser Schutz nicht angegeben; eine 0 bedeutet keinen Schutz.",
+      "Wichtig: Geprüft wird im Labor mit neuen Geräten und meist mit klarem Süßwasser. Salzwasser, Chlorwasser, Seifenlauge, heißes Wasser oder ein harter Wasserstrahl sind nicht abgedeckt, und Dichtungen altern – die Hersteller betonen, dass der Schutz nicht dauerhaft ist. \"Wasserdicht\" im Alltag heißt also: Regen, Spritzer und ein kurzer Sturz ins Waschbecken sind meist kein Problem, Schwimmen oder Duschen mit dem Handy schon."
+    ],
+    "source": ["Stiftung Warentest: Staub- und wassergeschützt? IP-Schutzarten verstehen (19.02.2026)", "https://www.test.de/Leserfrage-Was-meint-IP44-auf-Steckdosen-4260526-0/"],
+    "source2": ["Google Store: Phone IP Ratings (Water and Dust Resistance)", "https://store.google.com/gb/magazine/phone-ip-rating?hl=en-GB"]
+  },
+  "items": [
+    {
+      "slug": "samsung-galaxy-a57-wasserdicht",
+      "model": "Samsung Galaxy A57 5G",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis 1,5 m Tiefe für 30 Minuten – laut Samsung ausschließlich in klarem Süßwasser",
+      "answer": "Ja, weitgehend: Das Galaxy A57 5G ist nach IP68 zertifiziert und übersteht laut Samsung 30 Minuten in 1,5 m tiefem klarem Wasser. Regen, Spritzer oder ein kurzer Sturz ins Waschbecken sind damit abgedeckt. Salz- und Poolwasser, Seifenlauge, Alkohol und heiße Flüssigkeiten schließt Samsung ausdrücklich aus.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen, bevor du es lädst",
+        "Alle Abdeckungen (z. B. SIM-Fach) vollständig geschlossen halten",
+        "Für Strand- oder Badeurlaub eine wasserdichte Handytasche nutzen"
+      ],
+      "donts": [
+        "Nicht im Meer oder Pool benutzen – Salz- und Poolwasser sind laut Samsung nicht abgedeckt",
+        "Nicht mit Seifenlauge, Alkohol oder heißen Flüssigkeiten in Kontakt bringen (Dusche, Badewanne, Sauna)",
+        "Nicht absichtlich tiefer als 1,5 m oder länger als 30 Minuten untertauchen"
+      ],
+      "source": ["Samsung Newsroom Deutschland: Samsung stellt Galaxy A57 5G und Galaxy A37 5G vor (25.03.2026)", "https://news.samsung.com/de/samsung-stellt-galaxy-a57-5g-und-galaxy-a37-5g-vor-profi-features-zum-attraktiven-preis"],
+      "query": "galaxy a57"
+    },
+    {
+      "slug": "samsung-galaxy-a37-wasserdicht",
+      "model": "Samsung Galaxy A37 5G",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis 1,5 m Tiefe für 30 Minuten – laut Samsung ausschließlich in klarem Süßwasser",
+      "answer": "Ja, weitgehend: Das Galaxy A37 5G hat wie das A57 eine IP68-Zertifizierung und hält laut Samsung 30 Minuten in 1,5 m tiefem klarem Wasser aus. Gegenüber dem Vorgänger A36 (IP67) ist das ein Upgrade. Salz- und Poolwasser, Seifenlauge und heiße Flüssigkeiten sind aber nicht abgedeckt.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen, bevor du es lädst",
+        "SIM-Fach und Abdeckungen immer vollständig geschlossen halten",
+        "Am Strand oder Pool eine wasserdichte Schutzhülle verwenden"
+      ],
+      "donts": [
+        "Nicht zum Schwimmen im Meer oder Pool mitnehmen",
+        "Nicht unter der Dusche oder in der Badewanne benutzen (Seife, warmes Wasser)",
+        "Nicht absichtlich tiefer als 1,5 m oder länger als 30 Minuten untertauchen"
+      ],
+      "source": ["Samsung Newsroom Deutschland: Samsung stellt Galaxy A57 5G und Galaxy A37 5G vor (25.03.2026)", "https://news.samsung.com/de/samsung-stellt-galaxy-a57-5g-und-galaxy-a37-5g-vor-profi-features-zum-attraktiven-preis"],
+      "query": "galaxy a37"
+    },
+    {
+      "slug": "samsung-galaxy-a56-wasserdicht",
+      "model": "Samsung Galaxy A56 5G",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP67",
+      "ipMeaning": "staubdicht und geschützt bei zeitweiligem Untertauchen bis 1 m Tiefe für 30 Minuten in Süßwasser (laut Samsung-Laborbedingungen)",
+      "answer": "Teilweise: Das Galaxy A56 5G ist nach IP67 geschützt – Regen, Spritzer und ein kurzes Eintauchen bis 1 m in Süßwasser übersteht es laut Samsung. Für Strand und Pool rät Samsung ausdrücklich ab. Im Vergleich zum Nachfolger A57 (IP68, 1,5 m) ist der Wasserschutz etwas geringer.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen und erst dann laden",
+        "Abdeckungen und SIM-Fach geschlossen halten",
+        "Für Wassersport eine wasserdichte Handytasche nutzen"
+      ],
+      "donts": [
+        "Nicht am Strand oder im Pool verwenden – davon rät Samsung ab",
+        "Nicht tiefer als 1 m oder länger als 30 Minuten untertauchen",
+        "Nicht mit Seifenwasser oder heißem Wasser in Kontakt bringen"
+      ],
+      "source": ["Samsung Newsroom: Galaxy A56 5G, Galaxy A36 5G and Galaxy A26 5G (02.03.2025)", "https://news.samsung.com/global/samsung-marks-a-step-forward-with-ai-for-everyone-by-introducing-new-galaxy-a56-5g-galaxy-a36-5g-and-galaxy-a26-5g"],
+      "query": "galaxy a56"
+    },
+    {
+      "slug": "samsung-galaxy-a36-wasserdicht",
+      "model": "Samsung Galaxy A36 5G",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP67",
+      "ipMeaning": "staubdicht und geschützt bei zeitweiligem Untertauchen bis 1 m Tiefe für 30 Minuten in Süßwasser (laut Samsung-Laborbedingungen)",
+      "answer": "Teilweise: Das Galaxy A36 5G ist nach IP67 geschützt und übersteht laut Samsung bis zu 30 Minuten in 1 m tiefem Süßwasser. Alltagssituationen wie Regen oder Spritzer sind damit unkritisch. Strand und Pool sind laut Samsung nicht empfohlen.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen und erst dann laden",
+        "Abdeckungen und SIM-Fach geschlossen halten",
+        "Am Wasser eine wasserdichte Hülle oder Tasche verwenden"
+      ],
+      "donts": [
+        "Nicht am Strand oder im Pool verwenden",
+        "Nicht tiefer als 1 m oder länger als 30 Minuten untertauchen",
+        "Nicht unter der Dusche benutzen (Seife, warmes Wasser)"
+      ],
+      "source": ["Samsung Newsroom: Galaxy A56 5G, Galaxy A36 5G and Galaxy A26 5G (02.03.2025)", "https://news.samsung.com/global/samsung-marks-a-step-forward-with-ai-for-everyone-by-introducing-new-galaxy-a56-5g-galaxy-a36-5g-and-galaxy-a26-5g"],
+      "query": "galaxy a36"
+    },
+    {
+      "slug": "samsung-galaxy-s26-wasserdicht",
+      "model": "Samsung Galaxy S26",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis 1,5 m Tiefe für 30 Minuten in Süßwasser (laut Samsung-Laborbedingungen; gilt auch für S26+ und S26 Ultra)",
+      "answer": "Ja, weitgehend: Das Galaxy S26 (ebenso S26+ und S26 Ultra) ist nach IP68 zertifiziert und übersteht laut Samsung bis zu 30 Minuten in 1,5 m tiefem Süßwasser. Samsung weist darauf hin, dass der Wasser- und Staubschutz nicht dauerhaft ist und durch normale Abnutzung nachlassen kann.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen und erst dann laden",
+        "Nach Kontakt mit Salzwasser oder Schmutz mit klarem Wasser abspülen und trocknen",
+        "Nach einem Sturz oder einer Reparatur nicht mehr auf den vollen Wasserschutz verlassen"
+      ],
+      "donts": [
+        "Nicht zum Schwimmen im Meer oder Pool mitnehmen",
+        "Nicht tiefer als 1,5 m oder länger als 30 Minuten untertauchen",
+        "Nicht mit heißem Wasser, Dampf oder Seife in Kontakt bringen"
+      ],
+      "source": ["Samsung Newsroom: Samsung Unveils Galaxy S26 Series (26.02.2026)", "https://news.samsung.com/global/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet"],
+      "query": "galaxy s26"
+    },
+    {
+      "slug": "samsung-galaxy-s25-wasserdicht",
+      "model": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis 1,5 m Tiefe für 30 Minuten in Süßwasser (laut Samsung-Laborbedingungen)",
+      "answer": "Ja, weitgehend: Das Galaxy S25 ist nach IP68 zertifiziert und übersteht laut Samsung bis zu 30 Minuten in 1,5 m tiefem Süßwasser. Samsung rät trotzdem von Strand und Pool ab und empfiehlt, Rückstände nach Nässe abzuspülen und das Gerät zu trocknen.",
+      "dos": [
+        "Nach Nässe Rückstände abspülen und das Gerät trocknen (Samsung-Empfehlung)",
+        "Erst laden, wenn Anschluss und Gerät trocken sind",
+        "Am Wasser eine wasserdichte Handytasche verwenden"
+      ],
+      "donts": [
+        "Nicht am Strand oder im Pool verwenden – davon rät Samsung ab",
+        "Nicht tiefer als 1,5 m oder länger als 30 Minuten untertauchen",
+        "Nicht darauf verlassen, dass ein älteres oder gestürztes Gerät noch voll dicht ist"
+      ],
+      "source": ["Samsung Newsroom US: Galaxy S25 Series Sets the Standard of AI Phone (Unpacked 2025)", "https://news.samsung.com/us/samsung-galaxy-s25-series-sets-standard-of-ai-phone-true-ai-companion-unpacked2025/"],
+      "query": "galaxy s25"
+    },
+    {
+      "slug": "samsung-galaxy-s25-fe-wasserdicht",
+      "model": "Samsung Galaxy S25 FE",
+      "brand": "Samsung",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis 1,5 m Tiefe für 30 Minuten in Süßwasser (laut Samsung-Laborbedingungen)",
+      "answer": "Ja, weitgehend: Das Galaxy S25 FE hat laut Samsung IP68 und übersteht bis zu 30 Minuten in 1,5 m tiefem Süßwasser – damit ist es genauso gut geschützt wie das reguläre S25. Strand- und Poolnutzung empfiehlt Samsung nicht, und der Schutz kann mit der Zeit nachlassen.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen und erst dann laden",
+        "Nach Salzwasserkontakt mit klarem Wasser abspülen und trocknen",
+        "Am Wasser eine wasserdichte Schutzhülle nutzen"
+      ],
+      "donts": [
+        "Nicht am Strand oder im Pool verwenden",
+        "Nicht tiefer als 1,5 m oder länger als 30 Minuten untertauchen",
+        "Nicht unter der Dusche oder in der Sauna benutzen"
+      ],
+      "source": ["Samsung Newsroom: Meet Samsung Galaxy S25 FE (04.09.2025)", "https://news.samsung.com/global/meet-samsung-galaxy-s25-fe-the-gateway-to-the-galaxy-ai-and-flagship-essentials"],
+      "query": "galaxy s25 fe"
+    },
+    {
+      "slug": "iphone-17-wasserdicht",
+      "model": "Apple iPhone 17",
+      "brand": "Apple",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis maximal 6 m Tiefe für bis zu 30 Minuten (laut Apple, nach IEC 60529)",
+      "answer": "Ja, weitgehend: Das iPhone 17 ist nach IP68 bis zu 6 m Tiefe für 30 Minuten geschützt. Regen, Spritzer oder ein Sturz in den Pool sind damit meist kein Problem. Absichtliches Schwimmen oder Duschen damit rät Apple ab – und Flüssigkeitsschäden sind laut Apple nicht von der Garantie abgedeckt (gesetzliche Verbraucherrechte bleiben unberührt).",
+      "dos": [
+        "Wenn es nass wird: mit fusselfreiem Tuch abwischen, mit dem Anschluss nach unten leicht gegen die Hand klopfen und an einem gut belüfteten Ort trocknen lassen",
+        "Nach Kontakt mit Seife oder ähnlichen Flüssigkeiten sofort reinigen",
+        "Mindestens 5 Stunden warten, bevor du es nach Nässe per Kabel lädst"
+      ],
+      "donts": [
+        "Nicht zum Schwimmen oder Baden mitnehmen und nicht absichtlich untertauchen",
+        "Keinem Wasserstrahl mit hohem Druck aussetzen (Dusche, Wasserski, Jetski) und nicht in Sauna oder Dampfbad mitnehmen",
+        "Nicht mit Föhn oder anderer Hitze trocknen und keine Wattestäbchen oder Papier in den Anschluss stecken"
+      ],
+      "source": ["Apple Support: iPhone 17 – Technische Daten", "https://support.apple.com/en-us/125089"],
+      "source2": ["Apple Support: Spritz-, Wasser- und Staubschutz beim iPhone 7 und neuer", "https://support.apple.com/en-us/108039"],
+      "query": "iphone 17"
+    },
+    {
+      "slug": "iphone-17-pro-wasserdicht",
+      "model": "Apple iPhone 17 Pro",
+      "brand": "Apple",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis maximal 6 m Tiefe für bis zu 30 Minuten (laut Apple, nach IEC 60529)",
+      "answer": "Ja, weitgehend: Das iPhone 17 Pro ist wie das iPhone 17 nach IP68 bis 6 m Tiefe für 30 Minuten geschützt. Laut Apple ist der Schutz aber nicht dauerhaft und kann durch normale Abnutzung nachlassen. Flüssigkeitsschäden deckt die Apple-Garantie nicht ab (gesetzliche Verbraucherrechte bleiben unberührt).",
+      "dos": [
+        "Wenn es nass wird: abwischen, mit dem Anschluss nach unten ausklopfen und gut belüftet trocknen lassen",
+        "Mindestens 5 Stunden warten, bevor du es nach Nässe per Kabel lädst",
+        "Nach einem Sturz nicht mehr auf den vollen Wasserschutz verlassen"
+      ],
+      "donts": [
+        "Nicht zum Schwimmen, Baden oder Duschen mitnehmen",
+        "Nicht in Sauna oder Dampfbad verwenden",
+        "Nicht mit Hitze oder Druckluft trocknen"
+      ],
+      "source": ["Apple Support: iPhone 17 Pro – Technische Daten", "https://support.apple.com/en-us/125090"],
+      "source2": ["Apple Support: Spritz-, Wasser- und Staubschutz beim iPhone 7 und neuer", "https://support.apple.com/en-us/108039"],
+      "query": "iphone 17 pro"
+    },
+    {
+      "slug": "iphone-16-wasserdicht",
+      "model": "Apple iPhone 16",
+      "brand": "Apple",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis maximal 6 m Tiefe für bis zu 30 Minuten (laut Apple, nach IEC 60529)",
+      "answer": "Ja, weitgehend: Das iPhone 16 ist nach IP68 bis zu 6 m Tiefe für 30 Minuten geschützt. Für Regen oder einen kurzen Sturz ins Wasser reicht das, zum Schwimmen ist es nicht gedacht. Flüssigkeitsschäden sind laut Apple nicht von der Garantie abgedeckt (gesetzliche Verbraucherrechte bleiben unberührt).",
+      "dos": [
+        "Wenn es nass wird: abwischen, ausklopfen und an der Luft trocknen lassen",
+        "Mindestens 5 Stunden warten, bevor du es nach Nässe per Kabel lädst",
+        "Bei Kontakt mit Seife oder Lotion sofort reinigen"
+      ],
+      "donts": [
+        "Nicht absichtlich untertauchen oder damit schwimmen",
+        "Keinem Hochdruck-Wasserstrahl aussetzen (Dusche, Wassersport)",
+        "Nicht mit Föhn oder Heizung trocknen"
+      ],
+      "source": ["Apple Support: iPhone 16 – Technische Daten", "https://support.apple.com/en-us/121029"],
+      "source2": ["Apple Support: Spritz-, Wasser- und Staubschutz beim iPhone 7 und neuer", "https://support.apple.com/en-us/108039"],
+      "query": "iphone 16"
+    },
+    {
+      "slug": "iphone-16e-wasserdicht",
+      "model": "Apple iPhone 16e",
+      "brand": "Apple",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen bis maximal 6 m Tiefe für bis zu 30 Minuten (laut Apple, nach IEC 60529)",
+      "answer": "Ja, weitgehend: Auch das günstigere iPhone 16e hat laut Apple IP68 mit bis zu 6 m Tiefe für 30 Minuten – beim Wasserschutz musst du gegenüber dem iPhone 16 also keine Abstriche machen. Flüssigkeitsschäden sind laut Apple nicht von der Garantie abgedeckt (gesetzliche Verbraucherrechte bleiben unberührt).",
+      "dos": [
+        "Wenn es nass wird: abwischen, ausklopfen und gut belüftet trocknen lassen",
+        "Mindestens 5 Stunden warten, bevor du es nach Nässe per Kabel lädst",
+        "Am Strand eine wasserdichte Handytasche nutzen"
+      ],
+      "donts": [
+        "Nicht absichtlich untertauchen, damit baden oder schwimmen",
+        "Nicht in Sauna oder Dampfbad mitnehmen",
+        "Keine Gegenstände zum Trocknen in den Anschluss stecken"
+      ],
+      "source": ["Apple Support: iPhone 16e – Technische Daten", "https://support.apple.com/en-us/122208"],
+      "source2": ["Apple Support: Spritz-, Wasser- und Staubschutz beim iPhone 7 und neuer", "https://support.apple.com/en-us/108039"],
+      "query": "iphone 16e"
+    },
+    {
+      "slug": "google-pixel-10-wasserdicht",
+      "model": "Google Pixel 10",
+      "brand": "Google",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei dauerhaftem Untertauchen nach IEC 60529; eine konkrete Tiefe und Dauer nennt Google auf Produkt- und Sicherheitsseite nicht",
+      "answer": "Ja, weitgehend: Das Pixel 10 ist nach IP68 gegen Staub und Wasser geschützt. Google betont aber, dass das Gerät \"nicht staub- oder wasserdicht\" im Sinne von unzerstörbar ist und der Schutz durch Abnutzung, Stürze oder Reparaturen nachlassen kann. Flüssigkeitsschäden führen laut Google zum Erlöschen der Herstellergarantie (gesetzliche Gewährleistung bleibt unberührt).",
+      "dos": [
+        "Nach Kontakt mit Wasser trocknen lassen und erst dann laden",
+        "Ladegerät und Zubehör von Wasser fernhalten – die sind laut Google nicht geschützt",
+        "Nach einem Sturz nicht mehr auf den vollen Wasserschutz verlassen"
+      ],
+      "donts": [
+        "Nicht mit Föhn oder anderer Hitzequelle trocknen",
+        "Nicht im nassen Zustand laden",
+        "Nicht absichtlich untertauchen oder damit schwimmen"
+      ],
+      "source": ["Google Pixel Hilfe: Sicherheits- und Regulierungsleitfaden für Pixel 10, 10 Pro und 10 Pro XL", "https://support.google.com/pixelphone/answer/16275254?hl=en"],
+      "source2": ["Google Store: Pixel 10 – Technische Daten", "https://store.google.com/us/product/pixel_10_specs?hl=en-US"],
+      "query": "pixel 10"
+    },
+    {
+      "slug": "google-pixel-10a-wasserdicht",
+      "model": "Google Pixel 10a",
+      "brand": "Google",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei dauerhaftem Untertauchen nach IEC 60529; eine konkrete Tiefe und Dauer nennt Google auf Produkt- und Sicherheitsseite nicht",
+      "answer": "Ja, weitgehend: Das Pixel 10a hat laut Google wie das Pixel 10 die Schutzklasse IP68. Google weist darauf hin, dass der Schutz nicht dauerhaft ist und durch Stürze verloren gehen kann. Flüssigkeitsschäden führen laut Google zum Erlöschen der Herstellergarantie (gesetzliche Gewährleistung bleibt unberührt).",
+      "dos": [
+        "Nach Kontakt mit Wasser trocknen lassen und erst dann laden",
+        "Ladegerät und Zubehör trocken halten",
+        "Für Strand oder Pool eine wasserdichte Handytasche verwenden"
+      ],
+      "donts": [
+        "Nicht mit Föhn oder Heizung trocknen",
+        "Nicht im nassen Zustand laden",
+        "Nicht übermäßig Flüssigkeiten oder Staub aussetzen"
+      ],
+      "source": ["Google Pixel Hilfe: Sicherheits- und Regulierungsleitfaden für Pixel 10a", "https://support.google.com/pixelphone/answer/16593610?hl=en-AU"],
+      "source2": ["Google Store: Pixel 10a – Technische Daten", "https://store.google.com/product/pixel_10a_specs?hl=en-GB"],
+      "query": "pixel 10a"
+    },
+    {
+      "slug": "redmi-note-15-pro-plus-wasserdicht",
+      "model": "Xiaomi REDMI Note 15 Pro+ 5G",
+      "brand": "Xiaomi",
+      "category": "phone",
+      "ip": "IP68",
+      "ipMeaning": "staubdicht und geschützt bei Untertauchen in stehendem Süßwasser bis 2 m Tiefe für bis zu 30 Minuten (laut deutscher Xiaomi-Produktseite, nach IEC 60529); auf der globalen Seite nennt Xiaomi zusätzlich IP66, IP69 und IP69K",
+      "answer": "Ja, weitgehend: Das REDMI Note 15 Pro+ 5G ist laut Xiaomi nach IP68 geschützt und hält im Labor 30 Minuten in 2 m tiefem Süßwasser aus. Xiaomi rät aber ausdrücklich von Strand und Pool ab. Flüssigkeitsschäden, die außerhalb der Testbedingungen entstehen, deckt die Xiaomi-Garantie laut Hersteller nicht ab.",
+      "dos": [
+        "Nach Kontakt mit Wasser abtrocknen und erst dann laden",
+        "Nach Stürzen oder Reparaturen nicht mehr auf den vollen Schutz verlassen",
+        "Am Wasser eine wasserdichte Tasche nutzen"
+      ],
+      "donts": [
+        "Nicht am Strand oder im Pool verwenden – davon rät Xiaomi ab",
+        "Nicht tiefer als 2 m oder länger als 30 Minuten untertauchen",
+        "Den Wasserschutz nicht selbst testen (Xiaomi-Empfehlung)"
+      ],
+      "source": ["Xiaomi Deutschland: REDMI Note 15 Pro+ 5G – Spezifikationen", "https://www.mi.com/de/product/redmi-note-15-pro-plus-5g/specs/"],
+      "source2": ["Xiaomi Global: REDMI Note 15 Pro+ 5G", "https://www.mi.com/global/product/redmi-note-15-pro-plus-5g/"],
+      "query": "redmi note 15 pro+"
+    },
+    {
+      "slug": "apple-watch-series-11-wasserdicht",
+      "model": "Apple Watch Series 11",
+      "brand": "Apple",
+      "category": "watch",
+      "ip": "WR 50 m + IP6X",
+      "ipMeaning": "wasserdicht bis 50 m nach ISO 22810:2010 (\"schwimmfest\") und staubdicht nach IP6X (laut Apple)",
+      "answer": "Ja, für Schwimmen geeignet: Die Apple Watch Series 11 ist nach ISO 22810:2010 bis 50 m wasserdicht und laut Apple für Aktivitäten im flachen Wasser wie Schwimmen im Pool oder Meer gedacht. Zum Tauchen, Wasserskifahren oder für andere Aktivitäten mit schnell strömendem Wasser ist sie nicht geeignet. Der Schutz ist laut Apple nicht dauerhaft und kann mit der Zeit nachlassen.",
+      "dos": [
+        "Zum Schwimmen im Pool oder Meer nutzen",
+        "Vor dem Schwimmen die Wassersperre aktivieren",
+        "Nach Salz- oder Chlorwasser mit klarem Süßwasser abspülen"
+      ],
+      "donts": [
+        "Nicht zum Tauchen (Scuba) verwenden",
+        "Nicht beim Wasserskifahren oder anderen Aktivitäten mit schnell strömendem Wasser tragen",
+        "Nicht für Aktivitäten tiefer als im flachen Wasser nutzen"
+      ],
+      "source": ["Apple Support: Apple Watch Series 11 – Technische Daten", "https://support.apple.com/en-us/125093"],
+      "query": "apple watch series 11"
+    },
+    {
+      "slug": "samsung-galaxy-watch8-wasserdicht",
+      "model": "Samsung Galaxy Watch8",
+      "brand": "Samsung",
+      "category": "watch",
+      "ip": "5ATM + IP68",
+      "ipMeaning": "wasserdicht nach 5ATM (Druck entsprechend 50 m Wassertiefe) und staub- und wassergeschützt nach IP68, zusätzlich MIL-STD-810H (laut Samsung)",
+      "answer": "Ja, für Schwimmen im flachen Wasser geeignet: Die Galaxy Watch8 hat laut Samsung 5ATM und IP68 sowie eine MIL-STD-810H-Zertifizierung. Zum Tauchen ist sie laut Samsung nicht gedacht, und hohen Wasserdruck solltest du vermeiden.",
+      "dos": [
+        "Nach Meerwasser mit klarem Süßwasser abspülen und trocknen (Samsung-Empfehlung)",
+        "Nach jedem Kontakt mit Wasser mit einem weichen Tuch gründlich abtrocknen",
+        "Vor dem Schwimmen die Wassersperre einschalten"
+      ],
+      "donts": [
+        "Nicht zum Gerätetauchen (Scuba) verwenden",
+        "Keinem Wasser mit hohem Druck aussetzen",
+        "Plötzliche starke Temperaturwechsel vermeiden"
+      ],
+      "source": ["Samsung Newsroom: Galaxy Watch8 Series – Ultra Comfort, From Sleep to Workout (09.07.2025)", "https://news.samsung.com/global/samsung-galaxy-watch8-series-ultra-comfort-from-sleep-to-workout"],
+      "source2": ["Samsung Support: Smart watch water resistance tips", "https://www.samsung.com/us/support/answer/ANS10002903/"],
+      "query": "galaxy watch8"
+    },
+    {
+      "slug": "airpods-pro-3-wasserdicht",
+      "model": "Apple AirPods Pro 3",
+      "brand": "Apple",
+      "category": "earbuds",
+      "ip": "IP57",
+      "ipMeaning": "staubgeschützt (5) und geschützt gegen zeitweiliges Untertauchen (7) nach IEC 60529 – gilt für Ohrhörer und Ladecase; laut Apple für Sport und Training ohne Wassersport",
+      "answer": "Teilweise: Die AirPods Pro 3 sind samt Ladecase nach IP57 staub-, schweiß- und wassergeschützt, also für Regen und schweißtreibendes Training gemacht. Wasserdicht sind sie laut Apple aber nicht: Schwimmen, Duschen und Sauna sind tabu. Der Schutz kann mit der Zeit nachlassen und lässt sich nicht erneut prüfen oder abdichten.",
+      "dos": [
+        "Beim Sport, Joggen im Regen und im Fitnessstudio nutzen",
+        "Wenn sie nass werden: mit weichem, trockenem, fusselfreiem Tuch abwischen",
+        "Mindestens zwei Stunden komplett trocknen lassen, bevor du sie nutzt oder ins Case legst"
+      ],
+      "donts": [
+        "Nicht zum Schwimmen oder Duschen tragen",
+        "Nicht in Sauna oder Dampfbad tragen",
+        "Nicht mit Hitze oder Druckluft trocknen und das Case nicht nass laden"
+      ],
+      "source": ["Apple Support: AirPods Pro 3 – Technische Daten", "https://support.apple.com/en-us/125135"],
+      "source2": ["Apple Support: Schweiß- und Wasserschutz von AirPods Pro, AirPods 3 und AirPods 4", "https://support.apple.com/en-us/105046"],
+      "query": "airpods pro 3"
+    }
+  ]
+}

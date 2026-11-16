@@ -1,0 +1,252 @@
+{
+  "updated": "2026-11-05",
+  "blackFriday": "2026-11-27",
+  "cyberMonday": "2026-11-30",
+  "cyberMondaySource": ["MediaMarkt: Black Friday 2026 (nennt offiziellen Black Friday 27.11.2026 und Cyber Monday 30.11.2026)", "https://www.mediamarkt.de/de/campaign/blackfriday"],
+  "shops": [
+    {
+      "key": "amazon",
+      "name": "Amazon",
+      "status": "erwartet",
+      "from": null,
+      "to": null,
+      "facts": [
+        "Die Black Friday Woche 2026 ist von Amazon noch nicht offiziell angekündigt (Stand 05.11.2026).",
+        "Laut einem Beitrag im Amazon Seller-Forum endet die Einreichungsfrist für Händler-Deals zur Black Friday Woche am 18. November – ein Hinweis darauf, dass die Aktion danach startet.",
+        "Im Vorjahr begann die Black Friday Woche gut eine Woche vor Black Friday und lief bis einschließlich Cyber Monday."
+      ],
+      "lastYear": "2025 lief die Black Friday Woche bei Amazon vom 20. November bis 1. Dezember 2025 (23:59 Uhr); Prime-Mitglieder bekamen u. a. schnelle kostenlose Lieferung (Quelle: Amazon Press Center).",
+      "tips": [
+        "Wunschprodukte vorab auf die Merkliste setzen und Preisverlauf prüfen – viele Black-Friday-Preise gab es schon vorher",
+        "Auf \"Verkauf und Versand durch Amazon\" achten, um Marktplatz-Risiken zu vermeiden",
+        "Prime-Probemonat erst kurz vor Start abschließen, wenn du nur für die Aktion Prime brauchst"
+      ],
+      "source": [
+        ["Amazon Press Center: Heute startet die Black Friday Woche 2025", "https://press.aboutamazon.com/de/amazon-prime/2025/11/heute-startet-die-black-friday-woche-2025-bis-zum-01-dezember-bis-zu-45-auf-ueber-eine-million-angebote-sparen"],
+        ["Amazon Seller Central Forum: Verkaufspeak 2026 – Fristen für Angebote und Werbeaktionen", "https://sellercentral.amazon.de/seller-forums/discussions/t/8805b3a2-c65b-4b0e-9bc9-c22ef13c2782"],
+        ["Stuttgarter Zeitung: Black Friday 2026 – Ab wann die Angebote bei Amazon und Co. starten (04.11.2026)", "https://www.stuttgarter-zeitung.de/panorama/black-friday-2026-ab-wann-die-angebote-und-rabatte-starten-79662650.html"]
+      ]
+    },
+    {
+      "key": "otto",
+      "name": "OTTO",
+      "status": "erwartet",
+      "from": null,
+      "to": null,
+      "facts": [
+        "Die Black-Friday-Aktion 2026 ist von OTTO noch nicht offiziell angekündigt (Stand 05.11.2026).",
+        "Termine, die im Netz kursieren (z. B. Black Week 23.–30. November), sind Schätzungen von Drittseiten und nicht von OTTO bestätigt."
+      ],
+      "lastYear": "2025 startete OTTO am 14. November mit einem Pre-Sale; die eigentliche Black-Friday-Aktion lief vom 18. November bis 2. Dezember 2025 mit über 40.000 Deals, Rücksendungen wurden bis 31. Januar 2026 kulant angenommen (Quelle: Händlerbund / OHN, 14.11.2025).",
+      "tips": [
+        "Ab Mitte November auf einen möglichen Pre-Sale achten – 2025 startete OTTO schon vor der eigentlichen Black Week",
+        "Preise mit MediaMarkt, Saturn und Amazon vergleichen, gerade bei TVs und Haushaltsgeräten",
+        "Bei Marktplatz-Angeboten auf den Verkäufer und dessen Rückgabebedingungen achten"
+      ],
+      "source": [
+        ["Händlerbund OHN: Otto bietet Black-Friday-Deals schon ab Mitte November (14.11.2025)", "https://ohn.haendlerbund.de/themen/marktplaetze/weihnachtsgeschaeft-otto-black-friday-deals-mitte-november"],
+        ["t3n: Amazon, Otto, Mediamarkt – Termine für den Black Friday 2025", "https://t3n.de/news/diese-termine-solltet-ihr-euch-fuer-den-black-friday-merken-1716149/"]
+      ]
+    },
+    {
+      "key": "mediamarkt",
+      "name": "MediaMarkt",
+      "status": "angekündigt",
+      "from": "2026-11-03",
+      "to": "2026-11-30",
+      "facts": [
+        "Die Black-Friday-Kampagne 2026 läuft laut MediaMarkt vom 3. November 2026, 9:00 Uhr, bis 30. November 2026, 8:59 Uhr.",
+        "Die Aktion läuft unter dem Motto \"Black Friday Deal Maxxing\" und startet in Phasen: Die erste Angebotsrunde gilt online bis 13.11.2026, 8:59 Uhr, und in den Märkten bis 12.11.",
+        "0-%-Finanzierung bis 10 Monate ab 100 € Finanzierungssumme – nur für myMediaMarkt-Kunden, Bonität vorausgesetzt.",
+        "Verlängertes Rückgaberecht: Käufe vom 27.10. bis 01.12.2026 können bis 31.12.2026 zurückgegeben werden (nicht bei Drittanbietern)."
+      ],
+      "lastYear": "2025 startete MediaMarkt bereits am 28. Oktober mit ersten Black Deals, die Black Week begann am 13. November und die Aktion lief bis Cyber Monday, 1. Dezember 2025, 23:59 Uhr (Quelle: hifi.de).",
+      "tips": [
+        "Kostenloses myMediaMarkt-Konto anlegen – Voraussetzung für 0-%-Finanzierung und Coupons",
+        "Auf \"Verkauf und Versand durch MediaMarkt\" achten, Marktplatz-Angebote sind teils ausgenommen",
+        "Die Angebote wechseln in Phasen – Enddatum jedes Deals auf der Produktseite prüfen"
+      ],
+      "source": [
+        ["MediaMarkt: Black Friday 2026", "https://www.mediamarkt.de/de/campaign/blackfriday"],
+        ["klamm.de: Black Friday 2026 bei MediaMarkt & Saturn – Deal Maxxing startet (03.11.2026)", "https://www.klamm.de/news/black-friday-2026-bei-mediamarkt-saturn-deal-maxxing-startet-mit-produktphase-1-34N1616592.html"],
+        ["hifi.de: Black Friday – Wie lange läuft die Aktion bei MediaMarkt, Amazon und Co.? (2025)", "https://hifi.de/news/black-friday-wie-lange-laeuft-die-grosse-aktion-bei-mediamarkt-amazon-und-co-163550"]
+      ]
+    },
+    {
+      "key": "saturn",
+      "name": "Saturn",
+      "status": "angekündigt",
+      "from": "2026-11-03",
+      "to": "2026-11-30",
+      "facts": [
+        "Die Black-Friday-Kampagne 2026 läuft laut Saturn vom 3. November 2026, 9:00 Uhr, bis 30. November 2026, 8:59 Uhr.",
+        "Name der Aktion: \"Black Friday Deal Maxxing bei SATURN\"; die erste Angebotsrunde gilt online bis 13.11.2026, 8:59 Uhr, und in den Märkten bis 12.11.",
+        "0-%-Finanzierung bis 10 Monate ab 100 € – nur für mySaturn-Kunden, Bonität vorausgesetzt; Coupons erfordern eine mySaturn-Mitgliedschaft.",
+        "Saturn und MediaMarkt haben 2026 dieselbe Kampagne mit gleichen Laufzeiten."
+      ],
+      "lastYear": "2025 lief die Aktion bei Saturn parallel zu MediaMarkt: erste Black Deals ab 28. Oktober, Black Week ab 13. November, verlängert bis 1. Dezember 2025, 23:59 Uhr (Quelle: hifi.de).",
+      "tips": [
+        "Kostenloses mySaturn-Konto anlegen – nötig für Coupons und 0-%-Finanzierung",
+        "Preise mit MediaMarkt vergleichen – oft identisch, aber Bestand und Abholung im Markt können sich unterscheiden",
+        "Pro Aktionsartikel gelten teils Mengenlimits (z. B. max. 2 Stück)"
+      ],
+      "source": [
+        ["Saturn: Black Friday 2026", "https://www.saturn.de/de/campaign/black-friday"],
+        ["klamm.de: Black Friday 2026 bei MediaMarkt & Saturn – Deal Maxxing startet (03.11.2026)", "https://www.klamm.de/news/black-friday-2026-bei-mediamarkt-saturn-deal-maxxing-startet-mit-produktphase-1-34N1616592.html"],
+        ["hifi.de: Black Friday – Wie lange läuft die Aktion bei MediaMarkt, Amazon und Co.? (2025)", "https://hifi.de/news/black-friday-wie-lange-laeuft-die-grosse-aktion-bei-mediamarkt-amazon-und-co-163550"]
+      ]
+    },
+    {
+      "key": "alternate",
+      "name": "Alternate",
+      "status": "angekündigt",
+      "from": "2026-11-06",
+      "to": "2026-11-30",
+      "facts": [
+        "Alternate veranstaltet 2026 den \"Black November\" vom 6. November, 9:00 Uhr, bis 30. November 2026, 23:59 Uhr.",
+        "Einzelne Deals können laut Alternate vor Ende der Aktion auslaufen; das Enddatum steht jeweils auf der Produktseite.",
+        "Ob Gutscheine mit reduzierter Ware kombinierbar sind, hängt von den jeweiligen Gutscheinbedingungen ab."
+      ],
+      "lastYear": "2025 lief der Black November bei Alternate bis 1. Dezember 2025; neue Kategorien kamen jeweils freitags hinzu, beginnend ab 7. November 2025 (Quelle: BlackFriday.de).",
+      "tips": [
+        "Freitags reinschauen – im Vorjahr kamen neue Kategorien immer freitags dazu",
+        "Bei PC-Komponenten Preisverlauf prüfen, bevor du zuschlägst",
+        "Gutscheinbedingungen lesen: Manche Codes schließen reduzierte Ware aus"
+      ],
+      "source": [
+        ["Alternate: Black November", "https://www.alternate.de/BlackNovember"],
+        ["BlackFriday.de: Alternate Black Friday", "https://www.blackfriday.de/alternate"]
+      ]
+    },
+    {
+      "key": "notebooksbilliger",
+      "name": "notebooksbilliger.de",
+      "status": "angekündigt",
+      "from": "2026-11-04",
+      "to": "2026-12-06",
+      "facts": [
+        "Die NBB Black Weeks 2026 laufen vom 4. November 2026, 0:00 Uhr, bis 6. Dezember 2026, 23:59 Uhr (laut übereinstimmenden Berichten zum Aktionsstart).",
+        "Beworben werden bis zu 70 % Rabatt – bezogen auf die UVP, nicht auf den bisherigen Marktpreis.",
+        "Es gibt täglich wechselnde, mengenbegrenzte Black Deals; manche Angebote erfordern einen Rabattcode im Checkout.",
+        "Teils gilt ein Kauflimit von einem Gerät pro teilnehmendem Notebook-Modell und Kunde."
+      ],
+      "lastYear": "2025 liefen die NBB Black Weeks vom 4. November bis 5. Dezember 2025, 23:59 Uhr (Quelle: katzeausdemsack.de, 04.11.2025).",
+      "tips": [
+        "Rabatte \"zur UVP\" mit dem aktuellen Straßenpreis im Preisvergleich abgleichen",
+        "Tagesdeals früh prüfen – sie sind mengenbegrenzt und können vorzeitig enden",
+        "Rabattcodes sind meist nur einmal pro Kunde einlösbar"
+      ],
+      "source": [
+        ["mobiflip: NBB startet Black Weeks – bis zu 70 Prozent Rabatt (04.11.2026)", "https://www.mobiflip.de/nbb-startet-black-weeks-bis-zu-70-prozent-rabatt-moeglich/"],
+        ["katzeausdemsack.de: NBB Black Weeks bis 06.12.2026 (04.11.2026)", "https://www.katzeausdemsack.de/2026/11/04/nbb-notebooksbilliger-de-black-weeks-bis-zu-70-rabatt-auf-notebooks-pcs-tablets-smartphones-ssds-smart-home-und-mehr-bis-06-12/"],
+        ["katzeausdemsack.de: NBB Black Weeks bis 05.12. (04.11.2025)", "https://www.katzeausdemsack.de/2025/11/04/nbb-notebooksbilliger-de-black-weeks-bis-zu-70-rabatt-auf-notebooks-pcs-tablets-smartphones-ssds-smart-home-und-mehr-bis-05-12/"]
+      ]
+    },
+    {
+      "key": "coolblue",
+      "name": "Coolblue",
+      "status": "angekündigt",
+      "from": "2026-11-02",
+      "to": "2026-11-30",
+      "facts": [
+        "Coolblue bietet laut eigener Black-Friday-Seite Angebote \"vom 2. bis 30. November 2026\".",
+        "Coolblue wirbt mit kostenloser Rückgabe sowie Lieferung am nächsten Tag bei Bestellung bis 23:59 Uhr."
+      ],
+      "lastYear": "2025 startete Coolblue etwa zwei Wochen vor Black Friday und ließ die Aktion bis 1. Dezember 2025 laufen (Quelle: hifi.de).",
+      "tips": [
+        "Coolblue liefert und installiert große Geräte nur in Teilen Deutschlands – vorher Liefergebiet prüfen",
+        "Preise mit MediaMarkt/Saturn vergleichen, gerade bei Fernsehern",
+        "Kostenlose Rückgabe nutzen, wenn ein Gerät nicht passt"
+      ],
+      "source": [
+        ["Coolblue: Black Friday 2026 Angebote für Fernseher", "https://www.coolblue.de/fernseher/black-friday"],
+        ["hifi.de: Black Friday – Wie lange läuft die Aktion bei MediaMarkt, Amazon und Co.? (2025)", "https://hifi.de/news/black-friday-wie-lange-laeuft-die-grosse-aktion-bei-mediamarkt-amazon-und-co-163550"]
+      ]
+    },
+    {
+      "key": "ebay",
+      "name": "eBay",
+      "status": "erwartet",
+      "from": null,
+      "to": null,
+      "facts": [
+        "Eine Black-Friday-Aktion 2026 ist von eBay noch nicht offiziell angekündigt (Stand 05.11.2026).",
+        "Termine auf Gutschein- und Black-Friday-Portalen sind Schätzungen und nicht von eBay bestätigt."
+      ],
+      "lastYear": "Für 2025 ließ sich kein offizieller Aktionszeitraum von eBay belegen. Im Vorfeld lief vom 24. bis 31. Oktober 2025 das Gewinnspiel \"Ab Back Friday verkaufen. Am Black Friday groß shoppen.\" für Privatverkäufer (Quelle: eBay-Teilnahmebedingungen).",
+      "tips": [
+        "Vor Black Friday Ungenutztes verkaufen und so das Budget aufstocken",
+        "Bei Neuware auf gewerbliche Händler mit Rückgaberecht achten",
+        "Gutscheincodes nur von eBay selbst nutzen – Codes auf Drittseiten sind oft abgelaufen"
+      ],
+      "source": [
+        ["eBay: Ab Back Friday verkaufen – Teilnahmebedingungen (2025)", "https://pages.ebay.de/gewinnspiel-ebay-gutschein/"],
+        ["eBay Inc.: Pre-Loved-Verkäufe finanzieren Black-Friday-Deals (05.11.2025)", "https://www.ebayinc.com/stories/press-room/de/ebay-studien-zeigen-pre-loved-verkaeufe-finanzieren-black-friday-deals-und-weihnachtswuensche/"]
+      ]
+    },
+    {
+      "key": "lidl",
+      "name": "Lidl",
+      "status": "erwartet",
+      "from": null,
+      "to": null,
+      "facts": [
+        "Die Black Week 2026 im Lidl-Onlineshop ist noch nicht offiziell angekündigt (Stand 05.11.2026).",
+        "Termine auf Black-Friday-Portalen (z. B. 23.–30. November) sind Schätzungen ohne Gewähr."
+      ],
+      "lastYear": "2025 lief die Lidl Black Week vom 23. November, 0:00 Uhr, bis 1. Dezember 2025, 23:59 Uhr – online und mit Angeboten in den Filialen; für Onlinebestellungen ab 100 € gab es einen 10-€-Coupon für den Filialeinkauf (Quelle: desired.de, netzwelt.de).",
+      "tips": [
+        "Lidl-Plus-App installieren – Coupons aus der Black Week wurden 2025 dort angezeigt",
+        "Versandkosten im Onlineshop einrechnen",
+        "Filialangebote gibt es oft nur solange der Vorrat reicht – früh hingehen"
+      ],
+      "source": [
+        ["desired.de: Große Auswahl, kleine Preise bei der Lidl Black Week (24.11.2025)", "https://www.desired.de/shopping-tipps/grosse-auswahl-kleine-preise-bei-der-lidl-black-week--01KAKFRP3A7H10T1G09VAAWHWG"],
+        ["netzwelt.de: Black Friday bei Lidl (23.11.2025)", "https://www.netzwelt.de/schnaeppchen/lidl-black-friday.html"]
+      ]
+    },
+    {
+      "key": "ikea",
+      "name": "IKEA",
+      "status": "angekündigt",
+      "from": "2026-11-01",
+      "to": "2026-11-30",
+      "facts": [
+        "IKEA macht keinen klassischen Black Friday, sondern feiert ihn laut eigener Seite mit dem \"IKEA Family Freuvember\" – Mitgliedsangebote den ganzen November 2026.",
+        "Die Angebote gelten für IKEA Family Mitglieder, z. B. \"Spare 10 € je 100 € Warenwert bei PAX Kleiderschränken\"; die Mitgliedschaft ist kostenlos.",
+        "Einzelne Aktionen wie das Kindermenü sind bis 30.11.2026 befristet."
+      ],
+      "lastYear": "2025 lief der Freuvember vom 1. bis 30. November; zusätzlich kaufte IKEA beim \"Buyback Friday\" vom 21. November bis 6. Dezember 2025 gebrauchte Möbel mit 20 % höherem Rückkaufpreis an (Quelle: GIGA, 27.11.2025).",
+      "tips": [
+        "Vor dem Einkauf kostenlos IKEA Family Mitglied werden – sonst gibt es die Freuvember-Preise nicht",
+        "Teilnahmebedingungen der einzelnen Angebote lesen, Versand und Services zählen oft nicht zum Warenwert",
+        "Auf einen möglichen Buyback Friday achten, um alte Möbel gegen Guthaben zurückzugeben"
+      ],
+      "source": [
+        ["IKEA Deutschland: IKEA Family Freuvember – Mitgliedsangebote", "https://www.ikea.com/de/de/campaigns/freuvember-pub392a4930/"],
+        ["GIGA: Black Friday 2025 bei Ikea – Das Möbelhaus setzt auf Nachhaltigkeit", "https://www.giga.de/sparen/black-friday-bei-ikea-nimmt-das-moebelhaus-2025-daran-teil--01KA8CSX04J0AZ65H3GYPKS243"]
+      ]
+    },
+    {
+      "key": "apple",
+      "name": "Apple",
+      "status": "erwartet",
+      "from": null,
+      "to": null,
+      "facts": [
+        "Ein Shopping Event 2026 ist von Apple noch nicht offiziell angekündigt (Stand 05.11.2026).",
+        "Apple senkt zum Black Friday traditionell keine Preise, sondern gibt beim Kauf ausgewählter Produkte eine Apple Geschenkkarte dazu."
+      ],
+      "lastYear": "2025 lief das Apple Shopping Event in Deutschland vom 28. November bis 1. Dezember 2025 im Apple Store, Online Store und in der Apple Store App; je nach Produkt gab es Geschenkkarten von 20 bis 200 €, die iPhone-17-Modelle und das iPhone Air waren ausgenommen (Quelle: mobiflip, drohnen.de).",
+      "tips": [
+        "Händlerpreise (Amazon, MediaMarkt, Saturn) mit Apple-Preis minus Geschenkkarte vergleichen – Händler sind oft günstiger",
+        "Die Geschenkkarte ist nur bei Apple einlösbar – lohnt sich nur, wenn du ohnehin bei Apple kaufst",
+        "Ältere Modelle gibt es bei Händlern zum Black Friday meist mit echten Preisnachlässen"
+      ],
+      "source": [
+        ["mobiflip: Apple startet Black Friday Shopping Event in Deutschland (21.11.2025)", "https://www.mobiflip.de/apple-bestaetigt-black-friday-shopping-event-fuer-deutschland/"],
+        ["drohnen.de: Apple Black Friday 2026 (26.10.2026)", "https://www.drohnen.de/94319/apple-black-friday-2026/"]
+      ]
+    }
+  ]
+}

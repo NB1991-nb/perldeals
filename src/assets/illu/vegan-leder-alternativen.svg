@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Leder-Alternativen im Vergleich: Kunstleder, Textil, Kork, Pflanzenleder</title>
+  <defs>
+    <pattern id="tex" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 5 H10 M5 0 V10" stroke="#FFFFFF" stroke-width="1.5" opacity="0.6"/></pattern>
+    <pattern id="kork" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2" fill="#8A6A3B"/><circle cx="11" cy="10" r="1.6" fill="#8A6A3B"/></pattern>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Leder-Alternativen im Vergleich</text>
+
+  <!-- Karte 1: Kunstleder -->
+  <rect x="30" y="80" width="360" height="164" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="48" y="98" width="64" height="64" rx="12" fill="#0E1C1B"/>
+  <path d="M58 116 q22 -10 44 0" stroke="#55645F" stroke-width="3" fill="none"/>
+  <text x="128" y="124" font-size="22" font-weight="800" fill="#0E1C1B">Kunstleder</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="128" y="158"><tspan fill="#2E9E5B" font-weight="800">+</tspan> pflegeleicht, günstig</text>
+    <text x="128" y="188"><tspan fill="#E5484D" font-weight="800">–</tspan> meist erdölbasiert</text>
+    <text x="128" y="218"><tspan fill="#E5484D" font-weight="800">–</tspan> oft kürzer haltbar</text>
+  </g>
+
+  <!-- Karte 2: Textil -->
+  <rect x="410" y="80" width="360" height="164" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="428" y="98" width="64" height="64" rx="12" fill="#0B776B"/>
+  <rect x="428" y="98" width="64" height="64" rx="12" fill="url(#tex)"/>
+  <text x="508" y="124" font-size="22" font-weight="800" fill="#0E1C1B">Textil</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="508" y="158"><tspan fill="#2E9E5B" font-weight="800">+</tspan> atmungsaktiv, leicht</text>
+    <text x="508" y="188"><tspan fill="#2E9E5B" font-weight="800">+</tspan> oft lederfrei</text>
+    <text x="508" y="218"><tspan fill="#E5484D" font-weight="800">–</tspan> Futter, Patches prüfen</text>
+  </g>
+
+  <!-- Karte 3: Kork -->
+  <rect x="30" y="262" width="360" height="164" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="48" y="280" width="64" height="64" rx="12" fill="#C9A26B"/>
+  <rect x="48" y="280" width="64" height="64" rx="12" fill="url(#kork)"/>
+  <text x="128" y="306" font-size="22" font-weight="800" fill="#0E1C1B">Kork</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="128" y="340"><tspan fill="#2E9E5B" font-weight="800">+</tspan> nachwachsend</text>
+    <text x="128" y="370"><tspan fill="#2E9E5B" font-weight="800">+</tspan> leicht, wasserfest</text>
+    <text x="128" y="400"><tspan fill="#E5484D" font-weight="800">–</tspan> mag keine Dauernässe</text>
+  </g>
+
+  <!-- Karte 4: Pflanzenleder -->
+  <rect x="410" y="262" width="360" height="164" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="428" y="280" width="64" height="64" rx="12" fill="#2E9E5B"/>
+  <path d="M446 330 c0 -22 14 -34 32 -36 c-2 20 -14 34 -32 36 z M446 330 l18 -18" fill="#D6EDE8" stroke="#D6EDE8" stroke-width="2"/>
+  <text x="508" y="306" font-size="22" font-weight="800" fill="#0E1C1B">Pflanzenleder</text>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="508" y="340"><tspan fill="#2E9E5B" font-weight="800">+</tspan> aus Pflanzenresten</text>
+    <text x="508" y="370"><tspan fill="#E5484D" font-weight="800">–</tspan> oft mit Kunststoff</text>
+    <text x="508" y="400"><tspan fill="#E5484D" font-weight="800">–</tspan> Anteile erfragen</text>
+  </g>
+
+  <text x="400" y="458" font-size="18" fill="#55645F" text-anchor="middle">Vegan heißt nicht automatisch nachhaltig: Haltbarkeit zählt mit.</text>
+</svg>

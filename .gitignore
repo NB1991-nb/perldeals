@@ -1,0 +1,19 @@
+node_modules/
+dist/
+src/data/amazon-cache.json
+src/data/amazon-status.json
+src/assets/products/
+src/data/price-history.json
+src/data/amazon-candidates.json
+src/assets/og/deal/
+
+src/data/awin-candidates.json
+src/data/awin-history.json
+src/data/auto-deals.json
+src/data/auto-archive.json
+
+# Interne Notizen (privat in Dropbox: 017_Onlineshops/perldeals-intern)
+ops/
+*.zip
+*.bundle
+.env

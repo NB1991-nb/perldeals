@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Set aus Versandkartons in drei Größen</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M30 120 L50 108.0 H122 L102 120 Z" fill="#D9BC82" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M102 120 L122 108.0 V178.0 L102 190 Z" fill="#CFAE6E" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="30" y="120" width="72" height="70" fill="#E7CC94" stroke="#B8955A" stroke-width="2"/>
+  <path d="M60.0 120 L80.0 108.0 H92.0 L72.0 120 Z" fill="#F6C343"/>
+  <rect x="60.0" y="120" width="12" height="21.0" fill="#F6C343"/>
+  <path d="M112 140 L128 130.4 H180 L164 140 Z" fill="#D9BC82" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M164 140 L180 130.4 V180.4 L164 190 Z" fill="#CFAE6E" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="112" y="140" width="52" height="50" fill="#E7CC94" stroke="#B8955A" stroke-width="2"/>
+  <path d="M132.0 140 L148.0 130.4 H160.0 L144.0 140 Z" fill="#F6C343"/>
+  <rect x="132.0" y="140" width="12" height="15.0" fill="#F6C343"/>
+  <path d="M172 158 L184 150.8 H218 L206 158 Z" fill="#D9BC82" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M206 158 L218 150.8 V182.8 L206 190 Z" fill="#CFAE6E" stroke="#B8955A" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="172" y="158" width="34" height="32" fill="#E7CC94" stroke="#B8955A" stroke-width="2"/>
+  <path d="M183.0 158 L195.0 150.8 H207.0 L195.0 158 Z" fill="#F6C343"/>
+  <rect x="183.0" y="158" width="12" height="9.6" fill="#F6C343"/>
+</svg>

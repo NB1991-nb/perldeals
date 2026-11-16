@@ -1,0 +1,106 @@
+{
+ "fake-rabatte-erkennen": {
+  "enSlug": "spot-fake-discounts",
+  "title": "How to Spot Fake Discounts: Check Whether a Deal Is Real",
+  "desc": "Strikethrough prices, RRP and inflated prices: how to spot fake discounts in online shops and find out whether a deal is really cheap.",
+  "lead": "70 percent off sounds great but tells you little. Many discounts are based on prices nobody ever paid. Four simple checks show you whether a deal is actually good.",
+  "sections": [
+   ["How to recognise fake discounts", ["A discount is only as honest as the price it is compared with. Shops like to compare with the manufacturer's RRP (UVP in German), but retail prices are often well below it for months. The discount then looks huge even though the price is normal.", "Typical warning signs are very high percentages on no-name products, a countdown that restarts once it runs out, and strikethrough prices you can't find anywhere else."]],
+   ["1. Check the price history", ["The most important step: look at what the product has cost over the past few weeks. Every deal page on perldeals shows a price history that we record ourselves. If the current price is only slightly below the usual price, the deal is weak, no matter how big the percentage is."]],
+   ["2. Compare with other shops", ["A deal is only good if other retailers aren't selling it for the same or less. Always compare the final price including shipping."]],
+   ["3. Look for the 30-day lowest price", ["Since May 2022, retailers in Germany must state the lowest price of the last 30 days when they advertise a price reduction (§ 11 Preisangabenverordnung, the German Price Indication Ordinance). If this price is shown, it is a more honest comparison than the RRP."]],
+   ["4. Check the model and variant", ["Sometimes the offer is for an older model, a stripped-down variant or a refurbished device. Check the model number, storage size and condition before you buy."]],
+   ["How perldeals checks deals", ["We only list deals whose price we have checked against the price history and other shops. Deals with an obviously artificial strikethrough price are left out. We name the comparison price on every deal page."]]
+  ],
+  "faq": [["Is the RRP a good comparison price?", "Only to a limited extent. The RRP is a non-binding recommendation from the manufacturer. Many products sell well below it shortly after launch. The price history is more meaningful."], ["What is an inflated starting price?", "An inflated starting price (called a Mondpreis, literally a \"moon price\", in German) is an artificially high original price that only serves to make a later discount look bigger."]]
+ },
+ "amazon-preisverlauf-anzeigen": {
+  "enSlug": "amazon-price-history",
+  "title": "How to See Amazon Price History and Tell Whether a Price Is Good",
+  "desc": "Amazon doesn't show a full price history. Here's how to find out how a price has developed anyway and spot genuine Amazon deals.",
+  "lead": "Amazon often changes prices several times a day, and Amazon itself doesn't show a full price history. These options still let you see whether a deal is good.",
+  "sections": [
+   ["What Amazon itself shows", ["For some offers, Amazon gives a comparison price, such as the lowest price of the last 30 days or the RRP. But you won't see a history spanning several months there."]],
+   ["Price history on perldeals", ["For every product in our deals, we record the price ourselves and show it as a history on the deal page. That way you can see at a glance whether the current price is a low or just average."]],
+   ["Browser extensions and price comparison", ["Specialised price trackers record Amazon prices over long periods and display charts directly on the product page. Price comparison sites also show what other shops are charging."]],
+   ["Set a price alert instead of checking constantly", ["Instead of checking every day, set a price alert. On every perldeals deal page you can use \"Tell me when it gets cheaper\" to get an email as soon as the price drops."]]
+  ],
+  "faq": [["Why does Amazon change its prices so often?", "Amazon automatically adjusts prices to demand, stock levels and other retailers' prices. That's why it pays to look at the history."], ["When is Amazon cheapest?", "Often around Prime Day, Black Friday and Cyber Week. But many products are also reduced outside these days."]]
+ },
+ "preisalarm-einrichten": {
+  "enSlug": "set-up-price-alert",
+  "title": "Set Up a Price Alert: Get Notified When the Price Drops",
+  "desc": "How to set up a free price alert and get an email as soon as the product you want gets cheaper. For single products and whole categories.",
+  "lead": "A price alert saves time and money: you decide what you want and get notified as soon as it gets cheaper. On perldeals it's free.",
+  "sections": [
+   ["Price alert for a product", ["Open the product's deal page and use the \"Tell me when it gets cheaper\" box. Enter your email address and confirm it via the link in the confirmation email. As soon as the price drops, we'll email you."]],
+   ["Subscribe to whole categories", ["On every category page you can subscribe to new deals in that category, for example TVs or vegan. You'll then get an email instantly or once a day, which you can set in your account."]],
+   ["Even faster: WhatsApp and Telegram", ["We also post the best new deals in our WhatsApp channel and on Telegram. You're in within seconds, no email needed."]],
+   ["Privacy", ["We only use your email address for the notifications. Every email contains an unsubscribe link."]]
+  ],
+  "faq": [["Does the price alert cost anything?", "No, the perldeals price alert is free."], ["Can I set several price alerts?", "Yes, you can subscribe to as many products and categories as you like and manage them in your account."]]
+ },
+ "preisfehler": {
+  "enSlug": "pricing-errors",
+  "title": "Pricing Errors in Online Shops: Does the Retailer Have to Deliver?",
+  "desc": "A TV for 9 euros? What the law says about pricing errors, when a purchase contract is formed and whether it's worth placing an order.",
+  "lead": "Every now and then a product appears at an obviously wrong price. Whether you get it at that price depends mainly on when the purchase contract is formed.",
+  "sections": [
+   ["When is the purchase contract formed?", ["At many shops, the order confirmation email is only an acknowledgement of receipt. According to the terms and conditions (AGB) of many retailers, the contract is only formed with the shipping confirmation or delivery. Until then, the shop can usually cancel the order."]],
+   ["What if the contract already exists?", ["Even then, a retailer may in some circumstances be able to contest the contract on grounds of mistake, for example if a typo in the price is obvious. Whether this is effective in an individual case depends on the circumstances."]],
+   ["Is it worth ordering?", ["It generally does no harm to order if you're interested anyway. But expect the shop to cancel. Don't pay in advance (prepayment) to unknown retailers: extremely low prices are also a typical sign of fake shops."]],
+   ["How to spot fake shops", ["Check the legal notice (Impressum), reviews on independent sites and the payment methods. If secure payment options such as PayPal with buyer protection or buying on invoice are missing, be careful."]]
+  ],
+  "faq": [["Does a shop have to honour a pricing error?", "Not necessarily. The contract is often only formed when the item ships, and until then the shop can cancel. This is not legal advice."], ["Is an extremely low price a sign of a fake shop?", "Not always, but often. Check the legal notice, reviews and payment methods before you pay."]]
+ },
+ "uvp-bedeutung": {
+  "enSlug": "rrp-meaning",
+  "title": "UVP: What the Recommended Retail Price Means",
+  "desc": "What is the UVP (RRP), why are real prices often lower, and why isn't a discount on the RRP always a bargain? Simply explained.",
+  "lead": "UVP stands for unverbindliche Preisempfehlung, the non-binding recommended retail price (RRP). The manufacturer uses it to suggest a selling price, but retailers are free to deviate from it.",
+  "sections": [
+   ["What the RRP is", ["The RRP is a guideline from the manufacturer. Retailers don't have to stick to it and may sell both below and above it."]],
+   ["Why the market price is often lower", ["Many products, especially tech, are offered well below the RRP shortly after launch. A discount on the RRP therefore says little about whether the price is really good."]],
+   ["RRP or strikethrough price?", ["The strikethrough price is a retailer's previous price. Since 2022, retailers in Germany must state the lowest price of the last 30 days for price reductions. On perldeals you can also see the price history, which is the best benchmark."]]
+  ],
+  "faq": [["Can a retailer sell above the RRP?", "Yes. The RRP is non-binding; retailers set their own prices."], ["What does \"instead of RRP\" mean on perldeals?", "We always state which comparison price a discount refers to, i.e. the RRP or the shop's strikethrough price, and show the price history."]]
+ },
+ "widerrufsrecht-online-kauf": {
+  "enSlug": "right-of-withdrawal-online",
+  "title": "Right of Withdrawal for Online Purchases: 14-Day Returns Explained",
+  "desc": "How long you can return online purchases, who pays for the return and what exceptions apply. Withdrawal and statutory warranty simply explained.",
+  "lead": "If you buy online, you can usually return the goods within 14 days without giving a reason. That applies to bargains too.",
+  "sections": [
+   ["14 days from receipt of the goods", ["The statutory right of withdrawal (Widerrufsrecht) applies to consumers buying online from commercial retailers. The 14-day period usually starts when you receive the goods. Many shops voluntarily give more time, especially during the Christmas season."]],
+   ["Who pays for the return?", ["The retailer may charge the return shipping costs to the customer if it informed you of this beforehand. Many large shops cover the costs anyway. The retailer must refund the purchase price within 14 days of the withdrawal, but may wait until the goods are back or you provide proof of shipping."]],
+   ["Exceptions", ["There is no right of withdrawal for, among other things, custom-made goods, perishable food, and sealed hygiene products and software if the seal has been broken. The right of withdrawal does not apply to purchases from private individuals, for example on eBay."]],
+   ["Statutory warranty is something else", ["If the goods are defective, you have a two-year statutory warranty (Gewährleistung) against the retailer, regardless of the right of withdrawal. If a defect appears in the first year, it is presumed to have existed at the time of purchase."]]
+  ],
+  "faq": [["Does the right of withdrawal also apply to reduced goods?", "Yes. A discount doesn't change the right of withdrawal."], ["Does the right of withdrawal apply on eBay?", "Only for commercial sellers. There is no statutory right of withdrawal for private sales. This is not legal advice."]]
+ },
+ "generalueberholt-kaufen": {
+  "enSlug": "buying-refurbished",
+  "title": "Buying Refurbished: Is Refurbished Tech Worth It?",
+  "desc": "What refurbished means, how much you save, what warranty applies and what to look for with refurbished smartphones, laptops and vacuums.",
+  "lead": "Refurbished (in German: generalüberholt) devices are tested used or returned products that are sold again. They are often much cheaper than new goods.",
+  "sections": [
+   ["What refurbished means", ["A refurbished device has been tested, cleaned and repaired if necessary. Retailers usually describe the condition in grades such as \"like new\", \"very good\" or \"good\"."]],
+   ["Warranty", ["For used goods, a commercial retailer may shorten the statutory warranty to one year if this has been clearly agreed beforehand. Some manufacturers and retailers also offer their own guarantee."]],
+   ["What to look out for", ["Check the battery condition on smartphones and laptops, what's included (charger, accessories) and whether the seller is a business. Manufacturers' own refurbished programmes often offer the best quality."]],
+   ["Refurbished on perldeals", ["We label refurbished offers in the title, so you won't confuse them with new goods."]]
+  ],
+  "faq": [["Is refurbished the same as used?", "Almost: refurbished devices are used, but they have been tested and reconditioned."], ["Is a refurbished smartphone worth it?", "Often yes, especially for the previous year's flagship models. Pay attention to battery condition and software update support."]]
+ },
+ "gutscheincode-einloesen": {
+  "enSlug": "redeem-voucher-code",
+  "title": "Redeeming Voucher Codes: Why They Don't Work and What Helps",
+  "desc": "Voucher code not accepted? The most common reasons and tips for redeeming discount codes in online shops correctly.",
+  "lead": "You have a discount code, but the shop rejects it? Usually it's down to a condition in the small print.",
+  "sections": [
+   ["The most common reasons", ["Minimum order value not reached, code expired, new customers only, only valid for certain products or brands, or can't be combined with other discounts."]],
+   ["Enter it correctly", ["Pay attention to upper and lower case and copy the code without spaces. Some shops have separate fields for vouchers and discount codes."]],
+   ["Where to find verified codes", ["Our discounts page only lists codes and promotions we have checked, with conditions and end date. Expired codes are hidden automatically."]]
+  ],
+  "faq": [["Can I combine several voucher codes?", "Usually not. Most shops allow one code per order."], ["Does a voucher also apply to reduced goods?", "That depends on the shop and is stated in the code's conditions."]]
+ }
+}

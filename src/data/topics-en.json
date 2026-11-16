@@ -1,0 +1,959 @@
+{
+ "saugroboter": {
+  "kw": "robot vacuum",
+  "h": "Robot Vacuum Deals",
+  "intro": "Robot vacuums are among the products with the biggest price swings: last year's models often drop noticeably in price as soon as the successor launches. Here you'll find all currently checked robot vacuum deals in Germany from Roborock, Dreame, eufy, iRobot and Ecovacs.",
+  "tips": [
+   "Navigation: LiDAR laser or camera navigation maps rooms neatly; cheap models without a laser move around chaotically.",
+   "A self-emptying station is worth it if you don't want to touch the robot for weeks. A mop-washing station (Omni/Ultra) adds comfort, but costs more.",
+   "Suction power in pascals (Pa) is only a rough guide. Brush type (rubber against hair) and carpet detection matter more."
+  ],
+  "title": "Robot Vacuum Deals in Germany: Checked Prices"
+ },
+ "saug-wischroboter": {
+  "kw": "robot vacuum and mop",
+  "h": "Robot Vacuum and Mop Deals",
+  "intro": "Robot vacuum and mop combos handle both jobs in one pass. The best models lift the mop on carpet and wash it themselves in the station. Here are all current deals with price history.",
+  "tips": [
+   "Mop lifting or a removable mop keeps your carpets dry.",
+   "Stations with hot-water washing or hot-air drying help prevent odours.",
+   "Check the price of spare parts (bags, mops, filters): they determine the running costs."
+  ],
+  "title": "Robot Vacuum and Mop Deals in Germany"
+ },
+ "akku-staubsauger": {
+  "kw": "cordless vacuum",
+  "h": "Cordless Vacuum Deals",
+  "intro": "Cordless vacuums from Dyson, Shark, AEG and Philips are regularly heavily discounted, especially older generations. We only show deals whose price we've checked against the price history.",
+  "tips": [
+   "The stated runtime usually applies to the lowest setting; expect about a third of that in turbo mode.",
+   "A swappable battery is a big advantage in larger flats.",
+   "For pet hair: choose an anti-tangle brush and good filtration (HEPA)."
+  ],
+  "title": "Cordless Vacuum Deals in Germany: Checked Prices"
+ },
+ "nass-trocken-sauger": {
+  "kw": "wet and dry vacuum",
+  "h": "Wet and Dry Vacuum and Floor Washer Deals",
+  "intro": "Wet and dry floor cleaners vacuum and mop hard floors in one go and also pick up liquids. Here you'll find current deals from Roborock, Dyson, Shark and others.",
+  "tips": [
+   "Self-cleaning and roller drying prevent odours.",
+   "Two tanks (clean and dirty water) are standard; bigger means less refilling, but more weight.",
+   "Wet and dry vacuums aren't suitable for carpets, so you'll also need a regular vacuum."
+  ],
+  "title": "Wet and Dry Vacuum Deals in Germany"
+ },
+ "waschtrockner": {
+  "kw": "washer dryer",
+  "h": "Washer Dryer Deals",
+  "intro": "A washer dryer saves space when there's no room for a separate washing machine and dryer. Here are all checked washer dryer deals from Bosch, LG and other brands.",
+  "tips": [
+   "The drying capacity is usually only just over half the washing capacity.",
+   "Heat pump models use far less energy for drying than condenser units.",
+   "Look at the energy efficiency for washing and drying separately."
+  ],
+  "title": "Washer Dryer Deals in Germany: Checked Prices"
+ },
+ "waermepumpentrockner": {
+  "kw": "heat pump dryer",
+  "h": "Heat Pump Dryer Deals",
+  "intro": "Heat pump dryers cost more to buy, but use only a fraction of the electricity of vented dryers. Here are the best current deals with price history.",
+  "tips": [
+   "An A+++ energy rating often saves more over the years than the extra purchase cost.",
+   "A self-cleaning condenser saves you tedious filter cleaning.",
+   "For families: 8 to 9 kg capacity."
+  ],
+  "title": "Heat Pump Dryer Deals in Germany: Checked Prices"
+ },
+ "kuehlschrank": {
+  "kw": "fridge",
+  "h": "Fridge and Freezer Deals",
+  "intro": "Fridge freezers, side-by-side fridges and freezers are among the large appliances with the biggest savings in euros. We check every deal against the price history.",
+  "tips": [
+   "NoFrost saves you defrosting, but uses a bit more electricity.",
+   "Look at the energy class and annual consumption in kWh, not just the purchase price.",
+   "Check dimensions and door hinge side before buying, especially for built-in units."
+  ],
+  "title": "Fridge and Freezer Deals in Germany: Checked Prices"
+ },
+ "geschirrspueler": {
+  "kw": "dishwasher",
+  "h": "Dishwasher Deals",
+  "intro": "Dishwashers from Bosch, Bauknecht and others are often available well below RRP. Here you'll find freestanding, under-counter and built-in models at checked prices.",
+  "tips": [
+   "Decide on the type first: freestanding, under-counter, semi- or fully integrated.",
+   "A noise level below 44 dB is pleasant for open-plan kitchens.",
+   "A cutlery drawer (third rack) frees up space in the lower basket."
+  ],
+  "title": "Dishwasher Deals in Germany: Checked Prices"
+ },
+ "kochfeld": {
+  "kw": "induction hob",
+  "h": "Hob Deals: Induction and Ceramic",
+  "intro": "Induction hobs cook faster and more efficiently than ceramic ones. Here are all current hob deals, checked against the price history.",
+  "tips": [
+   "Induction needs magnetic pans; test your cookware with a magnet.",
+   "Flex zones accommodate large roasters and griddle plates.",
+   "The width (60 or 80 cm) must match the cut-out in your worktop."
+  ],
+  "title": "Induction Hob Deals in Germany: Checked Prices"
+ },
+ "backofen": {
+  "kw": "oven",
+  "h": "Oven and Cooker Deals",
+  "intro": "Built-in ovens, oven and hob sets and combination microwaves on sale. We only show deals with a genuine price advantage.",
+  "tips": [
+   "Pyrolytic self-cleaning saves a lot of scrubbing, but costs extra.",
+   "Telescopic runners make handling heavy trays safer.",
+   "Oven and hob sets are worth it if you're replacing both at once."
+  ],
+  "title": "Oven and Cooker Deals in Germany: Checked Prices"
+ },
+ "dunstabzugshaube": {
+  "kw": "cooker hood",
+  "h": "Cooker Hood Deals",
+  "intro": "Cooker hoods come as wall-mounted, island and slimline models. Here are the current deals with price history.",
+  "tips": [
+   "Recirculation doesn't need a hole in the wall, but requires new charcoal filters regularly.",
+   "The hood should be at least as wide as the hob.",
+   "Compare noise levels at the normal setting, not just the lowest."
+  ],
+  "title": "Cooker Hood Deals in Germany: Checked Prices"
+ },
+ "heissluftfritteuse": {
+  "kw": "air fryer",
+  "h": "Air Fryer Deals",
+  "intro": "Air fryers from Ninja, Philips and others are among the most popular kitchen appliances. We only show air fryer deals that are genuinely cheaper than usual.",
+  "tips": [
+   "Two drawers (Dual Zone) cook a side and a main dish at the same time.",
+   "For 1 to 2 people, 4 to 5 litres is enough; families need 8 litres or more.",
+   "Dishwasher-safe baskets save time on cleaning."
+  ],
+  "title": "Air Fryer Deals in Germany: Checked Prices"
+ },
+ "kaffeevollautomat": {
+  "kw": "bean-to-cup coffee machine",
+  "h": "Bean-to-Cup Coffee Machine Deals",
+  "intro": "Bean-to-cup coffee machines from De'Longhi, Philips, Siemens and others regularly drop well below their list price. Here are all checked deals.",
+  "tips": [
+   "An automatic milk system (LatteCrema, LatteGo) is more convenient than a steam wand.",
+   "A removable brew group is easier to keep clean.",
+   "Ceramic or steel grinder: both are good, adjustability matters more."
+  ],
+  "title": "Bean-to-Cup Coffee Machine Deals in Germany"
+ },
+ "kaffeemaschine": {
+  "kw": "coffee machine",
+  "h": "Coffee Machine Deals: Espresso, Capsule & More",
+  "intro": "Espresso machines, capsule machines, milk frothers and coffee beans on sale. Bean-to-cup machines have their own page.",
+  "tips": [
+   "Capsule machines are cheap to buy, but the capsules are expensive per cup.",
+   "Espresso machines with a built-in grinder are the cheapest way into real espresso.",
+   "Coffee beans in large packs are often much cheaper per kilo."
+  ],
+  "title": "Coffee Machine Deals in Germany: Espresso & Capsule"
+ },
+ "pizzaofen": {
+  "kw": "pizza oven",
+  "h": "Pizza Oven Deals",
+  "intro": "Electric and outdoor pizza ovens on sale. Real Neapolitan pizza needs over 400 degrees, which only dedicated ovens can reach.",
+  "tips": [
+   "Electric pizza ovens work on a balcony and don't need gas.",
+   "The maximum temperature determines whether you get a crispy base in 2 to 3 minutes.",
+   "A pizza stone or firebrick stone stores the heat."
+  ],
+  "title": "Pizza Oven Deals in Germany: Checked Prices"
+ },
+ "kuechenmaschine": {
+  "kw": "stand mixer",
+  "h": "Stand Mixer and Kitchen Gadget Deals",
+  "intro": "Stand mixers, sparkling water makers and handy kitchen gadgets with checked discounts.",
+  "tips": [
+   "For stand mixers, motor power matters for heavy doughs.",
+   "Buying accessories (meat grinder, vegetable slicer) separately is often expensive, so bundles are worth it.",
+   "Sparkling water makers: check the CO₂ system (Quick-Connect or screw-in cylinder)."
+  ],
+  "title": "Stand Mixer and Kitchen Gadget Deals in Germany"
+ },
+ "rasierer": {
+  "kw": "electric shaver",
+  "h": "Electric Shaver and Beard Trimmer Deals",
+  "intro": "Electric shavers and beard trimmers from Braun and Philips on sale, checked against the price history.",
+  "tips": [
+   "A cleaning station saves time, but adds ongoing costs for cartridges.",
+   "Foil shavers are more thorough, rotary shavers adapt better to contours.",
+   "Waterproof models can be used in the shower."
+  ],
+  "title": "Electric Shaver Deals in Germany: Checked Prices"
+ },
+ "elektrische-zahnbuerste": {
+  "kw": "electric toothbrush",
+  "h": "Electric Toothbrush Deals",
+  "intro": "Electric toothbrushes and replacement heads from Oral-B and Philips on sale. Expensive top models are often reduced by more than half.",
+  "tips": [
+   "Pressure control protects your gums.",
+   "Replacement heads make up the largest share of the cost over the years.",
+   "An app and Bluetooth are nice, but not needed for clean teeth."
+  ],
+  "title": "Electric Toothbrush Deals in Germany: Checked Prices"
+ },
+ "haarstyler": {
+  "kw": "hair styler",
+  "h": "Hair Dryer and Hair Styler Deals",
+  "intro": "Hair dryers, multi-stylers such as the Shark FlexStyle and beauty tech on sale.",
+  "tips": [
+   "Multi-stylers replace a hair dryer, straightener and curling iron.",
+   "Several heat settings and a cool shot are gentler on hair.",
+   "Refurbished devices are much cheaper, but often have a shorter warranty."
+  ],
+  "title": "Hair Dryer and Hair Styler Deals in Germany"
+ },
+ "fernseher": {
+  "kw": "TV",
+  "h": "TV Deals",
+  "intro": "OLED, QLED and Mini-LED: TVs get noticeably cheaper over the year, most of all between October and December. Here are all checked TV deals in Germany.",
+  "tips": [
+   "OLED has the best blacks, Mini-LED is brighter for sunny rooms.",
+   "For consoles: HDMI 2.1 with 120 Hz.",
+   "Rule of thumb for viewing distance: for 4K TVs, from about 1.2 times the screen diagonal."
+  ],
+  "title": "TV Deals in Germany: OLED, QLED & Mini-LED"
+ },
+ "oled-fernseher": {
+  "kw": "OLED TV",
+  "h": "OLED TV Deals",
+  "intro": "OLED TVs from LG and Samsung offer perfect blacks and excellent viewing angles. Last year's models are often especially cheap.",
+  "tips": [
+   "The evo and top series (e.g. LG G, Samsung S9x) are brighter than the entry-level models.",
+   "The risk of burn-in is low with normal use today.",
+   "Last year's models often offer the best value for money."
+  ],
+  "title": "OLED TV Deals in Germany: Checked Prices"
+ },
+ "fernseher-55-zoll": {
+  "kw": "55 inch TV",
+  "h": "55-Inch TV Deals",
+  "intro": "55 inches is the most popular TV size in Germany. Here are all current 55-inch deals, whether OLED, QLED or Mini-LED.",
+  "tips": [
+   "For 55 inches, a viewing distance of about 1.7 to 2.5 metres works well.",
+   "Look for true 100/120 Hz if you play fast games or watch sport.",
+   "Good TVs in this size often cost less than an entry-level 65-inch model."
+  ],
+  "title": "55-Inch TV Deals in Germany: Checked Prices"
+ },
+ "grosse-fernseher": {
+  "kw": "large TV",
+  "h": "Large TV Deals from 65 Inches",
+  "intro": "65, 75, 77, 83 or 85 inches: large TVs are the devices with the biggest discounts in euros. Here are all checked deals from 65 inches.",
+  "tips": [
+   "Viewing distance from about 2.5 metres for 65 inches.",
+   "Check the wall bracket and the wall's load capacity in advance.",
+   "On large screens, weaknesses in brightness are more noticeable: QLED/Mini-LED for bright rooms."
+  ],
+  "title": "Large TV Deals in Germany: 65 Inches and Up"
+ },
+ "soundbar": {
+  "kw": "soundbar",
+  "h": "Soundbar Deals",
+  "intro": "Soundbars from Bose, Sony, Samsung, Denon and others vastly improve TV sound. Here are all current soundbar deals.",
+  "tips": [
+   "HDMI eARC passes Dolby Atmos from the TV to the soundbar.",
+   "A separate subwoofer delivers much more bass.",
+   "Dolby Atmos is mainly worth it with upfiring speakers."
+  ],
+  "title": "Soundbar Deals in Germany: Checked Prices"
+ },
+ "bluetooth-lautsprecher": {
+  "kw": "Bluetooth speaker",
+  "h": "Bluetooth Speaker Deals",
+  "intro": "Bluetooth speakers from JBL, Bose, Sony, Marshall and soundcore on sale. We check every price against the price history.",
+  "tips": [
+   "IP67 water resistance for the beach and pool.",
+   "Battery life usually applies to medium volume.",
+   "Pairing two speakers in stereo gives a more spacious sound."
+  ],
+  "title": "Bluetooth Speaker Deals in Germany: Checked Prices"
+ },
+ "kopfhoerer": {
+  "kw": "headphones",
+  "h": "Headphone Deals",
+  "intro": "Over-ear, in-ear and true wireless: headphones from Sony, Bose, Apple, JBL and soundcore on sale. Here are all checked deals.",
+  "tips": [
+   "Active noise cancelling (ANC) is worth it for commuters and open-plan offices.",
+   "Multipoint connects your phone and laptop at the same time.",
+   "Codecs like LDAC or aptX only help if your phone supports them."
+  ],
+  "title": "Headphone Deals in Germany: Checked Prices"
+ },
+ "in-ear-kopfhoerer": {
+  "kw": "earbuds",
+  "h": "Earbuds and True Wireless Deals",
+  "intro": "True wireless earbuds from Apple, Sony, Bose, JBL and soundcore on sale.",
+  "tips": [
+   "Several ear tip sizes are important for fit and noise cancelling.",
+   "Wireless charging for the case is handy, but not a must.",
+   "For sport: IPX4 or higher."
+  ],
+  "title": "Earbuds and True Wireless Deals in Germany"
+ },
+ "noise-cancelling-kopfhoerer": {
+  "kw": "noise cancelling headphones",
+  "h": "Noise Cancelling Headphone Deals",
+  "intro": "Headphones with active noise cancelling (ANC) on sale, from affordable soundcore models to the Bose QuietComfort.",
+  "tips": [
+   "Good ANC mainly filters low, steady noise such as planes and trains.",
+   "Transparency mode is important in traffic.",
+   "Over-ear usually blocks noise better than in-ear."
+  ],
+  "title": "Noise Cancelling Headphone Deals in Germany"
+ },
+ "laptop": {
+  "kw": "laptop",
+  "h": "Laptop Deals",
+  "intro": "Laptops from HP, Lenovo, MSI, Gigabyte and others on sale. We check price and specs so you don't buy an outgoing model at full price.",
+  "tips": [
+   "16 GB of RAM is the sensible minimum today.",
+   "An SSD of 512 GB or more avoids running out of storage.",
+   "For office work and studying, battery life, screen brightness and weight matter more than a fast processor."
+  ],
+  "title": "Laptop Deals in Germany: Checked Prices"
+ },
+ "gaming-laptop": {
+  "kw": "gaming laptop",
+  "h": "Gaming Laptop Deals",
+  "intro": "Gaming laptops with RTX graphics on sale. The graphics card and cooling determine performance more than the processor.",
+  "tips": [
+   "Look at the graphics card and its power limit (TGP).",
+   "A display with 144 Hz or more is a must for gaming.",
+   "Many gaming laptops are loud under load; read reviews."
+  ],
+  "title": "Gaming Laptop Deals in Germany: Checked Prices"
+ },
+ "monitor": {
+  "kw": "monitor",
+  "h": "Monitor Deals",
+  "intro": "Office, gaming and OLED monitors from Samsung, ASUS, MSI, HP, LG and Lenovo on sale.",
+  "tips": [
+   "For office work: 27 inches with WQHD resolution is the best compromise.",
+   "USB-C with power delivery turns the monitor into a docking station for laptops.",
+   "A height-adjustable stand is good for your back."
+  ],
+  "title": "Monitor Deals in Germany: Checked Prices"
+ },
+ "gaming-monitor": {
+  "kw": "gaming monitor",
+  "h": "Gaming Monitor Deals",
+  "intro": "Gaming monitors with 144 to 500 Hz, from affordable IPS models to OLED. All deals checked against the price history.",
+  "tips": [
+   "Refresh rate and response time matter most for fast games.",
+   "G-Sync or FreeSync prevent screen tearing.",
+   "WQHD at 165 Hz is the sweet spot for most graphics cards."
+  ],
+  "title": "Gaming Monitor Deals in Germany: Checked Prices"
+ },
+ "oled-monitor": {
+  "kw": "OLED monitor",
+  "h": "OLED Monitor Deals",
+  "intro": "QD-OLED and WOLED monitors offer perfect contrast and extremely short response times. Prices are falling fast right now.",
+  "tips": [
+   "Check the burn-in warranty (often 2 to 3 years).",
+   "QD-OLED has more vivid colours, WOLED sharper text.",
+   "For office work with lots of static content, an IPS monitor is often the better choice."
+  ],
+  "title": "OLED Monitor Deals in Germany: QD-OLED & WOLED"
+ },
+ "mini-pc": {
+  "kw": "mini PC",
+  "h": "Mini PC Deals",
+  "intro": "Mini PCs are small, energy-efficient and powerful enough for office work, streaming and home servers. Here are the current deals.",
+  "tips": [
+   "Look for upgradeable RAM and a second SSD slot.",
+   "For home servers: two LAN ports and low idle power consumption.",
+   "Used business mini PCs (Lenovo, HP, Dell) are very cheap and robust."
+  ],
+  "title": "Mini PC Deals in Germany: Checked Prices"
+ },
+ "nas": {
+  "kw": "NAS",
+  "h": "NAS Deals",
+  "intro": "Network attached storage (NAS) for photos, backups and streaming on sale.",
+  "tips": [
+   "Plan for at least two drives for RAID 1 (mirroring).",
+   "A NAS doesn't replace an external backup.",
+   "2.5 Gbit LAN is worth it for large amounts of data."
+  ],
+  "title": "NAS Deals in Germany: Checked Prices"
+ },
+ "wlan-router": {
+  "kw": "Wi-Fi router",
+  "h": "Wi-Fi Router and Mesh Deals",
+  "intro": "Wi-Fi 7 and Wi-Fi 6 routers, mesh systems and mobile 5G routers on sale.",
+  "tips": [
+   "Mesh systems spread Wi-Fi evenly across large flats and houses.",
+   "Wi-Fi 7 is only worth it if your devices support it.",
+   "Mobile 5G routers are an alternative when no landline connection is available."
+  ],
+  "title": "Wi-Fi Router and Mesh Deals in Germany"
+ },
+ "netzwerk-switch": {
+  "kw": "network switch",
+  "h": "Network Switch Deals",
+  "intro": "Gigabit, 2.5G and 10G switches as well as PoE switches on sale.",
+  "tips": [
+   "Unmanaged switches are simple: plug in and you're done.",
+   "PoE powers cameras and access points via the network cable.",
+   "2.5G is worth it if your NAS and PC have matching ports."
+  ],
+  "title": "Network Switch Deals in Germany: Checked Prices"
+ },
+ "gaming-stuhl": {
+  "kw": "gaming chair",
+  "h": "Gaming Chair Deals",
+  "intro": "Gaming chairs and ergonomic office chairs from AutoFull and others on sale.",
+  "tips": [
+   "Adjustable lumbar support is more important than looks.",
+   "Check the maximum load capacity and recommended body height.",
+   "Fabric is more breathable than faux leather."
+  ],
+  "title": "Gaming Chair Deals in Germany: Checked Prices"
+ },
+ "gaming-maus-tastatur": {
+  "kw": "gaming mouse",
+  "h": "Gaming Mouse and Keyboard Deals",
+  "intro": "Gaming mice, mechanical keyboards and ergonomic mice on sale.",
+  "tips": [
+   "Wireless gaming mice are now as fast as wired ones.",
+   "Tenkeyless (TKL) leaves more room for the mouse.",
+   "Vertical mice take strain off the wrist."
+  ],
+  "title": "Gaming Mouse and Keyboard Deals in Germany"
+ },
+ "pc-komponenten": {
+  "kw": "PC case",
+  "h": "PC Component Deals: Cases, Cooling & More",
+  "intro": "PC cases, AiO liquid coolers and other components on sale.",
+  "tips": [
+   "Check the case's maximum graphics card length and cooler height.",
+   "240 mm AiOs are enough for most processors.",
+   "Good case fans noticeably improve temperatures and noise."
+  ],
+  "title": "PC Component Deals in Germany: Cases & Cooling"
+ },
+ "tablet": {
+  "kw": "tablet",
+  "h": "Tablet Deals",
+  "intro": "Tablets from Samsung, Lenovo and others on sale.",
+  "tips": [
+   "For streaming: a bright display and good speakers.",
+   "Stylus support is important for note-taking and drawing.",
+   "Check how long software updates are provided."
+  ],
+  "title": "Tablet Deals in Germany: Checked Prices"
+ },
+ "drucker": {
+  "kw": "printer",
+  "h": "Printer Deals",
+  "intro": "Laser, inkjet and label printers on sale.",
+  "tips": [
+   "Colour lasers pay off for lots of text, ink tank printers for lots of photos.",
+   "Calculate the cost per page, not just the printer price.",
+   "Duplex printing saves paper."
+  ],
+  "title": "Printer Deals in Germany: Checked Prices"
+ },
+ "dockingstation": {
+  "kw": "docking station",
+  "h": "Docking Station and USB-C Hub Deals",
+  "intro": "USB-C and Thunderbolt docking stations on sale.",
+  "tips": [
+   "Check the charging power (Power Delivery) for your laptop.",
+   "For two monitors, your laptop needs DisplayPort Alt Mode or Thunderbolt.",
+   "Thunderbolt docks are faster, but more expensive."
+  ],
+  "title": "Docking Station and USB-C Hub Deals in Germany"
+ },
+ "smartphone": {
+  "kw": "smartphone",
+  "h": "SIM-Free Smartphone Deals",
+  "intro": "SIM-free phones without a contract from Samsung, Google, Motorola, Xiaomi and others on sale. We check the price against the price history.",
+  "tips": [
+   "Check how long security updates are provided (Samsung and Google: many years).",
+   "128 GB of storage is the minimum if there's no microSD slot.",
+   "Last year's mid-range models are often the best deals."
+  ],
+  "title": "SIM-Free Smartphone Deals in Germany"
+ },
+ "smartwatch": {
+  "kw": "smartwatch",
+  "h": "Smartwatch Deals",
+  "intro": "Smartwatches from Samsung, Google, Huawei, Garmin, Amazfit and Xiaomi on sale.",
+  "tips": [
+   "Check compatibility with your phone (iPhone or Android).",
+   "Battery life ranges from one day to two weeks.",
+   "For sport: built-in GPS and good heart rate tracking."
+  ],
+  "title": "Smartwatch Deals in Germany: Checked Prices"
+ },
+ "verkehrswarner": {
+  "kw": "traffic alert device",
+  "h": "Traffic Alert Device Deals",
+  "intro": "Traffic alert devices such as OOONO and Needit on sale. They warn you about hazards and traffic jams.",
+  "tips": [
+   "Important: drivers in Germany are prohibited from using speed camera warning functions while driving (§ 23 StVO).",
+   "Check whether a subscription is required for extra features.",
+   "The devices usually connect to your phone via Bluetooth."
+  ],
+  "title": "Traffic Alert Device Deals in Germany (OOONO & Co.)"
+ },
+ "ueberwachungskamera": {
+  "kw": "security camera",
+  "h": "Security Camera Deals",
+  "intro": "Outdoor and indoor security cameras from aosu, eufy, EZVIZ, Imou and others on sale.",
+  "tips": [
+   "Local storage (SD card, HomeBase) saves on cloud subscription costs.",
+   "A solar panel extends battery life for outdoor cameras.",
+   "Strict limits apply in Germany when filming public areas and neighbouring properties."
+  ],
+  "title": "Security Camera Deals in Germany: Checked Prices"
+ },
+ "video-tuerklingel": {
+  "kw": "video doorbell",
+  "h": "Video Doorbell Deals",
+  "intro": "Video doorbells with app, two-way talk and motion detection on sale.",
+  "tips": [
+   "Battery models are easier to install, wired ones run continuously.",
+   "Check whether recordings are stored locally.",
+   "With a chime connection, it rings even without your phone."
+  ],
+  "title": "Video Doorbell Deals in Germany: Checked Prices"
+ },
+ "smart-home-zubehoer": {
+  "kw": "smart home",
+  "h": "Smart Home Accessory Deals",
+  "intro": "Smart plugs, smoke detectors, irrigation controllers and more on sale.",
+  "tips": [
+   "Check the standard (Wi-Fi, Zigbee, Matter) and your existing smart home hub.",
+   "Matter devices work with Apple, Google and Amazon.",
+   "Smart plugs with energy monitoring reveal hidden power guzzlers."
+  ],
+  "title": "Smart Home Accessory Deals in Germany"
+ },
+ "luftreiniger": {
+  "kw": "air purifier",
+  "h": "Air Purifier Deals",
+  "intro": "Air purifiers with HEPA filters on sale.",
+  "tips": [
+   "The CADR rating shows how much air is cleaned per hour.",
+   "Compare filter costs per year.",
+   "For bedrooms: a night mode below 30 dB."
+  ],
+  "title": "Air Purifier Deals in Germany: Checked Prices"
+ },
+ "maehroboter": {
+  "kw": "robot lawn mower",
+  "h": "Robot Lawn Mower Deals",
+  "intro": "Robot lawn mowers with and without boundary wire on sale. The best prices are in autumn and winter.",
+  "tips": [
+   "Wire-free models (RTK or camera) save you laying the boundary wire.",
+   "The stated lawn area is a maximum, so plan in some headroom.",
+   "Check slopes and narrow passages."
+  ],
+  "title": "Robot Lawn Mower Deals in Germany: Checked Prices"
+ },
+ "rasenmaeher-gartengeraete": {
+  "kw": "cordless lawn mower",
+  "h": "Garden Tool Deals: Lawn Mowers, Hedge Trimmers & More",
+  "intro": "Cordless lawn mowers, hedge trimmers, chainsaws, domestic water pumps and more for the garden on sale.",
+  "tips": [
+   "Stick to one battery system so the batteries fit all your tools.",
+   "For small gardens, a cordless lawn mower with a 32 to 37 cm cutting width is enough.",
+   "Domestic water pumps: choose the delivery head and flow rate to suit the job."
+  ],
+  "title": "Garden Tool Deals in Germany: Mowers & More"
+ },
+ "akkuschrauber": {
+  "kw": "cordless drill",
+  "h": "Cordless Drill and Tool Deals",
+  "intro": "Cordless screwdrivers, drill drivers and hand tools from Bosch, Worx, Stanley, Wera and Hazet on sale.",
+  "tips": [
+   "For furniture and pictures, a small 3.6 V screwdriver is enough.",
+   "A hammer drill driver for holes in masonry.",
+   "Stick to one battery system, it saves a lot of money."
+  ],
+  "title": "Cordless Drill and Tool Deals in Germany"
+ },
+ "wallbox": {
+  "kw": "wallbox",
+  "h": "EV Wallbox Deals",
+  "intro": "Portable and fixed wallboxes for electric cars on sale.",
+  "tips": [
+   "Wallboxes up to 11 kW must be registered with the grid operator.",
+   "Portable wallboxes with a CEE plug are flexible for renters.",
+   "Installing a fixed wallbox is a job for a qualified electrician."
+  ],
+  "title": "EV Wallbox Deals in Germany: Checked Prices"
+ },
+ "e-bike": {
+  "kw": "e-bike",
+  "h": "E-Bike Deals",
+  "intro": "E-bikes for city, trekking and off-road on sale.",
+  "tips": [
+   "A mid-drive motor rides more naturally, a rear hub motor is cheaper.",
+   "A torque sensor responds more smoothly than a cadence sensor.",
+   "Battery capacity of 500 Wh or more for longer rides."
+  ],
+  "title": "E-Bike Deals in Germany: Checked Prices"
+ },
+ "fahrrad": {
+  "kw": "bike",
+  "h": "Bike Deals: Mountain Bikes, Kids' Bikes & More",
+  "intro": "Bikes, mountain bikes and kids' bikes on sale.",
+  "tips": [
+   "Choose a frame size that matches your height.",
+   "For kids: 20 inches from about 6 years.",
+   "Disc brakes stop more reliably in the wet."
+  ],
+  "title": "Bike Deals in Germany: Mountain & Kids' Bikes"
+ },
+ "kinderfahrzeuge": {
+  "kw": "kids electric car",
+  "h": "Kids' Ride-On Deals: Electric Cars, Scooters & Hoverboards",
+  "intro": "Electric ride-on cars, kids' motorbikes, e-scooters and hoverboards on sale.",
+  "tips": [
+   "Pay attention to the recommended age and top speed.",
+   "A parental remote control makes sense for young children.",
+   "Hoverboards and e-scooters only with a helmet and protective gear."
+  ],
+  "title": "Kids' Electric Car and Hoverboard Deals in Germany"
+ },
+ "actioncam": {
+  "kw": "action camera",
+  "h": "Action Camera Deals",
+  "intro": "Action cameras from Insta360, DJI and GoPro on sale.",
+  "tips": [
+   "Image stabilisation matters more than maximum resolution.",
+   "Waterproof without a housing is handy.",
+   "360-degree cameras let you reframe the shot after recording."
+  ],
+  "title": "Action Camera Deals in Germany: Checked Prices"
+ },
+ "drohne": {
+  "kw": "drone",
+  "h": "Drone Deals",
+  "intro": "Drones and mini drones from DJI on sale.",
+  "tips": [
+   "Under 250 g, simplified rules apply in the EU, but you still need liability insurance.",
+   "Fly More Combos with extra batteries are almost always worth it.",
+   "In Germany, an e-ID registration is mandatory for most drones with a camera."
+  ],
+  "title": "Drone Deals in Germany: Checked Prices"
+ },
+ "lego-star-wars": {
+  "kw": "LEGO Star Wars",
+  "h": "LEGO Star Wars Deals",
+  "intro": "LEGO Star Wars sets on sale, from small starships to large UCS models.",
+  "tips": [
+   "Sets are usually retired after 1 to 2 years, after which prices often rise.",
+   "The price per piece helps with comparisons.",
+   "Large sets are often cheapest on promotion days."
+  ],
+  "title": "LEGO Star Wars Deals in Germany: Checked Prices"
+ },
+ "lego-technic": {
+  "kw": "LEGO Technic",
+  "h": "LEGO Technic Deals",
+  "intro": "LEGO Technic vehicles and machines on sale.",
+  "tips": [
+   "Look for features like motors and gearboxes.",
+   "For kids from about 9 to 10 years, large sets 18+.",
+   "Licensed models (McLaren, Volvo) are popular gifts."
+  ],
+  "title": "LEGO Technic Deals in Germany: Checked Prices"
+ },
+ "lego-speed-champions": {
+  "kw": "LEGO Speed Champions",
+  "h": "LEGO Speed Champions and Car Set Deals",
+  "intro": "LEGO Speed Champions, Icons cars and other car sets on sale.",
+  "tips": [
+   "Speed Champions are affordable collector sets.",
+   "Icons cars are detailed display pieces for adults.",
+   "Ordering several small sets together saves on shipping."
+  ],
+  "title": "LEGO Speed Champions Deals in Germany"
+ },
+ "bausatz-cobi": {
+  "kw": "COBI building set",
+  "h": "Building Set and Brick Kit Deals",
+  "intro": "Brick building sets from COBI and others on sale.",
+  "tips": [
+   "COBI is compatible with LEGO bricks.",
+   "Military and classic car models are COBI's speciality.",
+   "Scale and piece count help with comparisons."
+  ],
+  "title": "COBI and Building Brick Set Deals in Germany"
+ },
+ "veganes-proteinpulver": {
+  "kw": "vegan protein powder",
+  "h": "Vegan Protein Powder Deals",
+  "intro": "Vegan protein powder made from pea, soy and blends on sale. Only products explicitly labelled as vegan.",
+  "tips": [
+   "Blends of several plant sources have a more complete amino acid profile.",
+   "Compare the price per kilo; large packs are often much cheaper.",
+   "Unflavoured versions are also good for baking."
+  ],
+  "title": "Vegan Protein Powder Deals in Germany"
+ },
+ "vegane-supplements": {
+  "kw": "vegan supplements",
+  "h": "Vegan Supplement Deals: B12, Omega-3, Creatine",
+  "intro": "Vitamin B12, vegan omega-3 from algae oil, creatine and other vegan supplements on sale.",
+  "tips": [
+   "Vitamin B12 is important for vegans; have your levels checked by a doctor.",
+   "Vegan omega-3 comes from algae oil.",
+   "Creatine monohydrate is naturally vegan, but the capsule shell isn't always."
+  ],
+  "title": "Vegan Supplement Deals in Germany: B12 & Omega-3"
+ },
+ "nussbutter": {
+  "kw": "peanut butter",
+  "h": "Peanut Butter and Nut Butter Deals",
+  "intro": "Peanut butter, almond butter and nut butters on sale, explicitly vegan.",
+  "tips": [
+   "Prefer natural versions without sugar and palm oil.",
+   "A layer of oil on top is normal, just stir it in.",
+   "Powdered peanut butter has less fat."
+  ],
+  "title": "Peanut Butter and Nut Butter Deals in Germany"
+ },
+ "vegane-schuhe": {
+  "kw": "vegan shoes",
+  "h": "Vegan Shoe and Sneaker Deals",
+  "intro": "Leather-free vegan sneakers, boots and kids' shoes on sale. Only models that manufacturers explicitly label as vegan.",
+  "tips": [
+   "Look for the manufacturer's vegan label, not just \"faux leather\": glue can also be animal-based.",
+   "Microfibre and organic cotton are breathable.",
+   "Dr. Martens Vegan and Skechers BOBS have their own vegan lines."
+  ],
+  "title": "Vegan Shoe and Sneaker Deals in Germany"
+ },
+ "vegane-mode": {
+  "kw": "vegan fashion",
+  "h": "Vegan Fashion and Accessory Deals",
+  "intro": "Vegan jackets, bags and accessories without leather, wool or down on sale.",
+  "tips": [
+   "Vegan wool alternatives are usually polyester or cotton blends.",
+   "Cork, apple leather and Piñatex are leather alternatives.",
+   "Follow the care instructions so the materials last a long time."
+  ],
+  "title": "Vegan Fashion and Accessory Deals in Germany"
+ },
+ "vegane-kosmetik": {
+  "kw": "vegan cosmetics",
+  "h": "Vegan Cosmetics Deals",
+  "intro": "Vegan cosmetics and skincare on sale, explicitly labelled as vegan.",
+  "tips": [
+   "Vegan means no animal ingredients; cruelty-free is a separate label.",
+   "Look for labels such as the Vegan Flower.",
+   "Trial sizes are an affordable way to start."
+  ],
+  "title": "Vegan Cosmetics Deals in Germany: Checked Prices"
+ },
+ "deals-unter-10-euro": {
+  "kw": "deals under €10",
+  "h": "Deals under €10",
+  "intro": "Small prices, real discounts: all checked deals up to €10 at a glance.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Deals under €10 in Germany: Checked Bargains"
+ },
+ "deals-unter-20-euro": {
+  "kw": "deals under €20",
+  "h": "Deals under €20",
+  "intro": "All checked deals up to €20, ideal for small gifts and Secret Santa presents.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Deals under €20 in Germany: Checked Bargains"
+ },
+ "deals-unter-50-euro": {
+  "kw": "deals under €50",
+  "h": "Deals under €50",
+  "intro": "All checked deals up to €50, from tech accessories to kitchen gadgets.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Deals under €50 in Germany: Checked Bargains"
+ },
+ "deals-unter-100-euro": {
+  "kw": "deals under €100",
+  "h": "Deals under €100",
+  "intro": "All checked deals up to €100: headphones, smart home, kitchen and more.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Deals under €100 in Germany: Checked Bargains"
+ },
+ "fernseher-unter-500-euro": {
+  "kw": "TV under €500",
+  "h": "TVs under €500",
+  "intro": "Affordable TVs up to €500 with checked discounts.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "TVs under €500 in Germany: Checked Deals"
+ },
+ "fernseher-unter-1000-euro": {
+  "kw": "TV under €1000",
+  "h": "TVs under €1000",
+  "intro": "OLED, QLED and Mini-LED up to €1000: all checked TV deals in this budget.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "TVs under €1000 in Germany: Checked Deals"
+ },
+ "kopfhoerer-unter-50-euro": {
+  "kw": "headphones under €50",
+  "h": "Headphones under €50",
+  "intro": "Affordable headphones up to €50, in-ear and over-ear.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Headphones under €50 in Germany: Checked Deals"
+ },
+ "kopfhoerer-unter-100-euro": {
+  "kw": "headphones under €100",
+  "h": "Headphones under €100",
+  "intro": "Headphones up to €100, including noise cancelling models.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Headphones under €100 in Germany: Checked Deals"
+ },
+ "laptop-unter-500-euro": {
+  "kw": "laptop under €500",
+  "h": "Laptops under €500",
+  "intro": "Affordable laptops up to €500 for school, university and the office.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Laptops under €500 in Germany: Checked Deals"
+ },
+ "laptop-unter-1000-euro": {
+  "kw": "laptop under €1000",
+  "h": "Laptops under €1000",
+  "intro": "Laptops up to €1000, including entry-level gaming models.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Laptops under €1000 in Germany: Checked Deals"
+ },
+ "monitor-unter-200-euro": {
+  "kw": "monitor under €200",
+  "h": "Monitors under €200",
+  "intro": "Affordable monitors up to €200 for the office and working from home.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Monitors under €200 in Germany: Checked Deals"
+ },
+ "monitor-unter-500-euro": {
+  "kw": "monitor under €500",
+  "h": "Monitors under €500",
+  "intro": "Monitors up to €500, including gaming and WQHD models.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Monitors under €500 in Germany: Checked Deals"
+ },
+ "saugroboter-unter-300-euro": {
+  "kw": "robot vacuum under €300",
+  "h": "Robot Vacuums under €300",
+  "intro": "Robot vacuums up to €300, many of them with laser navigation.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Robot Vacuums under €300 in Germany: Checked Deals"
+ },
+ "smartphone-unter-300-euro": {
+  "kw": "phone under €300",
+  "h": "Smartphones under €300",
+  "intro": "Affordable SIM-free phones without a contract up to €300.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Smartphones under €300 in Germany: SIM-Free Deals"
+ },
+ "smartwatch-unter-200-euro": {
+  "kw": "smartwatch under €200",
+  "h": "Smartwatches under €200",
+  "intro": "Smartwatches and fitness watches up to €200.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Smartwatches under €200 in Germany: Checked Deals"
+ },
+ "lego-unter-50-euro": {
+  "kw": "LEGO under €50",
+  "h": "LEGO Sets under €50",
+  "intro": "LEGO sets up to €50, ideal as a gift.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "LEGO Sets under €50 in Germany: Checked Deals"
+ },
+ "waschmaschine-unter-500-euro": {
+  "kw": "washing machine under €500",
+  "h": "Washing Machines under €500",
+  "intro": "Washing machines up to €500 with checked discounts.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Washing Machines under €500 in Germany: Deals"
+ },
+ "deals-ueber-50-prozent": {
+  "kw": "deals over 50% off",
+  "h": "Deals with over 50% Off",
+  "intro": "The biggest discounts: all checked deals with at least 50 percent off the comparison price.",
+  "tips": [
+   "A big discount alone means little: we compare against the price history, not just the RRP.",
+   "Check the shop's delivery costs and return policy.",
+   "Set a price alert if the product you want isn't cheap enough yet."
+  ],
+  "title": "Deals over 50% Off in Germany: Checked Discounts"
+ }
+}

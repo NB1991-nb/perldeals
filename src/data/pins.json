@@ -1,0 +1,1077 @@
+{
+ "sony-wh-ch520": {
+  "kind": "guide",
+  "title": "Sony WH-CH520: Lohnt sich das?"
+ },
+ "google-pixel-watch-4-lte": {
+  "kind": "guide",
+  "title": "Google Pixel Watch 4 LTE: Lohnt sich das?"
+ },
+ "apple-airpods-pro-3": {
+  "kind": "guide",
+  "title": "Apple AirPods Pro 3: Lohnt sich das?"
+ },
+ "bose-quietcomfort-sc": {
+  "kind": "guide",
+  "title": "Bose QuietComfort SC: Lohnt sich das?"
+ },
+ "samsung-galaxy-a57-5g": {
+  "kind": "guide",
+  "title": "Samsung Galaxy A57 5G: Lohnt sich das?"
+ },
+ "marshall-acton-iii": {
+  "kind": "guide",
+  "title": "Marshall Acton III: Lohnt sich das?"
+ },
+ "google-pixel-10a": {
+  "kind": "guide",
+  "title": "Google Pixel 10a: Lohnt sich das?"
+ },
+ "jbl-tune-730bt": {
+  "kind": "guide",
+  "title": "JBL Tune 730BT: Lohnt sich das?"
+ },
+ "sony-wf-c510": {
+  "kind": "guide",
+  "title": "Sony WF-C510: Lohnt sich das?"
+ },
+ "soundcore-p31i": {
+  "kind": "guide",
+  "title": "Soundcore P31i: Lohnt sich das?"
+ },
+ "samsung-galaxy-watch8": {
+  "kind": "guide",
+  "title": "Samsung Galaxy Watch8: Lohnt sich das?"
+ },
+ "bose-smart-dolby-atmos-soundbar": {
+  "kind": "guide",
+  "title": "Bose Smart Dolby Atmos Soundbar: Lohnt sich das?"
+ },
+ "denon-dht-s316": {
+  "kind": "guide",
+  "title": "Denon DHT-S316: Lohnt sich das?"
+ },
+ "bose-soundlink-flex": {
+  "kind": "guide",
+  "title": "Bose SoundLink Flex: Lohnt sich das?"
+ },
+ "huawei-watch-gt-6": {
+  "kind": "guide",
+  "title": "HUAWEI Watch GT 6: Lohnt sich das?"
+ },
+ "sony-ult-field-1": {
+  "kind": "guide",
+  "title": "Sony ULT Field 1: Lohnt sich das?"
+ },
+ "roborock-saros-10r": {
+  "kind": "guide",
+  "title": "Roborock Saros 10R: Lohnt sich das?"
+ },
+ "msi-mag-321upx-qd-oled-4k-monitor": {
+  "kind": "guide",
+  "title": "MSI MAG 321UPX QD-OLED: Lohnt sich das?"
+ },
+ "lego-76331-batman-vs-superman-batmobile": {
+  "kind": "guide",
+  "title": "LEGO 76331 Batman vs. Superman Batmobile: Lohnt sich das?"
+ },
+ "autofull-m6-pro-2-gaming-chair": {
+  "kind": "guide",
+  "title": "AutoFull M6 Pro 2.0 Gaming-Stuhl: Lohnt sich das?"
+ },
+ "otto-hanseatic-waschmaschine-hwma714abi": {
+  "kind": "guide",
+  "title": "Hanseatic Waschmaschine HWMA714ABI: Lohnt sich das?"
+ },
+ "otto-samsung-waermepumpentrockner-dv9d5-cw": {
+  "kind": "guide",
+  "title": "Samsung Wärmepumpentrockner DV5000D: Lohnt sich das?"
+ },
+ "imou-cruiser-dual-kit": {
+  "kind": "guide",
+  "title": "Imou Cruiser Dual: Lohnt sich das?"
+ },
+ "anthbot-m5-maehroboter": {
+  "kind": "guide",
+  "title": "ANTHBOT M5 Mähroboter: Lohnt sich das?"
+ },
+ "anthbot-m9-maehroboter": {
+  "kind": "guide",
+  "title": "ANTHBOT M9 Mähroboter: Lohnt sich das?"
+ },
+ "myprotein-mikronisiertes-kreatin": {
+  "kind": "guide",
+  "title": "Myprotein Kreatin: Lohnt sich das?"
+ },
+ "alternate-delonghi-magnifica-s-smart-ecam-250-23-sb": {
+  "kind": "guide",
+  "title": "De'Longhi Magnifica S Smart ECAM 250.23.SB Kaffeevollautomat: Lohnt sich das?"
+ },
+ "nbb-ecovacs-deebot-x12-pro-omni": {
+  "kind": "guide",
+  "title": "Ecovacs Deebot X12 Pro Omni Saug- und Wischroboter (22.000 Pa: Lohnt sich das?"
+ },
+ "kopfhoerer-unter-60-euro": {
+  "kind": "article",
+  "title": "Die besten Kopfhörer unter 60 Euro"
+ },
+ "soundbar-vergleich": {
+  "kind": "article",
+  "title": "Soundbar-Vergleich"
+ },
+ "smartwatch-vergleich": {
+  "kind": "article",
+  "title": "Smartwatch-Vergleich"
+ },
+ "guenstige-smartphones": {
+  "kind": "article",
+  "title": "Günstige Smartphones im Angebot"
+ },
+ "bluetooth-lautsprecher-vergleich": {
+  "kind": "article",
+  "title": "Bluetooth-Lautsprecher im Vergleich"
+ },
+ "maehroboter-ohne-begrenzungskabel": {
+  "kind": "article",
+  "title": "Mähroboter ohne Begrenzungskabel"
+ },
+ "lego-angebote": {
+  "kind": "article",
+  "title": "LEGO-Angebote im Herbst"
+ },
+ "waschmaschine-trockner-angebote": {
+  "kind": "article",
+  "title": "Waschmaschine und Trockner im Angebot"
+ },
+ "saugroboter-mit-station-vergleich": {
+  "kind": "article",
+  "title": "Saug- und Wischroboter mit Station"
+ },
+ "beste-saugroboter": {
+  "kind": "best",
+  "title": "Bester Saugroboter 2026"
+ },
+ "beste-maehroboter": {
+  "kind": "best",
+  "title": "Bester Mähroboter ohne Begrenzungskabel 2026"
+ },
+ "beste-noise-cancelling-kopfhoerer": {
+  "kind": "best",
+  "title": "Die besten Noise Cancelling Kopfhörer 2026"
+ },
+ "beste-heissluftfritteuse": {
+  "kind": "best",
+  "title": "Die beste Heißluftfritteuse 2026"
+ },
+ "bester-gaming-monitor": {
+  "kind": "best",
+  "title": "Bester Gaming Monitor 2026"
+ },
+ "beste-ueberwachungskamera-aussen": {
+  "kind": "best",
+  "title": "Beste Überwachungskamera außen 2026"
+ },
+ "bester-akkustaubsauger": {
+  "kind": "best",
+  "title": "Der beste Akkustaubsauger 2026"
+ },
+ "beste-elektrische-zahnbuerste": {
+  "kind": "best",
+  "title": "Die beste elektrische Zahnbürste 2026"
+ },
+ "beste-kopfhoerer-unter-100-euro": {
+  "kind": "best",
+  "title": "Die besten Kopfhörer unter 100 Euro 2026"
+ },
+ "beste-powerbank": {
+  "kind": "best",
+  "title": "Die beste Powerbank 2026"
+ },
+ "beste-smartwatch": {
+  "kind": "best",
+  "title": "Die beste Smartwatch 2026"
+ },
+ "bester-kaffeevollautomat": {
+  "kind": "best",
+  "title": "Der beste Kaffeevollautomat 2026"
+ },
+ "bester-luftreiniger": {
+  "kind": "best",
+  "title": "Der beste Luftreiniger 2026"
+ },
+ "bester-fernseher-55-zoll": {
+  "kind": "best",
+  "title": "Der beste Fernseher mit 55 Zoll 2026"
+ },
+ "beste-bluetooth-box": {
+  "kind": "best",
+  "title": "Die beste Bluetooth-Box 2026"
+ },
+ "bester-standmixer": {
+  "kind": "best",
+  "title": "Der beste Standmixer 2026"
+ },
+ "beste-gaming-maus": {
+  "kind": "best",
+  "title": "Beste Gaming-Maus 2026"
+ },
+ "bester-gaming-stuhl": {
+  "kind": "best",
+  "title": "Bester Gaming-Stuhl 2026"
+ },
+ "black-friday": {
+  "kind": "hub",
+  "title": "Black Friday 2026: echte Deals statt Fake-Rabatte"
+ },
+ "geschenke": {
+  "kind": "hub",
+  "title": "Geschenkideen 2026"
+ },
+ "geschenke-unter-25-euro": {
+  "kind": "gift",
+  "title": "Geschenke unter 25 Euro"
+ },
+ "geschenke-unter-50-euro": {
+  "kind": "gift",
+  "title": "Geschenke unter 50 Euro"
+ },
+ "geschenke-unter-100-euro": {
+  "kind": "gift",
+  "title": "Geschenke unter 100 Euro"
+ },
+ "geschenke-fuer-gamer": {
+  "kind": "gift",
+  "title": "Geschenke für Gamer"
+ },
+ "geschenke-fuer-kinder": {
+  "kind": "gift",
+  "title": "Geschenke für Kinder"
+ },
+ "technik-geschenke": {
+  "kind": "gift",
+  "title": "Technik-Geschenke"
+ },
+ "geschenke-fuer-maenner": {
+  "kind": "gift",
+  "title": "Geschenke für Männer"
+ },
+ "geschenke-fuer-frauen": {
+  "kind": "gift",
+  "title": "Geschenke für Frauen"
+ },
+ "geschenke-fuer-teenager": {
+  "kind": "gift",
+  "title": "Geschenke für Teenager"
+ },
+ "weihnachtsgeschenke": {
+  "kind": "gift",
+  "title": "Weihnachtsgeschenke 2026"
+ },
+ "wichtelgeschenke": {
+  "kind": "gift",
+  "title": "Wichtelgeschenke unter 20 und 25 Euro"
+ },
+ "geschenke-fuer-heimwerker": {
+  "kind": "gift",
+  "title": "Geschenke für Heimwerker"
+ },
+ "geschenke-fuer-hobbykoeche": {
+  "kind": "gift",
+  "title": "Geschenke für Hobbyköche"
+ },
+ "geschenke-fuer-gartenfreunde": {
+  "kind": "gift",
+  "title": "Geschenke für Gartenfreunde"
+ },
+ "geschenke-fuer-sportler": {
+  "kind": "gift",
+  "title": "Geschenke für Sportler"
+ },
+ "vegane-geschenke": {
+  "kind": "gift",
+  "title": "Vegane Geschenke"
+ },
+ "geschenke-fuer-lego-fans": {
+  "kind": "gift",
+  "title": "Geschenke für LEGO-Fans"
+ },
+ "last-minute-geschenke": {
+  "kind": "gift",
+  "title": "Last-Minute-Geschenke"
+ },
+ "geschenke-fuer-kaffeeliebhaber": {
+  "kind": "gift",
+  "title": "Geschenke für Kaffeeliebhaber"
+ },
+ "geschenke-fuer-pokemon-fans": {
+  "kind": "gift",
+  "title": "Geschenke für Pokémon-Fans"
+ },
+ "singles-day": {
+  "kind": "season",
+  "title": "Singles Day 2026"
+ },
+ "cyber-monday": {
+  "kind": "season",
+  "title": "Cyber Monday 2026"
+ },
+ "weihnachts-deals": {
+  "kind": "season",
+  "title": "Weihnachtsangebote 2026"
+ },
+ "black-week": {
+  "kind": "season",
+  "title": "Black Week 2026"
+ },
+ "nikolaus": {
+  "kind": "season",
+  "title": "Nikolausgeschenke 2026"
+ },
+ "adventskalender": {
+  "kind": "season",
+  "title": "Adventskalender 2026"
+ },
+ "black-friday-amazon": {
+  "kind": "season",
+  "title": "Amazon Black Friday 2026"
+ },
+ "black-friday-otto": {
+  "kind": "season",
+  "title": "Otto Black Friday 2026"
+ },
+ "black-friday-alternate": {
+  "kind": "season",
+  "title": "Alternate Black Friday 2026"
+ },
+ "black-friday-ebay": {
+  "kind": "season",
+  "title": "eBay Black Friday 2026"
+ },
+ "black-friday-sharkninja": {
+  "kind": "season",
+  "title": "Ninja & Shark Black Friday 2026"
+ },
+ "black-friday-coolblue": {
+  "kind": "season",
+  "title": "Coolblue Black Friday 2026"
+ },
+ "black-friday-notebooksbilliger": {
+  "kind": "season",
+  "title": "notebooksbilliger Black Friday 2026"
+ },
+ "gutschein-alternate": {
+  "kind": "coupon",
+  "title": "ALTERNATE Gutschein & Rabattcode",
+  "shop": "alternate"
+ },
+ "gutschein-sharkninja": {
+  "kind": "coupon",
+  "title": "SharkNinja Gutschein & Rabattcode",
+  "shop": "sharkninja"
+ },
+ "gutschein-myprotein": {
+  "kind": "coupon",
+  "title": "Myprotein Gutschein & Rabattcode",
+  "shop": "myprotein"
+ },
+ "gutschein-coolblue": {
+  "kind": "coupon",
+  "title": "Coolblue Gutschein & Rabattcode",
+  "shop": "coolblue"
+ },
+ "gutschein-amazon": {
+  "kind": "coupon",
+  "title": "Amazon.de Gutschein & Rabattcode",
+  "shop": "amazon"
+ },
+ "gutschein-imou": {
+  "kind": "coupon",
+  "title": "Imou Gutschein & Rabattcode",
+  "shop": "imou"
+ },
+ "gutschein-autofull": {
+  "kind": "coupon",
+  "title": "Autofull Gutschein & Rabattcode",
+  "shop": "autofull"
+ },
+ "gutschein-100percentpure": {
+  "kind": "coupon",
+  "title": "100% PURE Gutschein & Rabattcode",
+  "shop": "100percentpure"
+ },
+ "gutschein-evercross": {
+  "kind": "coupon",
+  "title": "EVERCROSS Gutschein & Rabattcode",
+  "shop": "evercross"
+ },
+ "gutschein-amazgifts": {
+  "kind": "coupon",
+  "title": "Amazgifts Gutschein & Rabattcode",
+  "shop": "amazgifts"
+ },
+ "gutschein-notebooksbilliger": {
+  "kind": "coupon",
+  "title": "notebooksbilliger.de Gutschein & Rabattcode",
+  "shop": "notebooksbilliger"
+ },
+ "gutschein-alldrei": {
+  "kind": "coupon",
+  "title": "ALLDREI Gutschein & Rabattcode",
+  "shop": "alldrei"
+ },
+ "gutschein-sirui": {
+  "kind": "coupon",
+  "title": "SIRUI Gutschein & Rabattcode",
+  "shop": "sirui"
+ },
+ "thema-kreuzfahrt": {
+  "kind": "topic",
+  "title": "Kreuzfahrt-Angebote",
+  "slug": "kreuzfahrt"
+ },
+ "thema-wellness-kurzurlaub": {
+  "kind": "topic",
+  "title": "Wellness-Kurzurlaub & Therme mit Übernachtung",
+  "slug": "wellness-kurzurlaub"
+ },
+ "thema-musical-reise": {
+  "kind": "topic",
+  "title": "Musical-Reisen mit Hotel",
+  "slug": "musical-reise"
+ },
+ "thema-freizeitpark-mit-uebernachtung": {
+  "kind": "topic",
+  "title": "Freizeitpark mit Übernachtung",
+  "slug": "freizeitpark-mit-uebernachtung"
+ },
+ "thema-city-pass": {
+  "kind": "topic",
+  "title": "City-Pass & Städtereise-Angebote",
+  "slug": "city-pass"
+ },
+ "thema-kurzurlaub": {
+  "kind": "topic",
+  "title": "Kurzurlaub-Angebote",
+  "slug": "kurzurlaub"
+ },
+ "thema-balkonkraftwerk": {
+  "kind": "topic",
+  "title": "Balkonkraftwerk-Angebote",
+  "slug": "balkonkraftwerk"
+ },
+ "thema-powerstation": {
+  "kind": "topic",
+  "title": "Powerstation & Solarspeicher-Angebote",
+  "slug": "powerstation"
+ },
+ "thema-wildkamera": {
+  "kind": "topic",
+  "title": "Wildkamera-Angebote",
+  "slug": "wildkamera"
+ },
+ "thema-fussmatte": {
+  "kind": "topic",
+  "title": "Fußmatten & Logomatten-Angebote",
+  "slug": "fussmatte"
+ },
+ "thema-funkmikrofon": {
+  "kind": "topic",
+  "title": "Funkmikrofon & Lavalier-Mikrofon-Angebote",
+  "slug": "funkmikrofon"
+ },
+ "thema-stativ-foto-zubehoer": {
+  "kind": "topic",
+  "title": "Stative, Objektive & Foto-Zubehör",
+  "slug": "stativ-foto-zubehoer"
+ },
+ "thema-netzwerkkabel": {
+  "kind": "topic",
+  "title": "LAN-Kabel & Netzwerkzubehör",
+  "slug": "netzwerkkabel"
+ },
+ "thema-led-leuchten": {
+  "kind": "topic",
+  "title": "LED-Leuchten & Lampen-Angebote",
+  "slug": "led-leuchten"
+ },
+ "thema-tragbare-espressomaschine": {
+  "kind": "topic",
+  "title": "Tragbare Espressomaschinen-Angebote",
+  "slug": "tragbare-espressomaschine"
+ },
+ "thema-e-scooter": {
+  "kind": "topic",
+  "title": "E-Scooter-Angebote",
+  "slug": "e-scooter"
+ },
+ "thema-software": {
+  "kind": "topic",
+  "title": "Software-Angebote (Videoschnitt, PDF, Datenrettung)",
+  "slug": "software"
+ },
+ "thema-personalisierte-geschenke": {
+  "kind": "topic",
+  "title": "Personalisierte Geschenke-Angebote",
+  "slug": "personalisierte-geschenke"
+ },
+ "thema-gadgets": {
+  "kind": "topic",
+  "title": "Gadgets & originelle Geschenkideen",
+  "slug": "gadgets"
+ },
+ "thema-naturkosmetik": {
+  "kind": "topic",
+  "title": "Naturkosmetik-Angebote",
+  "slug": "naturkosmetik"
+ },
+ "thema-pergola": {
+  "kind": "topic",
+  "title": "Pergola & Lamellendach-Angebote",
+  "slug": "pergola"
+ },
+ "thema-3d-drucker": {
+  "kind": "topic",
+  "title": "3D-Drucker-Angebote",
+  "slug": "3d-drucker"
+ },
+ "pokemon-haendler": {
+  "kind": "page",
+  "title": "Pokémon-Karten finden & bewerten: der Leitfaden",
+  "url": "/reseller/pokemon-haendler/"
+ },
+ "karten-ankauf": {
+  "kind": "page",
+  "title": "Pokémon-Karten verkaufen: Ankauf per WhatsApp",
+  "url": "/reseller/karten-ankauf/"
+ },
+ "ankauf-pokemon-karten": {
+  "kind": "page",
+  "title": "Pokémon-Karten verkaufen",
+  "url": "/reseller/ankauf/pokemon-karten/"
+ },
+ "ankauf-yugioh-karten": {
+  "kind": "page",
+  "title": "Yu-Gi-Oh-Karten verkaufen",
+  "url": "/reseller/ankauf/yugioh-karten/"
+ },
+ "ankauf-one-piece-karten": {
+  "kind": "page",
+  "title": "One-Piece-Karten verkaufen",
+  "url": "/reseller/ankauf/one-piece-karten/"
+ },
+ "ankauf-retro-konsolen": {
+  "kind": "page",
+  "title": "Retro-Konsolen verkaufen",
+  "url": "/reseller/ankauf/retro-konsolen/"
+ },
+ "ankauf-videospiele": {
+  "kind": "page",
+  "title": "Videospiele verkaufen",
+  "url": "/reseller/ankauf/videospiele/"
+ },
+ "ankauf-lego": {
+  "kind": "page",
+  "title": "LEGO verkaufen",
+  "url": "/reseller/ankauf/lego/"
+ },
+ "ebay-shop": {
+  "kind": "page",
+  "title": "Sammelkarten, Konsolen & Live-Auktionen auf eBay",
+  "url": "/reseller/ebay-shop/"
+ },
+ "reseller-rechner": {
+  "kind": "page",
+  "title": "Verkaufspreis nach eBay- & Amazon-Gebühren berechnen",
+  "url": "/reseller/rechner/"
+ },
+ "wissen-fake-rabatte-erkennen": {
+  "kind": "page",
+  "title": "Fake-Rabatte erkennen",
+  "url": "/wissen/fake-rabatte-erkennen/"
+ },
+ "wissen-amazon-preisverlauf-anzeigen": {
+  "kind": "page",
+  "title": "Amazon-Preisverlauf anzeigen",
+  "url": "/wissen/amazon-preisverlauf-anzeigen/"
+ },
+ "wissen-preisalarm-einrichten": {
+  "kind": "page",
+  "title": "Preisalarm einrichten",
+  "url": "/wissen/preisalarm-einrichten/"
+ },
+ "wissen-preisfehler": {
+  "kind": "page",
+  "title": "Preisfehler im Online-Shop",
+  "url": "/wissen/preisfehler/"
+ },
+ "wissen-uvp-bedeutung": {
+  "kind": "page",
+  "title": "UVP",
+  "url": "/wissen/uvp-bedeutung/"
+ },
+ "wissen-widerrufsrecht-online-kauf": {
+  "kind": "page",
+  "title": "Widerrufsrecht beim Online-Kauf",
+  "url": "/wissen/widerrufsrecht-online-kauf/"
+ },
+ "wissen-generalueberholt-kaufen": {
+  "kind": "page",
+  "title": "Generalüberholt kaufen",
+  "url": "/wissen/generalueberholt-kaufen/"
+ },
+ "wissen-gutscheincode-einloesen": {
+  "kind": "page",
+  "title": "Gutscheincode einlösen",
+  "url": "/wissen/gutscheincode-einloesen/"
+ },
+ "wissen-pokemon-karten-wert-ermitteln": {
+  "kind": "page",
+  "title": "Pokémon-Karten Wert ermitteln",
+  "url": "/wissen/pokemon-karten-wert-ermitteln/"
+ },
+ "wissen-pokemon-karten-verkaufen": {
+  "kind": "page",
+  "title": "Pokémon-Karten verkaufen",
+  "url": "/wissen/pokemon-karten-verkaufen/"
+ },
+ "wissen-garantie-gewaehrleistung": {
+  "kind": "page",
+  "title": "Garantie oder Gewährleistung? Der Unterschied einfach erklärt",
+  "url": "/wissen/garantie-gewaehrleistung/"
+ },
+ "wissen-elektrogeraete-entsorgen": {
+  "kind": "page",
+  "title": "Alte Elektrogeräte entsorgen",
+  "url": "/wissen/elektrogeraete-entsorgen/"
+ },
+ "wissen-umtausch-weihnachtsgeschenke": {
+  "kind": "page",
+  "title": "Weihnachtsgeschenke umtauschen",
+  "url": "/wissen/umtausch-weihnachtsgeschenke/"
+ },
+ "wissen-alte-konsole-verkaufen": {
+  "kind": "page",
+  "title": "Alte Konsole verkaufen",
+  "url": "/wissen/alte-konsole-verkaufen/"
+ },
+ "wissen-yugioh-karten-wert": {
+  "kind": "page",
+  "title": "Yu-Gi-Oh-Karten Wert",
+  "url": "/wissen/yugioh-karten-wert/"
+ },
+ "wissen-lego-verkaufen": {
+  "kind": "page",
+  "title": "LEGO verkaufen",
+  "url": "/wissen/lego-verkaufen/"
+ },
+ "wissen-sammlung-verkaufen": {
+  "kind": "page",
+  "title": "Sammlung verkaufen",
+  "url": "/wissen/sammlung-verkaufen/"
+ },
+ "wissen-pokemon-karten-fake-erkennen": {
+  "kind": "page",
+  "title": "Fake Pokémon-Karten erkennen",
+  "url": "/wissen/pokemon-karten-fake-erkennen/"
+ },
+ "wissen-pokemon-karten-grading": {
+  "kind": "page",
+  "title": "Pokémon-Karten graden lassen",
+  "url": "/wissen/pokemon-karten-grading/"
+ },
+ "wissen-sammelkarten-versenden": {
+  "kind": "page",
+  "title": "Sammelkarten richtig versenden",
+  "url": "/wissen/sammelkarten-versenden/"
+ },
+ "wissen-kleinanzeigen-betrug-erkennen": {
+  "kind": "page",
+  "title": "Betrug bei Kleinanzeigen erkennen",
+  "url": "/wissen/kleinanzeigen-betrug-erkennen/"
+ },
+ "wissen-fake-shop-erkennen": {
+  "kind": "page",
+  "title": "Fake-Shop erkennen",
+  "url": "/wissen/fake-shop-erkennen/"
+ },
+ "wissen-one-piece-karten-wert": {
+  "kind": "page",
+  "title": "One-Piece-Karten Wert",
+  "url": "/wissen/one-piece-karten-wert/"
+ },
+ "wissen-pokemon-karten-ausverkauft": {
+  "kind": "page",
+  "title": "Pokémon-Karten ausverkauft",
+  "url": "/wissen/pokemon-karten-ausverkauft/"
+ },
+ "wissen-paket-nicht-angekommen": {
+  "kind": "page",
+  "title": "Paket nicht angekommen",
+  "url": "/wissen/paket-nicht-angekommen/"
+ },
+ "wissen-ecovacs-t50-omni-gen3-guter-preis": {
+  "kind": "page",
+  "title": "Ist 249 € ein guter Preis für den ECOVACS DEEBOT T50 Omni Gen3?",
+  "url": "/wissen/ecovacs-t50-omni-gen3-guter-preis/"
+ },
+ "wissen-ninja-af140eu-wann-guenstig": {
+  "kind": "page",
+  "title": "Wann ist der Ninja Pro Air Fryer AF140EU am günstigsten?",
+  "url": "/wissen/ninja-af140eu-wann-guenstig/"
+ },
+ "wissen-weihnachten-bestellen-bis-wann": {
+  "kind": "page",
+  "title": "Bis wann bestellen, damit es vor Weihnachten 2026 ankommt?",
+  "url": "/wissen/weihnachten-bestellen-bis-wann/"
+ },
+ "wissen-oled-qled-mini-led-unterschied": {
+  "kind": "page",
+  "title": "OLED, QLED oder Mini-LED",
+  "url": "/wissen/oled-qled-mini-led-unterschied/"
+ },
+ "wissen-fernseher-groesse-sitzabstand": {
+  "kind": "page",
+  "title": "Welche Fernsehergröße passt zu meinem Sitzabstand?",
+  "url": "/wissen/fernseher-groesse-sitzabstand/"
+ },
+ "wissen-energielabel-verstehen": {
+  "kind": "page",
+  "title": "Energielabel verstehen",
+  "url": "/wissen/energielabel-verstehen/"
+ },
+ "wissen-spaeter-bezahlen-klarna-risiken": {
+  "kind": "page",
+  "title": "Später bezahlen mit Klarna, PayPal & Co.",
+  "url": "/wissen/spaeter-bezahlen-klarna-risiken/"
+ },
+ "wissen-matter-smart-home-erklaert": {
+  "kind": "page",
+  "title": "Matter einfach erklärt",
+  "url": "/wissen/matter-smart-home-erklaert/"
+ },
+ "wissen-preis-gesunken-nach-kauf": {
+  "kind": "page",
+  "title": "Preis gesunken nach dem Kauf",
+  "url": "/wissen/preis-gesunken-nach-kauf/"
+ },
+ "wissen-pokemon-30-jahre-set": {
+  "kind": "page",
+  "title": "Pokémon 30 Jahre",
+  "url": "/wissen/pokemon-30-jahre-set/"
+ },
+ "wissen-pokemon-nachdruck": {
+  "kind": "page",
+  "title": "Pokémon-Nachdruck",
+  "url": "/wissen/pokemon-nachdruck/"
+ },
+ "wissen-lego-eol-liste-2026": {
+  "kind": "page",
+  "title": "LEGO EOL-Liste 2026 und 2027",
+  "url": "/wissen/lego-eol-liste-2026/"
+ },
+ "wissen-vegan-werden": {
+  "kind": "page",
+  "title": "Vegan werden",
+  "url": "/wissen/vegan-werden/"
+ },
+ "wissen-vegan-naehrstoffe-b12": {
+  "kind": "page",
+  "title": "Vitamin B12 und wichtige Nährstoffe bei veganer Ernährung",
+  "url": "/wissen/vegan-naehrstoffe-b12/"
+ },
+ "wissen-vegan-proteinquellen-proteinpulver": {
+  "kind": "page",
+  "title": "Vegane Proteinquellen und Proteinpulver",
+  "url": "/wissen/vegan-proteinquellen-proteinpulver/"
+ },
+ "wissen-vegan-guenstig-einkaufen": {
+  "kind": "page",
+  "title": "Vegan günstig einkaufen",
+  "url": "/wissen/vegan-guenstig-einkaufen/"
+ },
+ "wissen-vegan-ist-das-vegan-siegel": {
+  "kind": "page",
+  "title": "Ist das vegan? Siegel, Zutaten und versteckte tierische Stoffe erkennen",
+  "url": "/wissen/vegan-ist-das-vegan-siegel/"
+ },
+ "wissen-vegan-schuhe-leder-alternativen": {
+  "kind": "page",
+  "title": "Vegane Schuhe erkennen",
+  "url": "/wissen/vegan-schuhe-leder-alternativen/"
+ },
+ "wissen-vegan-kosmetik-erkennen": {
+  "kind": "page",
+  "title": "Vegane Kosmetik erkennen",
+  "url": "/wissen/vegan-kosmetik-erkennen/"
+ },
+ "wissen-vegan-backen-ersatzprodukte": {
+  "kind": "page",
+  "title": "Vegan backen",
+  "url": "/wissen/vegan-backen-ersatzprodukte/"
+ },
+ "wissen-vegan-geschenke-weihnachten": {
+  "kind": "page",
+  "title": "Vegane Geschenke finden",
+  "url": "/wissen/vegan-geschenke-weihnachten/"
+ },
+ "vegan-ratgeber": {
+  "kind": "page",
+  "title": "Vegan-Ratgeber: Einstieg, Nährstoffe, Einkauf",
+  "url": "/vegan-ratgeber/"
+ },
+ "wasserdicht": {
+  "kind": "page",
+  "title": "Ist mein Handy wasserdicht? IP67 & IP68",
+  "url": "/wasserdicht/"
+ },
+ "wd-samsung-galaxy-a57-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy A57 5G wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-a57/"
+ },
+ "wd-samsung-galaxy-a37-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy A37 5G wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-a37/"
+ },
+ "wd-samsung-galaxy-a56-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy A56 5G wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-a56/"
+ },
+ "wd-samsung-galaxy-a36-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy A36 5G wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-a36/"
+ },
+ "wd-samsung-galaxy-s26-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy S26 wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-s26/"
+ },
+ "wd-samsung-galaxy-s25-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy S25 wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-s25/"
+ },
+ "wd-samsung-galaxy-s25-fe-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Samsung Galaxy S25 FE wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-s25-fe/"
+ },
+ "wd-iphone-17-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Apple iPhone 17 wasserdicht?",
+  "url": "/wasserdicht/iphone-17/"
+ },
+ "wd-iphone-17-pro-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Apple iPhone 17 Pro wasserdicht?",
+  "url": "/wasserdicht/iphone-17-pro/"
+ },
+ "wd-iphone-16-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Apple iPhone 16 wasserdicht?",
+  "url": "/wasserdicht/iphone-16/"
+ },
+ "wd-iphone-16e-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Apple iPhone 16e wasserdicht?",
+  "url": "/wasserdicht/iphone-16e/"
+ },
+ "wd-google-pixel-10-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Google Pixel 10 wasserdicht?",
+  "url": "/wasserdicht/google-pixel-10/"
+ },
+ "wd-google-pixel-10a-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Google Pixel 10a wasserdicht?",
+  "url": "/wasserdicht/google-pixel-10a/"
+ },
+ "wd-redmi-note-15-pro-plus-wasserdicht": {
+  "kind": "page",
+  "title": "Ist das Xiaomi REDMI Note 15 Pro+ 5G wasserdicht?",
+  "url": "/wasserdicht/redmi-note-15-pro-plus/"
+ },
+ "wd-apple-watch-series-11-wasserdicht": {
+  "kind": "page",
+  "title": "Ist die Apple Watch Series 11 wasserdicht?",
+  "url": "/wasserdicht/apple-watch-series-11/"
+ },
+ "wd-samsung-galaxy-watch8-wasserdicht": {
+  "kind": "page",
+  "title": "Ist die Samsung Galaxy Watch8 wasserdicht?",
+  "url": "/wasserdicht/samsung-galaxy-watch8/"
+ },
+ "wd-airpods-pro-3-wasserdicht": {
+  "kind": "page",
+  "title": "Sind die Apple AirPods Pro 3 wasserdicht?",
+  "url": "/wasserdicht/airpods-pro-3/"
+ },
+ "advent-lego": {
+  "kind": "page",
+  "title": "LEGO Adventskalender 2026",
+  "url": "/adventskalender-angebote/lego/"
+ },
+ "advent-pokemon": {
+  "kind": "page",
+  "title": "Pokémon Adventskalender 2026",
+  "url": "/adventskalender-angebote/pokemon/"
+ },
+ "advent-beauty": {
+  "kind": "page",
+  "title": "Beauty Adventskalender 2026",
+  "url": "/adventskalender-angebote/beauty/"
+ },
+ "advent-vegan": {
+  "kind": "page",
+  "title": "Vegane Adventskalender 2026",
+  "url": "/adventskalender-angebote/vegan/"
+ },
+ "advent-technik": {
+  "kind": "page",
+  "title": "Technik Adventskalender 2026",
+  "url": "/adventskalender-angebote/technik/"
+ },
+ "advent-kinder": {
+  "kind": "page",
+  "title": "Spielzeug Adventskalender 2026",
+  "url": "/adventskalender-angebote/kinder/"
+ },
+ "pkm-sets-und-top-karten": {
+  "kind": "page",
+  "title": "Pokémon-Sets 2025/2026",
+  "url": "/reseller/pokemon-haendler/sets-und-top-karten/"
+ },
+ "pkm-karte-lesen": {
+  "kind": "page",
+  "title": "Pokémon-Karte richtig lesen",
+  "url": "/reseller/pokemon-haendler/karte-lesen/"
+ },
+ "pkm-seltenheiten-ziehraten": {
+  "kind": "page",
+  "title": "Pokémon-Seltenheiten und Ziehraten",
+  "url": "/reseller/pokemon-haendler/seltenheiten-ziehraten/"
+ },
+ "pkm-sprachen-und-produkte": {
+  "kind": "page",
+  "title": "Pokémon-Karten nach Sprache",
+  "url": "/reseller/pokemon-haendler/sprachen-und-produkte/"
+ },
+ "pkm-zustand-und-grading": {
+  "kind": "page",
+  "title": "Zustand und Grading bei Pokémon-Karten",
+  "url": "/reseller/pokemon-haendler/zustand-und-grading/"
+ },
+ "pkm-faelschungen-erkennen": {
+  "kind": "page",
+  "title": "Gefälschte Pokémon-Karten erkennen",
+  "url": "/reseller/pokemon-haendler/faelschungen-erkennen/"
+ },
+ "pkm-verkaufen-gebuehren": {
+  "kind": "page",
+  "title": "Pokémon-Karten verkaufen",
+  "url": "/reseller/pokemon-haendler/verkaufen-gebuehren/"
+ },
+ "pkm-ankauf-checkliste": {
+  "kind": "page",
+  "title": "Pokémon-Karten bewerten",
+  "url": "/reseller/pokemon-haendler/ankauf-checkliste/"
+ },
+ "deal-sharkninja-shark-sd200eu": {
+  "kind": "deal",
+  "title": "Shark SteamPickUp 3-in-1 Dampfreiniger",
+  "deal": "sharkninja-shark-sd200eu"
+ },
+ "deal-ebay-eglo-led-weihnachtskranz-50cm": {
+  "kind": "deal",
+  "title": "Eglo LED-Weihnachtskranz Ø 50 cm mit 30 LEDs (Schnee-Optik",
+  "deal": "ebay-eglo-led-weihnachtskranz-50cm"
+ },
+ "deal-ebay-scheppach-tb99-werkzeugkoffer": {
+  "kind": "deal",
+  "title": "Scheppach TB99 Werkzeugkoffer",
+  "deal": "ebay-scheppach-tb99-werkzeugkoffer"
+ },
+ "deal-alternate-hisense-wd3s9043bw3": {
+  "kind": "deal",
+  "title": "Hisense WD3S9043BW3 Waschtrockner (9 kg waschen / 6 kg trocknen",
+  "deal": "alternate-hisense-wd3s9043bw3"
+ },
+ "deal-alternate-cooler-master-hyper-212-pro": {
+  "kind": "deal",
+  "title": "Cooler Master Hyper 212 Pro CPU-Kühler (120 mm",
+  "deal": "alternate-cooler-master-hyper-212-pro"
+ },
+ "deal-ebay-steinel-xled-cam1": {
+  "kind": "deal",
+  "title": "Steinel XLED CAM1 SC Sensor-LED-Strahler mit Kamera",
+  "deal": "ebay-steinel-xled-cam1"
+ },
+ "deal-dreame-l10s-ultra-gen-3": {
+  "kind": "deal",
+  "title": "Dreame L10s Ultra Gen 3 Saug- und Wischroboter mit Station",
+  "deal": "dreame-l10s-ultra-gen-3"
+ },
+ "deal-sharkninja-ninja-kt200eu": {
+  "kind": "deal",
+  "title": "Ninja Wasserkocher mit Temperaturwahl 1",
+  "deal": "sharkninja-ninja-kt200eu"
+ },
+ "deal-alternate-philips-77oled811": {
+  "kind": "deal",
+  "title": "Philips 77OLED811 OLED-Fernseher 77 Zoll (194 cm",
+  "deal": "alternate-philips-77oled811"
+ },
+ "deal-ecovacs-deebot-t50-omni-gen3": {
+  "kind": "deal",
+  "title": "ECOVACS DEEBOT T50 Omni Gen3 Saug- und Wischroboter",
+  "deal": "ecovacs-deebot-t50-omni-gen3"
+ },
+ "deal-sharkninja-shark-hp300eu": {
+  "kind": "deal",
+  "title": "Shark NeverChange Luftreiniger Max (HP300EU",
+  "deal": "sharkninja-shark-hp300eu"
+ },
+ "deal-philips-airfryer-3000-na350": {
+  "kind": "deal",
+  "title": "Philips Airfryer 3000 Serie NA350/00 Heißluftfritteuse 6",
+  "deal": "philips-airfryer-3000-na350"
+ },
+ "deal-alternate-ocypus-iota-p750": {
+  "kind": "deal",
+  "title": "Ocypus Iota P750 Black PC-Netzteil (750 W",
+  "deal": "alternate-ocypus-iota-p750"
+ },
+ "deal-alternate-hyte-y60-snow-white": {
+  "kind": "deal",
+  "title": "HYTE Y60 Snow White Edition Tower-Gehäuse (weiß",
+  "deal": "alternate-hyte-y60-snow-white"
+ },
+ "deal-haier-heissluftfritteuse-flex-11l": {
+  "kind": "deal",
+  "title": "Haier Heißluftfritteuse Flex 11 l Dual",
+  "deal": "haier-heissluftfritteuse-flex-11l"
+ },
+ "deal-ninja-pro-air-fryer-af140eu": {
+  "kind": "deal",
+  "title": "Ninja PRO Air Fryer AF140EU Heißluftfritteuse 4",
+  "deal": "ninja-pro-air-fryer-af140eu"
+ },
+ "deal-coolblue-dji-mini-4-pro-fly-more-rc2": {
+  "kind": "deal",
+  "title": "DJI Mini 4 Pro Fly More Combo mit DJI RC 2",
+  "deal": "coolblue-dji-mini-4-pro-fly-more-rc2"
+ },
+ "deal-alternate-meacofan-sefte-6": {
+  "kind": "deal",
+  "title": "MeacoFan Sefte 6 Tischventilator (12 Stufen",
+  "deal": "alternate-meacofan-sefte-6"
+ },
+ "deal-sharkninja-shark-fh320eu": {
+  "kind": "deal",
+  "title": "Shark FacialPro Glow + DePuffi Gesichtspflege-System",
+  "deal": "sharkninja-shark-fh320eu"
+ }
+}

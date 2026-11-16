@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Packband-Abroller mit Klebebandrolle</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M92 120 L70 196 Q68 202 76 202 H96 Q102 202 104 196 L122 128 Z" fill="#0E1C1B"/>
+  <path d="M106 96 L180 132 L172 146 L98 112 Z" fill="#55645F"/>
+  <circle cx="106" cy="96" r="50" fill="#E7CC94" stroke="#B8955A" stroke-width="2.5"/>
+  <circle cx="106" cy="96" r="36" fill="none" stroke="#B8955A" stroke-width="1.2" opacity="0.6"/>
+  <circle cx="106" cy="96" r="22" fill="#F1F4F2" stroke="#55645F" stroke-width="3"/>
+  <circle cx="106" cy="96" r="7" fill="#55645F"/>
+  <path d="M128 141 L190 150" stroke="#D9BC82" stroke-width="7" stroke-linecap="round"/>
+  <path d="M176 128 L196 138 L188 156 L170 146 Z" fill="#55645F"/>
+  <path d="M196 138 l-2 4 l3 2 l-2 4 l3 2 l-2 4" stroke="#0E1C1B" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Digitale Paketwaage mit Paket</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M44 150 L196 150 L184 190 L56 190 Z" fill="#55645F"/>
+  <rect x="40" y="134" width="160" height="18" rx="6" fill="#D3DCD8" stroke="#55645F" stroke-width="2.5"/>
+  <rect x="90" y="160" width="60" height="22" rx="4" fill="#0E1C1B"/>
+  <text x="120" y="177" font-size="16" font-weight="700" fill="#2E9E5B" text-anchor="middle">1,25</text>
+  <circle cx="164" cy="171" r="5" fill="#D3DCD8"/>
+  <path d="M74 134 L84 84 L156 84 L166 134 Z" fill="#E7CC94" stroke="#B8955A" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M84 84 L96 66 L168 66 L156 84 Z" fill="#D9BC82" stroke="#B8955A" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M110 84 L122 66" stroke="#F6C343" stroke-width="6"/>
+</svg>

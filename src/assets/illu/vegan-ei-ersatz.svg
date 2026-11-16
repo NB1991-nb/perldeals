@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Ein Ei beim Backen ersetzen: fünf Varianten</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">1 Ei ersetzen: so geht’s</text>
+
+  <!-- Reihe 1 -->
+  <rect x="30" y="84" width="230" height="160" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="70" cy="128" r="26" fill="#C9A26B"/>
+  <g fill="#8A6A3B"><ellipse cx="62" cy="122" rx="5" ry="3"/><ellipse cx="76" cy="130" rx="5" ry="3"/><ellipse cx="66" cy="138" rx="5" ry="3"/></g>
+  <text x="108" y="136" font-size="22" font-weight="800" fill="#0E1C1B">Leinsamen</text>
+  <text x="50" y="190" font-size="18" fill="#0E1C1B">2 EL gemahlen</text>
+  <text x="50" y="218" font-size="18" fill="#55645F">+ 4 EL Wasser</text>
+
+  <rect x="285" y="84" width="230" height="160" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="325" cy="128" r="26" fill="#F6C343"/>
+  <path d="M311 134 q14 -20 28 0 z" fill="#FFFFFF" opacity="0.8"/>
+  <text x="363" y="136" font-size="22" font-weight="800" fill="#0E1C1B">Sojamehl</text>
+  <text x="305" y="190" font-size="18" fill="#0E1C1B">1 EL Sojamehl</text>
+  <text x="305" y="218" font-size="18" fill="#55645F">+ 2 EL Sprudel</text>
+
+  <rect x="540" y="84" width="230" height="160" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="580" cy="128" r="26" fill="#FFF3CC"/>
+  <path d="M566 116 q6 26 30 22" stroke="#F6C343" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="618" y="136" font-size="22" font-weight="800" fill="#0E1C1B">Banane</text>
+  <text x="560" y="190" font-size="18" fill="#0E1C1B">½ Banane</text>
+  <text x="560" y="218" font-size="18" fill="#55645F">zerdrückt</text>
+
+  <!-- Reihe 2 -->
+  <rect x="157" y="264" width="230" height="160" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="197" cy="308" r="26" fill="#2E9E5B"/>
+  <path d="M197 286 q6 -8 12 -8" stroke="#1F7A44" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="235" y="316" font-size="22" font-weight="800" fill="#0E1C1B">Apfelmus</text>
+  <text x="177" y="370" font-size="18" fill="#0E1C1B">1 EL Apfelmus</text>
+  <text x="177" y="398" font-size="18" fill="#55645F">+ 1 TL Öl</text>
+
+  <rect x="412" y="264" width="230" height="160" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="452" cy="308" r="26" fill="#D6EDE8"/>
+  <path d="M434 312 q6 -14 12 0 q6 -14 12 0 q6 -14 12 0" stroke="#0B776B" stroke-width="3" fill="none"/>
+  <text x="490" y="316" font-size="22" font-weight="800" fill="#0E1C1B">Aquafaba</text>
+  <text x="432" y="370" font-size="18" fill="#0E1C1B">Kichererbsenwasser</text>
+  <text x="432" y="398" font-size="18" fill="#55645F">für Eischnee</text>
+
+  <text x="400" y="458" font-size="18" fill="#55645F" text-anchor="middle">Mengen pro Ei · nach Verbraucherzentrale Südtirol</text>
+</svg>

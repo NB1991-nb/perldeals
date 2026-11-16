@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Magnetische One-Touch-Hülle mit dickem Rahmen</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <rect x="54" y="34" width="132" height="172" rx="16" fill="#55645F" fill-opacity="0.35" stroke="#55645F" stroke-width="3"/>
+  <rect x="70" y="50" width="100" height="140" rx="8" fill="#FFFFFF" fill-opacity="0.7" stroke="#55645F" stroke-width="2"/>
+  <g>
+    <rect x="78" y="58" width="84" height="124" rx="5.9" fill="#0B776B"/>
+    <rect x="83.04" y="63.04" width="73.92" height="113.92" rx="3.4" fill="#FFFFFF"/>
+    <rect x="86.04" y="72.96" width="67.92" height="47.12" rx="2" fill="#D6EDE8"/>
+    <circle cx="106.41600000000001" cy="90.8656" r="8.829600000000001" fill="#F6C343"/>
+    <path d="M86.04 120.07999999999998 L109.81200000000001 96.52 L126.792 109.71359999999999 L139.01760000000002 101.232 L153.96 115.368 L153.96 120.07999999999998 Z" fill="#0B776B"/>
+    <rect x="86.04" y="134.88" width="54.336000000000006" height="4.96" rx="2.48" fill="#D3DCD8"/>
+    <rect x="86.04" y="146.04" width="67.92" height="4.96" rx="2.48" fill="#D3DCD8"/>
+    <rect x="86.04" y="157.2" width="40.752" height="4.96" rx="2.48" fill="#D3DCD8"/>
+  </g>
+  <g fill="#0E1C1B"><circle cx="66" cy="46" r="5"/><circle cx="174" cy="46" r="5"/><circle cx="66" cy="194" r="5"/><circle cx="174" cy="194" r="5"/></g>
+  <path d="M60 80 L92 44 M60 104 L116 42" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+</svg>

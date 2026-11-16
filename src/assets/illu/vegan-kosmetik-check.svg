@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Vegane Kosmetik: vegan und tierversuchsfrei im Vergleich, tierische INCI-Stoffe</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Vegane Kosmetik erkennen</text>
+
+  <!-- Zwei Begriffe -->
+  <rect x="30" y="80" width="340" height="128" rx="16" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+  <text x="50" y="114" font-size="22" font-weight="800" fill="#0B776B">Vegan</text>
+  <text x="50" y="146" font-size="18" fill="#0E1C1B">keine tierischen Inhaltsstoffe</text>
+  <text x="50" y="176" font-size="18" fill="#55645F">z. B. ohne Bienenwachs, Honig</text>
+
+  <circle cx="400" cy="144" r="22" fill="#F6C343"/>
+  <text x="400" y="153" font-size="26" font-weight="800" fill="#0E1C1B" text-anchor="middle">≠</text>
+
+  <rect x="430" y="80" width="340" height="128" rx="16" fill="#FFFFFF" stroke="#55645F" stroke-width="2"/>
+  <text x="450" y="114" font-size="22" font-weight="800" fill="#0E1C1B">Tierversuchsfrei</text>
+  <text x="450" y="146" font-size="18" fill="#0E1C1B">Produkt und Inhaltsstoffe</text>
+  <text x="450" y="176" font-size="18" fill="#55645F">nicht an Tieren getestet</text>
+
+  <!-- Beispiel-Siegel -->
+  <circle cx="150" cy="324" r="82" fill="#FFFFFF" stroke="#0B776B" stroke-width="4"/>
+  <circle cx="150" cy="324" r="70" fill="none" stroke="#0B776B" stroke-width="2" stroke-dasharray="4 5"/>
+  <text x="150" y="320" font-size="18" font-weight="800" fill="#0B776B" text-anchor="middle">Vegan-Siegel</text>
+  <text x="150" y="344" font-size="18" fill="#0B776B" text-anchor="middle">(Beispiel)</text>
+  <text x="150" y="440" font-size="18" fill="#55645F" text-anchor="middle">kann beides abdecken</text>
+
+  <!-- INCI -->
+  <rect x="270" y="230" width="500" height="222" rx="16" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <text x="292" y="264" font-size="20" font-weight="700" fill="#0E1C1B">Tierisch in der INCI-Liste</text>
+  <g font-size="18">
+    <text x="292" y="300" font-weight="700" fill="#E5484D">Cera Alba</text><text x="500" y="300" fill="#0E1C1B">Bienenwachs</text>
+    <text x="292" y="332" font-weight="700" fill="#E5484D">Mel</text><text x="500" y="332" fill="#0E1C1B">Honig</text>
+    <text x="292" y="364" font-weight="700" fill="#E5484D">Lanolin</text><text x="500" y="364" fill="#0E1C1B">Wollwachs</text>
+    <text x="292" y="396" font-weight="700" fill="#E5484D">CI 75470</text><text x="500" y="396" fill="#0E1C1B">Karmin</text>
+    <text x="292" y="428" font-weight="700" fill="#E5484D">Hydrolyzed Silk</text><text x="500" y="428" fill="#0E1C1B">Seidenprotein</text>
+  </g>
+  <path d="M486 286 V438" stroke="#E4EAE7" stroke-width="2"/>
+</svg>

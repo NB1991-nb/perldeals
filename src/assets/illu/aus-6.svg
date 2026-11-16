@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Faltbare Fotobox mit LED-Leiste und Karte</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M48 64 H192 L176 80 H64 Z" fill="#D3DCD8" stroke="#55645F" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="64" y="80" width="112" height="100" fill="#FFFFFF"/>
+  <path d="M48 64 L64 80 V180 L48 196 Z" fill="#F1F4F2" stroke="#55645F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M192 64 L176 80 V180 L192 196 Z" fill="#F1F4F2" stroke="#55645F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M48 196 L64 180 H176 L192 196 Z" fill="#FFFFFF" stroke="#55645F" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="64" y="80" width="112" height="100" fill="none" stroke="#55645F" stroke-width="2"/>
+  <path d="M72 84 H168 L150 170 H90 Z" fill="#F6C343" opacity="0.18"/>
+  <rect x="62" y="66" width="116" height="8" rx="4" fill="#F6C343"/>
+  <g fill="#FFFFFF"><circle cx="76" cy="70" r="2"/><circle cx="92" cy="70" r="2"/><circle cx="108" cy="70" r="2"/><circle cx="124" cy="70" r="2"/><circle cx="140" cy="70" r="2"/><circle cx="156" cy="70" r="2"/><circle cx="172" cy="70" r="2"/></g>
+  <g>
+    <rect x="104" y="112" width="34" height="48" rx="2.4" fill="#0B776B"/>
+    <rect x="107" y="115" width="28" height="42" rx="1.4" fill="#FFFFFF"/>
+    <rect x="110" y="118.84" width="22" height="18.240000000000002" rx="2" fill="#D6EDE8"/>
+    <circle cx="116.6" cy="125.77120000000001" r="2.8600000000000003" fill="#F6C343"/>
+    <path d="M110 137.08 L117.7 127.96000000000001 L123.2 133.0672 L127.16 129.784 L132 135.256 L132 137.08 Z" fill="#0B776B"/>
+    <rect x="110" y="141.76" width="17.6" height="1.92" rx="0.96" fill="#D3DCD8"/>
+    <rect x="110" y="146.07999999999998" width="22" height="1.92" rx="0.96" fill="#D3DCD8"/>
+    <rect x="110" y="150.4" width="13.2" height="1.92" rx="0.96" fill="#D3DCD8"/>
+  </g>
+  <path d="M100 160 H142 L138 168 H104 Z" fill="#55645F"/>
+
+</svg>

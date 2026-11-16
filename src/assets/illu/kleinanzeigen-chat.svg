@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Fiktiver Chat mit typischer Betrugsmasche beim Privatverkauf</title>
+  <defs>
+    <g id="warn">
+      <circle r="13" fill="#E5484D"/>
+      <rect x="-1.8" y="-8" width="3.6" height="10" rx="1.8" fill="#FFFFFF"/>
+      <circle cy="6" r="2.2" fill="#FFFFFF"/>
+    </g>
+  </defs>
+  <rect width="600" height="760" rx="24" fill="#F1F4F2"/>
+
+  <!-- Handy -->
+  <rect x="24" y="28" width="316" height="704" rx="40" fill="#0E1C1B"/>
+  <rect x="36" y="40" width="292" height="680" rx="30" fill="#FFFFFF"/>
+  <rect x="146" y="50" width="72" height="14" rx="7" fill="#0E1C1B"/>
+  <!-- Kopfzeile -->
+  <path d="M36 70 h292 v58 h-292 z" fill="#F1F4F2"/>
+  <circle cx="72" cy="99" r="18" fill="#D6EDE8"/>
+  <text x="72" y="105" font-size="16" font-weight="700" fill="#0B776B" text-anchor="middle">T</text>
+  <text x="100" y="96" font-size="18" font-weight="700" fill="#0E1C1B">Tim_88</text>
+  <text x="100" y="117" font-size="15" fill="#55645F">Anfrage: Sammelkarte</text>
+  <path d="M36 128 h292" stroke="#D3DCD8"/>
+
+  <g font-size="17" fill="#0E1C1B">
+    <!-- 1 -->
+    <rect x="50" y="146" width="210" height="80" rx="16" fill="#F1F4F2"/>
+    <text x="66" y="174">Hallo, ist die Karte</text>
+    <text x="66" y="198">noch da? Nehme sie!</text>
+    <text x="66" y="216" font-size="12" fill="#55645F">10:02</text>
+    <!-- 2 eigene -->
+    <rect x="166" y="240" width="148" height="44" rx="16" fill="#0B776B"/>
+    <text x="182" y="268" fill="#FFFFFF">Ja, noch da.</text>
+    <!-- 3 F&F -->
+    <rect x="50" y="300" width="234" height="96" rx="16" fill="#FDECEC" stroke="#E5484D" stroke-width="2"/>
+    <text x="66" y="328">Ich zahle per PayPal</text>
+    <text x="66" y="352" font-weight="700">„Freunde &amp; Familie“,</text>
+    <text x="66" y="376">geht schneller.</text>
+    <!-- 4 Link -->
+    <rect x="50" y="412" width="234" height="122" rx="16" fill="#FDECEC" stroke="#E5484D" stroke-width="2"/>
+    <text x="66" y="440">Oder bestätige den</text>
+    <text x="66" y="464">Verkauf hier:</text>
+    <rect x="64" y="478" width="206" height="42" rx="10" fill="#FFFFFF" stroke="#E5484D" stroke-width="1.5"/>
+    <path d="M80 499 h10 m-4 -5 l5 5 l-5 5" stroke="#E5484D" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="100" y="505" font-weight="700" fill="#E5484D">Zahlung bestätigen</text>
+    <!-- 5 Druck -->
+    <rect x="50" y="550" width="234" height="72" rx="16" fill="#FDECEC" stroke="#E5484D" stroke-width="2"/>
+    <text x="66" y="578">Bitte schnell, sonst</text>
+    <text x="66" y="602">kaufe ich woanders!</text>
+  </g>
+  <!-- Eingabe -->
+  <rect x="50" y="650" width="210" height="44" rx="22" fill="#F1F4F2" stroke="#D3DCD8"/>
+  <text x="70" y="678" font-size="16" fill="#55645F">Nachricht …</text>
+  <circle cx="290" cy="672" r="22" fill="#0B776B"/>
+  <path d="M281 672 h16 m-6 -6 l6 6 l-6 6" stroke="#FFFFFF" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Rechte Spalte -->
+  <text x="360" y="70" font-size="22" font-weight="700" fill="#0E1C1B">Masche</text>
+  <text x="360" y="98" font-size="22" font-weight="700" fill="#0E1C1B">erkennen</text>
+  <text x="360" y="128" font-size="18" fill="#55645F">fiktives Beispiel</text>
+
+  <g stroke="#E5484D" stroke-width="2" stroke-dasharray="4 4">
+    <path d="M284 348 H360"/><path d="M284 470 H360"/><path d="M284 586 H360"/>
+  </g>
+  <g>
+    <rect x="360" y="296" width="220" height="104" rx="14" fill="#FFFFFF" stroke="#E5484D" stroke-width="2"/>
+    <use href="#warn" x="572" y="298"/>
+    <text x="374" y="328" font-size="19" font-weight="700" fill="#E5484D">Kein Käuferschutz</text>
+    <text x="374" y="356" font-size="18" fill="#55645F">„Freunde &amp; Familie“</text>
+    <text x="374" y="380" font-size="18" fill="#55645F">nur für Bekannte</text>
+
+    <rect x="360" y="418" width="220" height="104" rx="14" fill="#FFFFFF" stroke="#E5484D" stroke-width="2"/>
+    <use href="#warn" x="572" y="420"/>
+    <text x="374" y="450" font-size="19" font-weight="700" fill="#E5484D">Link nie öffnen</text>
+    <text x="374" y="478" font-size="18" fill="#55645F">Phishing: Daten</text>
+    <text x="374" y="502" font-size="18" fill="#55645F">werden abgegriffen</text>
+
+    <rect x="360" y="540" width="220" height="104" rx="14" fill="#FFFFFF" stroke="#E5484D" stroke-width="2"/>
+    <use href="#warn" x="572" y="542"/>
+    <text x="374" y="572" font-size="19" font-weight="700" fill="#E5484D">Zeitdruck = Masche</text>
+    <text x="374" y="600" font-size="18" fill="#55645F">Ruhe bewahren,</text>
+    <text x="374" y="624" font-size="18" fill="#55645F">nichts überstürzen</text>
+  </g>
+  <g font-size="18" fill="#0B776B" font-weight="600">
+    <text x="360" y="676">Sicher: Barzahlung bei</text>
+    <text x="360" y="700">Abholung oder Zahlung</text>
+    <text x="360" y="724">mit Käuferschutz</text>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Ablauf, wenn ein Set aus dem Sortiment genommen wird, und Quellen zum Prüfen</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">Vom Regal zum Sammlerstück: EOL-Ablauf</text>
+
+  <!-- Zeitstrahl vertikal -->
+  <path d="M70 100 V388" stroke="#D3DCD8" stroke-width="4" stroke-linecap="round"/>
+  <g>
+    <circle cx="70" cy="104" r="14" fill="#0B776B"/>
+    <circle cx="70" cy="176" r="14" fill="#F6C343"/>
+    <circle cx="70" cy="248" r="14" fill="#0B776B"/>
+    <circle cx="70" cy="320" r="14" fill="#E5484D"/>
+    <circle cx="70" cy="392" r="14" fill="#FFFFFF" stroke="#0B776B" stroke-width="4"/>
+  </g>
+  <g font-size="20" font-weight="700" fill="#0E1C1B">
+    <text x="100" y="104">Im Handel</text>
+    <text x="100" y="176">„Einstellung in Kürze“</text>
+    <text x="100" y="248">Restbestände</text>
+    <text x="100" y="320">„Altes Produkt“</text>
+    <text x="100" y="392">Sekundärmarkt</text>
+  </g>
+  <g font-size="18" fill="#55645F">
+    <text x="100" y="130">regulär erhältlich, oft mit Rabatt</text>
+    <text x="100" y="202">Hinweis im LEGO Shop</text>
+    <text x="100" y="274">Händler verkaufen Lager ab</text>
+    <text x="100" y="346">bei LEGO nicht mehr kaufbar</text>
+    <text x="100" y="418">Preis kann steigen, stagnieren, fallen</text>
+  </g>
+
+  <!-- Quellenbox -->
+  <rect x="490" y="96" width="270" height="250" rx="16" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+  <rect x="490" y="96" width="270" height="52" rx="16" fill="#D6EDE8"/>
+  <rect x="490" y="132" width="270" height="16" fill="#D6EDE8"/>
+  <text x="512" y="130" font-size="20" font-weight="700" fill="#0B776B">EOL-Datum prüfen</text>
+  <g font-size="18" fill="#0E1C1B">
+    <circle cx="518" cy="182" r="5" fill="#0B776B"/><text x="534" y="188">Status im LEGO Shop</text>
+    <circle cx="518" cy="222" r="5" fill="#0B776B"/><text x="534" y="228">Brickset</text>
+    <circle cx="518" cy="262" r="5" fill="#0B776B"/><text x="534" y="268">Brick-Tracker</text>
+    <circle cx="518" cy="302" r="5" fill="#0B776B"/><text x="534" y="308">perldeals EOL-Liste</text>
+  </g>
+  <rect x="490" y="366" width="270" height="62" rx="14" fill="#F6C343" fill-opacity="0.22"/>
+  <text x="510" y="394" font-size="18" font-weight="700" fill="#0E1C1B">Daten sind Prognosen,</text>
+  <text x="510" y="418" font-size="18" fill="#0E1C1B">LEGO kann verlängern.</text>
+  <text x="40" y="462" font-size="18" fill="#55645F">Schematisch – keine Garantie für eine Wertsteigerung.</text>
+</svg>

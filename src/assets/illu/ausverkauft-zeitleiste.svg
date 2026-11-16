@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Zeitleiste von der Ankündigung bis zum Nachdruck mit Preisverlauf</title>
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B776B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0B776B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">Vom Release zum Nachdruck</text>
+
+  <!-- Achse Preis -->
+  <path d="M60 310 V110" stroke="#D3DCD8" stroke-width="2"/>
+  <text x="48" y="210" font-size="18" fill="#55645F" text-anchor="middle" transform="rotate(-90 48 210)">Preis</text>
+
+  <!-- Kurve -->
+  <path d="M100 270 C155 270 185 252 232 248 C285 244 312 196 350 182 C400 164 425 118 466 118 C512 118 542 196 588 204 C640 214 670 240 710 246 L710 310 L100 310 Z" fill="url(#area)"/>
+  <path d="M100 270 C155 270 185 252 232 248 C285 244 312 196 350 182 C400 164 425 118 466 118 C512 118 542 196 588 204 C640 214 670 240 710 246" fill="none" stroke="#0B776B" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#FFFFFF" stroke="#0B776B" stroke-width="3">
+    <circle cx="100" cy="270" r="6"/><circle cx="232" cy="248" r="6"/><circle cx="350" cy="182" r="6"/><circle cx="466" cy="118" r="6"/><circle cx="588" cy="204" r="6"/><circle cx="710" cy="246" r="6"/>
+  </g>
+  <!-- Hinweis Release -->
+  <rect x="312" y="196" width="76" height="26" rx="13" fill="#E5484D"/>
+  <text x="350" y="214" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">weg!</text>
+
+  <!-- Fähnchen -->
+  <g>
+    <path d="M160 268 V140" stroke="#0E1C1B" stroke-width="2"/>
+    <rect x="160" y="110" width="176" height="36" rx="8" fill="#F6C343"/>
+    <text x="174" y="134" font-size="18" font-weight="700" fill="#0E1C1B">Preisalarm setzen</text>
+  </g>
+  <g>
+    <path d="M610 208 V120" stroke="#0E1C1B" stroke-width="2"/>
+    <rect x="562" y="86" width="204" height="36" rx="8" fill="#F6C343"/>
+    <text x="578" y="110" font-size="18" font-weight="700" fill="#0E1C1B">Nachdruck abwarten</text>
+  </g>
+
+  <!-- Zeitleiste -->
+  <path d="M70 340 H730" stroke="#55645F" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#0B776B">
+    <circle cx="100" cy="340" r="8"/><circle cx="232" cy="340" r="8"/><circle cx="350" cy="340" r="8"/><circle cx="466" cy="340" r="8"/><circle cx="588" cy="340" r="8"/><circle cx="710" cy="340" r="8"/>
+  </g>
+  <g stroke="#D3DCD8" stroke-width="1.5" stroke-dasharray="3 4">
+    <path d="M100 278 V332"/><path d="M232 256 V332"/><path d="M350 190 V332"/><path d="M466 126 V332"/><path d="M588 212 V332"/><path d="M710 254 V332"/>
+  </g>
+  <g text-anchor="middle" font-size="18" font-weight="700" fill="#0E1C1B">
+    <text x="100" y="376">Ankündigung</text>
+    <text x="232" y="376">Vorbestellung</text>
+    <text x="350" y="376">Release</text>
+    <text x="466" y="376">Preisspitze</text>
+    <text x="588" y="376">Nachdruck</text>
+    <text x="710" y="376">Preis sinkt</text>
+  </g>
+  <g text-anchor="middle" font-size="18" fill="#55645F">
+    <text x="350" y="400">oft sofort weg</text>
+    <text x="466" y="400">Hype</text>
+    <text x="710" y="400">mehr Ware</text>
+  </g>
+  <text x="40" y="450" font-size="18" fill="#55645F">Schematisch – der Verlauf ist bei jedem Produkt anders.</text>
+</svg>

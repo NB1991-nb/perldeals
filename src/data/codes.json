@@ -1,0 +1,1005 @@
+[
+ {
+  "shop": "otto",
+  "shopName": "OTTO",
+  "code": null,
+  "title": {
+   "de": "10 € Rabatt ab 50 € für Neukunden",
+   "en": "€10 off orders over €50 for new customers"
+  },
+  "conditions": {
+   "de": "Erstbestellung, nur ohne bestehendes OTTO-Kundenkonto; MBW 50 €; nur Artikel von OTTO als Verkäufer; ausgenommen Multimedia und Spielwaren; Aktivierung über die OTTO-Gutscheinseite; 1 Aktionsgutschein pro Bestellung.",
+   "en": "First order only, no existing OTTO account; minimum order €50; items sold by OTTO only; excludes multimedia and toys; activate via OTTO's voucher page; one promo voucher per order."
+  },
+  "validUntil": "2026-11-05",
+  "landing": "https://www.otto.de/shoppages/gutscheine",
+  "source": "https://www.otto.de/shoppages/gutscheine",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "otto",
+  "shopName": "OTTO",
+  "code": null,
+  "title": {
+   "de": "Living Deals: Rabatte auf Möbel, Heimtextilien & Deko",
+   "en": "Living Deals: discounts on furniture, home textiles & decor"
+  },
+  "conditions": {
+   "de": "Reduzierte Preise und Extra-Rabatte auf ausgewählte Wohnartikel, solange der Vorrat reicht; kein Code nötig.",
+   "en": "Reduced prices and extra discounts on selected home items while stocks last; no code needed."
+  },
+  "validUntil": "2026-11-02",
+  "landing": "https://www.otto.de/shoppages/gutscheine",
+  "source": "https://www.otto.de/shoppages/gutscheine",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "alternate",
+  "shopName": "ALTERNATE",
+  "code": null,
+  "title": {
+   "de": "ALTERNATE Outlet: B-Ware & Restposten günstiger",
+   "en": "ALTERNATE Outlet: open-box & clearance items at reduced prices"
+  },
+  "conditions": {
+   "de": "Geprüfte B-Ware, Retouren, Ausstellungsstücke und Restposten (Hardware, Notebooks, TVs, Haushalt, Werkzeug); Beispiele ca. 15–56 % unter Normalpreis; 24 Monate Gewährleistung; nicht neuwertig.",
+   "en": "Tested open-box, returns, display units and clearance (hardware, notebooks, TVs, appliances, tools); examples about 15–56% below regular price; 24-month warranty; not sold as new."
+  },
+  "validUntil": null,
+  "landing": "https://www.alternate.de/Outlet",
+  "source": "https://www.alternate.de/Outlet",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "alternate",
+  "shopName": "ALTERNATE",
+  "code": null,
+  "title": {
+   "de": "TagesDeals: täglich neue Angebote",
+   "en": "Daily Deals: new offers every day"
+  },
+  "conditions": {
+   "de": "Täglich wechselnde Angebote, nur solange der Vorrat reicht; kein Code nötig.",
+   "en": "Offers change daily, while stocks last; no code needed."
+  },
+  "validUntil": null,
+  "landing": "https://www.alternate.de/TagesDeals",
+  "source": "https://www.mydealz.de/gutscheine/alternate-de",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "sharkninja",
+  "shopName": "SharkNinja",
+  "code": null,
+  "title": {
+   "de": "10 % Rabatt auf die erste Bestellung bei Newsletter-Anmeldung",
+   "en": "10% off your first order when you sign up for the newsletter"
+  },
+  "conditions": {
+   "de": "Newsletter-Anmeldung mit E-Mail-Bestätigung; Rabatt gilt für die erste Bestellung; kein Mindestbestellwert angegeben.",
+   "en": "Newsletter sign-up with email confirmation; discount applies to the first order; no minimum order stated."
+  },
+  "validUntil": null,
+  "landing": "https://www.sharkninja.de/newsletter.html",
+  "source": "https://www.sharkninja.de/gutscheincodes.html",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "sharkninja",
+  "shopName": "SharkNinja",
+  "code": null,
+  "title": {
+   "de": "Bis zu 15 % Studentenrabatt",
+   "en": "Up to 15% student discount"
+  },
+  "conditions": {
+   "de": "Nur für Studierende nach Verifizierung (Studentenrabatt.de/UNiDays); ausgenommen Zubehör, Ersatzteile und ausgewählte Neuheiten.",
+   "en": "Students only after verification (Studentenrabatt.de/UNiDays); excludes accessories, spare parts and selected new products."
+  },
+  "validUntil": null,
+  "landing": "https://www.sharkninja.de/studentinnen-rabatt.html",
+  "source": "https://www.sharkninja.de/studentinnen-rabatt.html",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "myprotein",
+  "shopName": "Myprotein",
+  "code": "NEU40",
+  "title": {
+   "de": "40 % Rabatt auf Bestseller für Neukunden",
+   "en": "40% off bestsellers for new customers"
+  },
+  "conditions": {
+   "de": "Nur Neukunden (E-Mail noch nicht registriert); gilt für Bestseller-Produkte, Code im Warenkorb eingeben; nicht alle Produkte sind vegan – auf das Vegan-Label achten.",
+   "en": "New customers only (email not yet registered); valid on bestseller products, enter code in the basket; not all products are vegan – check the vegan label."
+  },
+  "validUntil": null,
+  "landing": "https://de.myprotein.com/c/neue-kunden/",
+  "source": "https://de.myprotein.com/c/neue-kunden/",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "myprotein",
+  "shopName": "Myprotein",
+  "code": null,
+  "title": {
+   "de": "15 % Rabatt auf die erste Bestellung bei Newsletter-Anmeldung",
+   "en": "15% off your first order with newsletter sign-up"
+  },
+  "conditions": {
+   "de": "Newsletter-Anmeldung über das Pop-up im Shop; gilt für die erste Bestellung; nur ein Gutscheincode pro Bestellung.",
+   "en": "Newsletter sign-up via the shop pop-up; valid on the first order; one voucher code per order."
+  },
+  "validUntil": null,
+  "landing": "https://de.myprotein.com/c/all-offers/neukunden-deals/",
+  "source": "https://de.myprotein.com/c/all-offers/neukunden-deals/",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "myprotein",
+  "shopName": "Myprotein",
+  "code": null,
+  "title": {
+   "de": "Bis zu 30 % auf Bestseller + 10 % extra auf Vitamine & Kleidung",
+   "en": "Up to 30% off bestsellers + extra 10% off vitamins & clothing"
+  },
+  "conditions": {
+   "de": "Ohne Code, Rabatt bereits im Preis; Gratis-Versand ab 50 €; App-Neukunden erhalten 10 % extra und Gratis-Versand; nicht alle Produkte vegan.",
+   "en": "No code needed, discount already applied; free shipping from €50; new app customers get an extra 10% and free shipping; not all products are vegan."
+  },
+  "validUntil": null,
+  "landing": "https://de.myprotein.com/c/nutrition/vegan/",
+  "source": "https://de.myprotein.com/c/all-offers/neukunden-deals/",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "coolblue",
+  "shopName": "Coolblue",
+  "code": null,
+  "title": {
+   "de": "Alle Coolblue-Angebote gebündelt – mit Gratis-Lieferung",
+   "en": "All Coolblue deals in one place – with free delivery"
+  },
+  "conditions": {
+   "de": "Reduzierte Produkte, Kombivorteile und Cashback-Aktionen; Coolblue bietet laut eigener Aussage keine generischen Rabattcodes; vor 23:59 Uhr bestellt, morgen kostenlos geliefert (laut Shop).",
+   "en": "Reduced products, bundle savings and cashback offers; Coolblue says it has no generic discount codes; order before 23:59 for free next-day delivery (per shop)."
+  },
+  "validUntil": null,
+  "landing": "https://www.coolblue.de/angebot",
+  "source": "https://www.coolblue.de/angebot",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "coolblue",
+  "shopName": "Coolblue",
+  "code": null,
+  "title": {
+   "de": "Letzte-Chance-Produkte: Zweite-Chance-Ware mit Rabatt",
+   "en": "Last Chance products: discounted second-chance items"
+  },
+  "conditions": {
+   "de": "Zweite-Chance-Produkte, die Coolblue neu nicht mehr verkauft; Rabatt je Artikel unterschiedlich; nur solange der Vorrat reicht.",
+   "en": "Second-chance products Coolblue no longer sells new; discount varies per item; while stocks last."
+  },
+  "validUntil": null,
+  "landing": "https://www.coolblue.de/letzte-chance",
+  "source": "https://www.coolblue.de/letzte-chance",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "ebay",
+  "shopName": "eBay",
+  "code": "FREUDE26",
+  "title": {
+   "de": "Bis zu 20 % auf Mode, Uhren & Schmuck, 10 % auf Technik & Haushalt",
+   "en": "Up to 20% off fashion, watches & jewellery, 10% off tech & home"
+  },
+  "conditions": {
+   "de": "20 % auf Uhren, Echtschmuck, Damen- und Herrenmode; 10 % u. a. auf Computer, Handys, TV/Audio, Haushalt, Garten, Spielzeug; nur Artikel der eBay-Aktionsseite; MBW 15 €; max. 50 € Rabatt; 2x einlösbar; nicht auf Versand; ab 22.10.2026, 09:00 Uhr bis 04.11.2026, 23:59 Uhr.",
+   "en": "20% on watches, fine jewellery, women's and men's fashion; 10% on computers, phones, TV/audio, home, garden, toys and more; only items on eBay's promo page; minimum order €15; max. €50 off; usable twice; not on shipping; 22 Oct 2026, 09:00 to 4 Nov 2026, 23:59."
+  },
+  "validUntil": "2026-11-04",
+  "landing": "https://www.ebay.de/",
+  "source": "https://www.monsterdealz.de/shopping/ebay-gutschein-freude26-lieblinge2026/1612173",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "ebay",
+  "shopName": "eBay",
+  "code": "LIEBLINGE2026",
+  "title": {
+   "de": "15 % Rabatt auf Japan-Artikel",
+   "en": "15% off items from Japan"
+  },
+  "conditions": {
+   "de": "Nur Artikel der eBay-Japan-Aktionsseite; kein MBW; max. 1.000 € Rabatt; bis zu 10x einlösbar; nur eBay.de und eBay.at; nicht auf Versand; bis 04.11.2026, 23:59 Uhr.",
+   "en": "Only items on eBay's Japan promo page; no minimum order; max. €1,000 off; usable up to 10 times; eBay.de and eBay.at only; not on shipping; until 4 Nov 2026, 23:59."
+  },
+  "validUntil": "2026-11-04",
+  "landing": "https://www.ebay.de/",
+  "source": "https://www.monsterdealz.de/shopping/ebay-gutschein-freude26-lieblinge2026/1612173",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "amazon",
+  "shopName": "Amazon.de",
+  "code": null,
+  "title": {
+   "de": "Amazon-Coupons: wöchentlich neue Rabatte bis zu 50 %",
+   "en": "Amazon coupons: weekly discounts up to 50%"
+  },
+  "conditions": {
+   "de": "Coupon auf der Coupon- oder Produktseite aktivieren, Rabatt wird an der Kasse abgezogen; max. 5 rabattierte Artikel pro Bestellung; nicht kombinierbar.",
+   "en": "Activate the coupon on the coupons or product page, the discount is applied at checkout; max. 5 discounted items per order; not combinable."
+  },
+  "validUntil": null,
+  "landing": "https://www.amazon.de/coupons",
+  "source": "https://www.mydealz.de/gutscheine/Amazon-de",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "amazon",
+  "shopName": "Amazon.de",
+  "code": null,
+  "title": {
+   "de": "Prime Student: 6 Monate gratis, danach 50 % günstiger",
+   "en": "Prime Student: 6 months free, then 50% off"
+  },
+  "conditions": {
+   "de": "Nur für Studierende und Auszubildende; danach 4,49 €/Monat; jederzeit kündbar.",
+   "en": "Students and trainees only; then €4.49/month; cancel anytime."
+  },
+  "validUntil": null,
+  "landing": "https://www.amazon.de/joinstudent",
+  "source": "https://www.mydealz.de/gutscheine/Amazon-de",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "amazon",
+  "shopName": "Amazon.de",
+  "code": null,
+  "title": {
+   "de": "15 % Rabatt mit der Baby-Wunschliste",
+   "en": "15% off with the baby wish list"
+  },
+  "conditions": {
+   "de": "Nur Babyartikel, max. 300 € Ersparnis; ausgenommen u. a. Säuglingsnahrung, Windeln ab Größe 3, Bücher, Blitzangebote; Liste muss mind. 14 Tage aktiv sein; gilt ab 180 Tagen vor bis 90 Tage nach dem Geburtstermin.",
+   "en": "Baby items only, max. €300 saving; excludes formula, nappies size 3+, books, lightning deals and more; list must be active for at least 14 days; valid from 180 days before to 90 days after the due date."
+  },
+  "validUntil": null,
+  "landing": "https://www.amazon.de/baby-reg/homepage",
+  "source": "https://www.mydealz.de/gutscheine/Amazon-de",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "imou",
+  "shopName": "Imou",
+  "code": null,
+  "title": {
+   "de": "12 % Rabatt für Studierende und Senioren (ab 60)",
+   "en": "12% off for students and seniors (60+)"
+  },
+  "conditions": {
+   "de": "Nur nach Verifizierung über den Link im Shop-Banner (Studierende oder Personen ab 60 Jahren).",
+   "en": "Only after verification via the link in the shop banner (students or people aged 60+)."
+  },
+  "validUntil": null,
+  "landing": "https://store.imou.com/de-de/collections/all",
+  "source": "https://store.imou.com/de-de/collections/all",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "autofull",
+  "shopName": "AutoFull",
+  "code": null,
+  "title": {
+   "de": "Kostenloser Versand in ganz Europa & 30 Tage kostenlose Rückgabe",
+   "en": "Free shipping across Europe & 30-day free returns"
+  },
+  "conditions": {
+   "de": "Gratis-Versand und kostenlose Rücksendung; 3 Jahre Garantie; Ratenzahlung über Klarna möglich.",
+   "en": "Free shipping and free returns; 3-year warranty; Klarna instalments available."
+  },
+  "validUntil": null,
+  "landing": "https://www.autofull.eu/",
+  "source": "https://www.autofull.eu/",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "100percentpure",
+  "shopName": "100% PURE",
+  "code": null,
+  "title": {
+   "de": "Goldener Herbst Sale: bis zu 50 % auf ausgewählte Produkte",
+   "en": "Golden Autumn Sale: up to 50% off selected products"
+  },
+  "conditions": {
+   "de": "Ausgewählte Artikel mit 20–50 % Rabatt (z. B. Masken, Seren, Gesichtsspray); kein Code nötig; nicht jedes Produkt ist vegan – Produktangaben prüfen.",
+   "en": "Selected items 20–50% off (e.g. masks, serums, face mist); no code needed; not every product is vegan – check product details."
+  },
+  "validUntil": null,
+  "landing": "https://www.100percentpure.de/Sale_1",
+  "source": "https://www.100percentpure.de/Sale_1",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "100percentpure",
+  "shopName": "100% PURE",
+  "code": null,
+  "title": {
+   "de": "Kostenloser Versand ab 29 €",
+   "en": "Free shipping on orders over €29"
+  },
+  "conditions": {
+   "de": "Gilt für Lieferungen innerhalb Deutschlands ab 29 € Bestellwert.",
+   "en": "Applies to deliveries within Germany from €29 order value."
+  },
+  "validUntil": null,
+  "landing": "https://www.100percentpure.de/",
+  "source": "https://www.100percentpure.de/Sale_1",
+  "checked": "2026-10-22"
+ },
+ {
+  "shop": "sharkninja",
+  "shopName": "SharkNinja",
+  "code": "SAFT",
+  "title": {
+   "de": "40 € Rabatt auf den Ninja Kaltentsafter JC151EU",
+   "en": "€40 off the Ninja cold press juicer JC151EU"
+  },
+  "conditions": {
+   "de": "Mit Code 99,99 € für den Ninja Kaltentsafter mit Anti-Verstopfungs-Filter (JC151EU); gültig bis 01.11.2026.",
+   "en": "With the code the Ninja cold press juicer with anti-clog filter (JC151EU) costs €99.99; valid until 1 Nov 2026."
+  },
+  "validUntil": "2026-11-01",
+  "landing": "https://www.sharkninja.de/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "myprotein",
+  "shopName": "Myprotein",
+  "code": "DACH26",
+  "title": {
+   "de": "10 % Extra-Rabatt",
+   "en": "10% extra discount"
+  },
+  "conditions": {
+   "de": "Code im Warenkorb eingeben. Nicht alle Produkte sind vegan, achte auf das Vegan-Label.",
+   "en": "Enter the code in the basket. Not all products are vegan; look for the vegan label."
+  },
+  "validUntil": "2027-12-17",
+  "landing": "https://de.myprotein.com/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "imou",
+  "shopName": "Imou",
+  "code": "IMOUAFF5",
+  "title": {
+   "de": "5 % Rabatt auf alles",
+   "en": "5% off sitewide"
+  },
+  "conditions": {
+   "de": "Einmal pro Kunde einlösbar.",
+   "en": "Can be used once per customer."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://store.imou.com/de-de/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "autofull",
+  "shopName": "AutoFull",
+  "code": "AUTO10",
+  "title": {
+   "de": "10 % Rabatt auf Gaming-Stühle",
+   "en": "10% off gaming chairs"
+  },
+  "conditions": {
+   "de": "Nur für Lieferungen in die EU, einmal pro Kunde einlösbar.",
+   "en": "EU deliveries only, can be used once per customer."
+  },
+  "validUntil": "2026-11-21",
+  "landing": "https://www.autofull.eu/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "100percentpure",
+  "shopName": "100% PURE",
+  "code": "PrAw719",
+  "title": {
+   "de": "10 % Rabatt plus kostenlose Lieferung",
+   "en": "10% off plus free delivery"
+  },
+  "conditions": {
+   "de": "Nicht jedes Produkt ist vegan, bitte Produktangaben prüfen.",
+   "en": "Not every product is vegan; please check the product details."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://www.100percentpure.de/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "evercross",
+  "shopName": "EVERCROSS",
+  "code": "AWEV6",
+  "title": {
+   "de": "6 % Rabatt ab 149,99 €",
+   "en": "6% off orders from €149.99"
+  },
+  "conditions": {
+   "de": "Gilt für berechtigte Bestellungen ab 149,99 €.",
+   "en": "Valid on eligible orders from €149.99."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://evercross.eu/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "amazgifts",
+  "shopName": "Amazgifts",
+  "code": "Awin90de",
+  "title": {
+   "de": "10 % Rabatt auf personalisierte Geschenke",
+   "en": "10% off personalised gifts"
+  },
+  "conditions": {
+   "de": "Gilt für die gesamte Bestellung; kostenloser Versand laut Shop ab 60 €.",
+   "en": "Valid on the whole order; free shipping from €60 according to the shop."
+  },
+  "validUntil": "2029-01-24",
+  "landing": "https://amazgifts.de/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "notebooksbilliger",
+  "shopName": "notebooksbilliger.de",
+  "code": null,
+  "title": {
+   "de": "Campusprogramm: Angebote für Studierende, Azubis und Lehrkräfte",
+   "en": "Campus programme: offers for students, apprentices and teachers"
+  },
+  "conditions": {
+   "de": "Monatlich neue Campus-Angebote, u. a. Notebooks und Tablets; Nachweis nötig.",
+   "en": "New campus offers every month, including laptops and tablets; proof of status required."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://www.notebooksbilliger.de/campus",
+  "source": "awin",
+  "checked": "2026-10-25"
+ },
+ {
+  "shop": "autofull",
+  "shopName": "Autofull",
+  "code": "AFFNEW8",
+  "title": {
+   "de": "8 % Rabatt auf alles",
+   "en": "8% off everything"
+  },
+  "conditions": {
+   "de": "Einmal pro Kunde einlösbar.",
+   "en": "Can be used once per customer."
+  },
+  "validUntil": "2027-01-15",
+  "landing": "https://www.autofull.eu/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "100percentpure",
+  "shopName": "100% PURE",
+  "code": "PrAw384",
+  "title": {
+   "de": "6 € Gutschein + kostenlose Lieferung",
+   "en": "€6 voucher + free delivery"
+  },
+  "conditions": {
+   "de": "Direkt im Warenkorb eingeben.",
+   "en": "Enter at checkout."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://www.100percentpure.de/",
+  "source": "awin",
+  "checked": "2026-10-29"
+ },
+ {
+  "shop": "evercross",
+  "shopName": "EVERCROSS",
+  "code": "HERBST20",
+  "title": {
+   "de": "20 € Rabatt ab 250 € Bestellwert",
+   "en": "€20 off orders over €250"
+  },
+  "conditions": {
+   "de": "Mindestbestellwert 250 €; laut Awin-Aktion des Shops.",
+   "en": "Minimum order €250; per the shop’s Awin promotion."
+  },
+  "validUntil": "2026-11-29",
+  "landing": "https://evercross.eu/",
+  "source": "awin",
+  "checked": "2026-10-30"
+ },
+ {
+  "shop": "evercross",
+  "shopName": "EVERCROSS",
+  "code": "SAFE-Bike70",
+  "title": {
+   "de": "70 € Rabatt auf die E-Bikes EK30 und EK6 Ultra",
+   "en": "€70 off the EK30 and EK6 Ultra e-bikes"
+  },
+  "conditions": {
+   "de": "Gilt nur für die Modelle EK30 und EK6 Ultra; laut Awin-Aktion des Shops.",
+   "en": "Valid for the EK30 and EK6 Ultra only; per the shop’s Awin promotion."
+  },
+  "validUntil": "2026-11-29",
+  "landing": "https://evercross.eu/",
+  "source": "awin",
+  "checked": "2026-10-30"
+ },
+ {
+  "shop": "alldrei",
+  "shopName": "ALLDREI",
+  "code": "AWN60",
+  "title": {
+   "de": "60 € Sofortrabatt auf die SunEnergyXT-500-Serie",
+   "en": "€60 off the SunEnergyXT 500 series"
+  },
+  "conditions": {
+   "de": "Halloween-Aktion, gilt für die SunEnergyXT-500-Serie; Laufzeit laut Shop prüfen.",
+   "en": "Halloween promotion for the SunEnergyXT 500 series; check the end date in the shop."
+  },
+  "validUntil": null,
+  "landing": "https://www.alldrei.de/",
+  "source": "awin",
+  "checked": "2026-10-30"
+ },
+ {
+  "shop": "sirui",
+  "shopName": "SIRUI",
+  "code": "AFF-FSKV",
+  "title": {
+   "de": "Kostenloser Versand ab 200 € Bestellwert",
+   "en": "Free shipping on orders over €200"
+  },
+  "conditions": {
+   "de": "Ab 200 € Bestellwert, mit anderen Aktionen kombinierbar.",
+   "en": "Orders over €200, combinable with other offers."
+  },
+  "validUntil": "2028-09-28",
+  "landing": "https://siruishop.de/",
+  "source": "awin",
+  "checked": "2026-10-30"
+ },
+ {
+  "shop": "sharkninja",
+  "shopName": "SharkNinja",
+  "code": "SPOT10",
+  "title": {
+   "de": "10 % Rabatt auf Shark-Teppich- und Fleckenreiniger",
+   "en": "10% off Shark carpet and spot cleaners"
+  },
+  "conditions": {
+   "de": "Gilt für Shark-Teppich- und Fleckenreiniger im offiziellen Shop; laut Awin-Aktion bis 31.12.2026.",
+   "en": "Valid on Shark carpet and spot cleaners in the official shop; per the Awin promotion until 31 Dec 2026."
+  },
+  "validUntil": "2026-12-31",
+  "landing": "https://www.sharkninja.de/",
+  "source": "awin",
+  "checked": "2026-11-01"
+ },
+ {
+  "shop": "mediamarkt",
+  "shopName": "MediaMarkt",
+  "code": null,
+  "title": {
+   "de": "Black-Friday-Angebote 2026 ab 03.11.",
+   "en": "Black Friday 2026 deals from 3 November"
+  },
+  "conditions": {
+   "de": "Die Black-Friday-Aktion läuft laut MediaMarkt seit 03.11.2026, 9 Uhr, bis 30.11.2026, 08:59 Uhr (Black Friday: 27.11., Cyber Monday: 30.11.). Maßgeblich ist der Aktionszeitraum auf der jeweiligen Produktseite; einzelne Angebote enden früher.",
+   "en": "According to MediaMarkt the Black Friday campaign runs from 3 Nov 2026, 9:00, until 30 Nov 2026, 8:59 (Black Friday: 27 Nov, Cyber Monday: 30 Nov). The period shown on each product page is decisive; some offers end earlier."
+  },
+  "validUntil": "2026-11-30",
+  "landing": "https://www.mediamarkt.de/de/campaign/blackfriday",
+  "source": "https://www.mediamarkt.de/de/campaign/blackfriday",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "mediamarkt",
+  "shopName": "MediaMarkt",
+  "code": null,
+  "title": {
+   "de": "Verlängertes Umtauschrecht bis 31.12.2026",
+   "en": "Extended return period until 31 December 2026"
+  },
+  "conditions": {
+   "de": "Gilt für Ware, die zwischen 27.10.2026 und 01.12.2026 gekauft wurde (nicht bei Drittanbietern). Rückgabe vollständig und unbeschädigt bis einschließlich 31.12.2026, online oder im Markt.",
+   "en": "Applies to goods bought between 27 Oct 2026 and 1 Dec 2026 (not from third-party sellers). Return complete and undamaged until 31 Dec 2026, online or in store."
+  },
+  "validUntil": "2026-12-01",
+  "landing": "https://www.mediamarkt.de/de/campaign/blackfriday",
+  "source": "https://www.mediamarkt.de/de/campaign/blackfriday",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "mediamarkt",
+  "shopName": "MediaMarkt",
+  "code": null,
+  "title": {
+   "de": "0 % Finanzierung für myMediaMarkt-Kunden ab 100 €",
+   "en": "0% financing for myMediaMarkt members from €100"
+  },
+  "conditions": {
+   "de": "Nur für myMediaMarkt-Kunden: Ratenfinanzierung ab 100 € Finanzierungssumme, 0 % effektiver Jahreszins, Laufzeit produktabhängig bis zu 10 Monate, monatliche Mindestrate 10 €. Bonitätsprüfung über Finanzierungspartner.",
+   "en": "myMediaMarkt members only: instalment financing from €100, 0% APR, term up to 10 months depending on product, minimum monthly rate €10. Subject to credit check by the financing partner."
+  },
+  "validUntil": null,
+  "landing": "https://www.mediamarkt.de/de/about-us/app",
+  "source": "https://www.mediamarkt.de/de/about-us/app",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "saturn",
+  "shopName": "Saturn",
+  "code": null,
+  "title": {
+   "de": "Verlängertes Umtauschrecht bis 31.12.2026",
+   "en": "Extended return period until 31 December 2026"
+  },
+  "conditions": {
+   "de": "Gilt für Käufe zwischen 27.10.2026 und 01.12.2026, Rückgabe bis einschließlich 31.12.2026. Käufe bei Drittanbietern sind ausgenommen.",
+   "en": "Applies to purchases between 27 Oct 2026 and 1 Dec 2026; returns accepted until 31 Dec 2026. Purchases from third-party sellers are excluded."
+  },
+  "validUntil": "2026-12-01",
+  "landing": "https://www.saturn.de/de/campaign/angebote-aktionen",
+  "source": "https://www.saturn.de/de/campaign/angebote-aktionen",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "saturn",
+  "shopName": "Saturn",
+  "code": null,
+  "title": {
+   "de": "0 % Finanzierung für mySaturn-Kunden ab 100 €",
+   "en": "0% financing for mySaturn members from €100"
+  },
+  "conditions": {
+   "de": "Nur für mySaturn-Kunden: Ratenfinanzierung ab 100 € Finanzierungssumme, 0 % effektiver Jahreszins für bis zu 10 Monate, monatliche Mindestrate 10 €. Bonitätsprüfung erforderlich.",
+   "en": "mySaturn members only: instalment financing from €100, 0% APR for up to 10 months, minimum monthly rate €10. Credit check required."
+  },
+  "validUntil": null,
+  "landing": "https://www.saturn.de/de/campaign/angebote-aktionen",
+  "source": "https://www.saturn.de/de/specials/unsere-partner",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "saturn",
+  "shopName": "Saturn",
+  "code": null,
+  "title": {
+   "de": "30 Tage freiwilliges Rückgaberecht",
+   "en": "30-day voluntary return policy"
+  },
+  "conditions": {
+   "de": "Zusätzlich zum gesetzlichen Widerrufsrecht gilt ein freiwilliges Rückgaberecht von 30 Tagen ab Erhalt der Ware. Einige Produktarten sind ausgeschlossen.",
+   "en": "In addition to the statutory right of withdrawal there is a voluntary 30-day return right from receipt of the goods. Some product types are excluded."
+  },
+  "validUntil": null,
+  "landing": "https://www.saturn.de/de/specials/unsere-partner",
+  "source": "https://www.saturn.de/de/specials/unsere-partner",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "ikea",
+  "shopName": "IKEA",
+  "code": null,
+  "title": {
+   "de": "IKEA Family Treuebonus: 25 € Rabatt für 210 Punkte",
+   "en": "IKEA Family rewards: €25 off for 210 points"
+  },
+  "conditions": {
+   "de": "IKEA Family Mitglieder sammeln einen Punkt pro 5 € Einkauf. Prämien u. a.: 210 Punkte = 25 € Rabatt, 400 Punkte = 50 € Rabatt für den Einkauf; der Coupon erscheint im IKEA Family Profil.",
+   "en": "IKEA Family members collect one point per €5 spent. Rewards include 210 points = €25 off and 400 points = €50 off a purchase; the coupon appears in the IKEA Family profile."
+  },
+  "validUntil": null,
+  "landing": "https://www.ikea.com/de/de/ikea-family/benefits/rewards/",
+  "source": "https://www.ikea.com/de/de/ikea-family/benefits/rewards/",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "ikea",
+  "shopName": "IKEA",
+  "code": null,
+  "title": {
+   "de": "Gratis Heißgetränk für IKEA Family Mitglieder",
+   "en": "Free hot drink for IKEA Family members"
+  },
+  "conditions": {
+   "de": "Bei jedem Besuch gibt es ein Heißgetränk im Restaurant kostenlos. IKEA Family Karte an der Kasse vorzeigen.",
+   "en": "A free hot drink in the restaurant on every visit. Show your IKEA Family card at the checkout."
+  },
+  "validUntil": null,
+  "landing": "https://www.ikea.com/de/de/ikea-family/benefits/",
+  "source": "https://www.ikea.com/de/de/ikea-family/benefits/",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "ikea",
+  "shopName": "IKEA",
+  "code": null,
+  "title": {
+   "de": "15 % extra beim Rückkauf (Zweite Chance)",
+   "en": "15% extra on buyback (Second Chance)"
+  },
+  "conditions": {
+   "de": "IKEA Family Mitglieder erhalten bei der Rückgabe gebrauchter IKEA Produkte eine Guthabenkarte mit 15 % des Rückkaufpreises zusätzlich.",
+   "en": "IKEA Family members get a gift card with an additional 15% of the buyback price when returning used IKEA products."
+  },
+  "validUntil": null,
+  "landing": "https://www.ikea.com/de/de/ikea-family/benefits/",
+  "source": "https://www.ikea.com/de/de/ikea-family/benefits/",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "kaufland",
+  "shopName": "Kaufland Marktplatz",
+  "code": null,
+  "title": {
+   "de": "5 € Willkommens-Coupon ab 40 €",
+   "en": "€5 welcome coupon from €40"
+  },
+  "conditions": {
+   "de": "Für Kaufland Card XTRA Mitglieder nach Registrierung und Newsletter-Anmeldung: 5 € Rabatt auf eine Bestellung auf kaufland.de ab 40 € Mindesteinkaufswert (exkl. Versandkosten). Vier Wochen ab Erhalt gültig, einmal pro Kunde, nicht mit anderen XTRA Coupons und Gutscheinen kombinierbar.",
+   "en": "For Kaufland Card XTRA members after registering and subscribing to the newsletter: €5 off one order on kaufland.de with a minimum purchase of €40 (excluding shipping). Valid for four weeks from receipt, once per customer, not combinable with other XTRA coupons or vouchers."
+  },
+  "validUntil": null,
+  "landing": "https://filiale.kaufland.de/kaufland-xtra.html",
+  "source": "https://filiale.kaufland.de/kaufland-xtra.html",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "kaufland",
+  "shopName": "Kaufland Marktplatz",
+  "code": null,
+  "title": {
+   "de": "Treuepunkte: 1 Punkt pro 1 € mit Kaufland Card XTRA",
+   "en": "Loyalty points: 1 point per €1 with Kaufland Card XTRA"
+  },
+  "conditions": {
+   "de": "Auf kaufland.de gibt es pro 1 € Einkaufswert 1 Treuepunkt (exklusive Versandkosten); die Punkte werden erst 30 Tage nach dem Einkauf gutgeschrieben. Die Kaufland Card XTRA ist kostenlos; XTRA-Coupons müssen vor der Bestellung aktiviert werden, je Online-Einkauf ist nur ein Coupon einlösbar.",
+   "en": "On kaufland.de you earn 1 loyalty point per €1 spent (excluding shipping); points are credited 30 days after purchase. Kaufland Card XTRA is free; XTRA coupons must be activated before ordering and only one coupon can be redeemed per online order."
+  },
+  "validUntil": null,
+  "landing": "https://filiale.kaufland.de/kaufland-xtra.html",
+  "source": "https://filiale.kaufland.de/service/haeufige-fragen.html",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "rossmann",
+  "shopName": "Rossmann",
+  "code": null,
+  "title": {
+   "de": "App-Coupons auch im Onlineshop einlösbar",
+   "en": "App coupons also redeemable in the online shop"
+  },
+  "conditions": {
+   "de": "Coupons werden in der ROSSMANN-App aktiviert und gelten im Onlineshop, wenn man dort mit demselben Kundenkonto eingeloggt ist. Coupons mit dem Vermerk „Nur in der Filiale gültig“ (z. B. die 10%-Coupons) sind online nicht einlösbar.",
+   "en": "Coupons are activated in the ROSSMANN app and apply in the online shop when you are logged in with the same customer account. Coupons marked 'store only' (e.g. the 10% coupons) cannot be redeemed online."
+  },
+  "validUntil": null,
+  "landing": "https://www.rossmann.de/de/service-und-hilfe/coupons",
+  "source": "https://www.rossmann.de/de/service-und-hilfe/coupons",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "obi",
+  "shopName": "OBI",
+  "code": null,
+  "title": {
+   "de": "1 % Sofortrabatt mit heyOBI",
+   "en": "1% instant discount with heyOBI"
+  },
+  "conditions": {
+   "de": "Registrierte heyOBI Kunden erhalten 1 % Sofortrabatt auf den Einkauf: online wird er automatisch im Warenkorb abgezogen, im Markt die heyOBI Karte in der App scannen. Ausgeschlossen sind u. a. preisgebundene Produkte (Bücher, Zeitschriften), Pfand, Services, Mieten und Geschenkkarten.",
+   "en": "Registered heyOBI customers get a 1% instant discount: deducted automatically in the online basket, in store by scanning the heyOBI card in the app. Excludes price-fixed products (books, magazines), deposits, services, rentals and gift cards, among others."
+  },
+  "validUntil": null,
+  "landing": "https://www.obi.de/info/heyobi",
+  "source": "https://www.obi.de/info/heyobi",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "obi",
+  "shopName": "OBI",
+  "code": null,
+  "title": {
+   "de": "5 % Coupon für die heyOBI Newsletter-Anmeldung",
+   "en": "5% coupon for subscribing to the heyOBI newsletter"
+  },
+  "conditions": {
+   "de": "Für die Anmeldung zum heyOBI Newsletter gibt es einen 5 % Coupon für den Markteinkauf. Gilt nur bei erstmaliger Newsletter-Anmeldung.",
+   "en": "Subscribing to the heyOBI newsletter earns a 5% coupon for an in-store purchase. First-time newsletter sign-ups only."
+  },
+  "validUntil": null,
+  "landing": "https://www.obi.de/info/heyobi",
+  "source": "https://www.obi.de/info/heyobi/coupon-bedingungen",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "obi",
+  "shopName": "OBI",
+  "code": null,
+  "title": {
+   "de": "Black Week 2026 vom 16.11. bis 30.11.",
+   "en": "Black Week 2026 from 16 to 30 November"
+  },
+  "conditions": {
+   "de": "Die OBI Black Week beginnt am Montag, 16.11.2026, und endet am Cyber Monday, 30.11.2026; Black Friday ist am 27.11. Angebote nur solange der Vorrat reicht, Bedingungen stehen beim jeweiligen Angebot.",
+   "en": "OBI Black Week starts Monday 16 Nov 2026 and ends on Cyber Monday 30 Nov 2026; Black Friday is 27 Nov. Offers while stocks last; terms are listed with each offer."
+  },
+  "validUntil": "2026-11-30",
+  "landing": "https://www.obi.de/promo/black-week",
+  "source": "https://www.obi.de/promo/black-week",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "hornbach",
+  "shopName": "Hornbach",
+  "code": null,
+  "title": {
+   "de": "Dauertiefpreisgarantie: 30 Tage Preisdifferenz zurück",
+   "en": "Permanent low price guarantee: price difference refunded for 30 days"
+  },
+  "conditions": {
+   "de": "Senkt HORNBACH den Preis innerhalb von 30 Tagen nach dem Einkauf, wird die Differenz zum niedrigsten HORNBACH-Verkaufspreis in Deutschland ausgeglichen. Gilt nur für direkt von HORNBACH betriebene Onlineshops und Märkte; Gast-Bestellungen, Marktplatz-Käufe, Pfand und Versandkosten sind ausgeschlossen.",
+   "en": "If HORNBACH lowers the price within 30 days of purchase, the difference to HORNBACH's lowest selling price in Germany is refunded. Only for online shops and stores operated directly by HORNBACH; guest orders, marketplace purchases, deposits and shipping costs are excluded."
+  },
+  "validUntil": null,
+  "landing": "https://media.hornbach.de/cms/de/hornbach-agb-im-onlinehandel.pdf",
+  "source": "https://media.hornbach.de/cms/de/hornbach-agb-im-onlinehandel.pdf",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "decathlon",
+  "shopName": "Decathlon",
+  "code": null,
+  "title": {
+   "de": "Membership: 10 Punkte pro 1 €, Gutscheine ab 2.000 Punkten",
+   "en": "Membership: 10 points per €1, vouchers from 2,000 points"
+  },
+  "conditions": {
+   "de": "Im kostenlosen Membership-Programm gibt es 10 Punkte je 1 € Einkaufswert. 2.000 Punkte = 3 € Gutschein, 3.000 = 5 €, 5.500 = 10 €, 10.000 = 20 €.",
+   "en": "The free membership programme gives 10 points per €1 spent. 2,000 points = €3 voucher, 3,000 = €5, 5,500 = €10, 10,000 = €20."
+  },
+  "validUntil": null,
+  "landing": "https://www.decathlon.de/lp/i/membership_deutschland",
+  "source": "https://www.decathlon.de/lp/i/membership_deutschland",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "decathlon",
+  "shopName": "Decathlon",
+  "code": null,
+  "title": {
+   "de": "1.000 Willkommenspunkte + 500 Punkte für den ersten App-Einkauf",
+   "en": "1,000 welcome points + 500 points for the first app purchase"
+  },
+  "conditions": {
+   "de": "1.000 Punkte gibt es für die Konto-Registrierung (kostenloses Decathlon-Konto erforderlich), zusätzlich 500 Punkte beim ersten Einkauf über die Decathlon App.",
+   "en": "1,000 points for registering an account (free Decathlon account required), plus 500 points on the first purchase via the Decathlon app."
+  },
+  "validUntil": null,
+  "landing": "https://www.decathlon.de/lp/i/shopping-app",
+  "source": "https://www.decathlon.de/lp/i/membership_deutschland",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "tchibo",
+  "shopName": "Tchibo",
+  "code": null,
+  "title": {
+   "de": "Gratisversand ab 29 €",
+   "en": "Free shipping from €29"
+  },
+  "conditions": {
+   "de": "Standardversand innerhalb Deutschlands ist ab 29 € Bestellwert kostenlos, darunter 5,95 €. Ausgenommen sind Sperrgut (14,95 €) und Speditionsartikel (39,95 €); die Lieferung in eine Tchibo Filiale ist kostenfrei.",
+   "en": "Standard shipping within Germany is free from an order value of €29, otherwise €5.95. Bulky goods (€14.95) and freight items (€39.95) are excluded; delivery to a Tchibo store is free."
+  },
+  "validUntil": null,
+  "landing": "https://www.tchibo.de/c/service?question=68238&title=wie-hoch-sind-die-versandkosten-und-wann-ist-meine-lieferung-versandkostenfrei",
+  "source": "https://www.tchibo.de/c/service?question=68238&title=wie-hoch-sind-die-versandkosten-und-wann-ist-meine-lieferung-versandkostenfrei",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "tchibo",
+  "shopName": "Tchibo",
+  "code": null,
+  "title": {
+   "de": "10 % Willkommens-Gutschein für die Newsletter-Anmeldung",
+   "en": "10% welcome voucher for subscribing to the newsletter"
+  },
+  "conditions": {
+   "de": "Tchibo verspricht für die Newsletter-Anmeldung einen 10 % Willkommens-Gutschein. Mindestbestellwert, Ausschlüsse und Gültigkeit stehen in der Fußnote der Anmeldeseite bzw. im Gutschein.",
+   "en": "Tchibo offers a 10% welcome voucher for subscribing to its newsletter. Minimum order value, exclusions and validity are stated in the footnote on the sign-up page and in the voucher."
+  },
+  "validUntil": null,
+  "landing": "https://www.tchibo.de/c/subscribenewsletter",
+  "source": "https://www.tchibo.de/c/subscribenewsletter",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "tchibo",
+  "shopName": "Tchibo",
+  "code": null,
+  "title": {
+   "de": "TchiboCard: 2 TreueBohnen pro Euro, 100 = 1 €",
+   "en": "TchiboCard: 2 TreueBohnen per euro, 100 = €1"
+  },
+  "conditions": {
+   "de": "Mit der TchiboCard gibt es pro vollem Euro zwei TreueBohnen; 100 TreueBohnen entsprechen 1,00 € Preisvorteil (Mindesteinlösung 100). Nicht einlösbar u. a. für Blumen, Partnerangebote, Tchibo Mobilfunk und Geschenkkarten.",
+   "en": "With the TchiboCard you earn two TreueBohnen per full euro; 100 TreueBohnen equal €1.00 off (minimum redemption 100). Not redeemable for flowers, partner offers, Tchibo mobile or gift cards, among others."
+  },
+  "validUntil": null,
+  "landing": "https://www.tchibo.de/c/tchibocard",
+  "source": "https://www.tchibo.de/c/service-tchibocard-treuebohnen",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "galaxus",
+  "shopName": "Galaxus",
+  "code": null,
+  "title": {
+   "de": "Gratisversand ab 30 €",
+   "en": "Free shipping from €30"
+  },
+  "conditions": {
+   "de": "Ab 30 € Bestellwert liefert Galaxus kostenlos an Adressen in Deutschland; für Bestellungen unter 30 € fallen pauschal 3 € Versandkosten an. Kein Mindestbestellwert.",
+   "en": "From an order value of €30 Galaxus ships free to addresses in Germany; orders under €30 incur a flat €3 shipping fee. No minimum order value."
+  },
+  "validUntil": null,
+  "landing": "https://www.galaxus.de/de/guide/28",
+  "source": "https://www.galaxus.de/de/guide/28",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "galaxus",
+  "shopName": "Galaxus",
+  "code": null,
+  "title": {
+   "de": "100-Tage-Rückgaberecht",
+   "en": "100-day return policy"
+  },
+  "conditions": {
+   "de": "Galaxus nennt ein 100-Tage-Rückgaberecht. Die genauen Bedingungen stehen in den Rückgaberichtlinien des Shops.",
+   "en": "Galaxus states a 100-day return right. The exact terms are set out in the shop's return policy."
+  },
+  "validUntil": null,
+  "landing": "https://www.galaxus.de/de/wiki/6075",
+  "source": "https://www.galaxus.de/de/wiki/6075",
+  "checked": "2026-11-11"
+ },
+ {
+  "shop": "alternate",
+  "shopName": "ALTERNATE",
+  "code": "BlackNovember15",
+  "title": {
+   "de": "Black November: bis zu 25 % Extra-Rabatt auf ausgewählte LEGO-Sets",
+   "en": "Black November: up to 25% extra off selected LEGO sets"
+  },
+  "conditions": {
+   "de": "Code im Warenkorb eingeben; gilt für gekennzeichnete Artikel (bei LEGO meist 15–25 %), solange der Vorrat reicht. Zusätzlich PayPal-Aktion: 10 € Rabatt ab 100 €.",
+   "en": "Enter the code in the cart; valid for marked items (usually 15–25% on LEGO), while stocks last. Plus PayPal promo: €10 off from €100."
+  },
+  "validUntil": "2026-11-30",
+  "landing": "https://www.alternate.de/BlackNovember/Lego",
+  "source": "https://www.stonewars.de/angebote/lego-angebote-bei-alternate-november-26/",
+  "checked": "2026-11-14"
+ }
+]

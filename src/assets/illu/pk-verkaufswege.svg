@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Verkaufswege für Sammelkarten im Vergleich: Aufwand und möglicher Erlös</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">Verkaufswege im Vergleich</text>
+
+  <!-- Achsen -->
+  <path d="M100 392 V96" stroke="#55645F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M92 108 L100 94 L108 108" fill="none" stroke="#55645F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M100 392 H752" stroke="#55645F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M740 384 L754 392 L740 400" fill="none" stroke="#55645F" stroke-width="3" stroke-linejoin="round"/>
+  <text x="70" y="250" font-size="18" fill="#55645F" text-anchor="middle" transform="rotate(-90 70 250)">möglicher Erlös</text>
+  <text x="426" y="424" font-size="18" fill="#55645F" text-anchor="middle">Aufwand für dich (Fotos, Versand, Zeit)</text>
+
+  <!-- Hintergrundzonen -->
+  <rect x="116" y="270" width="270" height="110" rx="14" fill="#D6EDE8"/>
+  <text x="132" y="370" font-size="18" fill="#0B776B" font-weight="700">schnell und bequem</text>
+  <rect x="470" y="96" width="270" height="150" rx="14" fill="#F6C343" fill-opacity="0.22"/>
+  <text x="486" y="124" font-size="18" fill="#0E1C1B" font-weight="700">mehr Erlös, mehr Arbeit</text>
+
+  <!-- Verkaufswege -->
+  <g font-size="18" font-weight="700" text-anchor="middle">
+    <rect x="130" y="290" width="196" height="40" rx="20" fill="#0B776B"/>
+    <text x="228" y="316" fill="#FFFFFF">Ankauf / Händler</text>
+    <rect x="230" y="222" width="168" height="40" rx="20" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+    <text x="314" y="248" fill="#0E1C1B">Laden vor Ort</text>
+    <rect x="370" y="170" width="170" height="40" rx="20" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+    <text x="455" y="196" fill="#0E1C1B">Kleinanzeigen</text>
+    <rect x="560" y="140" width="96" height="40" rx="20" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+    <text x="608" y="166" fill="#0E1C1B">eBay</text>
+    <rect x="580" y="194" width="148" height="40" rx="20" fill="#FFFFFF" stroke="#0B776B" stroke-width="2"/>
+    <text x="654" y="220" fill="#0E1C1B">Cardmarket</text>
+  </g>
+
+  <!-- Bulk-Hinweis -->
+  <rect x="470" y="290" width="270" height="76" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <circle cx="494" cy="314" r="8" fill="#E5484D"/>
+  <text x="512" y="320" font-size="18" font-weight="700" fill="#0E1C1B">Bulk einzeln verkaufen</text>
+  <text x="494" y="348" font-size="18" fill="#55645F">lohnt sich selten</text>
+
+  <text x="40" y="460" font-size="18" fill="#55645F">Schematisch – vorher Gebühren und Versand durchrechnen.</text>
+</svg>

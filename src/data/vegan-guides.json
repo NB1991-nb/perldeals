@@ -1,0 +1,579 @@
+{
+  "updated": "2026-11-05",
+  "hub": {
+    "title": "Vegan leben: Ratgeber für Einstieg, Ernährung und Einkauf",
+    "desc": "Vegan werden, Nährstoffe nach DGE, Proteinquellen, günstig einkaufen, Siegel lesen, vegane Schuhe, Kosmetik, Backen und Geschenke: alltagsnahe Ratgeber mit Quellen und passenden Deals.",
+    "lead": "Du willst vegan leben, es ausprobieren oder einfach weniger tierische Produkte kaufen? Hier findest du sachliche Ratgeber zu den Fragen, die am häufigsten gestellt werden, mit Quellen von DGE, Verbraucherzentrale und BZfE und mit Links zu ausdrücklich veganen Deals.",
+    "intro": [
+      "Bei perldeals sammeln wir in der Kategorie Vegan nur Angebote, die ausdrücklich als vegan gekennzeichnet sind, von pflanzlichem Proteinpulver über vegane Schuhe bis zu veganer Kosmetik. Jeder Preis wird mit dem Preisverlauf verglichen, Fake-Rabatte fliegen raus.",
+      "Die Ratgeber auf dieser Seite beantworten die praktischen Fragen dahinter: Wie fange ich an? Welche Nährstoffe brauche ich im Blick? Woran erkenne ich, ob etwas wirklich vegan ist? Und wie bleibt das Ganze bezahlbar?",
+      "Wichtig: Unsere Texte ersetzen keine ärztliche oder ernährungsfachliche Beratung. Wenn du Fragen zu Nährstoffen, Blutwerten oder Nahrungsergänzung hast, lass dich ärztlich beraten, besonders in Schwangerschaft, Stillzeit, bei Kindern, im Alter oder bei Vorerkrankungen."
+    ]
+  },
+  "items": [
+    {
+      "slug": "vegan-werden",
+      "title": "Vegan werden: Der Einstieg Schritt für Schritt, ohne Stress",
+      "desc": "Vegan werden, aber wie anfangen? Ein entspannter Plan in Schritten: Lieblingsgerichte umbauen, Vorrat anlegen, Vitamin B12 einplanen, auswärts essen und Rückschläge gelassen nehmen.",
+      "lead": "Du musst nicht von heute auf morgen alles umstellen. Die meisten, die dauerhaft vegan leben, sind schrittweise reingewachsen. Hier ist ein Weg, der im Alltag funktioniert, mit den Punkten, die du von Anfang an im Blick haben solltest.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Fang mit Gerichten an, die du schon magst, und baue sie pflanzlich um. Lege einen kleinen Vorrat an Hülsenfrüchten, Vollkorn, Nüssen und Pflanzendrinks an. Plane von Anfang an ein Vitamin-B12-Präparat ein, denn laut Deutscher Gesellschaft für Ernährung (DGE) lässt sich B12 bei veganer Ernährung nur über Präparate sicher decken. Achte außerdem auf Jod (zum Beispiel Jodsalz). Und: Ein Ausrutscher ist kein Scheitern."
+        ]],
+        ["Was „vegan“ eigentlich bedeutet",
+          ["Vegan heißt: keine Lebensmittel und Zusatzstoffe tierischer Herkunft, also kein Fleisch, kein Fisch, keine Milchprodukte, keine Eier und kein Honig. Viele, die vegan leben, verzichten darüber hinaus auch bei Kleidung, Schuhen und Kosmetik auf tierische Materialien und Tierversuche.",
+          "Wie weit du gehst und in welchem Tempo, entscheidest du. Auch eine überwiegend pflanzliche Ernährung ist ein Schritt, und die DGE beschreibt eine pflanzenbetonte Ernährung mit wenig tierischen Lebensmitteln ebenfalls als deutlich umweltverträglicher als übliche Mischkost."]
+        ],
+        ["Schritt 1: Deine Lieblingsgerichte pflanzlich umbauen",
+          ["Statt jede Woche zehn neue Rezepte zu lernen, nimm die fünf Gerichte, die du am häufigsten isst, und tausche einzelne Zutaten: Bolognese mit roten Linsen oder Sojagranulat, Chili mit Bohnen statt Hack, Curry mit Kichererbsen oder Tofu, Pfannkuchen mit Pflanzendrink, Müsli mit Haferdrink.",
+          "So bleibt der Geschmack vertraut und du merkst schnell, dass „vegan kochen“ oft nur „ein bisschen anders kochen“ ist."]
+        ],
+        ["Schritt 2: Einen Grundvorrat anlegen",
+          ["Mit einem kleinen Vorrat kochst du auch spontan vegan: getrocknete oder gegarte Linsen, Kichererbsen und Bohnen, Vollkornnudeln, Reis, Haferflocken, Tofu, Nüsse und Samen, Rapsöl, Jodsalz, Tomaten aus der Dose, Tiefkühlgemüse, Gewürze und Hefeflocken für einen würzigen Geschmack.",
+          "Eine ausführliche, günstige Einkaufsliste findest du in unserem Ratgeber /wissen/vegan-guenstig-einkaufen/."]
+        ],
+        ["Schritt 3: Nährstoffe von Anfang an mitdenken",
+          ["Die DGE hält eine gut geplante vegane Ernährung für gesunde Erwachsene für gesundheitsfördernd, wenn ein Vitamin-B12-Präparat eingenommen wird und die Lebensmittelauswahl ausgewogen ist. Als potenziell kritisch nennt sie Vitamin B12, Jod, Protein, langkettige Omega-3-Fettsäuren, Vitamin D, Vitamin B2, Calcium, Eisen, Zink, Selen und gegebenenfalls Vitamin A.",
+          "Das klingt nach viel, lässt sich aber mit wenigen Gewohnheiten gut abdecken. Was genau dahintersteckt, erklären wir in /wissen/vegan-naehrstoffe-b12/. Lass deine Versorgung regelmäßig ärztlich prüfen und bei Fragen zu Präparaten ärztlich beraten.",
+          "Für Kinder, Jugendliche, Schwangere, Stillende und Senior*innen spricht die DGE weder eine Empfehlung für noch gegen vegane Ernährung aus. Hier sind fundiertes Wissen, Beratung durch Fachkräfte und ärztliche Begleitung besonders wichtig."]
+        ],
+        ["Schritt 4: Etiketten lesen lernen",
+          ["Viele Produkte sind von Natur aus vegan, ohne dass es draufsteht. Andere enthalten versteckte tierische Zutaten wie Gelatine, Karmin (E 120) oder Molkenpulver. „Vegan“ ist gesetzlich nicht geschützt, Siegel wie das V-Label geben dir aber Orientierung. Wie du schnell prüfst, ob etwas vegan ist, steht in /wissen/vegan-ist-das-vegan-siegel/."]
+        ],
+        ["Schritt 5: Auswärts, bei Freunden und in der Familie",
+          ["Schau vorher in die Speisekarte, viele Restaurants markieren vegane Gerichte. Bei Einladungen hilft es, etwas mitzubringen, das alle mögen, zum Beispiel einen Linsensalat oder einen veganen Kuchen. Erkläre deine Entscheidung, wenn du gefragt wirst, aber du musst niemanden überzeugen. Gelassenheit kommt meist besser an als Diskussionen am Esstisch."]
+        ],
+        ["Schritt 6: Kleidung, Schuhe und Kosmetik nach und nach",
+          ["Du musst nichts wegwerfen. Viele tragen ihre Lederschuhe auf und kaufen beim nächsten Mal bewusst vegane Alternativen. Bei Shampoo, Duschgel und Make-up kannst du einfach beim Nachkaufen auf vegane Produkte umsteigen. Tipps dazu: /wissen/vegan-schuhe-leder-alternativen/ und /wissen/vegan-kosmetik-erkennen/."]
+        ],
+        ["Checkliste für deine ersten vier Wochen",
+          ["Woche 1: Fünf Lieblingsgerichte pflanzlich umbauen, Pflanzendrink testen (angereichert mit Calcium, Jod und B12, wenn du keine Milchprodukte mehr isst).",
+          "Woche 2: Grundvorrat anlegen, Jodsalz verwenden, Vitamin-B12-Präparat besorgen und mit deiner Ärztin oder deinem Arzt besprechen.",
+          "Woche 3: Täglich Hülsenfrüchte, Vollkorn und Nüsse einplanen, zwei neue Rezepte ausprobieren.",
+          "Woche 4: Etiketten-Check beim Einkauf zur Gewohnheit machen, Lieblingsrestaurant mit veganer Option finden, Bilanz ziehen: Was klappt gut, was fehlt dir noch?"]
+        ],
+        ["Wie perldeals dir dabei hilft",
+          ["In unserer Kategorie Vegan findest du nur Angebote, die ausdrücklich als vegan gekennzeichnet sind, zum Beispiel veganes Proteinpulver, vegane Supplements, vegane Schuhe und Kosmetik. Mit dem Gutschein-Alarm (/gutschein-alarm/) bekommst du neue Rabattcodes per Mail, und auf WhatsApp (/whatsapp/) schicken wir dir die besten Deals direkt aufs Handy."]
+        ],
+        ["Quellen",
+          ["Deutsche Gesellschaft für Ernährung (DGE): DGE veröffentlicht neues Positionspapier zu veganer Ernährung (2024), https://www.dge.de/presse/meldungen/2024/positionspapier-zu-veganer-ernaehrung/",
+          "DGE: FAQ zur veganen Ernährung, https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/",
+          "Bundeszentrum für Ernährung (BZfE): Vegan und vollwertig essen, https://www.bzfe.de/presse/pressemeldungen-archiv-2024-und-frueher/vegan-und-vollwertig-essen",
+          "Verbraucherzentrale: Vegetarische und vegane Lebensmittel erkennen, https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/vegetarische-und-vegane-lebensmittel-erkennen-worauf-muss-ich-achten-68457"]
+        ]
+      ],
+      "faq": [
+        ["Wie fange ich am besten an, vegan zu leben?", "Am einfachsten Schritt für Schritt: Baue zuerst deine Lieblingsgerichte pflanzlich um, lege einen kleinen Vorrat an Hülsenfrüchten, Vollkorn und Nüssen an und plane von Anfang an ein Vitamin-B12-Präparat ein. Kleidung und Kosmetik kannst du nach und nach beim Nachkaufen umstellen."],
+        ["Muss ich als Veganer Tabletten nehmen?", "Für Vitamin B12 ja: Laut DGE lässt sich B12 bei veganer Ernährung nur über Präparate sicher decken. Andere Nährstoffe wie Jod oder Vitamin D können je nach Ernährung und Lebenssituation ebenfalls ergänzt werden müssen. Welche Präparate für dich sinnvoll sind, besprichst du am besten ärztlich."],
+        ["Ist vegane Ernährung gesund?", "Die DGE bewertet eine gut geplante vegane Ernährung mit B12-Präparat für gesunde Erwachsene als gesundheitsfördernd. Entscheidend ist die Lebensmittelauswahl: viel Gemüse, Obst, Hülsenfrüchte, Vollkorn und Nüsse, wenig stark verarbeitete Produkte mit viel Fett und Salz."],
+        ["Ist es schlimm, wenn ich mal nicht vegan esse?", "Nein. Viele Menschen stellen schrittweise um und es geht nicht um Perfektion. Jede pflanzliche Mahlzeit zählt. Wichtig ist, dass dein Weg zu deinem Alltag passt und du dranbleibst."],
+        ["Kann ich als Familie mit Kindern vegan leben?", "Für Kinder, Jugendliche, Schwangere und Stillende spricht die DGE weder eine Empfehlung dafür noch dagegen aus, weil die Datenlage begrenzt ist. Wenn du das planst, lass dich unbedingt von einer Ernährungsfachkraft beraten und die Versorgung ärztlich begleiten."]
+      ],
+      "links": ["/kategorie/vegan/", "/wissen/vegan-naehrstoffe-b12/", "/wissen/vegan-guenstig-einkaufen/", "/wissen/vegan-ist-das-vegan-siegel/", "/wissen/vegan-proteinquellen-proteinpulver/", "/gutschein-alarm/", "/whatsapp/"]
+    },
+    {
+      "slug": "vegan-naehrstoffe-b12",
+      "title": "Vitamin B12 und wichtige Nährstoffe bei veganer Ernährung: Was die DGE empfiehlt",
+      "desc": "Welche Nährstoffe sind bei veganer Ernährung kritisch? B12, Jod, Omega-3, Eisen, Calcium, Vitamin D, Zink, Selen und Protein nach DGE 2024: pflanzliche Quellen, Präparate und Blutwerte.",
+      "lead": "Vitamin B12 ist die Frage Nummer eins, wenn es um vegane Ernährung geht, aber nicht die einzige. Hier findest du die Nährstoffe, die die DGE als potenziell kritisch einstuft, woher du sie pflanzlich bekommst und wann ein Präparat sinnvoll ist. Sachlich, ohne Heilversprechen.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Vitamin B12 musst du bei veganer Ernährung als Präparat einnehmen, das ist laut DGE unverzichtbar. Für Jod nutzt du konsequent Jodsalz oder jodangereicherte Produkte. Omega-3 bekommst du über Raps-, Lein- und Walnussöl, für EPA und DHA gibt es Mikroalgenöl. Eisen, Calcium, Zink und Selen deckst du über Hülsenfrüchte, Vollkorn, Nüsse, Samen, Gemüse und calciumreiches Mineralwasser. Lass deine Werte regelmäßig ärztlich prüfen und kläre Präparate ärztlich ab."
+        ]],
+        ["Was die DGE 2024 sagt",
+          ["In ihrer Neubewertung von 2024 schreibt die DGE: Für gesunde Erwachsene kann eine vegane Ernährung gesundheitsfördernd sein, wenn ein Vitamin-B12-Präparat eingenommen wird, die Lebensmittelauswahl ausgewogen und gut geplant ist und potenziell kritische Nährstoffe ausreichend aufgenommen werden, gegebenenfalls mit weiteren Präparaten.",
+          "Als potenziell kritisch nennt die DGE: Vitamin B12, Jod, Protein, langkettige Omega-3-Fettsäuren, Vitamin D, Vitamin B2 (Riboflavin), Calcium, Eisen, Zink, Selen und gegebenenfalls Vitamin A.",
+          "Für Kinder, Jugendliche, Schwangere, Stillende und Senior*innen spricht die DGE weder eine Empfehlung für noch gegen vegane Ernährung aus. In diesen Lebensphasen sind Beratung durch Fachkräfte und regelmäßige ärztliche Kontrolle besonders wichtig."]
+        ],
+        ["Vitamin B12: das wichtigste Präparat",
+          ["Vitamin B12 kommt in nennenswerter Menge nur in tierischen Lebensmitteln vor. Laut DGE sichern Algen, Sauerkraut, Shiitake oder ähnliche Produkte die Versorgung nicht, manche darin enthaltenen B12-Analoga können sie sogar verschlechtern. Die DGE rät vegan lebenden Menschen deshalb, „unbedingt und dauerhaft“ ein Vitamin-B12-Präparat einzunehmen.",
+          "Ein B12-Mangel kann sich schleichend entwickeln und unter anderem zu Blutarmut und neurologischen Störungen führen. Zur Kontrolle empfiehlt die DGE, einen Funktionsmarker wie Methylmalonsäure (MMA) zusammen mit einem Statusmarker wie Serum-B12 oder Holo-Transcobalamin (Holo-TC) bestimmen zu lassen. Welche Dosis für dich passt, besprichst du am besten ärztlich."]
+        ],
+        ["Jod: Jodsalz ist der einfachste Weg",
+          ["Jod steckt vor allem in Seefisch und Milchprodukten, die bei veganer Ernährung wegfallen. Die DGE rät, konsequent jodiertes Speisesalz zu verwenden und jodangereicherte Pflanzendrinks oder jodiertes Meersalz zu wählen. Wenn das nicht reicht, können Erwachsene nach ärztlicher Absprache ein Jodpräparat einnehmen.",
+          "Vorsicht bei Algen: Algen ohne ausgewiesenen Jodgehalt empfiehlt die DGE nicht, weil eine Überdosierung möglich ist."]
+        ],
+        ["Omega-3-Fettsäuren: Öle und Mikroalgen",
+          ["Pflanzliche Öle wie Raps-, Lein- und Walnussöl liefern die Omega-3-Fettsäure Alpha-Linolensäure (ALA). Der Körper kann daraus nur begrenzt die langkettigen Fettsäuren EPA und DHA bilden. Für EPA und DHA gibt es Mikroalgenöle, die in der EU zugelassen sind. Tipp aus der DGE-FAQ: Viel Linolsäure (zum Beispiel aus Sonnenblumenöl) hemmt die Umwandlung, Rapsöl ist als Standardöl daher eine gute Wahl."]
+        ],
+        ["Eisen, Calcium, Zink und Selen: aus dem Essen",
+          ["Eisen: Hülsenfrüchte, Ölsamen und Vollkorn sind gute Quellen. Pflanzliches Eisen wird schlechter aufgenommen, Vitamin C hilft dabei. Iss also Paprika, Zitrusfrüchte oder Beeren dazu und trinke Kaffee oder schwarzen Tee lieber nicht direkt zur eisenreichen Mahlzeit.",
+          "Calcium: Grünkohl, Brokkoli, mit Calciumsalz hergestellter Tofu, calciumangereicherte Pflanzendrinks und Mineralwasser mit mehr als 150 mg Calcium pro Liter. Bio-Pflanzendrinks dürfen laut Verbraucherzentrale nicht mit Vitaminen und Mineralstoffen angereichert werden, hier musst du die Versorgung anders sicherstellen.",
+          "Zink: Vollkorn, Hülsenfrüchte, Ölsamen und Nüsse. Selen: unter anderem Kohl, Zwiebelgemüse, Pilze und Paranüsse."]
+        ],
+        ["Vitamin D, Vitamin B2 und Vitamin A",
+          ["Vitamin D bildet der Körper vor allem mit Sonnenlicht, die Menge schwankt aber stark mit Jahreszeit und Lebensstil. Lebensmittel liefern wenig. Laut DGE gibt es vegane Präparate auf Basis von Vitamin D2 oder veganem D3. Ob du eines brauchst, klärst du am besten ärztlich, zum Beispiel über einen Bluttest.",
+          "Vitamin B2 steckt unter anderem in Vollkorn, Hülsenfrüchten, Nüssen und Pilzen. Vitamin A nimmst du pflanzlich als Beta-Carotin auf, etwa aus Karotten, Kürbis oder Grünkohl, am besten mit etwas Fett."]
+        ],
+        ["Präparate: worauf du beim Kauf achten kannst",
+          ["Die DGE empfiehlt Monopräparate statt Multivitamin-Mischungen, damit du gezielt ergänzt, was dir fehlt. Achte bei Kapseln auf eine vegane Hülle, denn Gelatinekapseln sind nicht vegan. Mehr ist nicht besser: Nimm Präparate nicht auf Verdacht hoch dosiert, sondern lass dich ärztlich beraten.",
+          "Vegane Nahrungsergänzung im Angebot sammeln wir unter /angebote/vegane-supplements/. Vergleiche dort den Preis pro Tagesdosis statt pro Packung, und prüfe Rabatte mit dem Preisverlauf, wie in /wissen/fake-rabatte-erkennen/ erklärt."]
+        ],
+        ["Checkliste: deine Nährstoff-Routine",
+          ["Täglich: Vitamin-B12-Präparat nach ärztlicher Absprache, Jodsalz statt normalem Salz.",
+          "Täglich: Hülsenfrüchte, Vollkorn, Nüsse oder Samen, viel Gemüse und Obst, dazu Rapsöl oder Leinöl.",
+          "Bei Pflanzendrinks: angereicherte Sorten mit Calcium, Jod, B12 und B2 bevorzugen und vor dem Trinken schütteln.",
+          "Regelmäßig: Blutwerte (zum Beispiel B12-Status, Vitamin D, Eisen) ärztlich prüfen lassen.",
+          "In Schwangerschaft, Stillzeit, bei Kindern, im Alter oder bei Erkrankungen: immer fachlich beraten lassen."]
+        ],
+        ["Quellen",
+          ["DGE: Neubewertung der Position zu veganer Ernährung (2024), https://www.dge.de/wissenschaft/stellungnahmen-und-positionspapiere/positionen/neubewertung-der-position-zu-veganer-ernaehrung/",
+          "DGE: DGE veröffentlicht neues Positionspapier zu veganer Ernährung, https://www.dge.de/presse/meldungen/2024/positionspapier-zu-veganer-ernaehrung/",
+          "DGE: FAQ zur veganen Ernährung, https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/",
+          "DGE: FAQ Vitamin B12, https://www.dge.de/gesunde-ernaehrung/faq/vitamin-b12/",
+          "Verbraucherzentrale: Hafer, Kokos, Mandel, Reis, Soja – Milch-Alternativen unter der Lupe, https://www.verbraucherzentrale.de/wissen/lebensmittel/kennzeichnung-und-inhaltsstoffe/hafer-kokos-mandel-reis-soja-milchalternativen-unter-der-lupe-62593",
+          "BZfE: Vegan und vollwertig essen, https://www.bzfe.de/presse/pressemeldungen-archiv-2024-und-frueher/vegan-und-vollwertig-essen"]
+        ]
+      ],
+      "faq": [
+        ["Brauche ich als Veganer wirklich Vitamin B12 als Tablette?", "Ja. Laut DGE kommt Vitamin B12 in ausreichender Menge nur in tierischen Lebensmitteln vor, und Algen oder fermentierte Lebensmittel sichern die Versorgung nicht. Die DGE rät deshalb dauerhaft zu einem B12-Präparat. Die passende Dosis und Kontrolle besprichst du am besten ärztlich."],
+        ["Welche Blutwerte sollte ich als Veganer prüfen lassen?", "Für Vitamin B12 empfiehlt die DGE einen Statusmarker wie Holo-TC oder Serum-B12 zusammen mit einem Funktionsmarker wie Methylmalonsäure. Je nach Situation können auch Vitamin D, Eisen oder andere Werte sinnvoll sein. Was du prüfen lässt, entscheidest du gemeinsam mit deiner Ärztin oder deinem Arzt."],
+        ["Reicht Jodsalz bei veganer Ernährung?", "Jodsalz ist laut DGE der wichtigste Baustein, dazu jodangereicherte Pflanzendrinks oder jodiertes Meersalz. Wenn das nicht ausreicht, können Erwachsene nach ärztlicher Absprache ein Jodpräparat nehmen. Algen ohne angegebenen Jodgehalt solltest du meiden."],
+        ["Wo bekomme ich vegan Omega-3 her?", "Raps-, Lein- und Walnussöl liefern Alpha-Linolensäure. Für die langkettigen Fettsäuren EPA und DHA gibt es Mikroalgenöl, das in der EU zugelassen ist."],
+        ["Bekomme ich als Veganer genug Eisen?", "Hülsenfrüchte, Ölsamen und Vollkorn enthalten viel Eisen, es wird aber schlechter aufgenommen als Eisen aus Fleisch. Vitamin C zur Mahlzeit verbessert die Aufnahme, Kaffee und schwarzer Tee direkt dazu verschlechtern sie. Ob deine Versorgung passt, zeigt ein Bluttest beim Arzt."]
+      ],
+      "links": ["/angebote/vegane-supplements/", "/kategorie/vegan/", "/wissen/vegan-werden/", "/wissen/vegan-proteinquellen-proteinpulver/", "/wissen/vegan-guenstig-einkaufen/", "/wissen/fake-rabatte-erkennen/"],
+      "figures": [[1, "/assets/illu/vegan-naehrstoff-checkliste.svg", "Nährstoff-Checkliste nach DGE: Vitamin B12 als Präparat, Jod über Jodsalz, Omega-3 über Raps- und Leinöl oder Algenöl, Eisen, Calcium, Vitamin D, Zink und Selen über pflanzliche Quellen.", "Potenziell kritische Nährstoffe nach DGE und wie du sie im Alltag abdeckst."]]
+    },
+    {
+      "slug": "vegan-proteinquellen-proteinpulver",
+      "title": "Vegane Proteinquellen und Proteinpulver: So deckst du deinen Bedarf, auch beim Muskelaufbau",
+      "desc": "Wie viel Protein brauche ich vegan? Die besten pflanzlichen Proteinquellen, richtig kombinieren, wann veganes Proteinpulver sinnvoll ist und was du über Kreatin wissen solltest.",
+      "lead": "„Woher bekommst du dein Protein?“ ist wohl die Frage, die Veganer am häufigsten hören. Die gute Nachricht: Mit Hülsenfrüchten, Getreide, Tofu und Nüssen kommst du meist gut hin, auch wenn du Sport machst. Hier erfährst du, wie viel du brauchst, wie du kombinierst und wann Pulver praktisch sein kann.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Erwachsene bis 65 Jahre brauchen laut DGE etwa 0,8 g Protein pro Kilogramm Körpergewicht am Tag, ab 65 Jahren etwa 1 g. Wer mehr als fünf Stunden pro Woche trainiert, kann laut Verbraucherzentrale 1,2 bis 2,0 g pro Kilogramm brauchen. Gute vegane Quellen sind Linsen, Bohnen, Kichererbsen, Tofu, Tempeh, Sojadrink, Vollkorn, Haferflocken, Nüsse und Samen. Kombiniere Hülsenfrüchte mit Getreide. Proteinpulver ist kein Muss, kann aber im Alltag praktisch sein."
+        ]],
+        ["Wie viel Protein brauchst du?",
+          ["Die DGE nennt für Erwachsene bis 65 Jahre einen Referenzwert von 0,8 g Protein pro Kilogramm Körpergewicht und Tag. Bei 70 kg sind das rund 56 g. Ab 65 Jahren liegt der Wert bei 1 g pro Kilogramm. Das BZfE nennt für vegane Ernährung als Orientierung etwa 1 g pflanzliches Protein pro Kilogramm, weil pflanzliches Protein etwas schlechter verwertet wird.",
+          "Für Freizeitsport mit etwa vier bis fünf halbstündigen Einheiten pro Woche reicht laut BZfE die normale Empfehlung. Erst bei mehr als fünf Stunden Training pro Woche nennen BZfE und Verbraucherzentrale 1,2 bis 2,0 g pro Kilogramm. Auch dieser Bedarf lässt sich meist über normale Lebensmittel decken."]
+        ],
+        ["Die besten pflanzlichen Proteinquellen",
+          ["Hülsenfrüchte: Linsen, Kichererbsen, Bohnen, Erbsen und Sojabohnen enthalten laut Verbraucherzentrale etwa 20 bis 35 Prozent Protein und liefern zusätzlich Ballaststoffe, Eisen, Zink und Magnesium.",
+          "Sojaprodukte: Tofu, Tempeh, Sojagranulat und Sojadrink. Laut BZfE liefern 100 g Tofu etwa 16 g Protein.",
+          "Getreide und Pseudogetreide: Haferflocken, Vollkornbrot, Vollkornnudeln, Dinkel, Hirse, Quinoa. 100 g Vollkornnudeln (ungekocht) liefern laut BZfE etwa 14 g.",
+          "Nüsse und Samen: Erdnüsse, Mandeln, Kürbiskerne, Hanfsamen, Sonnenblumenkerne und Nussmus. Sie sind energiereich, deshalb lieber regelmäßig kleine Portionen."]
+        ],
+        ["Richtig kombinieren: Hülsenfrüchte plus Getreide",
+          ["Pflanzliche Proteinquellen haben unterschiedliche Aminosäure-Muster. Hülsenfrüchten fehlt vor allem Methionin, Getreide gleicht das aus. Die DGE schreibt, dass sich der Bedarf an unentbehrlichen Aminosäuren durch gezielte Kombination, zum Beispiel von Getreide und Hülsenfrüchten, bei ausreichender Energiezufuhr decken lässt.",
+          "Klassiker, die das ganz nebenbei erledigen: Linsensuppe mit Brot, Hummus mit Fladenbrot, Chili mit Reis, Erdnussbutter-Brot, Haferflocken mit Sojadrink, Bohnen-Burrito. Es muss nicht alles in einer Mahlzeit sein, über den Tag verteilt reicht."]
+        ],
+        ["Vegan Muskelaufbau: worauf es wirklich ankommt",
+          ["Für den Muskelaufbau zählen vor allem regelmäßiges Krafttraining, ausreichend Energie und genug Protein über den Tag. Laut Verbraucherzentrale unterscheiden sich tierisches und pflanzliches Eiweiß für den Muskelaufbau nicht nachweisbar, solange pflanzliche Quellen kombiniert werden.",
+          "Praktisch heißt das: Plane zu jeder Hauptmahlzeit eine Proteinquelle ein, zum Beispiel Tofu, Tempeh, Linsen oder Sojajoghurt, und ergänze bei Bedarf einen Snack wie Nussmus-Brot oder Edamame."]
+        ],
+        ["Veganes Proteinpulver: wann es sinnvoll ist",
+          ["Die Verbraucherzentrale sagt klar: Für durchschnittlich Sporttreibende sind teure Eiweißprodukte nicht nötig, und Pulver bieten keinen Vorteil gegenüber Eiweiß aus vollwertigen Lebensmitteln. Sinnvoll kombinierte pflanzliche Pulver sind aber hochwertig und können die Ernährung je nach Situation ergänzen, etwa wenn du viel unterwegs bist oder einen hohen Bedarf hast.",
+          "Worauf du beim Kauf achten kannst: Proteinquelle (Erbse, Soja, Reis oder eine Mischung), Proteingehalt pro Portion, Zutatenliste ohne unnötig viele Zusätze, Süßungsmittel nach Geschmack, Preis pro Kilogramm statt pro Packung. Achte darauf, dass das Produkt ausdrücklich als vegan gekennzeichnet ist, denn manche Mischungen enthalten Milchbestandteile.",
+          "Laut Verbraucherzentrale stuft die EFSA eine dauerhafte Zufuhr bis etwa zum Doppelten der Referenzmenge als unbedenklich ein. Bei Nierenerkrankungen oder anderen Vorerkrankungen sprich die Proteinzufuhr ärztlich ab."]
+        ],
+        ["Kreatin: von Natur aus vegan, aber nicht immer die Kapsel",
+          ["Kreatin spielt im Energiestoffwechsel der Muskulatur eine wichtige Rolle. Laut Verbraucherzentrale belegen zahlreiche Studien einen Einfluss auf die Leistung bei kurzer, intensiver Belastung. Die zulässige Werbeaussage setzt 3 g Kreatin pro Tag voraus, bei gesunden Nieren gilt diese Menge als sicher. Trink ausreichend, denn Kreatin bindet Wasser in den Muskelzellen.",
+          "Kreatin-Monohydrat wird synthetisch hergestellt und ist damit meist vegan, Kapselhüllen aus Gelatine aber nicht. Wenn du Fragen zu Nahrungsergänzung hast, lass dich ärztlich beraten."]
+        ],
+        ["Checkliste: Protein im Alltag",
+          ["Zu jeder Hauptmahlzeit eine Proteinquelle: Hülsenfrüchte, Tofu, Tempeh, Seitan oder Sojajoghurt.",
+          "Hülsenfrüchte und Getreide über den Tag kombinieren.",
+          "Snacks mit Protein: Nüsse, Edamame, Hummus, Nussmus-Brot.",
+          "Proteinpulver nur ergänzend und ausdrücklich vegan gekennzeichnet.",
+          "Preise pro Kilogramm vergleichen und Rabatte mit dem Preisverlauf prüfen.",
+          "Bei Vorerkrankungen Proteinmenge und Supplements ärztlich abklären."]
+        ],
+        ["Proteinpulver günstig kaufen",
+          ["Veganes Proteinpulver ist oft im Angebot, aber nicht jeder Rabatt ist echt. Auf /angebote/veganes-proteinpulver/ sammeln wir geprüfte Deals, unter anderem von Myprotein, wo es auch vegane Proteine und Kreatin gibt. Aktuelle Codes findest du bei unseren Rabatten (/rabatte/), und mit dem Gutschein-Alarm (/gutschein-alarm/) bekommst du neue Codes per Mail."]
+        ],
+        ["Quellen",
+          ["BZfE: Proteine, https://www.bzfe.de/essen-und-gesundheit/naehrstoffe/proteine",
+          "BZfE: Vegan und vollwertig essen, https://www.bzfe.de/presse/pressemeldungen-archiv-2024-und-frueher/vegan-und-vollwertig-essen",
+          "DGE: FAQ zur veganen Ernährung, https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/",
+          "Verbraucherzentrale: Linsen, Bohnen, Erbsen – pflanzliche Proteine in Hülsenfrüchten, https://www.verbraucherzentrale.de/node/12759",
+          "Verbraucherzentrale: Ernährung mit Extraportion Eiweiß – selbst für Sportler:innen überflüssig, https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/ernaehrung-mit-extraportion-eiweiss-selbst-fuer-sportlerinnen-ueberfluessig-24257",
+          "Verbraucherzentrale: Substanzen für Sporttreibende, https://www.verbraucherzentrale.de/wissen/lebensmittel/nahrungsergaenzungsmittel/substanzen-fuer-sporttreibende-das-sollten-sie-darueber-wissen-7513"]
+        ]
+      ],
+      "faq": [
+        ["Wie viel Protein brauche ich als Veganer am Tag?", "Die DGE nennt für Erwachsene bis 65 Jahre 0,8 g pro Kilogramm Körpergewicht, ab 65 Jahren 1 g. Das BZfE nennt für vegane Ernährung als Orientierung etwa 1 g pflanzliches Protein pro Kilogramm. Bei intensivem Training von mehr als fünf Stunden pro Woche können es 1,2 bis 2,0 g sein."],
+        ["Kann man vegan Muskeln aufbauen?", "Ja. Laut Verbraucherzentrale unterscheiden sich tierisches und pflanzliches Eiweiß für den Muskelaufbau nicht nachweisbar, wenn pflanzliche Quellen kombiniert werden. Entscheidend sind Krafttraining, genug Energie und regelmäßig Protein über den Tag."],
+        ["Welches vegane Lebensmittel hat am meisten Protein?", "Sehr proteinreich sind Hülsenfrüchte wie Linsen, Bohnen und Sojabohnen sowie Sojaprodukte wie Tofu, Tempeh und Sojagranulat. Auch Seitan, Kürbiskerne und Erdnüsse liefern viel Protein."],
+        ["Brauche ich als Veganer Proteinpulver?", "Nein, in der Regel nicht. Mit Hülsenfrüchten, Getreide, Tofu und Nüssen deckst du deinen Bedarf meist gut. Veganes Proteinpulver kann aber praktisch sein, wenn du wenig Zeit hast oder sehr viel trainierst."],
+        ["Ist Kreatin vegan?", "Kreatin-Monohydrat wird synthetisch hergestellt und ist meist vegan. Achte bei Kapseln auf eine vegane Hülle statt Gelatine und auf eine ausdrückliche Vegan-Kennzeichnung."]
+      ],
+      "links": ["/angebote/veganes-proteinpulver/", "/angebote/vegane-supplements/", "/angebote/nussbutter/", "/gutscheine/myprotein/", "/kategorie/vegan/", "/wissen/vegan-naehrstoffe-b12/", "/wissen/vegan-guenstig-einkaufen/", "/gutschein-alarm/"],
+      "figures": [[2, "/assets/illu/vegan-teller-protein.svg", "Teller-Modell mit veganen Proteinquellen: Hülsenfrüchte, Tofu und Tempeh, Vollkorn, Nüsse und Samen, dazu viel Gemüse.", "So sieht ein proteinreicher veganer Teller aus."]]
+    },
+    {
+      "slug": "vegan-guenstig-einkaufen",
+      "title": "Vegan günstig einkaufen: Einkaufsliste und Spartipps für jede Woche",
+      "desc": "Ist vegan teuer? Mit Grundnahrungsmitteln, Hülsenfrüchten, Eigenmarken, Tiefkühlgemüse und Vorkochen isst du vegan günstig. Mit Wocheneinkaufsliste und Tipps für echte Deals.",
+      "lead": "Vegan muss nicht teuer sein. Teuer wird es vor allem, wenn der Einkaufswagen voller Fertigprodukte ist. Wer auf Grundnahrungsmittel setzt, kommt oft günstiger weg. Hier ist eine Einkaufsliste, die dich durch die Woche bringt, und die Spartipps, die wirklich etwas bringen.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Die Basis einer günstigen veganen Küche sind Hülsenfrüchte, Getreide, Kartoffeln, Haferflocken, saisonales und tiefgekühltes Gemüse, Rapsöl und ein paar Nüsse. Vegane Ersatzprodukte sind praktisch, aber eher eine Ergänzung. Vergleiche den Grundpreis pro Kilogramm, kauf Eigenmarken und Vorräte im Angebot und koch größere Mengen vor."
+        ]],
+        ["Warum vegan oft günstiger ist, als du denkst",
+          ["Die Lebensmittel, die eine vegane Ernährung tragen, gehören zu den günstigsten im Supermarkt: getrocknete Linsen und Bohnen, Reis, Nudeln, Haferflocken, Kartoffeln, Zwiebeln, Karotten, Kohl. Viele davon sind lange haltbar.",
+          "Teurer wird es bei veganem Käse, Fleischersatz und Fertiggerichten. Die DGE weist außerdem darauf hin, dass stark verarbeitete Produkte mit viel Fett und Salz auch ernährungsphysiologisch ungünstig sein können. Gut für dein Budget und deine Ernährung: Ersatzprodukte gezielt einsetzen statt täglich."]
+        ],
+        ["Die Grund-Einkaufsliste",
+          ["Hülsenfrüchte: rote und braune Linsen, Kichererbsen, Kidneybohnen, weiße Bohnen, getrocknet oder im Glas bzw. in der Dose.",
+          "Getreide und Sättigungsbeilagen: Haferflocken, Reis, Vollkornnudeln, Vollkornbrot, Kartoffeln, Couscous oder Bulgur.",
+          "Gemüse und Obst: saisonal frisch (zum Beispiel Kohl, Karotten, Zwiebeln, Äpfel) plus Tiefkühlgemüse wie Erbsen, Spinat, Brokkoli und Beeren.",
+          "Protein-Extras: Tofu, Sojagranulat, Sojadrink (angereichert, wenn du keine Milchprodukte isst).",
+          "Fette, Nüsse, Samen: Rapsöl, Leinsamen, Erdnüsse oder Erdnussmus, Sonnenblumenkerne.",
+          "Würze: Jodsalz, Tomatenmark, passierte Tomaten, Gemüsebrühe, Sojasauce, Senf, Gewürze, Hefeflocken."]
+        ],
+        ["Wochenplan-Idee mit wenigen Zutaten",
+          ["Ein Topf, mehrere Mahlzeiten: Koche am Sonntag einen großen Topf Linsen-Bolognese. Montag mit Nudeln, Dienstag als Füllung für Ofenkartoffeln, Mittwoch als Lasagne-Schicht.",
+          "Chili sin Carne mit Bohnen und Mais: einmal mit Reis, einmal in Wraps.",
+          "Kichererbsen-Curry mit Tiefkühlspinat und Reis, Reste am nächsten Tag als Mittagessen.",
+          "Frühstück: Haferflocken mit Pflanzendrink, Leinsamen und Obst der Saison. Snacks: Erdnussbrot, Karotten mit Hummus."]
+        ],
+        ["Spartipps, die wirklich etwas bringen",
+          ["Grundpreis vergleichen: Der Preis pro Kilogramm oder Liter steht am Regal und zeigt dir, welche Packung wirklich günstiger ist.",
+          "Getrocknet statt Dose, wenn du Zeit hast: Getrocknete Hülsenfrüchte laut Verbraucherzentrale mindestens fünf Stunden einweichen, Einweichwasser wegschütten und in frischem Wasser garen. Dosen und Gläser sind dafür sofort fertig, einfach abspülen.",
+          "Eigenmarken probieren: Viele Grundprodukte wie Haferflocken, Linsen oder Tofu gibt es als günstige Handelsmarke.",
+          "Tiefkühlgemüse nutzen: Es verdirbt nicht so schnell und macht Resteverwertung leichter.",
+          "Vorkochen und einfrieren: Große Portionen sparen Zeit, Energie und Geld.",
+          "Vorräte im Angebot kaufen: Lange haltbare Produkte wie Nudeln, Hülsenfrüchte oder Proteinpulver lohnen sich, wenn der Preis wirklich gut ist."]
+        ],
+        ["Echte Deals erkennen statt Fake-Rabatte",
+          ["Gerade bei Proteinpulver, Supplements und Nussmus gibt es oft große Prozentzahlen. Ob ein Angebot gut ist, siehst du erst im Preisverlauf. Wir prüfen jeden Deal in unserer Kategorie Vegan gegen den Preisverlauf. Wie du das selbst machst, erklären wir in /wissen/fake-rabatte-erkennen/. Mit einem Preisalarm (/wissen/preisalarm-einrichten/) wartest du entspannt auf den richtigen Moment.",
+          "Bei Online-Shops wie Myprotein lohnen sich oft Rabattcodes. Aktuelle Codes findest du unter /rabatte/, und mit dem Gutschein-Alarm (/gutschein-alarm/) bekommst du neue Codes per Mail."]
+        ],
+        ["Checkliste für deinen Wocheneinkauf",
+          ["Wochenplan mit drei bis vier Grundgerichten machen und Reste einplanen.",
+          "Vorrat checken, bevor du losgehst.",
+          "Grundpreis vergleichen, Eigenmarken prüfen.",
+          "Hülsenfrüchte, Getreide, Kartoffeln und Tiefkühlgemüse als Basis.",
+          "Ersatzprodukte gezielt, nicht für jede Mahlzeit.",
+          "Jodsalz und angereicherten Pflanzendrink nicht vergessen.",
+          "Haltbare Produkte nur im echten Angebot auf Vorrat kaufen."]
+        ],
+        ["Quellen",
+          ["Verbraucherzentrale: Linsen, Bohnen, Erbsen – pflanzliche Proteine in Hülsenfrüchten, https://www.verbraucherzentrale.de/node/12759",
+          "Verbraucherzentrale: Milch-Alternativen unter der Lupe, https://www.verbraucherzentrale.de/wissen/lebensmittel/kennzeichnung-und-inhaltsstoffe/hafer-kokos-mandel-reis-soja-milchalternativen-unter-der-lupe-62593",
+          "DGE: FAQ zur veganen Ernährung (vegane Fertigprodukte, Pflanzendrinks), https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/",
+          "ProVeg: Plant-based on a budget, https://proveg.org/5-pros/plant-based-on-a-budget"]
+        ]
+      ],
+      "faq": [
+        ["Ist vegan essen teurer?", "Nicht unbedingt. Die Basis einer veganen Ernährung, also Hülsenfrüchte, Getreide, Kartoffeln und Gemüse, gehört zu den günstigsten Lebensmitteln. Teurer wird es vor allem mit vielen Ersatz- und Fertigprodukten."],
+        ["Was sollte ich als Veganer immer zu Hause haben?", "Linsen, Kichererbsen und Bohnen, Haferflocken, Reis, Nudeln, Kartoffeln, Tofu, Tiefkühlgemüse, passierte Tomaten, Rapsöl, Nüsse oder Samen, Jodsalz und Gewürze. Damit kochst du auch spontan ein vollwertiges Essen."],
+        ["Sind Dosen-Kichererbsen genauso gut wie getrocknete?", "Beide passen zu einer ausgewogenen Ernährung. Dosen und Gläser sind schon gegart und sofort verwendbar, du solltest sie vor dem Gebrauch abspülen. Getrocknete Hülsenfrüchte sind oft günstiger, müssen aber eingeweicht und gekocht werden."],
+        ["Wie spare ich bei veganem Proteinpulver?", "Vergleiche den Preis pro Kilogramm, prüfe Rabatte mit dem Preisverlauf und nutze Rabattcodes. Lange haltbare Produkte wie Proteinpulver kaufst du am besten im echten Angebot auf Vorrat."],
+        ["Lohnt sich vegane Ersatzprodukte im Angebot zu kaufen?", "Wenn du sie ohnehin nutzt und das Mindesthaltbarkeitsdatum passt, ja. Behalte aber im Kopf, dass Ersatzprodukte eher eine Ergänzung sind und Grundnahrungsmittel meist günstiger und nährstoffreicher sind."]
+      ],
+      "links": ["/kategorie/vegan/", "/angebote/veganes-proteinpulver/", "/angebote/nussbutter/", "/wissen/fake-rabatte-erkennen/", "/wissen/preisalarm-einrichten/", "/rabatte/", "/gutschein-alarm/", "/wissen/vegan-proteinquellen-proteinpulver/"],
+      "figures": [[2, "/assets/illu/vegan-einkaufskorb.svg", "Einkaufskorb mit günstigen veganen Grundnahrungsmitteln: Linsen, Kichererbsen, Haferflocken, Reis, Kartoffeln, Tiefkühlgemüse, Tofu, Rapsöl und Jodsalz.", "Günstige vegane Basis für die ganze Woche."]]
+    },
+    {
+      "slug": "vegan-ist-das-vegan-siegel",
+      "title": "Ist das vegan? Siegel, Zutaten und versteckte tierische Stoffe erkennen",
+      "desc": "Woran erkenne ich, ob ein Produkt vegan ist? Vegan-Siegel im Vergleich, versteckte Zutaten wie Gelatine, Karmin und L-Cystein, Spurenhinweise, Wein und Saft sowie Kleidung und Kosmetik.",
+      "lead": "„Vegan“ steht nicht auf allem, was vegan ist, und nicht alles, was harmlos aussieht, ist vegan. Mit ein paar Regeln findest du dich schnell zurecht: Siegel als Abkürzung, Zutatenliste als Kontrolle und die bekannten Stolperfallen im Hinterkopf.",
+      "sections": [
+        ["Kurz gesagt", [
+          "„Vegan“ ist gesetzlich nicht definiert, deutsche Lebensmittel-Leitsätze geben aber eine gemeinsame Auslegung vor. Siegel wie das V-Label oder die Veganblume der Vegan Society sind eine gute Orientierung. Ohne Siegel prüfst du die Zutatenliste auf tierische Stoffe wie Milch, Ei, Honig, Gelatine, Karmin (E 120) oder Schellack. Klärhilfsmittel bei Wein und Saft müssen nicht gekennzeichnet werden. Ein Spurenhinweis bedeutet nicht, dass ein Produkt nicht vegan ist."
+        ]],
+        ["Ist „vegan“ gesetzlich geschützt?",
+          ["Nein. Laut Verbraucherzentrale sind die Begriffe „vegan“ und „vegetarisch“ freiwillig und rechtlich nicht verbindlich festgelegt. Die Verbraucherschutzminister*innen der Länder haben sich aber auf Definitionen geeinigt, die in den Leitsätzen für vegane und vegetarische Lebensmittel im Deutschen Lebensmittelbuch stehen. Sie sind kein Gesetz, aber eine wichtige Auslegungshilfe.",
+          "Auch die DGE weist darauf hin, dass es kein einheitliches, gesetzliches Vegan-Label gibt."]
+        ],
+        ["Vegan-Siegel: was sie bedeuten",
+          ["V-Label: Vergeben von der Europäischen Vegetarier-Union. Vegane Produkte dürfen laut Verbraucherzentrale keine tierischen Zutaten, Zusatzstoffe oder Verarbeitungshilfsstoffe enthalten, auch keine tierischen Aromen, Trägerstoffe oder Enzyme. Achte auf den Zusatz „vegan“, denn es gibt das V-Label auch für vegetarische Produkte.",
+          "Veganblume (Vegan Trademark): Vergeben von der britischen Vegan Society seit 1990, für Lebensmittel, Kosmetik und andere Produkte. Die Standards schließen tierische Inhaltsstoffe und Tierversuche aus und verlangen, Kontamination mit tierischen Stoffen so weit wie möglich zu vermeiden.",
+          "EcoVeg und BioVegan: Für vegane Bio-Produkte, Voraussetzung ist das EU-Bio-Siegel.",
+          "PETA-Approved Vegan: Vor allem für Kleidung, Schuhe und Accessoires. Unternehmen unterzeichnen laut PETA eine Zusicherung, dass die Produkte vegan sind.",
+          "Eigene Hersteller-Label: Die Kriterien sind laut Verbraucherzentrale oft unklar. Im Zweifel hilft die Zutatenliste oder eine Nachfrage beim Hersteller."]
+        ],
+        ["Versteckte tierische Zutaten in Lebensmitteln",
+          ["Gelatine: aus tierischem Bindegewebe, steckt etwa in Fruchtgummi, Desserts, Tortenguss oder Kapseln.",
+          "Karmin (E 120): roter Farbstoff aus Schildläusen, vor allem in intensiv roten Süßwaren, Getränken und Desserts.",
+          "L-Cystein (E 920): kann Mehl oder Backmischungen zugesetzt werden und unter anderem aus Federn gewonnen werden. In Bio-Backwaren ist es laut Verbraucherzentrale verboten.",
+          "Lab im Käse: stammt meist aus Kälber-, Schaf- oder Ziegenmägen, ist für Veganer aber ohnehin nicht relevant, weil Käse aus Milch besteht.",
+          "Weitere Klassiker: Milchpulver, Molke, Laktose, Butterreinfett, Eiklar, Honig, Bienenwachs, Schellack (Überzugsmittel bei Süßwaren und Obst)."]
+        ],
+        ["Die Stolperfalle Verarbeitungshilfsstoffe: Wein und Saft",
+          ["Manche Säfte und Weine werden mit Gelatine oder anderen tierischen Stoffen geklärt, Wein zum Beispiel auch mit Hausenblase aus der Schwimmblase des Störs. Weil diese Hilfsstoffe im Endprodukt keine Funktion mehr haben, müssen sie laut Verbraucherzentrale nicht auf dem Etikett stehen.",
+          "Hier hilft ein Vegan-Siegel oder die Nachfrage beim Hersteller. Viele Weingüter und Saftmarken geben die Klärung inzwischen freiwillig an."]
+        ],
+        ["Was bedeutet „Kann Spuren von Milch und Ei enthalten“?",
+          ["Der Spurenhinweis ist eine freiwillige Allergiewarnung: In der gleichen Anlage werden auch andere Produkte hergestellt. Laut DGE ist ein Spurenhinweis kein Ausschlusskriterium für vegane Produkte und steht auch dem V-Label nicht entgegen. Für Allergiker*innen ist ein veganes Produkt deshalb aber nicht automatisch sicher."]
+        ],
+        ["Kleidung, Schuhe und Kosmetik prüfen",
+          ["Kleidung: Nach der EU-Textilkennzeichnungsverordnung muss auf dem Etikett stehen „Enthält nichttextile Teile tierischen Ursprungs“, wenn zum Beispiel ein Lederpatch oder Hornknöpfe verarbeitet sind. Tierische Fasern wie Wolle, Seide, Kaschmir oder Angora erkennst du in der Faserangabe.",
+          "Schuhe: Die EU-Schuhkennzeichnung zeigt für Obermaterial, Futter und Laufsohle, ob Leder, beschichtetes Leder, Textil oder sonstige Materialien verwendet wurden. Klebstoffe stehen dort nicht. Mehr in /wissen/vegan-schuhe-leder-alternativen/.",
+          "Kosmetik: Tierversuche für Kosmetik sind in der EU verboten, vegan ist ein Produkt damit aber noch nicht. Typische tierische Inhaltsstoffe sind Bienenwachs, Lanolin, Karmin, Honig oder Seidenprotein. Mehr in /wissen/vegan-kosmetik-erkennen/."]
+        ],
+        ["Checkliste: In 30 Sekunden prüfen, ob etwas vegan ist",
+          ["1. Siegel suchen: V-Label „vegan“, Veganblume, EcoVeg/BioVegan.",
+          "2. Zutatenliste lesen: Milch, Molke, Laktose, Ei, Honig, Gelatine, Karmin/E 120, Schellack, L-Cystein/E 920.",
+          "3. Bei Wein, Saft und Bier ohne Siegel: Hersteller fragen.",
+          "4. Spurenhinweis ignorieren, wenn du nicht allergisch bist.",
+          "5. Bei Kleidung: Faserangabe und Hinweis „nichttextile Teile tierischen Ursprungs“.",
+          "6. Bei Schuhen: Piktogramme für alle drei Bereiche prüfen und auf ausdrückliche Vegan-Kennzeichnung achten (wegen Klebstoffen).",
+          "7. Im Zweifel: Produkt mit Vegan-Kennzeichnung wählen, wie in unserer Kategorie Vegan."]
+        ],
+        ["Quellen",
+          ["Verbraucherzentrale: Vegetarische und vegane Lebensmittel erkennen – Worauf muss ich achten?, https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/vegetarische-und-vegane-lebensmittel-erkennen-worauf-muss-ich-achten-68457",
+          "DGE: FAQ zur veganen Ernährung (Vegan-Label, Spurenhinweis), https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/",
+          "The Vegan Society: The Vegan Trademark Standards, https://www.vegansociety.com/sites/default/files/uploads/downloads/The_Vegan_Trademark_Standards.pdf",
+          "PETA UK: PETA-Approved Vegan, https://peta.org.uk/living/peta-approved-vegan/",
+          "IHK München: Merkblatt Textilkennzeichnung, https://www.ihk-muenchen.de/ihk/Medien/Merkblatt-Textilkennzeichnung_2022.pdf",
+          "Europäische Union, Your Europe: Kennzeichnung von Schuhen, https://europa.eu/youreurope/business/product-requirements/labels-markings/footwear-label/indexamp_de.htm"]
+        ]
+      ],
+      "faq": [
+        ["Woran erkenne ich, ob ein Produkt vegan ist?", "Am schnellsten an einem Vegan-Siegel wie dem V-Label mit dem Zusatz vegan oder der Veganblume. Ohne Siegel prüfst du die Zutatenliste auf Milch, Ei, Honig, Gelatine, Karmin, Schellack und L-Cystein. Bei Wein und Saft hilft im Zweifel nur ein Siegel oder die Nachfrage beim Hersteller."],
+        ["Ist ein Produkt mit „kann Spuren von Milch enthalten“ vegan?", "Ja, es kann trotzdem vegan sein. Der Spurenhinweis warnt Allergiker vor unbeabsichtigten Spuren aus der Produktion. Laut DGE ist er kein Ausschlusskriterium für vegane Produkte."],
+        ["Ist Wein vegan?", "Nicht immer. Wein kann mit tierischen Stoffen wie Gelatine oder Hausenblase geklärt werden, und diese Hilfsstoffe müssen nicht auf dem Etikett stehen. Sicher bist du mit einem Vegan-Siegel oder einer Auskunft des Weinguts."],
+        ["Ist Fruchtgummi vegan?", "Klassischer Fruchtgummi enthält meist Gelatine und ist damit nicht vegan. Es gibt aber viele Sorten mit pflanzlichen Geliermitteln wie Pektin oder Stärke. Achte außerdem auf Karmin (E 120) und Schellack als Überzug."],
+        ["Was ist der Unterschied zwischen V-Label und Veganblume?", "Beide kennzeichnen vegane Produkte. Das V-Label kommt von der Europäischen Vegetarier-Union und existiert auch für vegetarische Produkte, achte also auf den Zusatz vegan. Die Veganblume vergibt die britische Vegan Society, auch für Kosmetik und andere Produkte, und schließt Tierversuche ausdrücklich aus."]
+      ],
+      "links": ["/kategorie/vegan/", "/wissen/vegan-schuhe-leder-alternativen/", "/wissen/vegan-kosmetik-erkennen/", "/wissen/vegan-werden/", "/wissen/vegan-backen-ersatzprodukte/", "/angebote/vegane-mode/"],
+      "figures": [[7, "/assets/illu/vegan-etikett-check.svg", "Etiketten-Check: Siegel suchen, Zutatenliste auf Gelatine, Karmin, Milch, Ei, Honig und Schellack prüfen, Spurenhinweis ist kein Ausschluss, bei Wein und Saft nachfragen.", "Ist das vegan? Der Etiketten-Check in vier Schritten."]]
+    },
+    {
+      "slug": "vegan-schuhe-leder-alternativen",
+      "title": "Vegane Schuhe erkennen: Piktogramme, Klebstoffe und Leder-Alternativen im Überblick",
+      "desc": "Wie erkenne ich vegane Schuhe? Das Schuh-Etikett richtig lesen, warum der Kleber zählt, welche Leder-Alternativen es gibt (Kunstleder, Kork, Textil, Pflanzenleder) und wie du sie pflegst.",
+      "lead": "Bei Schuhen reicht ein Blick auf das Obermaterial nicht: Auch Futter, Sohle und Klebstoff können tierisch sein. Hier liest du, wie du das Pflicht-Etikett entschlüsselst, woran du wirklich vegane Schuhe erkennst und was die verschiedenen Leder-Alternativen können.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Jeder Schuh in der EU muss für Obermaterial, Futter mit Decksohle und Laufsohle angeben, ob Leder, beschichtetes Leder, Textil oder sonstige Materialien verwendet wurden. Steht bei keinem Teil Leder, ist das ein gutes Zeichen, aber kein Beweis, denn Klebstoffe sind nicht kennzeichnungspflichtig. Sicher bist du mit Schuhen, die ausdrücklich als vegan gekennzeichnet sind. Gängige Alternativen sind Kunstleder, Textil, Kork und Pflanzenleder."
+        ]],
+        ["Das Schuh-Etikett lesen",
+          ["Nach EU-Recht muss mindestens einer der beiden Schuhe gekennzeichnet sein, als Piktogramm oder als Text. Angegeben werden drei Bereiche: das Obermaterial (Schuhoberteil), Futter und Decksohle (Innenseite) sowie die Laufsohle. Für jeden Bereich steht, ob er aus Leder, beschichtetem Leder, Textil oder sonstigen Materialien besteht. Macht kein Material mindestens 80 Prozent aus, werden die zwei Hauptmaterialien genannt.",
+          "Für vegane Schuhe darf in keinem der drei Bereiche Leder oder beschichtetes Leder stehen. Achte besonders auf das Futter und die Decksohle, dort wird bei Textil- oder Kunstleder-Schuhen gern noch Leder verwendet."]
+        ],
+        ["Warum der Kleber den Unterschied macht",
+          ["Klebstoffe in Schuhen können tierische Bestandteile enthalten, etwa aus Schlachtabfällen oder Kasein, einem Milchprotein. Sie tauchen auf dem Pflicht-Etikett nicht auf. Deshalb sind Schuhe ohne Leder nicht automatisch vegan.",
+          "Du kannst beim Hersteller nachfragen oder direkt zu Schuhen greifen, die ausdrücklich als vegan ausgewiesen sind. In unserer Auswahl unter /angebote/vegane-schuhe/ zeigen wir nur Schuhe, die der Shop oder Hersteller als vegan kennzeichnet."]
+        ],
+        ["Kunstleder: die häufigste Alternative",
+          ["Kunstleder besteht meist aus einem Trägerstoff mit einer Kunststoffbeschichtung, oft aus Polyurethan (PU) oder PVC. Es ist pflegeleicht und meist günstig. Laut Ökotest wird es auf Erdölbasis hergestellt, ist nicht biologisch abbaubar und hält oft nicht so lange wie Tierleder. Achte auf Verarbeitung und Material-Angaben, wenn du lange etwas davon haben willst."]
+        ],
+        ["Textil, Kork und Pflanzenleder",
+          ["Textil: Sneaker aus Canvas, Baumwolle, Hanf oder recyceltem Polyester sind oft von Haus aus lederfrei. Prüfe trotzdem Futter, Fersenkappe und Logo-Patches.",
+          "Kork: wird aus der Rinde der Korkeiche gewonnen, ohne den Baum zu fällen. Laut Ökotest ist Kork atmungsaktiv und wasserfest. Es gibt ihn bei Sandalen, Fußbetten, Gürteln und Taschen.",
+          "Pflanzenleder: Materialien auf Basis von Ananasblattfasern (zum Beispiel Piñatex), Apfel- oder Traubenresten, Kaktus oder Pilzmyzel. Viele davon enthalten zusätzlich eine Kunststoffbeschichtung oder Bindemittel. Frag bei Bedarf nach der genauen Zusammensetzung.",
+          "Naturkautschuk und recycelte Materialien werden oft für Sohlen verwendet."]
+        ],
+        ["Vegan heißt nicht automatisch nachhaltig",
+          ["Ein veganer Schuh ist frei von tierischen Materialien, sagt aber nichts über Haltbarkeit, Produktionsbedingungen oder Umweltbilanz aus. Langlebige Schuhe, die du lange trägst und reparieren lassen kannst, sind meist die bessere Wahl als viele günstige Paare. Natürliche, nachwachsende Rohstoffe und recycelte Materialien sind laut Utopia eine gute Wahl."]
+        ],
+        ["Pflege und Haltbarkeit",
+          ["Kunstleder reinigst du mit einem feuchten Tuch und etwas milder Seife, Lederpflege mit tierischen Fetten brauchst du nicht. Für Schuhcreme und Imprägnierspray gibt es vegane Varianten, prüfe die Inhaltsstoffe auf Bienenwachs oder Lanolin. Textilschuhe kannst du oft vorsichtig von Hand reinigen, Herstellerhinweise beachten. Kork verträgt keine dauerhafte Nässe und sollte nicht direkt auf der Heizung trocknen."]
+        ],
+        ["Checkliste für vegane Schuhe",
+          ["Piktogramme für alle drei Bereiche prüfen: kein Leder, kein beschichtetes Leder.",
+          "Auf ausdrückliche Vegan-Kennzeichnung achten, weil Klebstoffe nicht deklariert werden.",
+          "Kleine Details prüfen: Logo-Patch, Fersenlasche, Schnürsenkel-Enden.",
+          "Material und Verarbeitung vergleichen, wenn dir Haltbarkeit wichtig ist.",
+          "Vegane Pflegeprodukte verwenden.",
+          "Preise mit dem Preisverlauf prüfen, bevor du zuschlägst."]
+        ],
+        ["Vegane Schuhe und Mode günstig finden",
+          ["Vegane Sneaker, Stiefel und Accessoires sammeln wir unter /angebote/vegane-schuhe/ und /angebote/vegane-mode/, unter anderem von OTTO, wo es eine große Auswahl veganer Schuhe und Kleidung gibt. Jeder Deal wird gegen den Preisverlauf geprüft. Größe passt nicht? Wie du Online-Käufe zurückgibst, steht in /wissen/widerrufsrecht-online-kauf/."]
+        ],
+        ["Quellen",
+          ["Europäische Union, Your Europe: Kennzeichnung von Schuhen, https://europa.eu/youreurope/business/product-requirements/labels-markings/footwear-label/indexamp_de.htm",
+          "Utopia: Vegane Schuhe – Tipps und Labels, https://utopia.de/ratgeber/vegane-schuhe-tipps-und-labels/",
+          "Ökotest: Nachhaltige Schuhe – Wie ökologisch sind Kork, Kunstleder & Co.?, https://www.oekotest.de/kosmetik-wellness/Nachhaltige-Schuhe-Wie-oekologisch-sind-Kork-Kunstleder-Co-_11642_1.html",
+          "PETA UK: PETA-Approved Vegan, https://peta.org.uk/living/peta-approved-vegan/"]
+        ]
+      ],
+      "faq": [
+        ["Woran erkenne ich vegane Schuhe?", "Prüfe die Pflicht-Kennzeichnung: In Obermaterial, Futter mit Decksohle und Laufsohle darf weder Leder noch beschichtetes Leder stehen. Weil Klebstoffe nicht gekennzeichnet werden müssen, bist du nur mit einer ausdrücklichen Vegan-Kennzeichnung auf der sicheren Seite."],
+        ["Sind Schuhe ohne Leder automatisch vegan?", "Nein. Klebstoffe können tierische Bestandteile wie Kasein oder Stoffe aus Schlachtabfällen enthalten, und auch kleine Details wie Logo-Patches können aus Leder sein. Achte auf eine ausdrückliche Vegan-Angabe des Herstellers."],
+        ["Ist Kunstleder vegan?", "Kunstleder selbst enthält normalerweise keine tierischen Materialien. Ob der ganze Schuh oder die Tasche vegan ist, hängt aber auch von Kleber, Futter und Details ab. Eine Vegan-Kennzeichnung schafft Klarheit."],
+        ["Welche Leder-Alternative ist am haltbarsten?", "Das hängt stark von Material und Verarbeitung ab. Laut Ökotest hält Kunstleder oft nicht so lange wie Tierleder. Achte bei jedem Material auf saubere Nähte, robuste Sohlen und Pflegehinweise, und vergleiche Bewertungen zur Haltbarkeit."],
+        ["Was bedeutet das PETA-Approved-Vegan-Logo auf Schuhen?", "Es kennzeichnet Mode, Schuhe und Accessoires, für die das Unternehmen PETA gegenüber zugesichert hat, dass sie vegan sind. Es basiert laut PETA auf einer unterschriebenen Zusicherung des Unternehmens."]
+      ],
+      "links": ["/angebote/vegane-schuhe/", "/angebote/vegane-mode/", "/gutscheine/otto/", "/kategorie/vegan/", "/wissen/vegan-ist-das-vegan-siegel/", "/wissen/widerrufsrecht-online-kauf/"],
+      "figures": [[1, "/assets/illu/vegan-schuh-etikett.svg", "Schematischer Schuh mit drei Kennzeichnungsbereichen: Obermaterial, Futter und Decksohle, Laufsohle; dazu Materialkategorien Leder, beschichtetes Leder, Textil, Sonstiges und der Hinweis, dass Kleber nicht gekennzeichnet wird.", "Das Schuh-Etikett zeigt drei Bereiche, den Kleber aber nicht."], [4, "/assets/illu/vegan-leder-alternativen.svg", "Vergleich von Leder-Alternativen: Kunstleder, Textil, Kork und Pflanzenleder mit typischen Eigenschaften.", "Leder-Alternativen auf einen Blick."]]
+    },
+    {
+      "slug": "vegan-kosmetik-erkennen",
+      "title": "Vegane Kosmetik erkennen: Siegel, Inhaltsstoffe und der Unterschied zu tierversuchsfrei",
+      "desc": "Ist meine Kosmetik vegan? Unterschied zwischen vegan und tierversuchsfrei, Kosmetik-Siegel im Vergleich, tierische Inhaltsstoffe wie Bienenwachs, Lanolin, Karmin und Tipps für vegane Pflege.",
+      "lead": "Bei Kosmetik werden zwei Dinge oft verwechselt: vegan und tierversuchsfrei. Ein Shampoo kann ohne Tierversuche entwickelt sein und trotzdem Honig oder Seidenprotein enthalten. Hier erfährst du, worauf du bei Pflege, Make-up und Duschgel achten kannst.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Vegan heißt: keine tierischen Inhaltsstoffe. Tierversuchsfrei heißt: keine Tierversuche. Die Veganblume der Vegan Society deckt beides ab. Tierversuche für Kosmetik sind in der EU seit 2013 verboten, das macht ein Produkt aber noch nicht vegan. Typische tierische Inhaltsstoffe sind Bienenwachs, Lanolin, Honig, Karmin, Seide, Kollagen und Keratin. Im Zweifel hilft die INCI-Liste oder ein Vegan-Siegel."
+        ]],
+        ["Vegan, tierversuchsfrei, Naturkosmetik: der Unterschied",
+          ["Vegan bezieht sich auf die Inhaltsstoffe: Es dürfen keine Stoffe von lebenden oder toten Tieren enthalten sein.",
+          "Tierversuchsfrei (oft „cruelty free“) bezieht sich auf die Entwicklung: Produkt und Inhaltsstoffe wurden nicht an Tieren getestet. Ein tierversuchsfreies Produkt kann trotzdem Bienenwachs oder Honig enthalten.",
+          "Naturkosmetik setzt auf natürliche Rohstoffe, ist aber nicht automatisch vegan. Laut Verbraucherzentrale erlaubt zum Beispiel der NATRUE-Standard Rohstoffe von lebenden Tieren, etwa Bienenwachs, und Karmin."]
+        ],
+        ["Tierversuchsverbot in der EU: was es bedeutet",
+          ["Laut Verbraucherzentrale verbietet die EU-Kosmetikverordnung seit März 2013 den Verkauf von Kosmetik, deren Bestandteile oder Zusammensetzung für die Einhaltung der Verordnung an Tieren getestet wurden. Ausnahmen sind in begründeten Fällen möglich, und Stoffe, die auch in anderen Produkten wie Chemikalien vorkommen, können für andere Zwecke weiterhin an Tieren getestet werden.",
+          "Wenn dir das wichtig ist, sind Siegel, die über das EU-Verbot hinausgehen, eine Hilfe."]
+        ],
+        ["Kosmetik-Siegel im Überblick",
+          ["Veganblume (Vegan Society): schließt tierische Inhaltsstoffe und Tierversuche aus, für Kosmetik und viele andere Produkte.",
+          "Leaping Bunny: ein Tierschutzlabel gegen Tierversuche, weder fertige Produkte noch Inhaltsstoffe dürfen an Tieren getestet werden. Vegan-Anforderungen stellt es laut Verbraucherzentrale nicht.",
+          "COSMOS (Naturkosmetik): tierische Stoffe sind nicht erlaubt, wenn sie Teil des Tieres sind oder dessen Tötung erfordern. Honig oder Bienenwachs können also enthalten sein.",
+          "NATRUE (Naturkosmetik): erlaubt Rohstoffe von lebenden Tieren und toten Insekten wie Karmin.",
+          "Hersteller-Angabe „vegan“: Viele Marken kennzeichnen vegane Produkte selbst. Das ist hilfreich, die Kriterien sind aber nicht einheitlich."]
+        ],
+        ["Tierische Inhaltsstoffe in der INCI-Liste",
+          ["Die Inhaltsstoffe stehen auf Kosmetik in der international einheitlichen INCI-Bezeichnung. Häufige tierische Stoffe und typische Bezeichnungen:",
+          "Bienenwachs: Cera Alba, Beeswax. Honig: Mel, Honey. Lanolin (Wollwachs von Schafen): Lanolin, Lanolin Alcohol. Karmin (roter Farbstoff aus Schildläusen): CI 75470, Carmine. Seidenprotein: Hydrolyzed Silk, Sericin. Kollagen, Elastin und Keratin: oft tierischen Ursprungs, es gibt aber auch pflanzliche oder synthetische Varianten. Squalan kann aus Haifischleber oder aus Oliven stammen.",
+          "Bei Stoffen, die tierisch oder pflanzlich sein können, verrät die INCI-Liste die Herkunft nicht immer. Dann hilft nur ein Vegan-Siegel oder die Nachfrage beim Hersteller."]
+        ],
+        ["Wo tierische Stoffe besonders oft stecken",
+          ["Lippenpflege und Lippenstift (Bienenwachs, Karmin, Lanolin), Cremes und Balsame (Bienenwachs, Lanolin, Honig), Haarpflege (Keratin, Seidenprotein), Make-up mit Rottönen (Karmin) und Anti-Aging-Produkte (Kollagen). Duschgel, Shampoo und Zahnpasta sind dagegen häufig ohnehin vegan, ein kurzer Blick auf die Liste lohnt sich trotzdem."]
+        ],
+        ["Umsteigen ohne Verschwendung",
+          ["Du musst deine bisherige Kosmetik nicht wegwerfen. Brauch sie auf und greif beim Nachkaufen zu einer veganen Alternative. Fang mit den Produkten an, die du am häufigsten nachkaufst, zum Beispiel Duschgel, Shampoo oder Deo. Bei Make-up lohnt sich ein Test mit Probiergrößen, bevor du eine große Packung kaufst."]
+        ],
+        ["Checkliste: vegane Kosmetik kaufen",
+          ["Unterschied kennen: vegan (Inhaltsstoffe) und tierversuchsfrei (Entwicklung).",
+          "Nach Vegan-Siegel oder klarer Vegan-Angabe suchen.",
+          "INCI-Liste prüfen: Cera Alba, Mel, Lanolin, CI 75470, Hydrolyzed Silk, Kollagen, Keratin.",
+          "Naturkosmetik nicht automatisch für vegan halten.",
+          "Bei unklaren Stoffen den Hersteller fragen.",
+          "Rabatte mit dem Preisverlauf prüfen und Codes nutzen."]
+        ],
+        ["Vegane Kosmetik im Angebot",
+          ["Unter /angebote/vegane-kosmetik/ sammeln wir Kosmetik, die ausdrücklich als vegan gekennzeichnet ist, zum Beispiel von 100percentpure und Nexalia, wo es ausschließlich vegane Kosmetik gibt. Naturkosmetik findest du unter /angebote/naturkosmetik/. Rabattcodes stehen unter /rabatte/."]
+        ],
+        ["Quellen",
+          ["Verbraucherzentrale: Was bedeuten die Kosmetiksiegel?, https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/produkte/was-bedeuten-die-kosmetiksiegel-26387",
+          "The Vegan Society: The Vegan Trademark Standards, https://www.vegansociety.com/sites/default/files/uploads/downloads/The_Vegan_Trademark_Standards.pdf",
+          "The Vegan Society: Cruelty-Free vs Vegan, https://www.vegansociety.com/news/blog/TM2025/say-vegan-cosmetics"]
+        ]
+      ],
+      "faq": [
+        ["Ist tierversuchsfreie Kosmetik automatisch vegan?", "Nein. Tierversuchsfrei bedeutet nur, dass nicht an Tieren getestet wurde. Das Produkt kann trotzdem Bienenwachs, Honig, Lanolin oder Karmin enthalten. Vegan bezieht sich auf die Inhaltsstoffe."],
+        ["Ist Naturkosmetik vegan?", "Nicht unbedingt. Viele Naturkosmetik-Standards erlauben Stoffe von lebenden Tieren wie Bienenwachs oder Honig, NATRUE erlaubt zum Beispiel auch Karmin. Achte zusätzlich auf eine Vegan-Kennzeichnung."],
+        ["Woran erkenne ich vegane Kosmetik in der Inhaltsstoffliste?", "Achte auf Cera Alba (Bienenwachs), Mel (Honig), Lanolin, CI 75470 (Karmin), Hydrolyzed Silk, Kollagen und Keratin. Bei Stoffen, die tierisch oder pflanzlich sein können, hilft nur ein Vegan-Siegel oder eine Herstellerauskunft."],
+        ["Gibt es in der EU noch Tierversuche für Kosmetik?", "Für Kosmetik sind Tierversuche in der EU seit März 2013 verboten. Laut Verbraucherzentrale sind Ausnahmen in begründeten Fällen möglich, und Stoffe, die auch anderweitig genutzt werden, können für andere Zwecke weiterhin getestet werden."],
+        ["Welches Siegel steht für vegane Kosmetik?", "Die Veganblume der Vegan Society schließt tierische Inhaltsstoffe und Tierversuche aus. Leaping Bunny steht nur für Tierversuchsfreiheit. Viele Hersteller kennzeichnen vegane Produkte zusätzlich selbst."]
+      ],
+      "links": ["/angebote/vegane-kosmetik/", "/angebote/naturkosmetik/", "/gutscheine/100percentpure/", "/kategorie/vegan/", "/wissen/vegan-ist-das-vegan-siegel/", "/rabatte/"],
+      "figures": [[1, "/assets/illu/vegan-kosmetik-check.svg", "Vergleich vegan und tierversuchsfrei mit typischen tierischen INCI-Stoffen: Cera Alba, Mel, Lanolin, CI 75470, Hydrolyzed Silk.", "Vegan und tierversuchsfrei sind zwei verschiedene Dinge."]]
+    },
+    {
+      "slug": "vegan-backen-ersatzprodukte",
+      "title": "Vegan backen: Ei, Butter, Milch und Honig ersetzen, auch für Weihnachtsplätzchen",
+      "desc": "Wie ersetze ich Eier beim Backen? Ei-Ersatz mit Leinsamen, Apfelmus, Banane, Sojamehl und Aquafaba, dazu Butter, Milch, Sahne, Honig und Gelatine ersetzen. Mit Tipps für vegane Plätzchen.",
+      "lead": "Die meisten Kuchen, Kekse und Plätzchen lassen sich ohne großen Aufwand vegan backen. Der Trick ist, zu wissen, welche Aufgabe die tierische Zutat im Rezept hat: binden, lockern, Fett geben oder süßen. Dann findest du schnell den passenden Ersatz.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Ein Ei ersetzt du zum Beispiel durch 2 EL gemahlene Leinsamen mit 4 EL Wasser, 1 EL Sojamehl mit 2 EL Mineralwasser, eine halbe zerdrückte Banane oder Apfelmus mit etwas Öl. Butter ersetzt du durch pflanzliche Margarine oder neutrales Öl, Milch durch Pflanzendrink, Honig durch Ahorn- oder Agavensirup, Gelatine durch Agar-Agar oder Pektin. Aufgeschlagenes Kichererbsenwasser (Aquafaba) ersetzt Eischnee."
+        ]],
+        ["Erst fragen: Was macht das Ei im Rezept?",
+          ["Eier binden den Teig, lockern ihn, geben Feuchtigkeit und Farbe. In Rührkuchen und Muffins sind sie oft vor allem Bindung und Feuchtigkeit, das lässt sich gut ersetzen. Bei Biskuit, Baiser oder Rezepten mit vielen Eiern ist es schwieriger. Hier lohnen sich Rezepte, die von Anfang an vegan entwickelt wurden.",
+          "Mürbeteig für Plätzchen kommt oft ganz ohne Ei aus oder braucht nur einen Schuss Pflanzendrink zum Binden."]
+        ],
+        ["Ei-Ersatz: die bewährten Varianten",
+          ["Leinsamen: 2 EL fein gemahlene Leinsamen mit 4 EL Wasser verrühren und kurz quellen lassen. Gut für Rührteig, Muffins, Kekse und Bratlinge.",
+          "Sojamehl: 1 EL Sojamehl mit 2 EL Mineralwasser mit Kohlensäure verrühren. Neutral im Geschmack.",
+          "Banane: eine halbe zerdrückte Banane pro Ei. Gibt Feuchtigkeit, schmeckt aber durch, ideal für Bananenbrot oder Pancakes.",
+          "Apfelmus: etwa 1 EL, am besten mit 1 TL Pflanzenöl. Für saftige Kuchen und Muffins.",
+          "Fertiger Ei-Ersatz: Pulver nach Packungsangabe mit Wasser anrühren.",
+          "Die Mengen stammen aus Empfehlungen der Verbraucherzentrale Südtirol. Je nach Rezept kann etwas mehr Backpulver helfen, damit der Teig locker wird."]
+        ],
+        ["Aquafaba: Eischnee aus Kichererbsenwasser",
+          ["Das Kochwasser aus einer Dose oder einem Glas Kichererbsen lässt sich wie Eiweiß steif schlagen. Etwas Backpulver und Johannisbrotkernmehl machen den Schaum stabiler. Damit gelingen Mousse, luftige Teige und mit etwas Übung sogar Baiser. Die Kichererbsen selbst verwendest du für Hummus oder ein Curry, so wird nichts verschwendet."]
+        ],
+        ["Butter, Milch, Sahne, Honig und Gelatine ersetzen",
+          ["Butter: Pflanzliche Margarine (auf „vegan“ achten, manche enthalten Molke oder Buttermilch) oder neutrales Öl wie Rapsöl. Für Mürbeteig eignet sich feste Margarine besonders gut.",
+          "Milch: Pflanzendrinks aus Hafer, Soja, Mandel oder Dinkel. Soja verhält sich beim Backen oft am ähnlichsten.",
+          "Sahne und Schmand: pflanzliche Kochcreme, aufschlagbare Pflanzencreme oder Sojajoghurt.",
+          "Honig: Ahornsirup, Agavendicksaft, Reissirup oder Dattelsirup.",
+          "Gelatine: Agar-Agar (geliert stärker, deshalb weniger nehmen und aufkochen), Pektin oder Stärke. Für Tortenguss gibt es vegane Varianten."]
+        ],
+        ["Vegane Weihnachtsplätzchen: Tipps",
+          ["Ausstechplätzchen, Vanillekipferl, Spitzbuben und Zimtsterne lassen sich gut vegan backen. Ersetze Butter durch feste Margarine und Ei durch einen Schuss Pflanzendrink oder etwas Apfelmus. Für Zimtsterne funktioniert Aquafaba statt Eischnee. Den Teig vor dem Ausrollen gut kühlen, dann klebt er weniger.",
+          "Achte bei Zutaten aus dem Backregal auf versteckte tierische Stoffe: Zuckerstreusel und Dekor können Schellack oder Karmin enthalten, Schokolade und Kuvertüre oft Milchpulver, Backmischungen manchmal L-Cystein. Mehr dazu in /wissen/vegan-ist-das-vegan-siegel/."]
+        ],
+        ["Fertige Ersatzprodukte: praktisch, aber nicht nötig",
+          ["Vegane Backmischungen, Ei-Ersatzpulver und aufschlagbare Pflanzencreme sparen Zeit. Laut DGE sind vegane Fertigprodukte sehr unterschiedlich, einige sind stark verarbeitet und enthalten viel Fett und Salz. Für den Alltag reichen die oben genannten Grundzutaten fast immer. Wenn du Nussmus oder Pflanzendrinks auf Vorrat kaufen willst, schau unter /angebote/nussbutter/ nach geprüften Angeboten."]
+        ],
+        ["Checkliste: Rezept vegan umbauen",
+          ["1. Aufgabe der Zutat klären: binden, lockern, Fett, Feuchtigkeit oder Süße?",
+          "2. Ei: Leinsamen, Sojamehl, Banane, Apfelmus oder Ei-Ersatzpulver.",
+          "3. Eischnee: Aquafaba.",
+          "4. Butter: vegane Margarine oder Öl. Milch: Pflanzendrink.",
+          "5. Honig: Sirup. Gelatine: Agar-Agar oder Pektin.",
+          "6. Deko, Schokolade und Backmischungen auf Milch, Schellack, Karmin und L-Cystein prüfen.",
+          "7. Beim ersten Mal eine kleine Menge testen."]
+        ],
+        ["Quellen",
+          ["Verbraucherzentrale Südtirol: Wie kann man auf vegane Art backen?, https://www.consumer.bz.it/en/print/pdf/node/35097",
+          "Ökotest: Vegane Plätzchen – Rezepte für Weihnachtsgebäck ohne Butter, Milch und Ei, https://www.oekotest.de/essen-trinken/Vegane-Plaetzchen-Rezepte-fuer-Weihnachtsgebaeck-ohne-Butter-Milch-und-Ei_11046_1.html",
+          "Verbraucherzentrale: Vegetarische und vegane Lebensmittel erkennen, https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/vegetarische-und-vegane-lebensmittel-erkennen-worauf-muss-ich-achten-68457",
+          "DGE: FAQ zur veganen Ernährung (vegane Fertigprodukte), https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/"]
+        ]
+      ],
+      "faq": [
+        ["Was kann ich statt Ei zum Backen nehmen?", "Bewährt sind 2 EL gemahlene Leinsamen mit 4 EL Wasser, 1 EL Sojamehl mit 2 EL Mineralwasser, eine halbe zerdrückte Banane oder etwa 1 EL Apfelmus mit 1 TL Öl pro Ei. Für Eischnee nimmst du aufgeschlagenes Kichererbsenwasser (Aquafaba)."],
+        ["Ist Margarine vegan?", "Viele, aber nicht alle. Manche Margarinen enthalten Molke, Buttermilch oder tierische Fette. Achte auf eine Vegan-Kennzeichnung oder prüfe die Zutatenliste."],
+        ["Wie ersetze ich Gelatine?", "Mit Agar-Agar, Pektin oder Stärke. Agar-Agar geliert stärker als Gelatine und muss aufgekocht werden, nimm also weniger und halte dich an die Packungsangabe."],
+        ["Kann ich jedes Plätzchenrezept vegan backen?", "Die meisten Mürbeteig- und Ausstechplätzchen lassen sich gut umstellen: Butter durch feste Margarine, Ei durch Pflanzendrink oder Apfelmus. Schwieriger sind Rezepte mit sehr viel Ei, hier nimmst du besser ein vegan entwickeltes Rezept."],
+        ["Ist Zucker vegan?", "Zucker aus Zuckerrüben, wie er in Deutschland üblich ist, ist in der Regel vegan. Bei Zuckerdeko und bunten Streuseln solltest du auf Schellack und Karmin achten."]
+      ],
+      "links": ["/kategorie/vegan/", "/angebote/nussbutter/", "/wissen/vegan-ist-das-vegan-siegel/", "/wissen/vegan-geschenke-weihnachten/", "/wissen/vegan-guenstig-einkaufen/"],
+      "figures": [[2, "/assets/illu/vegan-ei-ersatz.svg", "Ei-Ersatz pro Ei: 2 EL Leinsamen plus 4 EL Wasser, 1 EL Sojamehl plus 2 EL Mineralwasser, eine halbe Banane, 1 EL Apfelmus plus 1 TL Öl, Aquafaba für Eischnee.", "Ein Ei ersetzen: fünf bewährte Varianten."]]
+    },
+    {
+      "slug": "vegan-geschenke-weihnachten",
+      "title": "Vegane Geschenke finden: Ideen und Check für Weihnachten und Geburtstag",
+      "desc": "Was schenke ich Veganern? Geschenkideen von Kochbuch über vegane Kosmetik bis Kork-Accessoires, worauf du bei Süßigkeiten, Wein und Pflegesets achten musst und wie du vegane Geschenke günstig findest.",
+      "lead": "Du willst einem veganen Menschen etwas schenken und bist unsicher, ob Pralinen, Wein oder die Handcreme passen? Mit ein paar Regeln schenkst du sicher, und zwar etwas, das wirklich Freude macht. Hier sind Ideen, Stolperfallen und unser Geschenke-Check.",
+      "sections": [
+        ["Kurz gesagt", [
+          "Am sichersten sind Geschenke, die ausdrücklich als vegan gekennzeichnet sind, oder Dinge, die gar keine tierischen Materialien enthalten können, etwa Erlebnisse, Technik oder Bücher. Vorsicht bei Schokolade, Pralinen und Fruchtgummi (Milch, Gelatine, Karmin), Wein (Klärung), Kosmetik (Bienenwachs, Honig, Lanolin) und Accessoires (Leder, Wolle, Seide). Unter /geschenke/vegane-geschenke/ findest du geprüfte Ideen."
+        ]],
+        ["Geschenkideen für Genießer",
+          ["Ein veganes Kochbuch oder Backbuch, ein Set mit Gewürzen, gutes Olivenöl oder Nussmus, vegane Schokolade oder ein Feinkost-Korb mit Pasta, Pesto und Antipasti. Selbst gemacht kommt immer gut an: vegane Plätzchen, Granola im Glas oder Chutney. Rezepte und Ersatz-Tipps findest du in /wissen/vegan-backen-ersatzprodukte/."]
+        ],
+        ["Geschenkideen für Pflege und Wohlfühlen",
+          ["Vegane Pflegesets, Duschgel, Körperbutter oder Make-up, idealerweise mit Vegan-Kennzeichnung. Kerzen gibt es aus Raps- oder Sojawachs statt Bienenwachs. Für alle, die Sport machen, passt veganes Proteinpulver in einer Probiergröße oder ein Shaker. Worauf du bei Kosmetik achten solltest, liest du in /wissen/vegan-kosmetik-erkennen/."]
+        ],
+        ["Geschenkideen für Mode und Accessoires",
+          ["Gürtel, Geldbörsen oder Taschen aus Kork oder veganem Kunstleder, vegane Sneaker, Mützen und Schals aus Baumwolle oder Synthetik statt Wolle. Achte bei Kleidung auf den Etikettenhinweis „Enthält nichttextile Teile tierischen Ursprungs“, etwa bei Lederpatches. Mehr zu Materialien in /wissen/vegan-schuhe-leder-alternativen/."]
+        ],
+        ["Geschenke, die immer vegan sind",
+          ["Erlebnisse wie ein Kochkurs, Kino, Konzert oder Kurzurlaub, Technik und Gadgets, Bücher, Spiele, Pflanzen und Zeit zusammen. Bei Restaurant-Gutscheinen vorher prüfen, ob es vegane Gerichte gibt."]
+        ],
+        ["Stolperfallen beim Schenken",
+          ["Schokolade und Pralinen: oft mit Milchpulver, Butterreinfett oder Sahne.",
+          "Fruchtgummi und Weihnachtsdeko zum Naschen: Gelatine, Karmin (E 120) und Schellack.",
+          "Wein und Sekt: Klärung mit tierischen Stoffen muss nicht auf dem Etikett stehen, hier hilft ein Vegan-Siegel.",
+          "Kosmetik: Bienenwachs, Honig, Lanolin oder Karmin, auch in Naturkosmetik.",
+          "Accessoires: Lederdetails, Wolle, Seide, Daunen, Horn- oder Perlmuttknöpfe.",
+          "Kerzen: häufig aus Bienenwachs oder Stearin, das auch tierischen Ursprungs sein kann."]
+        ],
+        ["Günstig schenken ohne Fake-Rabatte",
+          ["Rund um Black Friday und vor Weihnachten gibt es viele Angebote, aber nicht jeder Rabatt ist echt. Wir prüfen jeden Deal gegen den Preisverlauf, auch in der Kategorie Vegan. Tipps zum Erkennen von Mondpreisen findest du in /wissen/fake-rabatte-erkennen/. Und falls ein Geschenk nicht passt: Wie Umtausch nach Weihnachten funktioniert, steht in /wissen/umtausch-weihnachtsgeschenke/."]
+        ],
+        ["Checkliste: Ist mein Geschenk vegan?",
+          ["Vegan-Kennzeichnung oder Siegel vorhanden?",
+          "Zutatenliste bei Süßem auf Milch, Gelatine, Karmin und Schellack geprüft?",
+          "Bei Wein oder Sekt: Vegan-Siegel oder Auskunft des Herstellers?",
+          "Bei Kosmetik: INCI-Liste auf Bienenwachs, Honig, Lanolin und Karmin geprüft?",
+          "Bei Kleidung und Accessoires: Material und Hinweis auf tierische Teile geprüft?",
+          "Im Zweifel: Erlebnis oder Gutschein schenken."]
+        ],
+        ["Quellen",
+          ["Verbraucherzentrale: Vegetarische und vegane Lebensmittel erkennen, https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/vegetarische-und-vegane-lebensmittel-erkennen-worauf-muss-ich-achten-68457",
+          "Verbraucherzentrale: Was bedeuten die Kosmetiksiegel?, https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/produkte/was-bedeuten-die-kosmetiksiegel-26387",
+          "IHK München: Merkblatt Textilkennzeichnung, https://www.ihk-muenchen.de/ihk/Medien/Merkblatt-Textilkennzeichnung_2022.pdf"]
+        ]
+      ],
+      "faq": [
+        ["Was schenke ich jemandem, der vegan lebt?", "Gut passen vegane Kochbücher, Feinkost, vegane Schokolade, Kosmetik mit Vegan-Kennzeichnung, Accessoires aus Kork oder veganem Kunstleder und Erlebnisse. Im Zweifel ist ein Erlebnis oder ein Gutschein immer vegan."],
+        ["Ist Wein ein gutes Geschenk für Veganer?", "Ja, wenn er vegan ist. Viele Weine werden mit tierischen Stoffen geklärt, die nicht auf dem Etikett stehen müssen. Achte auf ein Vegan-Siegel oder frag beim Weingut nach."],
+        ["Ist Naturkosmetik ein sicheres Geschenk für Veganer?", "Nicht automatisch, denn viele Naturkosmetik-Standards erlauben Bienenwachs, Honig oder Karmin. Wähle Produkte mit ausdrücklicher Vegan-Kennzeichnung."],
+        ["Sind Bienenwachskerzen vegan?", "Nein, Bienenwachs ist ein tierisches Produkt. Vegane Alternativen sind Kerzen aus Raps- oder Sojawachs."],
+        ["Wo finde ich vegane Geschenke im Angebot?", "Auf perldeals unter /geschenke/vegane-geschenke/ und in der Kategorie Vegan. Dort zeigen wir nur Produkte, die ausdrücklich als vegan gekennzeichnet sind, und prüfen jeden Preis gegen den Preisverlauf."]
+      ],
+      "links": ["/geschenke/vegane-geschenke/", "/kategorie/vegan/", "/angebote/vegane-kosmetik/", "/angebote/vegane-mode/", "/wissen/vegan-backen-ersatzprodukte/", "/wissen/umtausch-weihnachtsgeschenke/", "/wissen/fake-rabatte-erkennen/"]
+    }
+  ]
+}

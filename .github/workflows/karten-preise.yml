@@ -1,0 +1,33 @@
+name: Pokémon-Kartenpreise laden
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 3 * * *"   # täglich 04:40/05:40 Uhr deutscher Zeit
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: karten-preise
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Karten und Cardmarket-Preise laden (TCGdex)
+        run: node scripts/kartenpreise-fetch.mjs
+      - name: Daten committen und Deploy anstoßen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "perldeals-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/pokemon-karten.json
+          if git diff --cached --quiet; then echo "keine Änderung"; exit 0; fi
+          git commit -m "Pokémon-Kartenpreise $(date +%d.%m.%Y)"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          gh api -X POST repos/${{ github.repository }}/actions/workflows/deploy.yml/dispatches -f ref=main

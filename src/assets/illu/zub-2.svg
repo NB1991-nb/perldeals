@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Perfect-Fit-Innenhülle eng um eine Karte</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <g>
+    <rect x="80" y="64" width="80" height="112" rx="5.6" fill="#0B776B"/>
+    <rect x="84.8" y="68.8" width="70.4" height="102.4" rx="3.2" fill="#FFFFFF"/>
+    <rect x="87.8" y="77.75999999999999" width="64.4" height="42.56" rx="2" fill="#D6EDE8"/>
+    <circle cx="107.12" cy="93.93279999999999" r="8.372000000000002" fill="#F6C343"/>
+    <path d="M87.8 120.32 L110.34 99.03999999999999 L126.44 110.95679999999999 L138.032 103.29599999999999 L152.2 116.064 L152.2 120.32 Z" fill="#0B776B"/>
+    <rect x="87.8" y="133.44" width="51.52000000000001" height="4.48" rx="2.24" fill="#D3DCD8"/>
+    <rect x="87.8" y="143.51999999999998" width="64.4" height="4.48" rx="2.24" fill="#D3DCD8"/>
+    <rect x="87.8" y="153.60000000000002" width="38.64" height="4.48" rx="2.24" fill="#D3DCD8"/>
+  </g>
+  <rect x="75" y="58" width="90" height="122" rx="7" fill="#FFFFFF" fill-opacity="0.3" stroke="#0B776B" stroke-width="2.5"/>
+  <path d="M75 70 h90" stroke="#0B776B" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <path d="M152 84 L168 68" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M60 120 h10 m-4 -4 l4 4 l-4 4 M180 120 h-10 m4 -4 l-4 4 l4 4" stroke="#55645F" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

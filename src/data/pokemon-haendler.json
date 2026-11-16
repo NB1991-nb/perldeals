@@ -1,0 +1,804 @@
+{
+ "updated": "2026-11-01",
+ "hub": {
+  "title": "Pokémon für Händler: beste Deals & Leitfaden zum Karten finden und bewerten",
+  "desc": "Für Pokémon-Händler und Reseller: aktuelle Deals auf Displays, Top-Trainer-Boxen und Booster, dazu ein Leitfaden zu Sets, Top-Karten, Seltenheiten, Sprachen, Zustand, Grading und Fälschungen.",
+  "lead": "Alles an einem Ort: die aktuell besten Pokémon-Angebote und ein Leitfaden, mit dem du Karten schnell einordnest. Welche Sets gerade gefragt sind, welche Karten den Wert machen, wie du Sprache, Zustand und Echtheit prüfst und was beim Verkauf übrig bleibt."
+ },
+ "chapters": [
+  {
+   "slug": "sets-und-top-karten",
+   "title": "Pokémon-Sets 2025/2026: Kartenanzahl, Produkte und Top-Karten",
+   "short": "Sets & Top-Karten",
+   "desc": "Alle aktuellen Pokémon-Sets von Prismatische Entwicklungen bis Delta-Herrschaft: Erscheinungstermin, Kartenanzahl, Produktformen und die gefragtesten Karten mit Marktwerten.",
+   "lead": "Welche Sets gerade zählen und welche Karten darin den Wert machen. Die Werte sind Richtwerte für ungegradete Karten und schwanken stark.",
+   "blocks": [
+    {
+     "h": "Die Sets im Überblick",
+     "table": {
+      "head": [
+       "Set",
+       "Erschienen (DE)",
+       "Art",
+       "Karten (Set + Secret)",
+       "Produkte",
+       "Gefragteste Karten (Richtwert)"
+      ],
+      "rows": [
+       [
+        "Prismatische Entwicklungen (Prismatic Evolutions, PRE)",
+        "17.01.2025",
+        "Spezialset",
+        "131 + 49 = 180",
+        "Kein Display; Boosterbundle (6 Booster), Top-Trainer-Box, Mini-Tins, Super-Premium-Kollektion",
+        "Nachtara-ex SIR #161 (ca. 958 $), Feelinara-ex SIR #156 (ca. 343 $), Folipurba-ex SIR #144 (ca. 234 $), Psiana-ex SIR #155 (ca. 217 $)"
+       ],
+       [
+        "Reisegefährten (Journey Together, JTG)",
+        "28.03.2025",
+        "Hauptset",
+        "159 + 31 = 190",
+        "Display 36 Booster",
+        "Lillies Piepi-ex #184 (ca. 80 $), Brutalanda-ex #187 (ca. 41 $), Ns Zoroark-ex #185 (ca. 35 $)"
+       ],
+       [
+        "Ewige Rivalen (Destined Rivals, DRI)",
+        "30.05.2025",
+        "Hauptset",
+        "182 + 62 = 244",
+        "Display 36 Booster",
+        "Team Rockets Mewtu-ex #231 (ca. 348 $), Cynthias Knakrack-ex #232 (ca. 158 $), Ethans Ho-Oh-ex #230 (ca. 140 $)"
+       ],
+       [
+        "Schwarze Blitze (Black Bolt, BLK)",
+        "18.07.2025",
+        "Spezialset",
+        "86 + 86 = 172",
+        "Spezialset-Produkte (Top-Trainer-Box, Bundles)",
+        "Victini #171 (ca. 568 $), Zekrom-ex #172 (ca. 525 $), Zekrom-ex #166 (ca. 216 $)"
+       ],
+       [
+        "Weiße Flammen (White Flare, WHT)",
+        "18.07.2025",
+        "Spezialset",
+        "86 + 87 = 173",
+        "Spezialset-Produkte (Top-Trainer-Box, Bundles)",
+        "Victini #172 (ca. 475 $), Reshiram-ex #173 (ca. 425 $), Reshiram-ex #166 (ca. 150 $)"
+       ],
+       [
+        "Mega-Entwicklung (Mega Evolution, MEG)",
+        "10.10.2025 (DE)",
+        "Hauptset",
+        "132 + 56 = 188",
+        "Display 36 Booster",
+        "Mega-Lucario-ex #188 (ca. 187 $), Mega-Guardevoir-ex #178 (ca. 166 $), Mega-Lucario-ex #179 (ca. 160 $)"
+       ],
+       [
+        "Fatale Flammen (Phantasmal Flames, PFL)",
+        "14.11.2025",
+        "Hauptset",
+        "94 + 36 = 130",
+        "Display 36 Booster",
+        "Mega-Glurak-X-ex SIR #125 (ca. 601 $), Mega-Glurak-X-ex #130 (ca. 200 $)"
+       ],
+       [
+        "Erhabene Helden (Ascended Heroes, ASC)",
+        "30.01.2026",
+        "Spezialset",
+        "217 + 78 = 295",
+        "Kein Display; Top-Trainer-Box (9 Booster), Boosterbundle (6 Booster)",
+        "Mega-Gengar-ex SIR #284 (ca. 636 $), Pikachu-ex SIR #276 (ca. 581 $), Mega-Dragoran-ex SIR #290 (ca. 413 $), Mega-Glurak-Y-ex Mega Hyper Rare #294 (ca. 264 $)"
+       ],
+       [
+        "Optimale Ordnung (Perfect Order, POR)",
+        "27.03.2026",
+        "Hauptset",
+        "88 + 36 = 124",
+        "Display 36 Booster à 10 Karten",
+        "Mega-Zygarde-ex #124 (ca. 92 $), Mauzi-ex #121 (ca. 85 $), Mega-Zygarde-ex #120 (ca. 42 $)"
+       ],
+       [
+        "Wachsendes Chaos (Chaos Rising, CRI)",
+        "22.05.2026",
+        "Hauptset",
+        "86 + 36 = 122",
+        "Display 36 Booster",
+        "Mega-Quajutsu-ex MHR #122 (ca. 113 $), Mega-Quajutsu-ex SIR #116 (ca. 111 $), Chillabell-ex SIR #119 (ca. 37 $)"
+       ],
+       [
+        "Dunkelnacht (Pitch Black, PBL)",
+        "17.07.2026",
+        "Hauptset",
+        "84 + 36 = 120",
+        "Display 36 Booster",
+        "Mega-Darkrai-ex #116 (ca. 156 $), Mega-Darkrai-ex #120 (ca. 138 $), Morpeko-ex #117 (ca. 65 $)"
+       ],
+       [
+        "30 Jahre (30th Celebration, 30C)",
+        "16.09.2026",
+        "Jubiläums-Spezialset",
+        "128 + 30 + 3 RGB-Karten, dazu 30 „Classic Collection“-Karten",
+        "Kein Display; Boosterbundle; jeder Booster enthält eine von 30 Pikachu-Varianten",
+        "Mew R/RGB ohne Nummer (ca. 4.825 $), Mew-ex SIR #152 (ca. 74 $), Gengar-ex SIR #154 (ca. 64 $)"
+       ],
+       [
+        "Delta-Herrschaft (Delta Reign, DLR)",
+        "06.11.2026",
+        "Hauptset",
+        "103 + 38 = 141",
+        "Display 36 Booster; Top-Trainer-Box (9 Booster)",
+        "Mega-Rayquaza-ex im Mittelpunkt; Preise noch nicht belegt"
+       ]
+      ]
+     },
+     "p": [
+      "Preise: PriceCharting, „Ungraded“ in US-Dollar, abgerufen am 01.11.2026. Sie spiegeln vor allem den US-Markt wider und lassen sich nicht 1:1 auf Cardmarket-Preise in Euro übertragen. Vor jedem Ankauf den aktuellen Cardmarket-Trend für die genaue Sprache und den Zustand prüfen.",
+      "Die Seltenheit einzelner Karten ist teils aus der Kartennummer abgeleitet. Karten mit einer Nummer über der offiziellen Setgröße sind Secret Rares."
+     ]
+    },
+    {
+     "h": "Was die Tabelle für Händler bedeutet",
+     "list": [
+      "Spezialsets (Prismatische Entwicklungen, Erhabene Helden, 30 Jahre) haben kein Display. Gesucht sind dort Boosterbundles, Top-Trainer-Boxen und versiegelte Kollektionen.",
+      "Der Wert eines Sets hängt stark an wenigen Karten: Bei Prismatische Entwicklungen tragen die Evoli-Entwicklungen als Special Illustration Rare den Großteil.",
+      "Mega-Glurak, Gengar, Pikachu, Mewtu und Nachtara sind seit Jahren Preistreiber. Sets mit diesen Pokémon als Chase-Karte halten sich versiegelt meist besser.",
+      "Kurz nach Erscheinen fallen Einzelkartenpreise oft deutlich, weil viele Booster geöffnet werden. Für Einzelkarten lohnt sich der Ankauf häufig erst einige Wochen später."
+     ]
+    },
+    {
+     "h": "Was als Nächstes kommt",
+     "list": [
+      "06.11.2026: Delta-Herrschaft (Mega-Rayquaza-ex).",
+      "05.02.2027: „Flowing Fists“ (englischer Name; deutscher Name noch offen), rund 120 Karten mit Secret Rares, im Mittelpunkt Mega-Lucario-Z-ex.",
+      "Japan: „MEGA x MEGA Parade“ (High-Class-Pack) am 19.02.2027. High-Class-Packs werden international meist zu Spezialsets."
+     ],
+     "p": [
+      "Alle Termine mit Preisen und Händlern findest du im Release-Kalender."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Welches Pokémon-Set ist aktuell am wertvollsten?",
+     "Gemessen an den Top-Karten liegen Prismatische Entwicklungen (Nachtara-ex SIR) und Erhabene Helden (Mega-Gengar-ex, Pikachu-ex) vorn. Für versiegelte Ware zählen zusätzlich Auflage und Nachfrage."
+    ],
+    [
+     "Wie viele Karten hat ein Pokémon-Set?",
+     "Aktuelle Hauptsets haben rund 120 bis 245 Karten inklusive Secret Rares, Erhabene Helden ist mit 295 Karten das bisher größte englische Set."
+    ],
+    [
+     "Was bedeutet die Zahl hinter dem Schrägstrich?",
+     "Sie zeigt die offizielle Setgröße. Karten mit höherer Nummer, etwa 161/131, sind Secret Rares."
+    ]
+   ],
+   "sources": [
+    [
+     "pokewiki.de (Setdaten)",
+     "https://pokewiki.de/Erhabene_Helden_(TCG)"
+    ],
+    [
+     "PriceCharting (Preise)",
+     "https://www.pricecharting.com/console/pokemon-prismatic-evolutions?view=table"
+    ],
+    [
+     "TCGplayer: Ascended Heroes Quick Facts",
+     "https://seller.tcgplayer.com/blog/ascended-heroes-quick-facts"
+    ],
+    [
+     "pokezentrum: Release-Kalender 2027",
+     "https://pokezentrum.de/?p=168076"
+    ]
+   ]
+  },
+  {
+   "slug": "karte-lesen",
+   "title": "Pokémon-Karte richtig lesen: Setsymbol, Nummer, Seltenheit, Regulation Mark",
+   "short": "Karte lesen",
+   "desc": "So liest du eine Pokémon-Karte: Setsymbol, Kartennummer, Seltenheitssymbol, Regulation Mark und Standard-Format, Kartengröße und passende Hüllen.",
+   "lead": "Auf jeder Karte stehen die Infos, die du zur Bewertung brauchst. Wer sie schnell liest, sortiert Ankäufe in Minuten.",
+   "blocks": [
+    {
+     "h": "Die wichtigsten Angaben unten auf der Karte",
+     "list": [
+      "Setsymbol: zeigt, aus welchem Set die Karte stammt (unten links oder rechts).",
+      "Kartennummer im Format X/Y: X ist die Nummer, Y die offizielle Setgröße. Ist X größer als Y, ist es eine Secret Rare.",
+      "Seltenheitssymbol neben der Nummer (siehe Kapitel Seltenheiten). Ein schwarzer Stern ohne Nummer steht für Promokarten.",
+      "Regulation Mark: schwarzer Buchstabe in einem weißen Kasten unten links, seit 2020 auf allen Karten. Er entscheidet über die Turnierlegalität."
+     ]
+    },
+    {
+     "h": "Standard-Format 2026/27",
+     "p": [
+      "Seit dem 10.04.2026 sind im Standard-Format nur Karten mit den Buchstaben H, I, J und später erlaubt; G ist nicht mehr legal. Eine Karte mit altem Buchstaben bleibt spielbar, wenn es einen Nachdruck mit gültigem Buchstaben gibt.",
+      "Für Händler wichtig: Spielkarten (Trainer, starke ex-Karten) verlieren nach einer Rotation oft deutlich an Wert, Sammlerkarten wie Illustration Rares kaum."
+     ]
+    },
+    {
+     "h": "Größe, Gewicht und Hüllen",
+     "table": {
+      "head": [
+       "Angabe",
+       "Wert"
+      ],
+      "rows": [
+       [
+        "Kartengröße",
+        "63 × 88 mm, in allen Sprachen gleich"
+       ],
+       [
+        "Dicke / Gewicht",
+        "etwa 0,3 mm, etwa 1,7–1,8 g"
+       ],
+       [
+        "Perfect-Fit-Innenhülle",
+        "64 × 89 mm"
+       ],
+       [
+        "Standard-Hülle",
+        "66 × 91 mm"
+       ],
+       [
+        "Penny Sleeve (BCW)",
+        "66,7 × 92,1 mm"
+       ],
+       [
+        "Toploader 3×4\" (BCW)",
+        "innen 69,9 × 98,4 mm, für Karten bis 35 pt"
+       ]
+      ]
+     },
+     "p": [
+      "Wertvolle Karten gehören in Penny Sleeve plus Toploader oder Semi-Rigid. Für die Einsendung zum Grading verlangen manche Anbieter Semi-Rigid statt Toploader."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Wie groß ist eine Pokémon-Karte?",
+     "63 × 88 mm, etwa 0,3 mm dick. Japanische und internationale Karten sind gleich groß."
+    ],
+    [
+     "Was ist der Regulation Mark?",
+     "Ein Buchstabe unten links, der festlegt, in welchem Turnierformat die Karte erlaubt ist. Aktuell sind H, I und J im Standard-Format legal."
+    ]
+   ],
+   "sources": [
+    [
+     "folio: Pokémon card dimensions",
+     "https://folio.fyi/blog/pokemon-card-dimensions"
+    ],
+    [
+     "Bulbapedia: 2026-27 Standard format",
+     "https://bulbapedia.bulbagarden.net/wiki/2026-27_Standard_format_(TCG)"
+    ],
+    [
+     "PokéGuardian: Rotation 10.04.2026",
+     "https://www.pokeguardian.com/2925613_pokemon-tcg-standard-format-rotation-announced-for-april-10-2026-cards-with-g-regulation-mark-no-longer-legal"
+    ]
+   ]
+  },
+  {
+   "slug": "seltenheiten-ziehraten",
+   "title": "Pokémon-Seltenheiten und Ziehraten: Von Common bis Mega Hyper Rare",
+   "short": "Seltenheiten & Ziehraten",
+   "desc": "Alle Seltenheitssymbole der Karmesin-&-Purpur- und Mega-Ära erklärt, mit typischen Ziehraten für Illustration Rare, Special Illustration Rare und Mega Hyper Rare.",
+   "lead": "Die Seltenheit entscheidet, wie oft eine Karte im Booster steckt, und damit über einen großen Teil des Werts.",
+   "blocks": [
+    {
+     "h": "Die Seltenheitssymbole",
+     "table": {
+      "head": [
+       "Stufe",
+       "Symbol",
+       "Hinweis"
+      ],
+      "rows": [
+       [
+        "Common",
+        "● Kreis",
+        "häufig"
+       ],
+       [
+        "Uncommon",
+        "◆ Raute",
+        ""
+       ],
+       [
+        "Rare",
+        "★ schwarz",
+        "holografisch"
+       ],
+       [
+        "Double Rare",
+        "★★ schwarz",
+        "ex-Karten"
+       ],
+       [
+        "Illustration Rare",
+        "★ gold",
+        "Vollbild-Illustration"
+       ],
+       [
+        "Ultra Rare",
+        "★★ silbern",
+        "Full Art"
+       ],
+       [
+        "Special Illustration Rare (SIR)",
+        "★★ gold",
+        "die meist gesuchten Karten eines Sets"
+       ],
+       [
+        "Hyper Rare",
+        "★★★ gold",
+        "Gold-Karten, Karmesin & Purpur"
+       ],
+       [
+        "Mega Hyper Rare (MHR)",
+        "eigenes Symbol",
+        "neu in der Mega-Ära, nur für Mega-Pokémon"
+       ]
+      ]
+     }
+    },
+    {
+     "h": "Wie oft kommt was? (Mega-Entwicklung, englisch)",
+     "table": {
+      "head": [
+       "Seltenheit",
+       "ungefähr 1 Karte pro …"
+      ],
+      "rows": [
+       [
+        "Double Rare",
+        "5 Booster"
+       ],
+       [
+        "Illustration Rare",
+        "9 Booster"
+       ],
+       [
+        "Ultra Rare",
+        "12 Booster"
+       ],
+       [
+        "Special Illustration Rare",
+        "101 Booster"
+       ],
+       [
+        "Mega Hyper Rare",
+        "1.260 Booster"
+       ]
+      ]
+     },
+     "p": [
+      "Das sind Community-Auswertungen aus tausenden geöffneten Boostern, keine offiziellen Zahlen. Eine TCGplayer-Auswertung von über 5.000 Boostern kam auf ähnliche Werte (SIR in etwa 1 % der Booster). In vielen Karmesin-&-Purpur-Sets lag die SIR-Rate bei etwa 1:59.",
+      "Für Händler heißt das: Ein Display mit 36 Boostern enthält rechnerisch weniger als eine SIR. Displays sind deshalb ein Glücksspiel, versiegelt aber planbarer im Wert."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Was ist eine Special Illustration Rare?",
+     "Eine Karte mit goldenem Doppelstern und Vollbild-Illustration. Sie ist in den meisten Sets die gefragteste Seltenheit."
+    ],
+    [
+     "Wie oft zieht man eine Mega Hyper Rare?",
+     "Nach Community-Auswertungen etwa einmal in 1.260 Boostern, also seltener als einmal pro 30 Displays."
+    ]
+   ],
+   "sources": [
+    [
+     "Rare Candy: Rarities in der Mega-Ära",
+     "https://rarecandy.com/blog/rarities-pokemon-mega-evolution-era"
+    ],
+    [
+     "Wargamer: Mega Evolution pull rates",
+     "https://www.wargamer.com/pokemon-trading-card-game/mega-evolution-hyper-rare-gold-cards"
+    ]
+   ]
+  },
+  {
+   "slug": "sprachen-und-produkte",
+   "title": "Pokémon-Karten nach Sprache: Booster, Displays und Werte im Vergleich",
+   "short": "Sprachen & Produkte",
+   "desc": "Englisch, Deutsch, Japanisch, Koreanisch, Chinesisch: wie viele Karten in Booster und Display stecken und welche Sprachen Sammler am meisten suchen.",
+   "lead": "Die gleiche Karte ist je nach Sprache unterschiedlich viel wert. Auch Booster und Displays unterscheiden sich deutlich.",
+   "blocks": [
+    {
+     "h": "Booster und Displays je Sprache",
+     "table": {
+      "head": [
+       "Ausgabe",
+       "Booster pro Display",
+       "Karten pro Booster"
+      ],
+      "rows": [
+       [
+        "International (EN, DE, FR, IT, ES, PT)",
+        "36",
+        "10 (plus Energie- und Codekarte)"
+       ],
+       [
+        "Halbes Display (Europa)",
+        "18",
+        "10"
+       ],
+       [
+        "Japan Standard",
+        "30",
+        "5"
+       ],
+       [
+        "Japan Sondersets (z. B. 151)",
+        "20",
+        "7"
+       ],
+       [
+        "Japan High Class",
+        "10",
+        "10"
+       ],
+       [
+        "Korea",
+        "30 (High Class: 10)",
+        "5 (High Class: 10)"
+       ],
+       [
+        "Chinesisch (traditionell)",
+        "30",
+        "5"
+       ]
+      ]
+     },
+     "p": [
+      "Japanische Boxen der Mega-Ära garantieren laut Händlerangaben eine Mindestzahl an Secret Rares und Art Rares pro Box. Internationale Displays haben keine solche Garantie."
+     ]
+    },
+    {
+     "h": "Welche Sprache ist am meisten wert?",
+     "list": [
+      "Englisch und Japanisch sind weltweit am gefragtesten und erzielen meist die höchsten Preise.",
+      "Japanische Karten sind außerhalb Japans knapper und bei Sammlern wegen Druckqualität und früherem Erscheinen beliebt.",
+      "Deutsche und französische Karten sind eher regionale Märkte: oft günstiger im Einkauf, aber auch mit kleinerer Käuferschaft.",
+      "Koreanische und chinesische Karten wachsen, liegen aber meist unter EN und JP."
+     ],
+     "p": [
+      "Beim Ankauf deshalb immer die Sprache prüfen und auf Cardmarket nach genau dieser Sprache filtern. Ein deutscher Preis ist kein Maßstab für die englische Karte und umgekehrt."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Wie viele Booster sind in einem japanischen Display?",
+     "Meist 30 Booster mit je 5 Karten; bei Sondersets wie 151 sind es 20 Booster mit je 7 Karten."
+    ],
+    [
+     "Sind deutsche Pokémon-Karten weniger wert?",
+     "Meist ja. Englische und japanische Karten werden international stärker gesucht, deutsche vor allem im deutschsprachigen Raum."
+    ]
+   ],
+   "sources": [
+    [
+     "folio: Packs pro Booster-Box",
+     "https://folio.fyi/blog/how-many-packs-in-a-pokemon-booster-box"
+    ],
+    [
+     "cardcodex: Mega Evolution pull rates (JP)",
+     "https://cardcodex.com/blog/mega-evolution-base-set-pull-rates/"
+    ],
+    [
+     "Phygitals: International card value differences",
+     "https://phygitals.gitbook.io/wiki/identifying-card-values/international-card-value-differences"
+    ]
+   ]
+  },
+  {
+   "slug": "zustand-und-grading",
+   "title": "Zustand und Grading bei Pokémon-Karten: Near Mint bis Poor, PSA, CGC und BGS",
+   "short": "Zustand & Grading",
+   "desc": "Cardmarket-Zustände von Mint bis Poor, die US-Begriffe NM/LP/MP/HP und Grading bei PSA (jetzt auch in Frankfurt), CGC und BGS mit Preisen und Bearbeitungszeiten.",
+   "lead": "Der Zustand entscheidet oft mehr über den Preis als die Seltenheit. Wer ihn sauber einschätzt, kauft richtig ein und vermeidet Reklamationen.",
+   "blocks": [
+    {
+     "h": "Zustände bei Cardmarket",
+     "table": {
+      "head": [
+       "Zustand",
+       "Bedeutung"
+      ],
+      "rows": [
+       [
+        "Mint (M)",
+        "makellos, wird selten vergeben"
+       ],
+       [
+        "Near Mint (NM)",
+        "fast perfekt, höchstens minimale weiße Stellen; Standard für frische Boosterkarten"
+       ],
+       [
+        "Excellent (EX)",
+        "leichte Abnutzung an Kanten und Ecken, Kratzer nur bei starkem Licht"
+       ],
+       [
+        "Good (GD)",
+        "deutliche Gebrauchsspuren, keine Knicke"
+       ],
+       [
+        "Light Played (LP)",
+        "länger ohne Hülle gespielt, größere Kratzer"
+       ],
+       [
+        "Played (PL)",
+        "starke Abnutzung, aber nicht beschriftet oder gerissen"
+       ],
+       [
+        "Poor (PO)",
+        "Risse, Beschriftung, Wasserschaden, starke Knicke"
+       ]
+      ]
+     },
+     "p": [
+      "Achtung bei US-Händlern: Dort steht LP für „Lightly Played“ (nur bei genauem Hinsehen sichtbar, oft 30–50 % unter NM), MP für Moderately Played, HP für Heavily Played und DMG für Damaged. Die Stufen lassen sich nicht 1:1 auf Cardmarket übertragen."
+     ]
+    },
+    {
+     "h": "Grading: Anbieter und Preise in Europa",
+     "table": {
+      "head": [
+       "Anbieter",
+       "Ab Preis",
+       "Bearbeitung (ca.)",
+       "Hinweis"
+      ],
+      "rows": [
+       [
+        "PSA Europe (Frankfurt)",
+        "59,99 € Standard (zum Start 49,99 €)",
+        "80–90 Werktage",
+        "seit 15.09.2026 Direkteinsendung aus der EU, kein Zoll; Semi-Rigid Pflicht"
+       ],
+       [
+        "PSA Europe Express",
+        "199 €",
+        "25–30 Werktage",
+        ""
+       ],
+       [
+        "CGC UK",
+        "ab 24,99 £",
+        "10–15 Werktage",
+        "Untergrade optional, „Pristine 10“"
+       ],
+       [
+        "BGS Europe (über Partner, NL)",
+        "ab 49,99 €",
+        "6–8 Wochen",
+        "vier Untergrade, „Black Label“ als Höchstnote"
+       ]
+      ]
+     },
+     "p": [
+      "Preise laut Anbieter- bzw. Vergleichsseiten (Stand Herbst 2026), vor dem Einsenden aktuell prüfen. Grading lohnt sich vor allem bei wertvollen Karten mit realistischer Chance auf eine 9 oder 10: Gebühren, Versand und Wartezeit fressen bei günstigen Karten den Aufschlag schnell auf."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Was bedeutet Near Mint?",
+     "Fast perfekter Zustand mit höchstens minimalen weißen Stellen, der Standard für frisch gezogene Karten."
+    ],
+    [
+     "Kann man aus Deutschland bei PSA einsenden?",
+     "Ja, seit 15.09.2026 über PSA Europe in Frankfurt, ohne Zoll. Die Karten müssen in Penny Sleeve und Semi-Rigid stecken."
+    ]
+   ],
+   "sources": [
+    [
+     "pokezentrum: Kartenzustände",
+     "https://pokezentrum.de/pokemon-guides/pokemon-karten-zustand/"
+    ],
+    [
+     "Rare Candy: Condition guide",
+     "https://rarecandy.com/blog/pokemon-card-condition-guide"
+    ],
+    [
+     "folio: PSA Europe Frankfurt",
+     "https://folio.fyi/blog/psa-europe-frankfurt"
+    ],
+    [
+     "pregradecards: Grading UK/Europe 2026",
+     "https://pregradecards.com/blog/card-grading-uk-europe-guide-2026"
+    ]
+   ]
+  },
+  {
+   "slug": "faelschungen-erkennen",
+   "title": "Gefälschte Pokémon-Karten erkennen: Die wichtigsten Tests",
+   "short": "Fälschungen erkennen",
+   "desc": "Fake-Pokémon-Karten und manipulierte Booster erkennen: Schrift, Farben, Licht-Test, Gewicht, Holo-Muster, Rückseite und Warnzeichen bei versiegelter Ware.",
+   "lead": "Fälschungen sind bei teuren Karten und versiegelter Ware ein echtes Risiko. Mehrere einfache Tests zusammen geben schnell Sicherheit.",
+   "blocks": [
+    {
+     "h": "Warnzeichen auf der Karte",
+     "list": [
+      "Fehlender Akzent: „Pokemon“ statt „Pokémon“.",
+      "Falsche Schrift, falsche Farben oder Text, der zu einer anderen Karte gehört.",
+      "Zu große oder verschobene Energiesymbole, auffällig dicker Rand.",
+      "Zu glänzendes Kartenmaterial, pixeliges oder wie aufgeklebt wirkendes Holo.",
+      "Rückseite: falscher Blauton, unscharfer Pokéball, ungleichmäßiger gelber Rand."
+     ]
+    },
+    {
+     "h": "Einfache Tests",
+     "list": [
+      "Licht-Test: Echte Karten sind dank dunkler Mittelschicht fast lichtdicht. Ausnahme: alte und manche japanische Karten lassen etwas Licht durch.",
+      "Gewicht: echte Karten wiegen etwa 1,7–1,8 g.",
+      "Vergleich mit einer sicher echten Karte aus demselben Set (Farbe, Schrift, Holo-Muster).",
+      "Den Reißtest nur an wertlosen Karten machen."
+     ]
+    },
+    {
+     "h": "Versiegelte Ware",
+     "list": [
+      "Mehr als eine Siegelnaht oder neu verschweißte Folie.",
+      "„Nintendo“-Branding oder Ash-Artwork auf englischen/europäischen Produkten.",
+      "„Pokémon USA Inc.“ auf Produkten nach 2009.",
+      "Booster, die sich ungewöhnlich leicht oder dünn anfühlen, können „gewogen“ und geplündert sein."
+     ],
+     "p": [
+      "Bei teurer Ware nur bei Händlern mit nachvollziehbaren Bewertungen kaufen und Zahlungen mit Käuferschutz nutzen."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Wie erkenne ich eine gefälschte Pokémon-Karte?",
+     "An Schrift- und Farbfehlern, fehlendem Akzent im Wort Pokémon, glänzendem Material und falschem Holo. Der Licht-Test und der Vergleich mit einer echten Karte helfen zusätzlich."
+    ],
+    [
+     "Funktioniert der Licht-Test immer?",
+     "Nicht bei allen Karten: Alte und manche japanische Karten lassen auch echt etwas Licht durch. Deshalb immer mehrere Tests kombinieren."
+    ]
+   ],
+   "sources": [
+    [
+     "Cardmarket: Counterfeits",
+     "https://help.cardmarket.com/en/Counterfeits"
+    ],
+    [
+     "pokemonpricetracker: Fake-Karten erkennen",
+     "https://www.pokemonpricetracker.com/blog/posts/spot-fake-pokemon-cards-in-2026-authentication-guide"
+    ]
+   ]
+  },
+  {
+   "slug": "verkaufen-gebuehren",
+   "title": "Pokémon-Karten verkaufen: Cardmarket, eBay, Gebühren und Versand",
+   "short": "Verkaufen & Gebühren",
+   "desc": "Was beim Verkauf von Pokémon-Karten übrig bleibt: Gebühren bei Cardmarket und eBay, Trustee-Service, Versand im Brief oder versichert und die Meldegrenze für Plattformen.",
+   "lead": "Erst nach Gebühren und Versand zeigt sich, ob ein Ankauf lohnt. Hier die wichtigsten Kosten im Überblick.",
+   "blocks": [
+    {
+     "h": "Gebühren im Vergleich",
+     "table": {
+      "head": [
+       "Plattform",
+       "Gebühr",
+       "Hinweis"
+      ],
+      "rows": [
+       [
+        "Cardmarket privat",
+        "ca. 5 % Provision",
+        "laut Gebührenrechnern; aktuelle Werte direkt auf cardmarket.com prüfen"
+       ],
+       [
+        "Cardmarket Profi / Powerseller",
+        "ca. 3 % bzw. 1,5 %",
+        "abhängig vom Monatsumsatz"
+       ],
+       [
+        "eBay.de privat",
+        "kostenlos innerhalb Deutschlands",
+        "laut eBay-Hilfe, Stand November 2026 (Inlandsverkäufe)"
+       ],
+       [
+        "eBay.de gewerblich (Sammelkarten)",
+        "11 % bis 990 €, 3 % darüber, plus 0,35–0,45 € pro Bestellung",
+        "zzgl. MwSt.; Stand November 2026, gilt für Top-Bewertung bzw. überdurchschnittlichen Servicestatus"
+       ]
+      ]
+     }
+    },
+    {
+     "h": "Versand",
+     "list": [
+      "Normaler Brief mit Toploader: günstig (innerhalb der EU etwa 1–3 €), aber ohne Sendungsverfolgung.",
+      "Versicherter Versand (Einschreiben, Paket): etwa 5–15 €, bei Cardmarket ab einem bestimmten Bestellwert Pflicht.",
+      "Cardmarket-Trustee: Das Geld wird erst nach Empfangsbestätigung ausgezahlt, nur mit verfolgbarem Versand."
+     ]
+    },
+    {
+     "h": "Steuern und Meldepflicht",
+     "p": [
+      "Plattformen melden Verkäufer ab 30 Verkäufen oder 2.000 € Umsatz im Jahr an das Finanzamt (DAC7). Wer regelmäßig mit Gewinnabsicht kauft und verkauft, handelt schnell gewerblich. Mehr dazu im Ratgeber „Reselling und Steuern“. Das ersetzt keine Steuerberatung."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Was kostet der Verkauf bei Cardmarket?",
+     "Für Privatverkäufer werden meist rund 5 % Provision genannt, für gewerbliche Verkäufer mit höherem Umsatz weniger. Die genauen Werte stehen in den Cardmarket-Gebühren."
+    ],
+    [
+     "Wie verschicke ich Pokémon-Karten sicher?",
+     "Karte in Penny Sleeve und Toploader, im Brief zwischen Pappe; ab höherem Wert versichert mit Sendungsverfolgung."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Gebühren für gewerbliche Verkäufer",
+     "https://www.ebay.de/help/selling/fees-credits-invoices/gebhren-fr-gewerbliche-verkufer?id=4122"
+    ],
+    [
+     "eBay: Gebühren privat",
+     "https://www.ebay.de/help/selling/fees-credits-invoices/selling-fees-managed-payments-sellers-without-ebay-store?id=4822"
+    ],
+    [
+     "Cardmarket: Trustee Service",
+     "https://help.cardmarket.com/en/TrusteeService"
+    ],
+    [
+     "cardpulse: Cardmarket-Guide 2026",
+     "https://www.cardpulse.club/blog/cardmarket-complete-guide-2026"
+    ],
+    [
+     "perldeals-Ratgeber: eBay-Verkaufsgebühren 2026 für alle Reseller-Kategorien mit Rechenbeispielen",
+     "https://perldeals.com/reseller/ratgeber/ebay-verkaufsgebuehren-privat-gewerblich/"
+    ]
+   ]
+  },
+  {
+   "slug": "ankauf-checkliste",
+   "title": "Pokémon-Karten bewerten: Die Ankauf-Checkliste für Händler",
+   "short": "Ankauf-Checkliste",
+   "desc": "Schritt für Schritt eine Pokémon-Sammlung oder Einzelkarte bewerten: Set und Nummer bestimmen, Sprache, Zustand und Echtheit prüfen, Marktpreis ermitteln, Gebühren abziehen.",
+   "lead": "So gehst du beim Ankauf vor, damit am Ende nach Gebühren noch etwas übrig bleibt.",
+   "blocks": [
+    {
+     "h": "In sieben Schritten zum Ankaufspreis",
+     "list": [
+      "1. Set und Kartennummer bestimmen (Setsymbol und X/Y unten auf der Karte).",
+      "2. Sprache festhalten, denn sie verändert den Preis stark.",
+      "3. Seltenheit prüfen: Secret Rare, SIR, Hyper Rare? Common- und Uncommon-Karten nach Gewicht oder in Bulk bewerten.",
+      "4. Zustand ehrlich einstufen: Ecken, Kanten, Oberfläche, Rückseite, am besten unter hellem Licht.",
+      "5. Echtheit bei wertvollen Karten prüfen (Kapitel Fälschungen).",
+      "6. Marktpreis ermitteln: Cardmarket-Trend und tatsächliche Verkäufe für genau diese Sprache und diesen Zustand, nicht den niedrigsten Angebotspreis.",
+      "7. Rechnen: erwarteter Verkaufspreis minus Gebühren, Versand und Verpackung minus gewünschte Marge = maximaler Ankaufspreis."
+     ]
+    },
+    {
+     "h": "Faustregeln aus der Praxis",
+     "list": [
+      "Bei Sammlungen zuerst die wertvollen Karten aussortieren, der Rest ist meist Bulk.",
+      "Spielkarten verlieren nach Rotationen an Wert, Sammlerkarten kaum.",
+      "Kurz nach Erscheinen eines Sets sind Einzelkartenpreise am höchsten und fallen dann oft.",
+      "Versiegelte Ware nur unter dem üblichen Marktpreis einkaufen und trocken, lichtgeschützt lagern."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Wie bewerte ich eine Pokémon-Sammlung schnell?",
+     "Zuerst nach Seltenheitssymbolen sortieren, wertvolle Karten einzeln auf Cardmarket nachschlagen und den Rest als Bulk bewerten."
+    ],
+    [
+     "Welcher Preis zählt beim Ankauf?",
+     "Der realistische Verkaufspreis für Sprache und Zustand nach Abzug von Gebühren, Versand und deiner Marge."
+    ]
+   ],
+   "sources": []
+  }
+ ]
+}

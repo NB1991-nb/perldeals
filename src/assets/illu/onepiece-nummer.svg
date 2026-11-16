@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Kartennummer und Seltenheitskürzel auf einer Sammelkarte lesen</title>
+  <defs>
+    <linearGradient id="gl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6C343"/>
+      <stop offset="0.45" stop-color="#FFF3C4"/>
+      <stop offset="0.6" stop-color="#D6EDE8"/>
+      <stop offset="1" stop-color="#F6C343"/>
+    </linearGradient>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#0B776B"/></marker>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">Nummer und Seltenheit lesen</text>
+
+  <!-- Karte -->
+  <g transform="translate(50 84)">
+    <rect width="200" height="280" rx="12" fill="#0E1C1B"/>
+    <rect x="8" y="8" width="184" height="264" rx="7" fill="#FFFFFF"/>
+    <rect x="16" y="16" width="168" height="170" rx="5" fill="#D6EDE8"/>
+    <circle cx="130" cy="64" r="26" fill="#F6C343"/>
+    <path d="M16 186 L70 120 L104 156 L132 130 L184 180 L184 186 Z" fill="#0B776B"/>
+    <rect x="16" y="196" width="168" height="26" rx="4" fill="#F1F4F2"/>
+    <text x="100" y="215" font-size="15" font-weight="700" fill="#0E1C1B" text-anchor="middle">Name</text>
+    <rect x="16" y="230" width="120" height="6" rx="3" fill="#D3DCD8"/>
+    <!-- Nummernzeile -->
+    <rect x="14" y="244" width="94" height="24" rx="5" fill="#FFFFFF" stroke="#E5484D" stroke-width="2.5"/>
+    <text x="61" y="261" font-size="14" font-weight="700" fill="#0E1C1B" text-anchor="middle">OP01-001</text>
+    <rect x="148" y="244" width="38" height="24" rx="5" fill="#0B776B"/>
+    <text x="167" y="261" font-size="14" font-weight="800" fill="#FFFFFF" text-anchor="middle">SR</text>
+  </g>
+  <g stroke="#0B776B" stroke-width="2.5" marker-end="url(#ar)" fill="none">
+    <path d="M100 396 V356"/>
+    <path d="M220 396 V356"/>
+  </g>
+  <g font-size="18" font-weight="700" fill="#0E1C1B" text-anchor="middle">
+    <text x="100" y="420">Set + Nummer</text>
+    <text x="220" y="420">Seltenheit</text>
+  </g>
+  <text x="100" y="444" font-size="16" fill="#55645F" text-anchor="middle">Beispielformat</text>
+
+  <!-- Legende -->
+  <text x="310" y="104" font-size="20" font-weight="700" fill="#0E1C1B">Seltenheits-Kürzel</text>
+  <g font-size="16" font-weight="800" text-anchor="middle" fill="#FFFFFF">
+    <rect x="310" y="122" width="58" height="30" rx="8" fill="#55645F"/><text x="339" y="142">C</text>
+    <rect x="310" y="162" width="58" height="30" rx="8" fill="#55645F"/><text x="339" y="182">UC</text>
+    <rect x="310" y="202" width="58" height="30" rx="8" fill="#0B776B"/><text x="339" y="222">R</text>
+    <rect x="310" y="242" width="58" height="30" rx="8" fill="#0B776B"/><text x="339" y="262">SR</text>
+    <rect x="310" y="282" width="58" height="30" rx="8" fill="#F6C343"/><text x="339" y="302" fill="#0E1C1B">SEC</text>
+    <rect x="310" y="322" width="58" height="30" rx="8" fill="#0E1C1B"/><text x="339" y="342">L</text>
+  </g>
+  <g font-size="18" fill="#0E1C1B">
+    <text x="384" y="143"><tspan font-weight="600">Common</tspan> – häufig</text>
+    <text x="384" y="183"><tspan font-weight="600">Uncommon</tspan> – weniger häufig</text>
+    <text x="384" y="223"><tspan font-weight="600">Rare</tspan> – selten</text>
+    <text x="384" y="263"><tspan font-weight="600">Super Rare</tspan> – sehr selten</text>
+    <text x="384" y="303"><tspan font-weight="600">Secret Rare</tspan> – besonders selten</text>
+    <text x="384" y="343"><tspan font-weight="600">Leader</tspan> – Anführerkarte</text>
+  </g>
+
+  <!-- Parallel-Hinweis -->
+  <rect x="310" y="372" width="450" height="76" rx="14" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2"/>
+  <rect x="326" y="384" width="38" height="52" rx="5" fill="url(#gl)"/>
+  <rect x="331" y="389" width="28" height="42" rx="3" fill="#FFFFFF"/>
+  <rect x="334" y="392" width="22" height="18" rx="2" fill="#D6EDE8"/>
+  <text x="380" y="404" font-size="18" font-weight="700" fill="#0E1C1B">Parallel-Version</text>
+  <text x="380" y="430" font-size="18" fill="#55645F">gleiche Nummer, aber mit Glanz-Rahmen</text>
+</svg>

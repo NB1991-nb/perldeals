@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Kartenwert kostenlos ermitteln in vier Schritten</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="28" font-weight="700" fill="#0E1C1B">Kartenwert ermitteln in 4 Schritten</text>
+
+  <!-- Kacheln -->
+  <g fill="#FFFFFF" stroke="#D3DCD8" stroke-width="2">
+    <rect x="40" y="84" width="340" height="156" rx="16"/>
+    <rect x="420" y="84" width="340" height="156" rx="16"/>
+    <rect x="40" y="268" width="340" height="156" rx="16"/>
+    <rect x="420" y="268" width="340" height="156" rx="16"/>
+  </g>
+  <rect x="420" y="268" width="340" height="156" rx="16" fill="#D6EDE8" stroke="#0B776B" stroke-width="2"/>
+
+  <!-- Nummern -->
+  <g fill="#0B776B">
+    <circle cx="84" cy="126" r="22"/><circle cx="464" cy="126" r="22"/><circle cx="84" cy="310" r="22"/><circle cx="464" cy="310" r="22"/>
+  </g>
+  <g fill="#FFFFFF" font-size="22" font-weight="700" text-anchor="middle">
+    <text x="84" y="134">1</text><text x="464" y="134">2</text><text x="84" y="318">3</text><text x="464" y="318">4</text>
+  </g>
+
+  <!-- Überschriften -->
+  <g font-size="22" font-weight="700" fill="#0E1C1B">
+    <text x="120" y="134">Karte bestimmen</text>
+    <text x="500" y="134">Sprache und Zustand</text>
+    <text x="120" y="318">Verkäufe prüfen</text>
+    <text x="500" y="318">Spanne festlegen</text>
+  </g>
+  <g font-size="18" fill="#55645F">
+    <text x="64" y="178">Set-Symbol und Nummer</text>
+    <text x="64" y="206">unten auf der Karte</text>
+    <text x="444" y="178">Deutsch, Englisch, Japanisch?</text>
+    <text x="444" y="206">Ecken, Kanten, Oberfläche</text>
+    <text x="64" y="362">eBay: verkaufte Artikel</text>
+    <text x="64" y="390">Cardmarket: Sprache filtern</text>
+    <text x="444" y="362" fill="#0E1C1B">mehrere Verkäufe vergleichen,</text>
+    <text x="444" y="390" fill="#0E1C1B">Ausreißer weglassen</text>
+  </g>
+
+  <!-- neutrale Karten-Skizze in Kachel 1 -->
+  <g transform="translate(318 150)">
+    <rect width="44" height="62" rx="5" fill="#FFFFFF" stroke="#55645F" stroke-width="2"/>
+    <rect x="6" y="8" width="32" height="24" rx="2" fill="#D6EDE8"/>
+    <path d="M7 42 H37 M7 48 H28" stroke="#D3DCD8" stroke-width="3"/>
+    <rect x="22" y="52" width="16" height="6" rx="2" fill="#F6C343"/>
+  </g>
+
+  <!-- Pfeile -->
+  <g fill="none" stroke="#0B776B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M386 162 H412"/><path d="M404 154 L412 162 L404 170"/>
+    <path d="M590 246 C590 256 210 252 210 262"/><path d="M202 256 L210 264 L218 256"/>
+    <path d="M386 346 H412"/><path d="M404 338 L412 346 L404 354"/>
+  </g>
+
+  <text x="40" y="458" font-size="18" fill="#55645F">Angebotspreise sind Wunschpreise – aussagekräftig sind nur echte Verkäufe.</text>
+</svg>

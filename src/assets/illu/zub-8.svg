@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Durchsichtige Acryl-Schutzbox um einen Karton</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M80 92 L120 76 L164 92 L124 108 Z" fill="#9FD3C9"/>
+  <path d="M80 92 L124 108 V180 L80 164 Z" fill="#0B776B"/>
+  <path d="M124 108 L164 92 V164 L124 180 Z" fill="#0A6359"/>
+  <rect x="88" y="120" width="26" height="32" rx="3" fill="#D6EDE8" transform="skewY(20)" transform-origin="88 120"/>
+  <path d="M64 82 L120 60 L180 82 L124 104 Z" fill="#FFFFFF" fill-opacity="0.35" stroke="#55645F" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M64 82 L124 104 V196 L64 174 Z" fill="#FFFFFF" fill-opacity="0.3" stroke="#55645F" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M124 104 L180 82 V174 L124 196 Z" fill="#FFFFFF" fill-opacity="0.2" stroke="#55645F" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M74 104 L74 150 M134 116 L168 102" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+</svg>

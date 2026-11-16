@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Semi-Rigid-Hülle: flache, halbfeste Hülle mit Lasche</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <rect x="62" y="40" width="116" height="164" rx="6" fill="#FFFFFF" fill-opacity="0.6" stroke="#55645F" stroke-width="3"/>
+  <rect x="62" y="40" width="116" height="26" rx="6" fill="#FFFFFF" stroke="#55645F" stroke-width="3"/>
+  <path d="M104 66 a16 10 0 0 1 32 0" fill="#D6EDE8" stroke="#55645F" stroke-width="2.5"/>
+  <g>
+    <rect x="78" y="78" width="84" height="118" rx="5.9" fill="#0B776B"/>
+    <rect x="83.04" y="83.04" width="73.92" height="107.92" rx="3.4" fill="#FFFFFF"/>
+    <rect x="86.04" y="92.48" width="67.92" height="44.84" rx="2" fill="#D6EDE8"/>
+    <circle cx="106.41600000000001" cy="109.51920000000001" r="8.829600000000001" fill="#F6C343"/>
+    <path d="M86.04 137.32 L109.81200000000001 114.9 L126.792 127.4552 L139.01760000000002 119.384 L153.96 132.836 L153.96 137.32 Z" fill="#0B776B"/>
+    <rect x="86.04" y="151.16" width="54.336000000000006" height="4.72" rx="2.36" fill="#D3DCD8"/>
+    <rect x="86.04" y="161.78" width="67.92" height="4.72" rx="2.36" fill="#D3DCD8"/>
+    <rect x="86.04" y="172.4" width="40.752" height="4.72" rx="2.36" fill="#D3DCD8"/>
+  </g>
+  <rect x="62" y="40" width="116" height="164" rx="6" fill="#FFFFFF" fill-opacity="0.25"/>
+  <path d="M148 92 L170 70" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>

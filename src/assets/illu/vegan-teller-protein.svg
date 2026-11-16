@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Teller-Modell mit veganen Proteinquellen</title>
+  <rect width="800" height="480" rx="24" fill="#F1F4F2"/>
+  <text x="40" y="56" font-size="26" font-weight="800" fill="#0E1C1B">Der proteinreiche vegane Teller</text>
+
+  <!-- Teller -->
+  <circle cx="230" cy="272" r="178" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="3"/>
+  <circle cx="230" cy="272" r="150" fill="#FFFFFF" stroke="#E4EAE7" stroke-width="2"/>
+  <!-- Gemüse: linke Hälfte -->
+  <path d="M230 272 L230 122 A150 150 0 0 0 230 422 Z" fill="#2E9E5B"/>
+  <!-- Hülsenfrüchte: rechts oben -->
+  <path d="M230 272 L230 122 A150 150 0 0 1 380 272 Z" fill="#0B776B"/>
+  <!-- Vollkorn: rechts unten -->
+  <path d="M230 272 L380 272 A150 150 0 0 1 230 422 Z" fill="#F6C343"/>
+  <path d="M230 122 V422 M230 272 H380" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- Deko-Formen -->
+  <g fill="#FFFFFF" opacity="0.55">
+    <circle cx="150" cy="210" r="16"/><circle cx="178" cy="250" r="11"/><circle cx="140" cy="300" r="13"/><circle cx="185" cy="340" r="15"/><circle cx="125" cy="255" r="9"/>
+    <circle cx="275" cy="190" r="8"/><circle cx="300" cy="212" r="8"/><circle cx="322" cy="240" r="8"/><circle cx="290" cy="245" r="8"/><circle cx="262" cy="225" r="8"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.6">
+    <path d="M262 312 l30 0 M268 338 l44 -6 M262 365 l30 6 M300 300 l40 6"/>
+  </g>
+  <!-- Schale Nüsse -->
+  <circle cx="390" cy="140" r="44" fill="#FFFFFF" stroke="#D3DCD8" stroke-width="3"/>
+  <circle cx="390" cy="140" r="32" fill="#8A6A3B"/>
+  <g fill="#C9A26B"><circle cx="378" cy="132" r="7"/><circle cx="398" cy="128" r="7"/><circle cx="390" cy="150" r="7"/><circle cx="405" cy="148" r="6"/><circle cx="374" cy="150" r="6"/></g>
+
+  <!-- Legende -->
+  <g>
+    <rect x="470" y="104" width="28" height="28" rx="7" fill="#0B776B"/>
+    <text x="512" y="122" font-size="20" font-weight="700" fill="#0E1C1B">Hülsenfrüchte &amp; Soja</text>
+    <text x="512" y="148" font-size="18" fill="#55645F">Linsen, Bohnen, Tofu, Tempeh</text>
+
+    <rect x="470" y="184" width="28" height="28" rx="7" fill="#F6C343"/>
+    <text x="512" y="202" font-size="20" font-weight="700" fill="#0E1C1B">Vollkorn</text>
+    <text x="512" y="228" font-size="18" fill="#55645F">Reis, Nudeln, Brot, Hafer</text>
+
+    <rect x="470" y="264" width="28" height="28" rx="7" fill="#2E9E5B"/>
+    <text x="512" y="282" font-size="20" font-weight="700" fill="#0E1C1B">Gemüse &amp; Obst</text>
+    <text x="512" y="308" font-size="18" fill="#55645F">bunt und reichlich</text>
+
+    <rect x="470" y="344" width="28" height="28" rx="7" fill="#8A6A3B"/>
+    <text x="512" y="362" font-size="20" font-weight="700" fill="#0E1C1B">Nüsse &amp; Samen</text>
+    <text x="512" y="388" font-size="18" fill="#55645F">eine Handvoll, dazu Rapsöl</text>
+  </g>
+  <rect x="460" y="414" width="310" height="40" rx="12" fill="#D6EDE8"/>
+  <text x="615" y="441" font-size="18" font-weight="700" fill="#0B776B" text-anchor="middle">Hülsenfrüchte + Getreide</text>
+</svg>

@@ -1,0 +1,381 @@
+{
+ "researched": "2026-11-12",
+ "currency": "USD",
+ "note": "Preise ohne Grading (Raw, Near Mint) und für PSA 10 in US-Dollar, wie sie die Quelle am Recherchetag anzeigt. PriceCharting wertet abgeschlossene eBay-Verkäufe aus, TCGplayer zeigt den Marktpreis seines US-Marktplatzes. Preise auf Cardmarket (Euro, Europa) können deutlich abweichen. Nur Karten aus Boostern, keine Promo-, Staff- oder Stempel-Karten.",
+ "sets": [
+  {
+   "code": "ME2.5",
+   "de": "Erhabene Helden",
+   "en": "Ascended Heroes",
+   "slug": "erhabene-helden",
+   "src": [
+    "PriceCharting",
+    "https://www.pricecharting.com/console/pokemon-ascended-heroes"
+   ],
+   "cards": [
+    [
+     "Mega-Gengar-ex",
+     "284",
+     620.06,
+     1325
+    ],
+    [
+     "Pikachu-ex",
+     "276",
+     571.18,
+     1275
+    ],
+    [
+     "Mega-Dragoran-ex",
+     "290",
+     385,
+     867.5
+    ],
+    [
+     "Mega-Glurak-Y-ex",
+     "294",
+     260.74,
+     1657.21
+    ],
+    [
+     "Pikachu-ex",
+     "277",
+     225.45,
+     550
+    ],
+    [
+     "Team Rockets Mewtu-ex",
+     "281",
+     172.5,
+     427.5
+    ],
+    [
+     "Mega-Dragoran-ex",
+     "295",
+     146.68,
+     836.31
+    ],
+    [
+     "Lillies Piepi-ex",
+     "280",
+     99.72,
+     199.99
+    ],
+    [
+     "Ns Zoroark-ex",
+     "286",
+     96.98,
+     206.68
+    ]
+   ]
+  },
+  {
+   "code": "ME02",
+   "de": "Fatale Flammen",
+   "en": "Phantasmal Flames",
+   "slug": "fatale-flammen",
+   "src": [
+    "PriceCharting",
+    "https://www.pricecharting.com/console/pokemon-phantasmal-flames"
+   ],
+   "cards": [
+    [
+     "Mega-Glurak-X-ex",
+     "125/094",
+     590.67,
+     1268.38
+    ],
+    [
+     "Mega-Glurak-X-ex",
+     "130/094",
+     196.78,
+     1935
+    ],
+    [
+     "Mega-Glurak-X-ex",
+     "109/094",
+     21.5,
+     107.77
+    ],
+    [
+     "Mega-Tohaido-ex",
+     "127/094",
+     16.23,
+     64.97
+    ],
+    [
+     "Mauzi",
+     "106/094",
+     15.27,
+     92
+    ],
+    [
+     "Plinfa",
+     "098/094",
+     12.87,
+     90
+    ]
+   ]
+  },
+  {
+   "code": "ME01",
+   "de": "Mega-Entwicklung",
+   "en": "Mega Evolution",
+   "slug": "mega-entwicklung",
+   "src": [
+    "PriceCharting",
+    "https://www.pricecharting.com/de/console/pokemon-mega-evolution?sort=highest-price"
+   ],
+   "cards": [
+    [
+     "Mega-Lucario-ex",
+     "188",
+     174.88,
+     630.17
+    ],
+    [
+     "Mega-Guardevoir-ex",
+     "187",
+     141.68,
+     502.5
+    ],
+    [
+     "Mega-Lucario-ex",
+     "179",
+     140.09,
+     288.32
+    ],
+    [
+     "Mega-Guardevoir-ex",
+     "178",
+     134.7,
+     249.54
+    ],
+    [
+     "Mega-Bisaflor-ex",
+     "177",
+     94.39,
+     178.5
+    ],
+    [
+     "Mega-Latias-ex",
+     "181",
+     54.2,
+     150
+    ],
+    [
+     "Lillie's Determination (Trainer, engl. Name)",
+     "184",
+     49.5,
+     119.99
+    ],
+    [
+     "Mega-Kangama-ex",
+     "182",
+     48.26,
+     113.53
+    ],
+    [
+     "Mega-Absol-ex",
+     "180",
+     44.46,
+     104.32
+    ],
+    [
+     "Acerola's Mischief (Trainer, engl. Name)",
+     "183",
+     26.98,
+     64.66
+    ]
+   ]
+  },
+  {
+   "code": "ME05",
+   "de": "Dunkelnacht",
+   "en": "Pitch Black",
+   "slug": "dunkelnacht",
+   "src": [
+    "PriceCharting",
+    "https://www.pricecharting.com/console/pokemon-pitch-black"
+   ],
+   "cards": [
+    [
+     "Mega-Darkrai-ex",
+     "116",
+     138.05,
+     469.38
+    ],
+    [
+     "Mega-Darkrai-ex",
+     "120",
+     125.76,
+     1160
+    ],
+    [
+     "Morpeko-ex",
+     "117",
+     64.34,
+     346
+    ],
+    [
+     "Mega-Zeraora-ex",
+     "114",
+     33,
+     216.75
+    ],
+    [
+     "Mega-Skelabra-ex",
+     "115",
+     30.06,
+     151.03
+    ],
+    [
+     "Gwynn (Trainer, engl. Name)",
+     "119",
+     24.16,
+     111.24
+    ],
+    [
+     "Gladion's Final Battle (Trainer, engl. Name)",
+     "118",
+     19.99,
+     67
+    ]
+   ]
+  },
+  {
+   "code": "ME04",
+   "de": "Wachsendes Chaos",
+   "en": "Chaos Rising",
+   "slug": "wachsendes-chaos",
+   "src": [
+    "TCGplayer-Marktpreis via PokemonPriceTracker",
+    "https://www.pokemonpricetracker.com/price-guide/me04-chaos-rising"
+   ],
+   "noPsa": true,
+   "cards": [
+    [
+     "Mega-Quajutsu-ex",
+     "122/086",
+     109.28,
+     null
+    ],
+    [
+     "Mega-Quajutsu-ex",
+     "116/086",
+     102.74,
+     null
+    ],
+    [
+     "Chillabell-ex",
+     "119/086",
+     38.5,
+     null
+    ],
+    [
+     "Mega-Tandrak-ex",
+     "118/086",
+     21.26,
+     null
+    ],
+    [
+     "Mega-Floette-ex",
+     "117/086",
+     19.54,
+     null
+    ],
+    [
+     "AZ's Tranquility (Trainer, engl. Name)",
+     "120/086",
+     18.1,
+     null
+    ],
+    [
+     "Roxie's Performance (Trainer, engl. Name)",
+     "121/086",
+     14.49,
+     null
+    ]
+   ]
+  },
+  {
+   "code": "ME03",
+   "de": "Optimale Ordnung",
+   "en": "Perfect Order",
+   "slug": "optimale-ordnung",
+   "src": [
+    "PriceCharting",
+    "https://www.pricecharting.com/console/pokemon-perfect-order"
+   ],
+   "cards": [
+    [
+     "Mega-Zygarde-ex",
+     "124",
+     90,
+     390
+    ],
+    [
+     "Mauzi-ex",
+     "121",
+     80,
+     198.75
+    ],
+    [
+     "Mega-Pixi-ex",
+     "119",
+     37.04,
+     110.16
+    ],
+    [
+     "Rosa's Encouragement (Trainer, engl. Name)",
+     "123",
+     35,
+     110
+    ],
+    [
+     "Mega-Zygarde-ex",
+     "120",
+     34.79,
+     106.1
+    ]
+   ]
+  },
+  {
+   "code": "ME06",
+   "de": "Delta-Herrschaft",
+   "en": "Delta Reign",
+   "slug": "delta-herrschaft",
+   "src": [
+    "PokemonPriceTracker",
+    "https://www.pokemonpricetracker.com/price-guide/me06-delta-reign"
+   ],
+   "cards": [],
+   "empty": "Das Set ist am 06.11.2026 erschienen. Am Recherchetag gab es noch keine belastbaren Marktpreise; wir ergänzen sie, sobald genug Verkäufe vorliegen."
+  }
+ ],
+ "records": [
+  [
+   "Pikachu Illustrator (Promo, 1998)",
+   "PSA 10",
+   "16.492.000 $",
+   "Februar 2026",
+   "Auktion bei Goldin Auctions, Verkäufer Logan Paul – Weltrekord für eine Pokémon-Karte",
+   [
+    "pokezentrum.de",
+    "https://pokezentrum.de/pokemon-karten-news/16-millionen-us-dollar-pikachu-illustrator-pokemon-karte-bricht-weltrekord/"
+   ]
+  ],
+  [
+   "Pikachu Illustrator (Promo, 1998)",
+   "PSA 10 (dieselbe Karte)",
+   "5.275.000 $",
+   "Juli 2021",
+   "Privatverkauf an Logan Paul – damaliger Rekord",
+   [
+    "monsterdealz Magazin",
+    "https://www.monsterdealz.de/magazin/teuerste-pokemon-karten"
+   ]
+  ]
+ ],
+ "format": "cards: [Name DE, Nr., Raw USD (Quelle src), PSA 10 USD, optional {cm30: Ø 30 Tage Cardmarket in EUR, eb30: Ø 30 Tage eBay verkauft, ebCur: \"EUR\"|\"USD\", max: [Preis, Plattform, \"EUR\"|\"USD\", Datum TT.MM.]}]. Bei JEDER Aktualisierung researched auf das Recherchedatum setzen."
+}

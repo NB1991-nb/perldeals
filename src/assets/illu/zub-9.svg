@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Gelber Luftpolsterumschlag</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <g transform="rotate(-6 120 130)">
+    <rect x="40" y="70" width="160" height="116" rx="8" fill="#FBE7A6" stroke="#D9A21E" stroke-width="2.5"/>
+    <path d="M44 74 L120 118 L196 74" fill="none" stroke="#D9A21E" stroke-width="2.5"/>
+    <path d="M40 78 L40 52 Q40 46 46 46 L194 46 Q200 46 200 52 L200 78" fill="#FCEFC4" stroke="#D9A21E" stroke-width="2.5"/>
+    <rect x="50" y="52" width="140" height="8" rx="4" fill="#FFFFFF" opacity="0.9"/>
+    <g fill="#FFFFFF" opacity="0.55"><circle cx="58" cy="118" r="6"/><circle cx="79" cy="118" r="6"/><circle cx="100" cy="118" r="6"/><circle cx="121" cy="118" r="6"/><circle cx="142" cy="118" r="6"/><circle cx="163" cy="118" r="6"/><circle cx="184" cy="118" r="6"/><circle cx="68" cy="136" r="6"/><circle cx="89" cy="136" r="6"/><circle cx="110" cy="136" r="6"/><circle cx="131" cy="136" r="6"/><circle cx="152" cy="136" r="6"/><circle cx="173" cy="136" r="6"/><circle cx="194" cy="136" r="6"/><circle cx="58" cy="154" r="6"/><circle cx="79" cy="154" r="6"/><circle cx="100" cy="154" r="6"/><circle cx="121" cy="154" r="6"/><circle cx="142" cy="154" r="6"/><circle cx="163" cy="154" r="6"/><circle cx="184" cy="154" r="6"/><circle cx="68" cy="172" r="6"/><circle cx="89" cy="172" r="6"/><circle cx="110" cy="172" r="6"/><circle cx="131" cy="172" r="6"/><circle cx="152" cy="172" r="6"/><circle cx="173" cy="172" r="6"/><circle cx="194" cy="172" r="6"/></g>
+  </g>
+</svg>

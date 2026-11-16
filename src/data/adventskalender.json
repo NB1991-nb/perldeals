@@ -1,0 +1,836 @@
+{
+ "updated": "2026-11-05",
+ "hub": {
+  "title": "Adventskalender 2026: die besten Kalender im Überblick",
+  "desc": "Adventskalender 2026: LEGO, Pokémon, Beauty, vegan, Fitness, Technik und Spielzeug. Mit Inhalt, Artikelnummer und UVP. Jetzt vergleichen.",
+  "lead": "Von LEGO bis Werkzeug: Wir zeigen, welche Adventskalender es 2026 wirklich gibt, was drinsteckt und worauf du beim Kauf achten solltest.",
+  "intro": [
+   "Viele beliebte Adventskalender sind schon vor dem 1. Dezember vergriffen. Die Rituals-Kalender 2026 etwa waren Anfang November im eigenen Onlineshop ausverkauft.",
+   "Gleichzeitig sinken die Preise einzelner Kalender oft erst kurz vor oder im Dezember. Bei Schleich lagen die Tiefstpreise in den vergangenen Jahren laut Monsterdealz im Dezember. Wer auf ein bestimmtes Motiv festgelegt ist, sollte daher früher kaufen. Wer flexibel ist, kann abwarten.",
+   "perldeals hilft dir dabei: Wir listen nur Kalender, deren Ausgabe 2026 durch Hersteller, Händler oder Fachpresse belegt ist, nennen die Artikelnummer zur sicheren Unterscheidung von Vorjahresmodellen und geben die UVP nur an, wenn wir eine Quelle dafür haben. Lebensmittel und Nahrungsergänzung nehmen wir nur auf, wenn sie ausdrücklich vegan sind."
+  ]
+ },
+ "cats": [
+  {
+   "slug": "lego",
+   "h1": "LEGO Adventskalender 2026: alle fünf Kalender im Überblick",
+   "title": "LEGO Adventskalender 2026: alle Sets & UVP",
+   "desc": "LEGO Adventskalender 2026 im Überblick: Star Wars, Marvel, City, Friends und Disney mit Setnummer, Teilezahl, Minifiguren und UVP.",
+   "intro": [
+    "LEGO bringt für 2026 fünf Adventskalender heraus: Star Wars, Marvel, City, Friends und Disney. Alle Sets sind laut Fachpresse seit dem 1. September 2026 erhältlich.",
+    "Einen LEGO Harry Potter Adventskalender gibt es 2026 laut den Übersichten von Brick Fanatics und Stonewars nicht. Wer gezielt sucht, orientiert sich am besten an der fünfstelligen Setnummer."
+   ],
+   "items": [
+    {
+     "name": "LEGO Star Wars Adventskalender 2026 (75456)",
+     "brand": "LEGO",
+     "uvp": 34.99,
+     "uvpSource": "Stonewars (EUR-Preis zur Ankündigung)",
+     "contents": "293 Teile, Mandalorian-Thema mit Grogu, IG-11 mit neuem Kopf sowie Din Djarin, Grogu und Moff Gideon in Weihnachtspullis, dazu Mini-Modelle",
+     "why": "Für Star-Wars-Fans, die ihre Minifiguren-Sammlung um festliche Varianten erweitern wollen.",
+     "vegan": false,
+     "query": "LEGO Star Wars Adventskalender 2026 75456",
+     "shopKey": "alternate",
+     "source": [
+      "Stonewars: LEGO Adventskalender 2026",
+      "https://stonewars.com/news/lego-advent-calendars-2026/"
+     ]
+    },
+    {
+     "name": "LEGO Marvel Adventskalender 2026 (76340)",
+     "brand": "LEGO",
+     "uvp": 34.99,
+     "uvpSource": "Stonewars (EUR-Preis zur Ankündigung)",
+     "contents": "317 Teile, 6 Minifiguren (u. a. Wolverine im Weihnachtspulli, Dr. Doom, Iron Man, Spider-Man, Gwen Stacy, Captain America), Mini-Modelle und Imbissstände",
+     "why": "Für Marvel-Fans ab etwa 7 Jahren, die viele Figuren für ihr Geld wollen.",
+     "vegan": false,
+     "query": "LEGO Marvel Adventskalender 2026 76340",
+     "shopKey": null,
+     "source": [
+      "Brick Fanatics: LEGO advent calendars are back to normal in 2026",
+      "https://www.brickfanatics.com/lego-advent-calendars-are-back-to-normal-in-2026/"
+     ]
+    },
+    {
+     "name": "LEGO City Adventskalender 2026 (60510)",
+     "brand": "LEGO",
+     "uvp": 26.99,
+     "uvpSource": "Brick Fanatics (EUR-Preis zur Ankündigung)",
+     "contents": "252 Teile, Weihnachtswerkstatt-Thema mit 7 Minifiguren (drei Elfen, zwei Weihnachtsmänner, Mrs. Claus, Schneemann), exklusives Rentierkalb, Taube, Schaukelpferd",
+     "why": "Günstigster Einstieg in die LEGO-Kalender und gut für jüngere Kinder geeignet.",
+     "vegan": false,
+     "query": "LEGO City Adventskalender 2026 60510",
+     "shopKey": "alternate",
+     "source": [
+      "Brick Fanatics: LEGO advent calendars are back to normal in 2026",
+      "https://www.brickfanatics.com/lego-advent-calendars-are-back-to-normal-in-2026/"
+     ]
+    },
+    {
+     "name": "LEGO Friends Adventskalender 2026 (42698)",
+     "brand": "LEGO",
+     "uvp": 26.99,
+     "uvpSource": "Brick Fanatics (EUR-Preis zur Ankündigung)",
+     "contents": "211 Teile, 3 Mini-Puppen und Tierfiguren (Robbe, Pony, Wiesel, Eisbär, Pinguin, weißer Hase), bedrucktes Schneepfad-Element",
+     "why": "Für Kinder, die lieber mit Tieren und Mini-Puppen spielen als mit Fahrzeugen.",
+     "vegan": false,
+     "query": "LEGO Friends Adventskalender 2026 42698",
+     "shopKey": "alternate",
+     "source": [
+      "Brick Fanatics: LEGO advent calendars are back to normal in 2026",
+      "https://www.brickfanatics.com/lego-advent-calendars-are-back-to-normal-in-2026/"
+     ]
+    },
+    {
+     "name": "LEGO Disney Adventskalender 2026 (43298)",
+     "brand": "LEGO",
+     "uvp": 34.99,
+     "uvpSource": "Stonewars (EUR-Preis zur Ankündigung)",
+     "contents": "Mikro-Puppen von Arielle, Cinderella, Vaiana und Mulan mit tierischen Begleitern, bedruckte Disney-Teile und ein kleines Brettspiel",
+     "why": "Für Disney-Prinzessinnen-Fans, die gern nachspielen und sammeln.",
+     "vegan": false,
+     "query": "LEGO Disney Adventskalender 2026 43298",
+     "shopKey": "alternate",
+     "source": [
+      "Brick Fanatics: LEGO advent calendars are back to normal in 2026",
+      "https://www.brickfanatics.com/lego-advent-calendars-are-back-to-normal-in-2026/"
+     ]
+    }
+   ],
+   "tips": [
+    "Auf die Setnummer achten: Ältere Jahrgänge werden oft unter ähnlichem Namen weiterverkauft.",
+    "Star Wars, Marvel und Disney liegen preislich gleichauf. City und Friends sind die günstigeren Kalender.",
+    "Wer mehrere Kinder beschenkt, kann City und Friends kombinieren und bleibt trotzdem unter dem Preis von zwei lizenzierten Kalendern."
+   ],
+   "faq": [
+    [
+     "Welche LEGO Adventskalender gibt es 2026?",
+     "Fünf: Star Wars (75456), Marvel (76340), City (60510), Friends (42698) und Disney (43298)."
+    ],
+    [
+     "Gibt es 2026 einen LEGO Harry Potter Adventskalender?",
+     "Nein. Die Übersichten der LEGO-Fachseiten Brick Fanatics und Stonewars führen für 2026 keinen Harry-Potter-Kalender."
+    ],
+    [
+     "Wann sind die LEGO Adventskalender 2026 erschienen?",
+     "Laut Brick Fanatics und Stonewars am 1. September 2026."
+    ],
+    [
+     "Welcher LEGO Adventskalender hat die meisten Teile?",
+     "Der Marvel-Kalender mit 317 Teilen, gefolgt von Star Wars mit 293 Teilen."
+    ]
+   ]
+  },
+  {
+   "slug": "pokemon",
+   "h1": "Pokémon Adventskalender 2026: was es wirklich gibt",
+   "title": "Pokémon Adventskalender 2026: Überblick",
+   "desc": "Pokémon Adventskalender 2026: Figurenkalender von Jazwares und Funko im Überblick. Dazu der Stand zum Sammelkarten-Festtagskalender.",
+   "intro": [
+    "Für 2026 hat The Pokémon Company bislang keinen neuen Sammelkarten-Festtagskalender angekündigt. Das berichten PokéZentrum und mehrere Händlerübersichten mit Stand Ende September und Oktober 2026.",
+    "Neu erschienen sind dagegen Figuren-Adventskalender, allen voran der Pokémon Adventskalender 2026 von Jazwares und der Funko Bitty POP! Pokémon Countdown-Kalender. Für One Piece, Yu-Gi-Oh! oder Lorcana konnten wir für 2026 keinen offiziellen Sammelkarten-Adventskalender finden."
+   ],
+   "items": [
+    {
+     "name": "Pokémon Adventskalender 2026 (Jazwares, PKW4799)",
+     "brand": "Jazwares",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Türchen mit Battle-Figuren (ca. 5 cm) in weihnachtlicher Gestaltung und Zubehörteilen, ab 4 Jahren",
+     "why": "Für jüngere Pokémon-Fans, die lieber mit Figuren spielen als Karten sammeln.",
+     "vegan": false,
+     "query": "Pokémon Adventskalender 2026 Jazwares",
+     "shopKey": "alternate",
+     "source": [
+      "Alternate: Jazwares Adventskalender 2026 (Pokémon)",
+      "https://www.alternate.de/Jazwares/Adventskalender-2026/html/product/100197440"
+     ]
+    },
+    {
+     "name": "Funko Bitty POP! Pokémon Countdown-Kalender 2026",
+     "brand": "Funko",
+     "uvp": null,
+     "uvpSource": "Keine EUR-UVP gefunden",
+     "contents": "24 Fächer mit 10 Bitty-POP!-Minifiguren (ca. 2,3 cm), stapelbaren Displayteilen, Party-Zubehör und Sammelhüllen",
+     "why": "Für Sammler, die kleine Vitrinenfiguren mögen und wenig Platz haben.",
+     "vegan": false,
+     "query": "Funko Bitty Pop Pokémon Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Touteslesbox: Funko Adventskalender 2026 Pokémon und Star Wars",
+      "https://touteslesbox.fr/calendrier-avent-funko-2026-pokemon-star-wars/"
+     ]
+    }
+   ],
+   "tips": [
+    "Vorsicht bei Angeboten für den Sammelkarten-Festtagskalender: Was aktuell verkauft wird, ist die Ausgabe 2025 oder älter, oft deutlich über dem ursprünglichen Händlerpreis.",
+    "Beim Jazwares-Kalender auf die Jahreszahl 2026 achten, der Vorjahreskalender ist ähnlich aufgemacht.",
+    "Wer Karten statt Figuren möchte, fährt mit einzelnen Boostern oder Displays oft günstiger als mit einem Restposten-Kalender."
+   ],
+   "faq": [
+    [
+     "Gibt es 2026 einen Pokémon TCG Festtagskalender?",
+     "Bis Ende Oktober 2026 wurde keiner angekündigt. PokéZentrum vermutet, dass er zugunsten der Jubiläumsprodukte zu 30 Jahren Pokémon entfällt, das ist aber nicht offiziell bestätigt."
+    ],
+    [
+     "Was ist im Jazwares Pokémon Adventskalender 2026?",
+     "24 Türchen mit Pokémon-Figuren und Zubehör in weihnachtlichem Design. Die Händler nennen leicht unterschiedliche Aufteilungen (19 Figuren plus 5 Zubehörteile bzw. 20 plus 4)."
+    ],
+    [
+     "Gibt es einen One Piece oder Yu-Gi-Oh! Adventskalender 2026?",
+     "Einen offiziellen Sammelkarten-Adventskalender für 2026 haben wir für beide Spiele nicht gefunden."
+    ]
+   ]
+  },
+  {
+   "slug": "beauty",
+   "h1": "Beauty Adventskalender 2026: Rituals, Lookfantastic, essence und mehr",
+   "title": "Beauty Adventskalender 2026 im Überblick",
+   "desc": "Beauty Adventskalender 2026: Rituals, L'Occitane, Lookfantastic, Weleda, essence, Catrice und mehr mit Inhalt, Originalgrößen und UVP.",
+   "intro": [
+    "Beauty-Adventskalender gehören zu den ersten Kalendern, die ausverkauft sind. Die Rituals-Kalender 2026 waren Anfang November im eigenen Onlineshop bereits vergriffen.",
+    "Wir haben die 2026er-Ausgaben bekannter Marken zusammengestellt, von Drogerie-Kalendern unter 40 Euro bis zu Premium-Kalendern mit vielen Originalgrößen. Als vegan kennzeichnen wir einen Kalender nur, wenn der Hersteller das ausdrücklich angibt."
+   ],
+   "items": [
+    {
+     "name": "Rituals Classic Adventskalender 2026",
+     "brand": "Rituals",
+     "uvp": 89.9,
+     "uvpSource": "Rituals-Onlineshop",
+     "contents": "24 Überraschungen aus Körper-, Bad- und Home-Pflege, laut Rituals 163,90 Euro Warenwert",
+     "why": "Für alle, die Rituals-Düfte mögen und einen soliden Einstieg suchen.",
+     "vegan": false,
+     "query": "Rituals Adventskalender 2026 Classic",
+     "shopKey": null,
+     "source": [
+      "Rituals: Adventskalender",
+      "https://www.rituals.com/de-de/adventskalender.html"
+     ]
+    },
+    {
+     "name": "Rituals Premium Adventskalender 2026",
+     "brand": "Rituals",
+     "uvp": 149.9,
+     "uvpSource": "Rituals-Onlineshop",
+     "contents": "24 Überraschungen, davon 6 in Originalgröße, laut Rituals 224,90 Euro Warenwert",
+     "why": "Für Rituals-Fans, die mehr Originalgrößen wollen.",
+     "vegan": false,
+     "query": "Rituals Premium Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rituals: Adventskalender",
+      "https://www.rituals.com/de-de/adventskalender.html"
+     ]
+    },
+    {
+     "name": "L'Occitane Adventskalender Klassik 2026",
+     "brand": "L'Occitane",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Pflegemomente aus Körper-, Hand- und Gesichtspflege",
+     "why": "Für Liebhaber provenzalischer Pflege und Düfte.",
+     "vegan": false,
+     "query": "L'Occitane Adventskalender 2026 Klassik",
+     "shopKey": null,
+     "source": [
+      "Breuninger: L'Occitane Adventskalender Klassik 2026",
+      "https://www.breuninger.com/be/en/b/loccitane/adventskalender-klassik-2026/1003419523/p/"
+     ]
+    },
+    {
+     "name": "Lookfantastic Beauty Advent Calendar 2026",
+     "brand": "Lookfantastic",
+     "uvp": null,
+     "uvpSource": "Nur GBP-Preis (120 £) bekannt",
+     "contents": "27 Produkte, davon 19 in Originalgröße, u. a. Laneige, Elemis, Clinique, MAC, Benefit, The Ordinary",
+     "why": "Für Beauty-Fans, die viele Marken auf einmal testen wollen.",
+     "vegan": false,
+     "query": "Lookfantastic Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Woman & Home: Lookfantastic Advent Calendars 2026",
+      "https://www.womanandhome.com/beauty/lookfantastic-advent-calendars-2026/"
+     ]
+    },
+    {
+     "name": "Lookfantastic Fragrance Advent Calendar 2026",
+     "brand": "Lookfantastic",
+     "uvp": null,
+     "uvpSource": "Nur GBP-Preis (150 £) bekannt",
+     "contents": "25 Duftproben und -produkte, u. a. Jo Malone London, YSL, Rabanne, Carolina Herrera, Givenchy",
+     "why": "Für Parfum-Fans, die neue Düfte kennenlernen möchten.",
+     "vegan": false,
+     "query": "Lookfantastic Duft Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Woman & Home: Lookfantastic Advent Calendars 2026",
+      "https://www.womanandhome.com/beauty/lookfantastic-advent-calendars-2026/"
+     ]
+    },
+    {
+     "name": "Weleda Adventskalender 2026",
+     "brand": "Weleda",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Türchen mit Naturkosmetik, davon 11 Originalprodukte",
+     "why": "Für Naturkosmetik-Fans, die vor allem Originalgrößen wollen.",
+     "vegan": false,
+     "query": "Weleda Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Für Sie: Beauty-Adventskalender 2026",
+      "https://www.fuersie.de/beauty/beauty-adventskalender-2026-die-besten-highlights-von-douglas-rituals-weleda-junglueck-20216.html"
+     ]
+    },
+    {
+     "name": "Junglück Adventskalender 2026",
+     "brand": "Junglück",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Skincare-Highlights, davon 7 in Originalgröße, plus Zubehör wie waschbare Abschminkpads",
+     "why": "Für Skincare-Fans, die Wirkstoffpflege ausprobieren möchten.",
+     "vegan": false,
+     "query": "Junglück Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Für Sie: Beauty-Adventskalender 2026",
+      "https://www.fuersie.de/beauty/beauty-adventskalender-2026-die-besten-highlights-von-douglas-rituals-weleda-junglueck-20216.html"
+     ]
+    },
+    {
+     "name": "essence Adventskalender 2026 Baked with Love",
+     "brand": "essence",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 limitierte Make-up-Produkte für Augen, Lippen, Nägel, Gesicht sowie Tools",
+     "why": "Günstiger Make-up-Kalender für Teenager und Make-up-Einsteiger.",
+     "vegan": false,
+     "query": "essence Adventskalender 2026 baked with love",
+     "shopKey": null,
+     "source": [
+      "Monsterdealz: essence Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/essence-adventskalender"
+     ]
+    },
+    {
+     "name": "Catrice Adventskalender House of Gold 2026",
+     "brand": "Catrice",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Beauty-Überraschungen mit Make-up, Nagelprodukten, Tools und Accessoires, darunter ein Duftspray",
+     "why": "Für Make-up-Fans, die etwas mehr als beim Einsteigerkalender möchten.",
+     "vegan": false,
+     "query": "Catrice Adventskalender 2026 House of Gold",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Catrice Adventskalender House of Gold 2026",
+      "https://www.rossmann.de/de/adventskalender-catrice-adventskalender-house-of-gold-2026-exklusive-beauty-ueberraschungen/p/4059729626677"
+     ]
+    },
+    {
+     "name": "Jean&Len Adventskalender 2026",
+     "brand": "Jean&Len",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Haar- und Körperpflege, laut Für Sie ausschließlich Originalgrößen",
+     "why": "Für alle, die lieber volle Größen als Proben auspacken.",
+     "vegan": false,
+     "query": "Jean&Len Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Für Sie: Beauty-Adventskalender 2026",
+      "https://www.fuersie.de/beauty/beauty-adventskalender-2026-die-besten-highlights-von-douglas-rituals-weleda-junglueck-20216.html"
+     ]
+    }
+   ],
+   "tips": [
+    "Auf die Zahl der Originalgrößen achten. Der angegebene Warenwert rechnet Probengrößen oft auf Originalpreise hoch.",
+    "Bei Rituals sind die Kalender im eigenen Shop schnell vergriffen. Bei Drittshops lohnt ein Preisvergleich, da die Spanne groß ist.",
+    "Lookfantastic verkauft seine Kalender laut Woman & Home nur im eigenen Onlineshop."
+   ],
+   "faq": [
+    [
+     "Welcher Beauty Adventskalender 2026 hat die meisten Originalgrößen?",
+     "Unter den hier gelisteten Kalendern hat der Lookfantastic Beauty Advent Calendar 2026 mit 19 Originalgrößen die meisten. Bei Weleda sind es 11 und beim Rituals Premium 6."
+    ],
+    [
+     "Ist der essence Adventskalender 2026 vegan?",
+     "essence gibt auf der eigenen Website an, vegane Inhaltsstoffe zu verwenden, wann immer möglich. Eine ausdrückliche Vegan-Angabe für den Kalender haben wir beim Hersteller nicht gefunden."
+    ],
+    [
+     "Ist der Rituals Adventskalender 2026 noch erhältlich?",
+     "Im Rituals-Onlineshop waren Classic und Premium Anfang November 2026 ausverkauft. Restbestände gibt es teils noch bei anderen Händlern."
+    ]
+   ]
+  },
+  {
+   "slug": "vegan",
+   "h1": "Vegane Adventskalender 2026: Snacks, Schokolade und Tee",
+   "title": "Vegane Adventskalender 2026: unsere Auswahl",
+   "desc": "Vegane Adventskalender 2026: KoRo, Niederegger, myBuddy, share und Yogi Tea. Nur Kalender, die ausdrücklich als vegan angeboten werden.",
+   "intro": [
+    "Immer mehr Hersteller bringen eigene vegane Varianten ihrer Adventskalender heraus. In diese Liste nehmen wir nur Kalender auf, die ausdrücklich als vegan bezeichnet werden.",
+    "Achte trotzdem auf die Zutatenliste auf der Verpackung, vor allem bei Allergien. Viele Snack-Kalender enthalten Nüsse."
+   ],
+   "items": [
+    {
+     "name": "KoRo Veganer Adventskalender 2026",
+     "brand": "KoRo",
+     "uvp": 55.0,
+     "uvpSource": "KoRo-Onlineshop laut Monsterdealz",
+     "contents": "24 Türchen mit 23 Snacks (Nüsse, Riegel, Trockenfrüchte, Schokolade, Protein-Produkte, 200 g Pistaziencreme) und einem Paar Socken, rund 1.113 g",
+     "why": "Für Snack-Fans, die eine große Bandbreite an veganen Produkten probieren wollen.",
+     "vegan": true,
+     "query": "KoRo veganer Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Monsterdealz: KoRo Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/koro-adventskalender"
+     ]
+    },
+    {
+     "name": "Niederegger Adventskalender Merry Vegan Xmas 2026",
+     "brand": "Niederegger",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Vegane Marzipan- und Naschspezialitäten, 300 g",
+     "why": "Für Marzipan-Fans, die auf tierische Zutaten verzichten.",
+     "vegan": true,
+     "query": "Niederegger Adventskalender vegan 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Niederegger Adventskalender 2026",
+      "https://www.rossmann.de/de/fp/m/fp_adventskalender_niederegger"
+     ]
+    },
+    {
+     "name": "myBuddy BIO-VEGAN Adventskalender 2026",
+     "brand": "myBuddy",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "25 Bio-Snacks, 816 g",
+     "why": "Für alle, die Bio und vegan in einem Snack-Kalender wollen.",
+     "vegan": true,
+     "query": "myBuddy Bio vegan Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: myBuddy Adventskalender 2026",
+      "https://www.rossmann.de/de/fp/m/fp_adventskalender_mybuddy"
+     ]
+    },
+    {
+     "name": "share Bio Snack Adventskalender 2026 (vegan)",
+     "brand": "share",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 vegane Bio-Snacks in Originalgröße, süß und herzhaft, u. a. Nussriegel, Haferriegel, Protein Bites",
+     "why": "Für Genießer, die Originalgrößen statt Mini-Proben möchten.",
+     "vegan": true,
+     "query": "share Bio Adventskalender 2026 vegan",
+     "shopKey": null,
+     "source": [
+      "Rossmann: share Bio Snack Adventskalender 2026 vegan",
+      "https://www.rossmann.de/de/adventskalender-share-bio-snack-adventskalender-2026-teilen-macht-gluecklich-vegan-1270-g/p/4262414874431"
+     ]
+    },
+    {
+     "name": "Yogi Tea Adventskalender 2026",
+     "brand": "Yogi Tea",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Teebeutel mit 12 Bio-Kräuter- und Gewürzteemischungen, u. a. Christmas Tea und Kurkuma Chai, 46,8 g",
+     "why": "Günstiger Kalender für Teetrinker und als kleines Mitbringsel.",
+     "vegan": true,
+     "query": "Yogi Tea Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Yogi Tea Adventskalender 2026",
+      "https://www.rossmann.de/de/adventskalender-yogi-tea-adventskalender-2026/p/4012824405448"
+     ]
+    }
+   ],
+   "tips": [
+    "Bei KoRo gibt es eine Classic- und eine vegane Variante. Nur die vegane ist rein pflanzlich, die Classic enthält laut KoRo ein Produkt mit tierischem Kollagen.",
+    "Viele vegane Snack-Kalender sind nur online erhältlich und schnell vergriffen.",
+    "Tee-Kalender sind die günstigste vegane Option und eignen sich gut als Wichtelgeschenk."
+   ],
+   "faq": [
+    [
+     "Woran erkenne ich, ob ein Adventskalender vegan ist?",
+     "Am sichersten an einer ausdrücklichen Vegan-Angabe oder einem Vegan-Siegel auf der Verpackung. Bei Schokolade reicht \"zartbitter\" allein nicht, da sie Milchbestandteile enthalten kann."
+    ],
+    [
+     "Ist der KoRo Adventskalender 2026 vegan?",
+     "Nur die vegane Variante. Laut KoRo stecken dort hinter allen 24 Türchen ausschließlich rein pflanzliche Produkte."
+    ],
+    [
+     "Gibt es vegane Kosmetik-Adventskalender 2026?",
+     "Ja, einige Marken werben damit. Für unsere Liste haben wir für 2026 aber noch keinen Kosmetik-Kalender mit eindeutiger Vegan-Angabe des Herstellers bestätigen können."
+    ]
+   ]
+  },
+  {
+   "slug": "fitness",
+   "h1": "Fitness Adventskalender 2026: vegane Protein-Kalender",
+   "title": "Veganer Fitness Adventskalender 2026",
+   "desc": "Fitness Adventskalender 2026: Wir zeigen nur vegane Protein- und Supplement-Kalender. Mit Inhalt, Preis und Hinweisen zu Myprotein und Co.",
+   "intro": [
+    "Protein-Adventskalender sind beliebt, die meisten enthalten aber Whey oder andere Milchprodukte. Wir listen hier nur Kalender, deren Inhalt der Hersteller ausdrücklich als vegan angibt.",
+    "Der Myprotein Adventskalender 2026 ist laut Produktangaben nicht für Vegetarier geeignet und daher nicht in unserer Auswahl. Auch der MORE Nutrition Kalender 2026 ist laut Hersteller nur teilweise vegan."
+   ],
+   "items": [
+    {
+     "name": "nutri+ Veganer Protein-Adventskalender 2026",
+     "brand": "nutri+",
+     "uvp": 59.99,
+     "uvpSource": "Stack3d (Preis bei nutri+)",
+     "contents": "24 Türchen mit veganen Proteinpulver-Proben, VHEY Protein Bars, Wafer und Brownie, Supplements, Non-Food-Extras und zwei möglichen Sommersorten 2027 zum Abstimmen",
+     "why": "Für Sportler, die ihre Proteinversorgung rein pflanzlich abdecken.",
+     "vegan": true,
+     "query": "nutri+ Adventskalender 2026 vegan",
+     "shopKey": null,
+     "source": [
+      "Stack3d: Nutri+ advent calendar for 2026",
+      "https://www.stack3d.com/2026/10/nutri-advent-calendar-for-2026/"
+     ]
+    }
+   ],
+   "tips": [
+    "Viele Fitness-Kalender mischen vegane und nicht vegane Produkte. Ohne ausdrückliche Herstellerangabe ist der Kalender nicht vegan.",
+    "Ein Blick auf die Zahl der Originalgrößen lohnt sich, viele Protein-Kalender enthalten vor allem Portionsbeutel.",
+    "Wer nur bestimmte Sorten mag, kann sich bei manchen Herstellern einen eigenen Kalender zusammenstellen und dabei gezielt vegane Produkte wählen."
+   ],
+   "faq": [
+    [
+     "Ist der Myprotein Adventskalender 2026 vegan?",
+     "Nein. Er enthält unter anderem Whey-Proben und ist laut Produktprofil nicht für Vegetarier geeignet. Eine vegane Version 2026 haben wir nicht gefunden."
+    ],
+    [
+     "Ist der MORE Nutrition Adventskalender 2026 vegan?",
+     "Nein. Laut Hersteller-FAQ sind 14 Produkte vegan und 14 enthalten Milch."
+    ],
+    [
+     "Welcher Fitness-Adventskalender 2026 ist komplett vegan?",
+     "In unserer Recherche der nutri+ Protein-Adventskalender 2026. nutri+ ist eine rein pflanzliche Marke und bewirbt den Kalender als vegan."
+    ]
+   ]
+  },
+  {
+   "slug": "technik",
+   "h1": "Technik Adventskalender 2026: Werkzeug, Experimente und Modellbau",
+   "title": "Technik Adventskalender 2026: Werkzeug & Co.",
+   "desc": "Technik Adventskalender 2026: Wera, Bosch, Kosmos und Franzis mit Inhalt, Artikelnummer und UVP. Für Heimwerker, Bastler und Modellbauer.",
+   "intro": [
+    "Technik-Adventskalender liefern etwas, das nach Weihnachten weiter genutzt wird: Werkzeug, Experimente oder ein fertiges Modell.",
+    "Besonders die Werkzeugkalender von Wera und Bosch zählen laut PC Games Hardware zu den meistverkauften Adventskalendern bei Amazon."
+   ],
+   "items": [
+    {
+     "name": "Wera Werkzeug-Adventskalender 2026 (05136614001)",
+     "brand": "Wera",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Teile: 9 BiTorsion-Bits, Kraftform-Handgriff, 7 Winkelschlüssel, Schraublampe mit 80 Lumen, Flaschenöffner, modulare Halter und Textil-Werkzeugkarte",
+     "why": "Für Heimwerker, die hochwertige Bits und Winkelschlüssel suchen.",
+     "vegan": false,
+     "query": "Wera Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Monsterdealz: Wera Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/wera-adventskalender"
+     ]
+    },
+    {
+     "name": "Bosch Werkzeug-Adventskalender 2026 (6035952399)",
+     "brand": "Bosch",
+     "uvp": 59.98,
+     "uvpSource": "Bosch laut Monsterdealz",
+     "contents": "44 Teile in 24 Boxen: Wasserpumpenzange 176 mm, 1/4-Zoll-Ratsche, 5 Steckschlüssel, Präzisions-Bit-Schraubendreher, 16 Bits, Abbrechmesser mit Klingen, Verlängerungen, Adapter, Stofftasche",
+     "why": "Viel Werkzeug fürs Geld, ideal für die erste eigene Werkzeugtasche.",
+     "vegan": false,
+     "query": "Bosch Adventskalender 2026 Werkzeug",
+     "shopKey": null,
+     "source": [
+      "Monsterdealz: Bosch Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/bosch-adventskalender"
+     ]
+    },
+    {
+     "name": "KOSMOS Experimente-Adventskalender 2026 (66404)",
+     "brand": "KOSMOS",
+     "uvp": 29.99,
+     "uvpSource": "KOSMOS-Onlineshop",
+     "contents": "24 Mini-Experimente aus Chemie und Physik, u. a. UV-Perlen, Kreisel, Mini-Kompass, Lichtleiter und Brechungsfolien, ab 8 Jahren",
+     "why": "Für neugierige Kinder von 8 bis 12 Jahren, die gern forschen.",
+     "vegan": false,
+     "query": "Kosmos Experimente Adventskalender 2026",
+     "shopKey": "alternate",
+     "source": [
+      "KOSMOS: Experimente-Adventskalender 2026",
+      "https://www.kosmos.de/en/products/experimente-adventskalender-2026"
+     ]
+    },
+    {
+     "name": "Franzis Oracle Red Bull Racing Adventskalender 2026",
+     "brand": "Franzis",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Formel-1-Modellbau in 24 Schritten, Ergebnis ist ein RB21-Metallmodell im Maßstab 1:43",
+     "why": "Für Formel-1-Fans, die am Ende ein Modell fürs Regal haben wollen.",
+     "vegan": false,
+     "query": "Franzis Red Bull Racing Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Franzis Adventskalender",
+      "https://www.rossmann.de/de/alle-marken/franzis/c/online-dachmarke_56744906"
+     ]
+    },
+    {
+     "name": "Franzis Porsche 911 Turbo Adventskalender 2026",
+     "brand": "Franzis",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Bausatz für ein Porsche-911-Turbo-Modell im Maßstab 1:43 mit Soundmodul, verteilt auf 24 Türchen",
+     "why": "Für Autofans und Modellbauer.",
+     "vegan": false,
+     "query": "Franzis Porsche 911 Turbo Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Franzis Adventskalender",
+      "https://www.rossmann.de/de/alle-marken/franzis/c/online-dachmarke_56744906"
+     ]
+    },
+    {
+     "name": "Franzis Die Maus Experimentier-Adventskalender 2026",
+     "brand": "Franzis",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "24 Experimente rund um die Sendung mit der Maus",
+     "why": "Für Grundschulkinder, die Sachgeschichten lieben.",
+     "vegan": false,
+     "query": "Franzis Maus Experimentier Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Franzis Adventskalender",
+      "https://www.rossmann.de/de/alle-marken/franzis/c/online-dachmarke_56744906"
+     ]
+    },
+    {
+     "name": "Franzis Tatort Escape: Tod unter dem Weihnachtsstern Adventskalender 2026",
+     "brand": "Franzis",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Escape-Room-Krimi mit 24 Rätseln für die Adventszeit",
+     "why": "Für Rätsel- und Krimifans, gut auch für Paare oder Familien.",
+     "vegan": false,
+     "query": "Franzis Tatort Escape Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Franzis Adventskalender",
+      "https://www.rossmann.de/de/alle-marken/franzis/c/online-dachmarke_56744906"
+     ]
+    }
+   ],
+   "tips": [
+    "Bei Werkzeugkalendern lohnt der Blick auf die Teileliste: Bosch zählt etwa Ersatzklingen einzeln mit.",
+    "Bei Franzis-Kalendern auf die Jahreszahl und die Artikelnummer achten, manche Motive erscheinen mehrere Jahre in ähnlicher Aufmachung.",
+    "Der KOSMOS-Kalender braucht einige Haushaltsdinge wie Klebeband, Schüssel und Knete. Das vorher bereitlegen spart Frust."
+   ],
+   "faq": [
+    [
+     "Was ist im Wera Adventskalender 2026?",
+     "24 Teile, darunter 9 Bits, 7 Winkelschlüssel, ein Kraftform-Handgriff, eine Schraublampe, ein Flaschenöffner und eine Werkzeugkarte. Die Artikelnummer ist 05136614001."
+    ],
+    [
+     "Wie viele Teile hat der Bosch Adventskalender 2026?",
+     "44 Teile in 24 Boxen. Die Zahl entsteht unter anderem, weil die Abbrechklingen einzeln gezählt werden."
+    ],
+    [
+     "Ab welchem Alter ist der KOSMOS Experimente-Adventskalender 2026?",
+     "KOSMOS empfiehlt ihn ab 8 Jahren."
+    ]
+   ]
+  },
+  {
+   "slug": "kinder",
+   "h1": "Spielzeug Adventskalender 2026: Playmobil, Schleich, Hot Wheels und mehr",
+   "title": "Spielzeug Adventskalender 2026 für Kinder",
+   "desc": "Spielzeug Adventskalender 2026: Playmobil, Schleich, Hot Wheels, Baby Born, KOSMOS und Funko mit Inhalt, Artikelnummer und UVP.",
+   "intro": [
+    "Spielzeug-Adventskalender sind die Alternative zur Schokolade. Am Ende steht meist ein komplettes Spielset.",
+    "Wichtig ist die Artikelnummer: Playmobil und Schleich verkaufen neben den 2026er-Kalendern auch ältere Jahrgänge, teils unter ähnlichen Namen."
+   ],
+   "items": [
+    {
+     "name": "Playmobil Adventskalender Dino-Expedition (72225)",
+     "brand": "Playmobil",
+     "uvp": 29.99,
+     "uvpSource": "Playmobil-Onlineshop laut Monsterdealz",
+     "contents": "24 Türchen mit über 30 Teilen: Forscher, Velociraptor, Stygimoloch, Schlange, Dino-Ei mit Stegosaurus-Baby, Netz, Fossilien, Kompass, Fernglas, Mikroskop",
+     "why": "Für Dino-Fans ab 4 Jahren.",
+     "vegan": false,
+     "query": "Playmobil Adventskalender 72225 Dino",
+     "shopKey": null,
+     "source": [
+      "Monsterdealz: Playmobil Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/playmobil-adventskalender"
+     ]
+    },
+    {
+     "name": "Schleich Horse Club Adventskalender 2026 Winter Wonderland Ausritt (99240)",
+     "brand": "Schleich",
+     "uvp": 34.99,
+     "uvpSource": "Schleich-Listenpreis laut Monsterdealz",
+     "contents": "Araberstute, Fohlen, Figur Tori und Kätzchen sowie Reitzubehör und Stallausstattung",
+     "why": "Für Pferdefans ab 4 Jahren.",
+     "vegan": false,
+     "query": "Schleich Adventskalender 2026 Horse Club",
+     "shopKey": "alternate",
+     "source": [
+      "Monsterdealz: Schleich Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/schleich-adventskalender"
+     ]
+    },
+    {
+     "name": "Schleich Wizarding World Harry Potter Mini Figuren Adventskalender Serie 2 (99241)",
+     "brand": "Schleich",
+     "uvp": 59.99,
+     "uvpSource": "Schleich-Listenpreis laut Monsterdealz",
+     "contents": "29 Teile hinter 24 Türchen, darunter drei limitierte exklusive Figuren",
+     "why": "Für Harry-Potter-Fans ab 6 Jahren und Sammler.",
+     "vegan": false,
+     "query": "Schleich Harry Potter Adventskalender 2026",
+     "shopKey": "alternate",
+     "source": [
+      "Monsterdealz: Schleich Adventskalender 2026",
+      "https://www.monsterdealz.de/magazin/schleich-adventskalender"
+     ]
+    },
+    {
+     "name": "Hot Wheels Adventskalender 2026",
+     "brand": "Mattel",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "10 Fahrzeuge im Maßstab 1:64, darunter ein exklusives Schneekugelauto mit Yeti-Fahrer, 14 winterliche Zubehörteile und 10 Clips für den Weihnachtsbaum",
+     "why": "Für Autofans ab 3 Jahren.",
+     "vegan": false,
+     "query": "Hot Wheels Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Smyths Toys: Hot Wheels Adventskalender 2026",
+      "https://www.smythstoys.com/de/de-de/spielzeug/adventskalender/hot-wheels-adventskalender-2026/p/255588"
+     ]
+    },
+    {
+     "name": "KOSMOS Die drei ??? Adventskalender 2026: Der Fluch des Feuervogels",
+     "brand": "KOSMOS",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Detektiv-Fall mit Experimentierkasten für die Adventszeit",
+     "why": "Für junge Detektive, die Rätsel und Experimente verbinden wollen.",
+     "vegan": false,
+     "query": "Die drei Fragezeichen Adventskalender 2026",
+     "shopKey": "alternate",
+     "source": [
+      "Alternate: KOSMOS Adventskalender",
+      "https://www.alternate.de/Spielzeug/Kosmos-Adventskalender?listing=1"
+     ]
+    },
+    {
+     "name": "KOSMOS Die drei !!! Adventskalender 2026: Tanz der Diebe",
+     "brand": "KOSMOS",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Detektiv-Fall mit Experimentierkasten für die Adventszeit",
+     "why": "Für Fans der Die-drei-!!!-Bücher.",
+     "vegan": false,
+     "query": "Die drei Ausrufezeichen Adventskalender 2026",
+     "shopKey": "alternate",
+     "source": [
+      "Alternate: KOSMOS Adventskalender",
+      "https://www.alternate.de/Spielzeug/Kosmos-Adventskalender?listing=1"
+     ]
+    },
+    {
+     "name": "Zapf Creation BABY born Adventskalender 2026",
+     "brand": "Zapf Creation",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Zubehör und Überraschungen rund um die BABY-born-Puppe",
+     "why": "Für Kinder, die bereits eine BABY-born-Puppe haben.",
+     "vegan": false,
+     "query": "Baby Born Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Spielzeug-Adventskalender 2026",
+      "https://www.rossmann.de/de/adventskalender/adventskalender-fuer-kinder/spielzeug/c/olcat3_8666642?pageIndex=0"
+     ]
+    },
+    {
+     "name": "L.O.L. Surprise! Musik Festival Adventskalender 2026",
+     "brand": "MGA",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Überraschungen und Zubehör im Musikfestival-Thema",
+     "why": "Günstiger Kalender für L.O.L.-Surprise-Fans.",
+     "vegan": false,
+     "query": "LOL Surprise Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Spielzeug-Adventskalender 2026",
+      "https://www.rossmann.de/de/adventskalender/adventskalender-fuer-kinder/spielzeug/c/olcat3_8666642?pageIndex=0"
+     ]
+    },
+    {
+     "name": "CRAZE Dinorex Dinosaurier-Adventskalender 2026",
+     "brand": "CRAZE",
+     "uvp": null,
+     "uvpSource": "Keine offizielle UVP gefunden",
+     "contents": "Dinosaurier-Figuren und Zubehör",
+     "why": "Preiswerte Alternative für kleine Dino-Fans.",
+     "vegan": false,
+     "query": "CRAZE Dinorex Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Rossmann: Spielzeug-Adventskalender 2026",
+      "https://www.rossmann.de/de/adventskalender/adventskalender-fuer-kinder/spielzeug/c/olcat3_8666642?pageIndex=0"
+     ]
+    },
+    {
+     "name": "Funko Pocket POP! Harry Potter Adventskalender 2026",
+     "brand": "Funko",
+     "uvp": null,
+     "uvpSource": "Keine EUR-UVP gefunden",
+     "contents": "24 Pocket-POP!-Figuren (ca. 5 cm), eine hinter jedem Türchen",
+     "why": "Für Harry-Potter-Fans und Funko-Sammler.",
+     "vegan": false,
+     "query": "Funko Pocket Pop Harry Potter Adventskalender 2026",
+     "shopKey": null,
+     "source": [
+      "Touteslesbox: Funko Adventskalender 2026",
+      "https://touteslesbox.fr/calendrier-avent-funko-2026-pokemon-star-wars/"
+     ]
+    }
+   ],
+   "tips": [
+    "Bei Playmobil und Schleich ist die Artikelnummer der zuverlässigste Hinweis auf den Jahrgang: Höhere Nummern sind die neueren Kalender.",
+    "Schleich-Kalender waren laut Monsterdealz in den vergangenen Jahren im Dezember am günstigsten. Wer kein Risiko eingehen will, dass ein Motiv ausverkauft ist, kauft früher.",
+    "Bei Kleinteilen auf die Altersangabe achten. Viele Kalender sind erst ab 3 oder 4 Jahren geeignet."
+   ],
+   "faq": [
+    [
+     "Welcher Playmobil Adventskalender ist 2026 neu?",
+     "Die Dino-Expedition mit der Setnummer 72225. Den Namen gab es schon 2011 (Set 4162), deshalb auf die Nummer achten."
+    ],
+    [
+     "Welche Schleich Adventskalender gibt es 2026?",
+     "Horse Club Winter Wonderland Ausritt (99240) und Harry Potter Mini Figuren Serie 2 (99241). Farm World, Dinosaurs oder Wild Life hat Schleich für 2026 laut Monsterdealz nicht angekündigt."
+    ],
+    [
+     "Was ist im Hot Wheels Adventskalender 2026?",
+     "10 Autos im Maßstab 1:64, darunter ein exklusives Schneekugelauto, 14 Zubehörteile und 10 Clips zum Aufhängen am Weihnachtsbaum."
+    ]
+   ]
+  }
+ ]
+}

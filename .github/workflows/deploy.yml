@@ -1,0 +1,134 @@
+name: Build und Deploy zu IONOS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5-20/3 * * *"   # alle 3 Stunden 06–21 Uhr (Actions-Minuten sparen; Amazon-API noch nicht freigeschaltet)
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Amazon-Bilder und aktuelle Preise laden (Creators API)
+        env:
+          AMAZON_CREDENTIAL_ID: ${{ secrets.AMAZON_CREDENTIAL_ID }}
+          AMAZON_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREDENTIAL_SECRET }}
+          AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
+          AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
+          CREATORS_CREDENTIAL_ID: ${{ secrets.CREATORS_CREDENTIAL_ID }}
+          CREATORS_CREDENTIAL_SECRET: ${{ secrets.CREATORS_CREDENTIAL_SECRET }}
+          CREATORS_API_CREDENTIAL_ID: ${{ secrets.CREATORS_API_CREDENTIAL_ID }}
+          CREATORS_API_CREDENTIAL_SECRET: ${{ secrets.CREATORS_API_CREDENTIAL_SECRET }}
+          AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
+          AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
+          AMAZON_API_VERSION: ${{ secrets.AMAZON_API_VERSION }}
+        run: node scripts/amazon.mjs
+      - name: Awin-Daten vom Live-Server laden (Verlauf, letzte Kandidaten)
+        run: |
+          curl -fsS --max-time 30 https://perldeals.com/data/awin-history.json.gz -o /tmp/awin-history.json.gz && gunzip -c /tmp/awin-history.json.gz > src/data/awin-history.json || echo '{}' > src/data/awin-history.json
+          curl -fsS --max-time 30 https://perldeals.com/data/awin-kandidaten.json -o src/data/awin-candidates.json || rm -f src/data/awin-candidates.json
+      - name: Awin-Produktfeeds aller Partnershops (nur zeitgesteuert, spart Minuten bei Pushes)
+        if: github.event_name != 'push'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          AWIN_FEED_KEY: ${{ secrets.AWIN_FEED_KEY }}
+        run: node scripts/awin-feeds.mjs
+      - name: Awin-API (Aktionen, Gutscheine, angenommene Programme)
+        continue-on-error: true
+        timeout-minutes: 3
+        env:
+          AWIN_API_TOKEN: ${{ secrets.AWIN_API_TOKEN }}
+        run: node scripts/awin-api.mjs
+      - name: Preisverlauf vom Live-Server laden
+        run: curl -fsS --max-time 20 https://perldeals.com/data/price-history.json -o src/data/price-history.json || echo '{}' > src/data/price-history.json
+      - name: Archiv der Auto-Deals vom Live-Server laden (abgelaufene Auto-Deals bleiben als Seite online)
+        run: curl -fsS --max-time 20 https://perldeals.com/data/auto-archive.json -o src/data/auto-archive.json || echo '{}' > src/data/auto-archive.json
+      - name: Auto-Deals aus den Feed-Kandidaten auswählen
+        run: node scripts/auto-deals.mjs
+      - name: Produktbilder der Partnershops laden
+        run: node scripts/images.mjs
+      - name: Teilen-Bilder je Deal (1200x630)
+        run: npm i --no-save --no-audit --no-fund sharp@0.34.4 && node scripts/og-deals.mjs
+      - name: Seite bauen
+        run: node build.mjs
+      - name: Teilen-Bilder für Seiten ohne Produktbild (Titelkarte)
+        run: node scripts/og-pages.mjs
+      - name: lftp installieren
+        timeout-minutes: 8
+        # apt mirrors sometimes hang; retry with a per-attempt time limit
+        run: |
+          for i in 1 2 3; do
+            if timeout 100 sh -c 'sudo apt-get install -y -qq lftp'; then exit 0; fi
+            echo "Versuch $i fehlgeschlagen, neuer Versuch"; sleep 5
+            # 11.11.: apt konnte auf dem Runner keine Ubuntu-Server auflösen (andere Downloads gingen). Paket direkt per curl holen.
+            for m in https://mirrors.kernel.org/ubuntu https://ftp.halifax.rwth-aachen.de/ubuntu http://archive.ubuntu.com/ubuntu; do
+              if curl -fsSL --max-time 60 -o /tmp/lftp.deb "$m/pool/main/l/lftp/lftp_4.9.2-2ubuntu1.1_amd64.deb" && sudo dpkg -i /tmp/lftp.deb && lftp --version | head -1; then exit 0; fi
+            done
+          done
+          exit 1
+      - name: Per SFTP zu IONOS hochladen
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+          SFTP_DIR: ${{ secrets.SFTP_DIR }}
+        run: |
+          test -n "$SFTP_HOST" && test -n "$SFTP_USER" && test -n "$SFTP_PASSWORD" || { echo "SFTP-Zugangsdaten fehlen in den Repository-Secrets"; exit 1; }
+          DIR="${SFTP_DIR:-/perldeals}"
+          # Nur geänderte Dateien hochladen (Manifest mit MD5 auf dem Server); ohne Manifest: kompletter Abgleich wie bisher
+          curl -fsS --max-time 30 https://perldeals.com/data/deploy-manifest.txt -o /tmp/old-manifest.txt || rm -f /tmp/old-manifest.txt
+          node scripts/deploy-diff.mjs /tmp/old-manifest.txt "$DIR" > /tmp/upload.lftp
+          if [ -s /tmp/old-manifest.txt ] && ! grep -q '^#FULL' /tmp/upload.lftp; then
+            echo "Inkrementell: $(grep -c '^#put ' /tmp/upload.lftp) Dateien hoch, $(grep -c '^rm ' /tmp/upload.lftp) entfernt"
+            lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" -e "set sftp:auto-confirm yes; set net:max-retries 3; source /tmp/upload.lftp; put dist/data/deploy-manifest.txt -o $DIR/data/deploy-manifest.txt; chmod 755 $DIR/api/lib/cron-cli.php; quit"
+          else
+            lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" -e "set sftp:auto-confirm yes; set net:max-retries 3; mkdir -p $DIR; mkdir -p $DIR/assets; mirror -R --delete --ignore-time --parallel=8 dist/assets/ $DIR/assets; mirror -R --delete --exclude-glob private/ --exclude-glob assets/ --parallel=8 --verbose=1 dist/ $DIR; put dist/data/deploy-manifest.txt -o $DIR/data/deploy-manifest.txt; chmod 755 $DIR/api/lib/cron-cli.php; quit"
+          fi
+      - name: Server-Konfiguration hochladen (geschützter Ordner)
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+          SFTP_DIR: ${{ secrets.SFTP_DIR }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          CRON_KEY: ${{ secrets.CRON_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$DB_HOST" ] || [ -z "$DB_PASSWORD" ] || [ -z "$SMTP_PASSWORD" ]; then
+            echo "Datenbank- oder Mail-Secrets fehlen noch: Konten und Preisalarme bleiben deaktiviert."; exit 0
+          fi
+          DIR="${SFTP_DIR:-/perldeals}"
+          PRIV="${DIR%/}/private"
+          umask 077
+          node -e 'const e=process.env;const c={db_host:e.DB_HOST,db_name:e.DB_NAME,db_user:e.DB_USER,db_pass:e.DB_PASSWORD,smtp_host:"smtp.ionos.de",smtp_port:587,smtp_user:"kontakt@perldeals.com",smtp_pass:e.SMTP_PASSWORD,cron_key:e.CRON_KEY||"",anthropic_key:e.ANTHROPIC_API_KEY||""};process.stdout.write("<?php\nreturn json_decode(base64_decode(\x27"+Buffer.from(JSON.stringify(c)).toString("base64")+"\x27), true);\n")' > perldeals-config.php
+          printf 'Require all denied\n' > deny.htaccess
+          lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" -e "set sftp:auto-confirm yes; mkdir -p $PRIV; put perldeals-config.php -o $PRIV/perldeals-config.php; put deny.htaccess -o $PRIV/.htaccess; chmod 600 $PRIV/perldeals-config.php; quit"
+          rm -f perldeals-config.php deny.htaccess
+      - name: Suchmaschinen per IndexNow informieren
+        run: node scripts/indexnow.mjs || true
+      - name: Neue Deals im Telegram-Kanal posten (Push) bzw. Tageszusammenfassung (erster geplanter Lauf)
+        if: github.event_name == 'push' || github.event_name == 'schedule'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/telegram.mjs

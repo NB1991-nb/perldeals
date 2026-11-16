@@ -1,0 +1,2163 @@
+{
+ "kopfhoerer-unter-60-euro": {
+  "updated": "2026-10-20",
+  "cat": "headphones",
+  "picks": [
+   "soundcore-p31i",
+   "sony-wf-c510",
+   "sony-wh-ch520",
+   "jbl-tune-730bt"
+  ],
+  "sources": [
+   [
+    "Tom's Guide: Sony WH-CH520 review",
+    "https://www.tomsguide.com/audio/over-ear-headphones/sony-wh-ch520-review"
+   ],
+   [
+    "TechRadar: Sony WF-C510 review",
+    "https://www.techradar.com/audio/earbuds-airpods/sony-wf-c510-review"
+   ],
+   [
+    "Notebookcheck: Soundcore P31i mit ANC, LDAC und Live-Übersetzung",
+    "https://www.notebookcheck.com/Anker-Soundcore-P31i-Kopfhoerer-mit-ANC-LDAC-und-Live-UEbersetzung-kosten-in-Deutschland-nur-40-Euro.1162195.0.html"
+   ],
+   [
+    "Notebookcheck: JBL Tune 730BT announced",
+    "https://www.notebookcheck.net/JBL-Japan-announces-Tune-730BT-wireless-over-ear-headphones.1156064.0.html"
+   ]
+  ],
+  "de": {
+   "h1": "Die besten Kopfhörer unter 60 Euro: 4 Deals im Vergleich",
+   "eyebrow": "Vergleich · Kopfhörer",
+   "answer": "Wenn du Geräusche ausblenden willst, nimm die Soundcore P31i: Sie sind das einzige Modell hier mit aktiver Geräuschunterdrückung (ANC). Für kleine, leichte In-Ears mit sehr gutem Klang sind die Sony WF-C510 der beste Tipp. Wer lieber Bügelkopfhörer trägt, bekommt mit dem Sony WH-CH520 den günstigsten Einstieg und mit dem JBL Tune 730BT die längste Akkulaufzeit.",
+   "intro": "Wir haben die Kopfhörer nicht selbst im Labor getestet. Grundlage sind die Herstellerdaten, unabhängige Tests (u. a. TechRadar, Tom's Guide, Notebookcheck) und die aktuellen Deal-Preise vom 20.10.2026. Akkuangaben stammen vom Hersteller, sofern nicht anders gekennzeichnet.",
+   "pickNotes": {
+    "soundcore-p31i": {
+     "label": "Bester Allrounder mit ANC",
+     "why": "Die P31i haben laut Anker ANC mit bis zu 52 dB Dämpfung, LDAC für hochauflösendes Streaming und Multipoint. Mit IP55 sind sie auch beim Sport kein Problem, und die Akkulaufzeit liegt laut Hersteller bei bis zu 50 Stunden mit Ladecase."
+    },
+    "sony-wf-c510": {
+     "label": "Für guten Klang unterwegs",
+     "why": "TechRadar lobt den klaren, druckvollen Klang und den hohen Tragekomfort und vergibt für das Preis-Leistungs-Verhältnis die volle Punktzahl. ANC fehlt, dafür gibt es einen regelbaren Umgebungsmodus, Multipoint und bis zu 11 Stunden pro Akkuladung. Das Case liefert aber nur eine weitere Ladung."
+    },
+    "sony-wh-ch520": {
+     "label": "Preistipp On-Ear",
+     "why": "Für unter 30 Euro bekommst du laut Sony bis zu 50 Stunden Laufzeit, Multipoint und einen Equalizer. Tom's Guide lobt Klang und Akku, kritisiert aber das schwache Mikrofon. ANC gibt es nicht, und als On-Ear liegt er auf dem Ohr statt es zu umschließen."
+    },
+    "jbl-tune-730bt": {
+     "label": "Längste Akkulaufzeit",
+     "why": "JBL gibt bis zu 76 Stunden Laufzeit an, 5 Minuten Laden sollen 5 Stunden bringen. Dazu kommen Bluetooth 6.0 mit LE Audio und Multipoint. Als Over-Ear isoliert er passiv besser als ein On-Ear, eine aktive Geräuschunterdrückung hat er aber nicht."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Bauform",
+     "ANC",
+     "Akku (Herstellerangabe)",
+     "Multipoint",
+     "Besonderheit"
+    ],
+    "rows": [
+     [
+      "soundcore-p31i",
+      "In-Ear",
+      "Ja",
+      "bis 50 Std. mit Case",
+      "Ja",
+      "LDAC, IP55"
+     ],
+     [
+      "sony-wf-c510",
+      "In-Ear",
+      "Nein (Umgebungsmodus)",
+      "11 Std. + 11 Std. im Case",
+      "Ja",
+      "IPX4, nur 4,6 g pro Ohrstöpsel"
+     ],
+     [
+      "sony-wh-ch520",
+      "On-Ear",
+      "Nein",
+      "bis 50 Std.",
+      "Ja",
+      "Sehr günstig, leicht"
+     ],
+     [
+      "jbl-tune-730bt",
+      "Over-Ear",
+      "Nein",
+      "bis 76 Std.",
+      "Ja",
+      "Bluetooth 6.0, LE Audio"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "In-Ear, On-Ear oder Over-Ear?",
+     "In-Ears sind am kleinsten und passen in jede Hosentasche, ideal für Pendeln und Sport. On-Ears liegen auf der Ohrmuschel, sind leicht, schirmen aber wenig ab. Over-Ears umschließen das Ohr, dämpfen passiv besser und sind bei langen Sessions oft bequemer."
+    ],
+    [
+     "Brauchst du ANC?",
+     "Aktive Geräuschunterdrückung lohnt sich vor allem in Bus, Bahn und Großraumbüro. Wenn du hauptsächlich zu Hause oder beim Spazierengehen hörst, reicht ein Modell ohne ANC, und du sparst oft Geld oder bekommst mehr Akkulaufzeit."
+    ],
+    [
+     "Akku und Multipoint",
+     "Alle vier Modelle unterstützen Multipoint, also die gleichzeitige Verbindung mit Handy und Laptop. Bei True-Wireless-In-Ears zählt neben der Laufzeit pro Ladung auch, wie oft das Case nachladen kann. Bei Bügelkopfhörern sind 50 Stunden und mehr in dieser Preisklasse inzwischen üblich."
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Kopfhörer unter 60 Euro hat ANC?",
+     "In diesem Vergleich nur die Soundcore P31i. Sony WF-C510, Sony WH-CH520 und JBL Tune 730BT haben keine aktive Geräuschunterdrückung."
+    ],
+    [
+     "Funktionieren die Kopfhörer mit iPhone und Android?",
+     "Ja, alle vier sind normale Bluetooth-Kopfhörer und funktionieren mit iPhone und Android. Einzelne Funktionen wie LDAC bei den P31i nutzt nur Android."
+    ],
+    [
+     "Welcher Kopfhörer hält am längsten durch?",
+     "Laut Herstellerangabe der JBL Tune 730BT mit bis zu 76 Stunden. Der Sony WH-CH520 kommt auf bis zu 50 Stunden."
+    ],
+    [
+     "Sind die Sony WF-C510 zum Sport geeignet?",
+     "Sie sind nach IPX4 gegen Spritzwasser geschützt und sehr leicht. Für schweißtreibendes Training ist das okay, für Regen und Staub sind die P31i mit IP55 besser geschützt."
+    ],
+    [
+     "Habt ihr die Kopfhörer selbst getestet?",
+     "Nein. Wir werten Herstellerdaten und unabhängige Tests aus und vergleichen die aktuellen Angebotspreise. Die Quellen findest du unten."
+    ]
+   ],
+   "title": "Kopfhörer unter 60 €: Sony, Soundcore & JBL im Vergleich",
+   "desc": "Die besten Kopfhörer unter 60 Euro im Angebot: Soundcore P31i mit ANC, Sony WF-C510, Sony WH-CH520 und JBL Tune 730BT im Vergleich."
+  },
+  "en": {
+   "h1": "The best headphones under €60: 4 deals compared",
+   "eyebrow": "Comparison · Headphones",
+   "answer": "If you want to block out noise, get the Soundcore P31i: they are the only model here with active noise cancellation (ANC). For small, light earbuds with great sound, the Sony WF-C510 are the best pick. If you prefer headphones with a headband, the Sony WH-CH520 is the cheapest way in and the JBL Tune 730BT has the longest battery life.",
+   "intro": "We did not test these headphones in our own lab. This guide is based on manufacturer specs, independent reviews (including TechRadar, Tom's Guide and Notebookcheck) and current deal prices from 20 Oct 2026. Battery figures are manufacturer claims unless stated otherwise.",
+   "pickNotes": {
+    "soundcore-p31i": {
+     "label": "Best all-rounder with ANC",
+     "why": "According to Anker, the P31i offer ANC with up to 52 dB of reduction, LDAC for high-res streaming and multipoint. IP55 makes them fine for workouts, and the claimed battery life is up to 50 hours with the case."
+    },
+    "sony-wf-c510": {
+     "label": "Best sound on the go",
+     "why": "TechRadar praises the clear, punchy sound and comfortable fit and gives them full marks for value. There is no ANC, but you get an adjustable ambient mode, multipoint and up to 11 hours per charge. The case only adds one extra charge, though."
+    },
+    "sony-wh-ch520": {
+     "label": "Budget on-ear pick",
+     "why": "For under €30, Sony claims up to 50 hours of battery, plus multipoint and an equalizer. Tom's Guide likes the sound and battery but criticises the weak microphone. There is no ANC, and as an on-ear model it sits on your ears rather than around them."
+    },
+    "jbl-tune-730bt": {
+     "label": "Longest battery life",
+     "why": "JBL claims up to 76 hours of playback, and 5 minutes of charging should give you 5 hours. You also get Bluetooth 6.0 with LE Audio and multipoint. As an over-ear model it isolates better than an on-ear, but it has no active noise cancellation."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Type",
+     "ANC",
+     "Battery (claimed)",
+     "Multipoint",
+     "Highlight"
+    ],
+    "rows": [
+     [
+      "soundcore-p31i",
+      "In-ear",
+      "Yes",
+      "up to 50 h with case",
+      "Yes",
+      "LDAC, IP55"
+     ],
+     [
+      "sony-wf-c510",
+      "In-ear",
+      "No (ambient mode)",
+      "11 h + 11 h in case",
+      "Yes",
+      "IPX4, just 4.6 g per bud"
+     ],
+     [
+      "sony-wh-ch520",
+      "On-ear",
+      "No",
+      "up to 50 h",
+      "Yes",
+      "Very cheap, light"
+     ],
+     [
+      "jbl-tune-730bt",
+      "Over-ear",
+      "No",
+      "up to 76 h",
+      "Yes",
+      "Bluetooth 6.0, LE Audio"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "In-ear, on-ear or over-ear?",
+     "Earbuds are the smallest and fit in any pocket, great for commuting and workouts. On-ear headphones rest on your ears, are light but block little noise. Over-ear models surround your ears, isolate better passively and are often more comfortable for long sessions."
+    ],
+    [
+     "Do you need ANC?",
+     "Active noise cancellation is most useful on buses, trains and in open-plan offices. If you mostly listen at home or on walks, a model without ANC is fine, and you often save money or get more battery life."
+    ],
+    [
+     "Battery and multipoint",
+     "All four models support multipoint, so they can stay connected to your phone and laptop at the same time. With true wireless earbuds, look at how often the case can recharge them, not just the time per charge. For headband models, 50 hours or more is now common in this price range."
+    ]
+   ],
+   "faq": [
+    [
+     "Which headphones under €60 have ANC?",
+     "In this comparison, only the Soundcore P31i. The Sony WF-C510, Sony WH-CH520 and JBL Tune 730BT do not have active noise cancellation."
+    ],
+    [
+     "Do they work with iPhone and Android?",
+     "Yes, all four are standard Bluetooth headphones and work with both. Some features, such as LDAC on the P31i, only work on Android."
+    ],
+    [
+     "Which pair lasts the longest?",
+     "According to the manufacturer, the JBL Tune 730BT with up to 76 hours. The Sony WH-CH520 is rated for up to 50 hours."
+    ],
+    [
+     "Are the Sony WF-C510 good for sports?",
+     "They are IPX4 splash resistant and very light, which is fine for sweaty workouts. For rain and dust, the IP55-rated P31i are better protected."
+    ],
+    [
+     "Did you test the headphones yourselves?",
+     "No. We analyse manufacturer data and independent reviews and compare current deal prices. You will find the sources below."
+    ]
+   ],
+   "title": "Best headphones under €60: Sony, Soundcore & JBL compared",
+   "desc": "The best headphones under €60 on sale: Soundcore P31i with ANC, Sony WF-C510, Sony WH-CH520 and JBL Tune 730BT compared."
+  }
+ },
+ "soundbar-vergleich": {
+  "updated": "2026-10-20",
+  "cat": "tv",
+  "picks": [
+   "hisense-ax5125h",
+   "bose-smart-dolby-atmos-soundbar",
+   "denon-dht-s316"
+  ],
+  "sources": [
+   [
+    "TechRadar: Bose Smart Soundbar review",
+    "https://www.techradar.com/televisions/soundbars/bose-smart-soundbar-review"
+   ],
+   [
+    "TechRadar: Hisense AX5125H review",
+    "https://www.techradar.com/televisions/soundbars/hisense-ax512h-review"
+   ],
+   [
+    "T3: Denon DHT-S316 review",
+    "https://www.t3.com/reviews/denon-dht-s316-soundbar-review"
+   ]
+  ],
+  "de": {
+   "h1": "Soundbar-Vergleich: Bose, Hisense und Denon im Angebot",
+   "eyebrow": "Vergleich · Soundbar",
+   "answer": "Für echtes Heimkino-Gefühl ist die Hisense AX5125H der beste Deal: Sie kommt als 5.1.2-Set mit kabellosem Subwoofer und Rücklautsprechern. Die Bose Smart Soundbar ist die beste Wahl, wenn du eine kompakte Einzel-Soundbar mit WLAN, AirPlay 2 und Alexa willst. Die Denon DHT-S316 ist der günstige Einstieg, wenn du einfach besseren TV-Ton mit Subwoofer suchst.",
+   "intro": "Wir haben die Soundbars nicht selbst getestet. Der Vergleich basiert auf Herstellerdaten, unabhängigen Tests von TechRadar und T3 sowie den aktuellen Angebotspreisen vom 20.10.2026.",
+   "pickNotes": {
+    "hisense-ax5125h": {
+     "label": "Bestes Heimkino-Set",
+     "why": "Das 5.1.2-System besteht aus Soundbar, kabellosem Subwoofer und zwei kabellosen Rücklautsprechern und unterstützt Dolby Atmos und DTS:X. TechRadar lobt den immersiven Klang, klare Dialoge und kräftigen Bass. Abstriche: kein WLAN, keine App für den Equalizer."
+    },
+    "bose-smart-dolby-atmos-soundbar": {
+     "label": "Kompakt und smart",
+     "why": "Die Bose hat echte nach oben strahlende Lautsprecher für Dolby Atmos, HDMI eARC, WLAN, AirPlay 2, Chromecast und Alexa. TechRadar lobt die Klangqualität, kritisiert aber den schwachen Bass und die schmale Bühne. Ein Subwoofer ist nicht dabei, lässt sich aber nachrüsten."
+    },
+    "denon-dht-s316": {
+     "label": "Preistipp",
+     "why": "Soundbar plus kabelloser Subwoofer für deutlich besseren TV-Ton, mit HDMI ARC und dreistufiger Dialogverbesserung. Laut T3 ist es ein reines Stereo-System ohne Raumklang-Effekte und ohne Dolby Atmos. Bluetooth 4.2 unterstützt nur SBC."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Kanäle",
+     "Subwoofer",
+     "Dolby Atmos",
+     "Streaming",
+     "TV-Anschluss"
+    ],
+    "rows": [
+     [
+      "hisense-ax5125h",
+      "5.1.2",
+      "Ja, kabellos (+ Rear-Speaker)",
+      "Ja (+ DTS:X)",
+      "Bluetooth 5.3",
+      "HDMI eARC, HDMI-Eingang"
+     ],
+     [
+      "bose-smart-dolby-atmos-soundbar",
+      "3.0.2",
+      "Nein (optional)",
+      "Ja, mit Up-Firing",
+      "WLAN, AirPlay 2, Chromecast, Bluetooth",
+      "HDMI eARC, optisch"
+     ],
+     [
+      "denon-dht-s316",
+      "2.1",
+      "Ja, kabellos",
+      "Nein",
+      "Bluetooth 4.2",
+      "HDMI ARC, optisch, 3,5 mm"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Set oder Einzel-Soundbar?",
+     "Ein Set mit Subwoofer und Rücklautsprechern wie die Hisense sorgt für echten Raumklang, braucht aber Platz und Steckdosen hinter dem Sofa. Eine Einzel-Soundbar wie die Bose ist aufgeräumter und passt besser in kleine Räume, liefert aber weniger Bass."
+    ],
+    [
+     "Worauf du beim Anschluss achten solltest",
+     "Am besten verbindest du die Soundbar per HDMI eARC oder ARC mit dem Fernseher. Dann steuerst du die Lautstärke mit der TV-Fernbedienung. Für Dolby Atmos von Streaming-Apps sollte dein TV eARC unterstützen."
+    ],
+    [
+     "Musik streamen",
+     "Wenn du viel Musik über die Soundbar hörst, ist WLAN mit AirPlay 2 oder Chromecast komfortabler als Bluetooth. Das bietet in diesem Vergleich nur die Bose. Hisense und Denon kannst du nur per Bluetooth mit Musik versorgen."
+    ]
+   ],
+   "faq": [
+    [
+     "Welche Soundbar ist die beste für Filme?",
+     "Für Filme mit Raumklang ist die Hisense AX5125H dank 5.1.2-Kanälen, Subwoofer und Rücklautsprechern die stärkste Wahl in diesem Vergleich."
+    ],
+    [
+     "Hat die Bose Smart Soundbar einen Subwoofer?",
+     "Nein. Sie hat einen Subwoofer-Ausgang, den passenden Bose-Subwoofer musst du aber separat kaufen."
+    ],
+    [
+     "Unterstützt die Denon DHT-S316 Dolby Atmos?",
+     "Nein. Sie spielt Dolby Digital und DTS ab, mischt den Ton aber auf ihr 2.1-System herunter."
+    ],
+    [
+     "Brauche ich HDMI eARC?",
+     "Für Dolby Atmos über HDMI ist eARC empfehlenswert. Für normalen TV-Ton reicht auch ARC oder ein optisches Kabel."
+    ],
+    [
+     "Habt ihr die Soundbars selbst getestet?",
+     "Nein. Wir fassen unabhängige Tests und Herstellerangaben zusammen und vergleichen die aktuellen Preise."
+    ]
+   ],
+   "title": "Soundbar-Vergleich 2026: Bose, Hisense oder Denon?",
+   "desc": "Bose Smart Soundbar, Hisense AX5125H und Denon DHT-S316 im Angebot: welche Soundbar passt zu dir? Vergleich mit Dolby Atmos, Subwoofer und Streaming."
+  },
+  "en": {
+   "h1": "Soundbar comparison: Bose, Hisense and Denon on sale",
+   "eyebrow": "Comparison · Soundbar",
+   "answer": "For a real home cinema feel, the Hisense AX5125H is the best deal: it comes as a 5.1.2 set with a wireless subwoofer and rear speakers. The Bose Smart Soundbar is the best choice if you want a compact single bar with Wi-Fi, AirPlay 2 and Alexa. The Denon DHT-S316 is the budget option if you simply want better TV sound with a subwoofer.",
+   "intro": "We did not test these soundbars ourselves. This comparison is based on manufacturer specs, independent reviews from TechRadar and T3, and current deal prices from 20 Oct 2026.",
+   "pickNotes": {
+    "hisense-ax5125h": {
+     "label": "Best home cinema set",
+     "why": "The 5.1.2 system includes the soundbar, a wireless subwoofer and two wireless rear speakers, with Dolby Atmos and DTS:X support. TechRadar praises the immersive sound, clear dialogue and punchy bass. Downsides: no Wi-Fi and no app for EQ."
+    },
+    "bose-smart-dolby-atmos-soundbar": {
+     "label": "Compact and smart",
+     "why": "The Bose has real up-firing speakers for Dolby Atmos, HDMI eARC, Wi-Fi, AirPlay 2, Chromecast and Alexa. TechRadar likes the sound quality but notes light bass and a narrow soundstage. There is no subwoofer in the box, but you can add one later."
+    },
+    "denon-dht-s316": {
+     "label": "Budget pick",
+     "why": "A soundbar plus wireless subwoofer for much better TV sound, with HDMI ARC and a three-level dialogue enhancer. According to T3 it is a pure stereo system without surround effects and without Dolby Atmos. Bluetooth 4.2 only supports SBC."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Channels",
+     "Subwoofer",
+     "Dolby Atmos",
+     "Streaming",
+     "TV connection"
+    ],
+    "rows": [
+     [
+      "hisense-ax5125h",
+      "5.1.2",
+      "Yes, wireless (+ rear speakers)",
+      "Yes (+ DTS:X)",
+      "Bluetooth 5.3",
+      "HDMI eARC, HDMI input"
+     ],
+     [
+      "bose-smart-dolby-atmos-soundbar",
+      "3.0.2",
+      "No (optional)",
+      "Yes, with up-firing drivers",
+      "Wi-Fi, AirPlay 2, Chromecast, Bluetooth",
+      "HDMI eARC, optical"
+     ],
+     [
+      "denon-dht-s316",
+      "2.1",
+      "Yes, wireless",
+      "No",
+      "Bluetooth 4.2",
+      "HDMI ARC, optical, 3.5 mm"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Set or single soundbar?",
+     "A set with subwoofer and rear speakers like the Hisense gives you real surround sound, but it needs space and power sockets behind the sofa. A single bar like the Bose is tidier and suits small rooms better, but delivers less bass."
+    ],
+    [
+     "What to check when connecting",
+     "Ideally connect the soundbar to your TV via HDMI eARC or ARC. That way you control the volume with your TV remote. For Dolby Atmos from streaming apps, your TV should support eARC."
+    ],
+    [
+     "Streaming music",
+     "If you play a lot of music through your soundbar, Wi-Fi with AirPlay 2 or Chromecast is more convenient than Bluetooth. In this comparison, only the Bose offers that. The Hisense and Denon rely on Bluetooth for music."
+    ]
+   ],
+   "faq": [
+    [
+     "Which soundbar is best for movies?",
+     "For movies with surround sound, the Hisense AX5125H is the strongest option here thanks to its 5.1.2 channels, subwoofer and rear speakers."
+    ],
+    [
+     "Does the Bose Smart Soundbar include a subwoofer?",
+     "No. It has a subwoofer output, but you have to buy the matching Bose subwoofer separately."
+    ],
+    [
+     "Does the Denon DHT-S316 support Dolby Atmos?",
+     "No. It plays Dolby Digital and DTS, but downmixes the sound to its 2.1 setup."
+    ],
+    [
+     "Do I need HDMI eARC?",
+     "For Dolby Atmos over HDMI, eARC is recommended. For regular TV sound, ARC or an optical cable is enough."
+    ],
+    [
+     "Did you test the soundbars yourselves?",
+     "No. We summarise independent reviews and manufacturer specs and compare current prices."
+    ]
+   ],
+   "title": "Soundbar comparison 2026: Bose, Hisense or Denon?",
+   "desc": "Bose Smart Soundbar, Hisense AX5125H and Denon DHT-S316 on sale: which soundbar suits you? Compared on Dolby Atmos, subwoofer and streaming."
+  }
+ },
+ "smartwatch-vergleich": {
+  "updated": "2026-10-20",
+  "cat": "watch",
+  "picks": [
+   "google-pixel-watch-4-lte",
+   "samsung-galaxy-watch8",
+   "huawei-watch-gt-6",
+   "xiaomi-watch-2"
+  ],
+  "sources": [
+   [
+    "Google Store: Pixel Watch 4 Technische Daten",
+    "https://store.google.com/de/product/pixel_watch_4_specs?hl=de"
+   ],
+   [
+    "Pickr: Google Pixel Watch 4 reviewed",
+    "https://www.pickr.com.au/reviews/2025/google-pixel-watch-4/"
+   ],
+   [
+    "Wearable Beat: Samsung Galaxy Watch 8 review",
+    "https://wearablebeat.com/articles/samsung-galaxy-watch-8-review/"
+   ],
+   [
+    "Huawei: Watch GT 6 Spezifikationen",
+    "https://consumer.huawei.com/de/wearables/watch-gt6/specs/"
+   ],
+   [
+    "Tech Advisor: Xiaomi Watch 2 review",
+    "https://www.techadvisor.com/article/2319614/xiaomi-watch-2-review.html"
+   ]
+  ],
+  "de": {
+   "h1": "Smartwatch-Vergleich: Welche Uhr passt zu dir?",
+   "eyebrow": "Vergleich · Smartwatch",
+   "answer": "Hast du ein iPhone, ist hier nur die Huawei Watch GT 6 eine echte Option, und sie hält mit Abstand am längsten durch. Mit einem Android-Handy ist die Google Pixel Watch 4 LTE die beste Wahl, wenn du ohne Handy telefonieren willst. Die Samsung Galaxy Watch8 passt am besten zu Samsung-Smartphones. Die Xiaomi Watch 2 ist der günstige Einstieg in Wear OS.",
+   "intro": "Wir haben die Uhren nicht selbst getestet. Grundlage sind die technischen Daten der Hersteller, unabhängige Tests (u. a. Pickr, Wearable Beat, Tech Advisor) und die Angebotspreise vom 20.10.2026. Akkuangaben kennzeichnen wir als Herstellerangabe oder Testwert.",
+   "pickNotes": {
+    "google-pixel-watch-4-lte": {
+     "label": "Beste Android-Uhr mit LTE",
+     "why": "Mit LTE telefonierst und streamst du ohne Handy, dazu kommt laut Google Notruf per Satellit. Google gibt beim 45-mm-Modell bis zu 40 Stunden mit Always-on-Display an, Pickr kam im Test auf etwa zwei Tage. Sie funktioniert nur mit Android 11 oder neuer, nicht mit dem iPhone."
+    },
+    "samsung-galaxy-watch8": {
+     "label": "Für Samsung-Handys",
+     "why": "Die Watch8 bringt Gemini direkt auf die Uhr und viele Gesundheitsfunktionen. Im Test von Wearable Beat hielt sie mit Always-on-Display etwa 30 Stunden, du lädst also täglich. Mit dem iPhone ist sie nicht kompatibel."
+    },
+    "huawei-watch-gt-6": {
+     "label": "Längster Akku, auch fürs iPhone",
+     "why": "Huawei nennt beim 46-mm-Modell bis zu 12 Tage bei typischer Nutzung und bis zu 21 Tage bei geringer Nutzung. Sie funktioniert mit Android und iOS, hat NFC und Dual-Band-GPS. Der Haken: deutlich weniger Apps als bei Wear OS."
+    },
+    "xiaomi-watch-2": {
+     "label": "Günstiger Wear-OS-Einstieg",
+     "why": "Schickes 1,43-Zoll-AMOLED-Display, Google-Apps und GPS zum kleinen Preis. Tech Advisor kritisiert aber die kurze Akkulaufzeit von etwa einem Tag, einen unzuverlässigen Pulssensor und das veraltete Wear OS 3.5. Xiaomi gibt nur Android als kompatibel an."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "System",
+     "iPhone",
+     "Akku",
+     "LTE",
+     "Besonderheit"
+    ],
+    "rows": [
+     [
+      "google-pixel-watch-4-lte",
+      "Wear OS",
+      "Nein (Android 11+)",
+      "bis 40 Std. mit AOD (Hersteller, 45 mm)",
+      "Ja",
+      "Notruf per Satellit, Fitbit"
+     ],
+     [
+      "samsung-galaxy-watch8",
+      "Wear OS (One UI 8 Watch)",
+      "Nein",
+      "ca. 30 Std. mit AOD (Test)",
+      "Je nach Variante",
+      "Gemini auf der Uhr"
+     ],
+     [
+      "huawei-watch-gt-6",
+      "Huawei-eigenes System",
+      "Ja (iOS 13+)",
+      "bis 12 Tage typisch (Hersteller, 46 mm)",
+      "Nein",
+      "Dual-Band-GPS, NFC"
+     ],
+     [
+      "xiaomi-watch-2",
+      "Wear OS 3.5",
+      "Nein (nur Android angegeben)",
+      "ca. 1 Tag (Test)",
+      "Nein",
+      "Günstig, AMOLED"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Erst das Handy prüfen",
+     "Die wichtigste Frage ist dein Smartphone. Pixel Watch 4, Galaxy Watch8 und Xiaomi Watch 2 laufen mit Wear OS und brauchen ein Android-Handy. Mit einem iPhone bleibt in diesem Vergleich nur die Huawei Watch GT 6."
+    ],
+    [
+     "Apps oder Akkulaufzeit?",
+     "Wear-OS-Uhren bieten Google Maps, Google Wallet, Sprachassistenten und viele Apps, müssen aber jeden Tag oder jeden zweiten Tag an das Ladegerät. Die Huawei hält über eine Woche durch, bietet dafür aber nur wenige Drittanbieter-Apps."
+    ],
+    [
+     "Brauchst du LTE?",
+     "Mit LTE kannst du ohne Handy telefonieren, Nachrichten empfangen und Musik streamen, etwa beim Joggen. Du brauchst dafür in der Regel einen eSIM-Tarif oder eine MultiSIM bei deinem Anbieter, was zusätzlich kostet."
+    ]
+   ],
+   "faq": [
+    [
+     "Welche Smartwatch funktioniert mit dem iPhone?",
+     "In diesem Vergleich nur die Huawei Watch GT 6. Sie unterstützt laut Huawei iOS 13 oder neuer. Pixel Watch 4 und Galaxy Watch8 funktionieren nicht mit dem iPhone."
+    ],
+    [
+     "Welche Smartwatch hat den längsten Akku?",
+     "Die Huawei Watch GT 6. Huawei gibt für das 46-mm-Modell bis zu 12 Tage bei typischer Nutzung an, die Wear-OS-Uhren schaffen eher ein bis zwei Tage."
+    ],
+    [
+     "Funktioniert die Galaxy Watch8 auch mit anderen Android-Handys?",
+     "Ja, sie läuft mit Android-Smartphones anderer Hersteller. Am besten integriert ist sie aber mit Samsung-Handys."
+    ],
+    [
+     "Lohnt sich die Xiaomi Watch 2 noch?",
+     "Zum Angebotspreis ist sie ein günstiger Wear-OS-Einstieg. Rechne aber mit täglichem Laden und einer älteren Wear-OS-Version."
+    ],
+    [
+     "Habt ihr die Uhren selbst getestet?",
+     "Nein. Wir werten Herstellerdaten und unabhängige Tests aus und vergleichen die aktuellen Preise."
+    ]
+   ],
+   "title": "Smartwatch-Vergleich: Pixel, Galaxy, Huawei oder Xiaomi?",
+   "desc": "Pixel Watch 4 LTE, Galaxy Watch8, Huawei Watch GT 6 und Xiaomi Watch 2 im Angebot: welche Uhr passt zu iPhone oder Android? Akku, LTE und Apps im Vergleich."
+  },
+  "en": {
+   "h1": "Smartwatch comparison: which watch is right for you?",
+   "eyebrow": "Comparison · Smartwatch",
+   "answer": "If you have an iPhone, the Huawei Watch GT 6 is the only real option here, and it lasts by far the longest. With an Android phone, the Google Pixel Watch 4 LTE is the best pick if you want to make calls without your phone. The Samsung Galaxy Watch8 works best with Samsung phones. The Xiaomi Watch 2 is the budget way into Wear OS.",
+   "intro": "We did not test these watches ourselves. This guide is based on manufacturer specs, independent reviews (including Pickr, Wearable Beat and Tech Advisor) and deal prices from 20 Oct 2026. We label battery figures as either manufacturer claims or review results.",
+   "pickNotes": {
+    "google-pixel-watch-4-lte": {
+     "label": "Best Android watch with LTE",
+     "why": "With LTE you can call and stream without your phone, and Google adds satellite emergency calling. Google claims up to 40 hours with the always-on display for the 45 mm model, and Pickr got about two days in its review. It only works with Android 11 or later, not with the iPhone."
+    },
+    "samsung-galaxy-watch8": {
+     "label": "For Samsung phones",
+     "why": "The Watch8 puts Gemini right on your wrist and offers lots of health features. In Wearable Beat's review it lasted about 30 hours with the always-on display, so you will charge it daily. It is not compatible with the iPhone."
+    },
+    "huawei-watch-gt-6": {
+     "label": "Longest battery, works with iPhone",
+     "why": "Huawei claims up to 12 days of typical use and up to 21 days of light use for the 46 mm model. It works with Android and iOS and has NFC and dual-band GPS. The catch: far fewer apps than Wear OS."
+    },
+    "xiaomi-watch-2": {
+     "label": "Budget Wear OS pick",
+     "why": "A sharp 1.43-inch AMOLED display, Google apps and GPS at a low price. Tech Advisor criticises the short battery life of about one day, an unreliable heart rate sensor and the outdated Wear OS 3.5. Xiaomi only lists Android as compatible."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "OS",
+     "iPhone",
+     "Battery",
+     "LTE",
+     "Highlight"
+    ],
+    "rows": [
+     [
+      "google-pixel-watch-4-lte",
+      "Wear OS",
+      "No (Android 11+)",
+      "up to 40 h with AOD (claimed, 45 mm)",
+      "Yes",
+      "Satellite SOS, Fitbit"
+     ],
+     [
+      "samsung-galaxy-watch8",
+      "Wear OS (One UI 8 Watch)",
+      "No",
+      "approx. 30 h with AOD (review)",
+      "Depends on variant",
+      "Gemini on the watch"
+     ],
+     [
+      "huawei-watch-gt-6",
+      "Huawei's own OS",
+      "Yes (iOS 13+)",
+      "up to 12 days typical (claimed, 46 mm)",
+      "No",
+      "Dual-band GPS, NFC"
+     ],
+     [
+      "xiaomi-watch-2",
+      "Wear OS 3.5",
+      "No (Android only listed)",
+      "approx. 1 day (review)",
+      "No",
+      "Cheap, AMOLED"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Check your phone first",
+     "The most important question is which phone you use. The Pixel Watch 4, Galaxy Watch8 and Xiaomi Watch 2 run Wear OS and need an Android phone. With an iPhone, the Huawei Watch GT 6 is the only option in this comparison."
+    ],
+    [
+     "Apps or battery life?",
+     "Wear OS watches offer Google Maps, Google Wallet, voice assistants and lots of apps, but need charging every day or two. The Huawei lasts more than a week but offers only a few third-party apps."
+    ],
+    [
+     "Do you need LTE?",
+     "With LTE you can make calls, get messages and stream music without your phone, for example on a run. You usually need an eSIM plan or a multi-SIM add-on from your carrier, which costs extra."
+    ]
+   ],
+   "faq": [
+    [
+     "Which smartwatch works with the iPhone?",
+     "In this comparison, only the Huawei Watch GT 6. According to Huawei it supports iOS 13 or later. The Pixel Watch 4 and Galaxy Watch8 do not work with the iPhone."
+    ],
+    [
+     "Which smartwatch has the longest battery life?",
+     "The Huawei Watch GT 6. Huawei claims up to 12 days of typical use for the 46 mm model, while the Wear OS watches manage about one to two days."
+    ],
+    [
+     "Does the Galaxy Watch8 work with other Android phones?",
+     "Yes, it works with Android phones from other brands. It is best integrated with Samsung phones, though."
+    ],
+    [
+     "Is the Xiaomi Watch 2 still worth it?",
+     "At the deal price it is a cheap way into Wear OS. Expect to charge it daily and to live with an older Wear OS version."
+    ],
+    [
+     "Did you test the watches yourselves?",
+     "No. We analyse manufacturer data and independent reviews and compare current prices."
+    ]
+   ],
+   "title": "Smartwatch comparison: Pixel, Galaxy, Huawei or Xiaomi?",
+   "desc": "Pixel Watch 4 LTE, Galaxy Watch8, Huawei Watch GT 6 and Xiaomi Watch 2 on sale: which watch suits iPhone or Android? Battery, LTE and apps compared."
+  }
+ },
+ "guenstige-smartphones": {
+  "updated": "2026-10-20",
+  "cat": "phone",
+  "picks": [
+   "google-pixel-10a",
+   "samsung-galaxy-a57-5g",
+   "motorola-moto-g47",
+   "xiaomi-poco-c81-pro"
+  ],
+  "sources": [
+   [
+    "Notebookcheck: Test Samsung Galaxy A57 5G",
+    "https://www.notebookcheck.com/Starker-Allrounder-mit-kleinen-Schwaechen-Test-Samsung-Galaxy-A57-5G.1329560.0.html"
+   ],
+   [
+    "HotHardware: Google Pixel 10a review",
+    "https://hothardware.com/reviews/google-pixel-10a-review"
+   ],
+   [
+    "Notebookcheck: Motorola Moto G47 Tests und Spezifikationen",
+    "https://www.notebookcheck.com/Motorola-Moto-G47-Tests-und-Spezifikationen.1360556.0.html"
+   ],
+   [
+    "GSMArena: Xiaomi Poco C81 Pro specs",
+    "https://m.gsmarena.com/xiaomi_poco_c81_pro-14635.php"
+   ],
+   [
+    "POCO: C81 Pro Produktseite",
+    "https://www.po.co/global/product/poco-c81-pro/"
+   ]
+  ],
+  "de": {
+   "h1": "Günstige Smartphones im Angebot: die besten Deals nach Budget",
+   "eyebrow": "Vergleich · Smartphone",
+   "answer": "Das beste Gesamtpaket mit den längsten Updates ist das Google Pixel 10a mit 7 Jahren Android- und Sicherheitsupdates. Das Samsung Galaxy A57 5G ist etwas günstiger, hat ein größeres Display und 6 Jahre Updates. Unter 200 Euro ist das Moto g47 die solide Wahl mit 5G. Das POCO C81 Pro für rund 130 Euro lohnt sich nur als einfaches Zweithandy, denn es hat kein 5G.",
+   "intro": "Wir haben die Smartphones nicht selbst getestet. Der Vergleich basiert auf Herstellerdaten, unabhängigen Tests (u. a. Notebookcheck, HotHardware, GSMArena) und den Angebotspreisen vom 20.10.2026. Besonders wichtig war uns die Update-Zusage, weil sie bestimmt, wie lange ein Handy sicher nutzbar bleibt.",
+   "pickNotes": {
+    "google-pixel-10a": {
+     "label": "Bestes Gesamtpaket",
+     "why": "Google verspricht 7 Jahre Betriebssystem- und Sicherheitsupdates, dazu kommen ein helles 120-Hz-OLED, IP68 und kabelloses Laden. HotHardware lobt Kamera, Akku und Software, merkt aber an, dass der Tensor G4 nur ein kleines Upgrade zum Vorgänger ist."
+    },
+    "samsung-galaxy-a57-5g": {
+     "label": "Großes Display, lange Updates",
+     "why": "6,7-Zoll-AMOLED mit 120 Hz, IP68, 45-Watt-Laden und 6 Jahre Updates bis 03/2032. Notebookcheck bewertet es mit 82 Prozent, kritisiert aber die Akkulaufzeit, USB 2.0 und die PWM-Dimmung des Displays."
+    },
+    "motorola-moto-g47": {
+     "label": "Bester unter 200 Euro",
+     "why": "5G, großer 5200-mAh-Akku, 120-Hz-Display und IP64 für unter 200 Euro. Abstriche: Das Display löst nur mit 720p auf, geladen wird mit 20 Watt, und laut Notebookcheck gibt es nur drei Jahre Updates."
+    },
+    "xiaomi-poco-c81-pro": {
+     "label": "Für Sparfüchse",
+     "why": "Großes 6,9-Zoll-Display mit 120 Hz und ein 6000-mAh-Akku für rund 130 Euro, dazu Klinkenanschluss und microSD. Es unterstützt aber nur 4G, hat laut GSMArena 4 GB RAM und lädt mit 15 Watt. Eine klare Update-Zusage nennt POCO nicht."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Chip",
+     "Display",
+     "Akku / Laden",
+     "5G",
+     "Updates"
+    ],
+    "rows": [
+     [
+      "google-pixel-10a",
+      "Google Tensor G4",
+      "6,3 Zoll OLED, 120 Hz",
+      "5100 mAh, 30 W, kabellos",
+      "Ja",
+      "7 Jahre"
+     ],
+     [
+      "samsung-galaxy-a57-5g",
+      "Exynos 1680",
+      "6,7 Zoll AMOLED, 120 Hz",
+      "5000 mAh, 45 W",
+      "Ja",
+      "6 Jahre (bis 03/2032)"
+     ],
+     [
+      "motorola-moto-g47",
+      "MediaTek Dimensity 6300",
+      "6,67 Zoll IPS, 720p, 120 Hz",
+      "5200 mAh, 20 W",
+      "Ja",
+      "3 Jahre (laut Notebookcheck)"
+     ],
+     [
+      "xiaomi-poco-c81-pro",
+      "Unisoc T7250",
+      "6,9 Zoll LCD, 120 Hz",
+      "6000 mAh, 15 W",
+      "Nein (nur 4G)",
+      "Keine klare Zusage"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Warum Updates so wichtig sind",
+     "Sicherheitsupdates schließen Lücken, über die Angreifer an deine Daten kommen könnten. Ein Handy mit 6 oder 7 Jahren Updates kann einen etwas höheren Preis wert sein, weil du es länger sicher nutzen kannst. Rechne den Preis ruhig auf die Update-Jahre herunter."
+    ],
+    [
+     "Worauf du sonst achten solltest",
+     "Ein OLED-Display ist meist kontrastreicher und heller als ein LCD. IP68 schützt vor Staub und Untertauchen, IP64 nur vor Spritzwasser. Achte auch auf 5G, wenn du das Handy mehrere Jahre nutzen willst."
+    ],
+    [
+     "Welches Budget für wen?",
+     "Wer sein Handy viele Jahre behalten will, greift zum Pixel 10a oder Galaxy A57. Für Gelegenheitsnutzer reicht das Moto g47. Das POCO C81 Pro eignet sich vor allem als Zweithandy oder für Kinder, die nur telefonieren und chatten."
+    ]
+   ],
+   "faq": [
+    [
+     "Welches günstige Smartphone bekommt am längsten Updates?",
+     "Das Google Pixel 10a mit 7 Jahren Betriebssystem- und Sicherheitsupdates, gefolgt vom Samsung Galaxy A57 5G mit 6 Jahren."
+    ],
+    [
+     "Hat das POCO C81 Pro 5G?",
+     "Nein, laut GSMArena unterstützt es nur 4G LTE."
+    ],
+    [
+     "Pixel 10a oder Galaxy A57?",
+     "Das Pixel 10a hat ein Jahr mehr Updates und kabelloses Laden. Das Galaxy A57 hat ein größeres Display und lädt mit 45 Watt schneller. Im Angebot ist das A57 aktuell etwas günstiger."
+    ],
+    [
+     "Liegt ein Netzteil bei?",
+     "Beim Pixel 10a laut HotHardware nicht. Prüfe den Lieferumfang am besten direkt beim Händler."
+    ],
+    [
+     "Habt ihr die Smartphones selbst getestet?",
+     "Nein. Wir werten Herstellerdaten und unabhängige Tests aus und vergleichen die aktuellen Angebotspreise."
+    ]
+   ],
+   "title": "Günstige Smartphones im Angebot: Pixel 10a, Galaxy A57 & mehr",
+   "desc": "Pixel 10a, Galaxy A57 5G, Moto g47 und POCO C81 Pro im Angebot: welches Handy lohnt sich für dein Budget? Mit Fokus auf Update-Garantie und 5G."
+  },
+  "en": {
+   "h1": "Affordable smartphones on sale: the best deals by budget",
+   "eyebrow": "Comparison · Smartphone",
+   "answer": "The best overall package with the longest support is the Google Pixel 10a, with 7 years of Android and security updates. The Samsung Galaxy A57 5G is a little cheaper, has a bigger screen and gets 6 years of updates. Under €200, the Moto g47 is the solid pick with 5G. The POCO C81 Pro at around €130 only makes sense as a simple second phone, as it has no 5G.",
+   "intro": "We did not test these phones ourselves. This comparison is based on manufacturer specs, independent reviews (including Notebookcheck, HotHardware and GSMArena) and deal prices from 20 Oct 2026. We paid special attention to the update policy, because it decides how long a phone stays safe to use.",
+   "pickNotes": {
+    "google-pixel-10a": {
+     "label": "Best overall",
+     "why": "Google promises 7 years of OS and security updates, plus a bright 120 Hz OLED, IP68 and wireless charging. HotHardware praises the camera, battery and software, but notes that the Tensor G4 is only a small step up from its predecessor."
+    },
+    "samsung-galaxy-a57-5g": {
+     "label": "Big screen, long support",
+     "why": "6.7-inch 120 Hz AMOLED, IP68, 45 W charging and 6 years of updates until 03/2032. Notebookcheck rates it 82 percent, but criticises the battery life, USB 2.0 and the display's PWM dimming."
+    },
+    "motorola-moto-g47": {
+     "label": "Best under €200",
+     "why": "5G, a large 5,200 mAh battery, a 120 Hz screen and IP64 for under €200. Trade-offs: the display is only 720p, charging tops out at 20 W, and according to Notebookcheck it only gets three years of updates."
+    },
+    "xiaomi-poco-c81-pro": {
+     "label": "For tight budgets",
+     "why": "A big 6.9-inch 120 Hz display and a 6,000 mAh battery for around €130, plus a headphone jack and microSD. But it only supports 4G, has 4 GB RAM according to GSMArena and charges at 15 W. POCO gives no clear update commitment."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Chip",
+     "Display",
+     "Battery / charging",
+     "5G",
+     "Updates"
+    ],
+    "rows": [
+     [
+      "google-pixel-10a",
+      "Google Tensor G4",
+      "6.3-inch OLED, 120 Hz",
+      "5,100 mAh, 30 W, wireless",
+      "Yes",
+      "7 years"
+     ],
+     [
+      "samsung-galaxy-a57-5g",
+      "Exynos 1680",
+      "6.7-inch AMOLED, 120 Hz",
+      "5,000 mAh, 45 W",
+      "Yes",
+      "6 years (until 03/2032)"
+     ],
+     [
+      "motorola-moto-g47",
+      "MediaTek Dimensity 6300",
+      "6.67-inch IPS, 720p, 120 Hz",
+      "5,200 mAh, 20 W",
+      "Yes",
+      "3 years (per Notebookcheck)"
+     ],
+     [
+      "xiaomi-poco-c81-pro",
+      "Unisoc T7250",
+      "6.9-inch LCD, 120 Hz",
+      "6,000 mAh, 15 W",
+      "No (4G only)",
+      "No clear commitment"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Why updates matter",
+     "Security updates close holes that attackers could use to get at your data. A phone with 6 or 7 years of updates can be worth a slightly higher price because you can use it safely for longer. Try dividing the price by the years of support."
+    ],
+    [
+     "What else to look for",
+     "An OLED display is usually brighter and has better contrast than an LCD. IP68 protects against dust and submersion, IP64 only against splashes. If you plan to keep the phone for several years, make sure it has 5G."
+    ],
+    [
+     "Which budget for whom?",
+     "If you want to keep your phone for many years, go for the Pixel 10a or Galaxy A57. Casual users will be fine with the Moto g47. The POCO C81 Pro is best as a second phone or for kids who mainly call and chat."
+    ]
+   ],
+   "faq": [
+    [
+     "Which affordable phone gets the longest updates?",
+     "The Google Pixel 10a with 7 years of OS and security updates, followed by the Samsung Galaxy A57 5G with 6 years."
+    ],
+    [
+     "Does the POCO C81 Pro have 5G?",
+     "No, according to GSMArena it only supports 4G LTE."
+    ],
+    [
+     "Pixel 10a or Galaxy A57?",
+     "The Pixel 10a gets one more year of updates and has wireless charging. The Galaxy A57 has a bigger screen and charges faster at 45 W. On sale, the A57 is currently a bit cheaper."
+    ],
+    [
+     "Is a charger included?",
+     "Not with the Pixel 10a, according to HotHardware. Best check the box contents with the retailer."
+    ],
+    [
+     "Did you test the phones yourselves?",
+     "No. We analyse manufacturer data and independent reviews and compare current deal prices."
+    ]
+   ],
+   "title": "Affordable phones on sale: Pixel 10a, Galaxy A57 & more",
+   "desc": "Pixel 10a, Galaxy A57 5G, Moto g47 and POCO C81 Pro on sale: which phone is worth it for your budget? Focus on update policy and 5G."
+  }
+ },
+ "bluetooth-lautsprecher-vergleich": {
+  "updated": "2026-10-20",
+  "cat": "speaker",
+  "picks": [
+   "bose-soundlink-flex",
+   "jbl-xtreme-5",
+   "sony-ult-field-1",
+   "jbl-go-5-strandtuch-otto",
+   "marshall-acton-iii"
+  ],
+  "sources": [
+   [
+    "T3: Marshall Acton III review",
+    "https://t3.com/reviews/marshall-acton-iii-review"
+   ],
+   [
+    "SoundGuys: Bose SoundLink Flex (2nd Gen) review",
+    "https://www.soundguys.com/bose-soundlink-flex-2nd-gen-review-125253"
+   ],
+   [
+    "kopfhoerer.de: JBL Xtreme 5 im Test",
+    "https://www.kopfhoerer.de/test/jbl-xtreme-5/"
+   ],
+   [
+    "SoundGuys: Sony ULT Field 1 review",
+    "https://www.soundguys.com/sony-ult-field-1-review-113404/"
+   ],
+   [
+    "Richer Sounds: JBL Go 5 product page",
+    "https://www.richersounds.com/jbl-go-5-black/"
+   ]
+  ],
+  "de": {
+   "h1": "Bluetooth-Lautsprecher im Vergleich: 5 Deals von Mini bis Party",
+   "eyebrow": "Vergleich · Lautsprecher",
+   "answer": "Der beste Allrounder für unterwegs ist der Bose SoundLink Flex: robust, wasserdicht nach IP67 und angenehm kompakt. Für Partys und lange Ausflüge ist der JBL Xtreme 5 die stärkste Wahl. Der Sony ULT Field 1 ist der Preistipp mit IP67, der JBL Go 5 im Set mit Strandtuch bei OTTO der günstige Mini. Der Marshall Acton III ist ein Lautsprecher für zu Hause, denn er hat keinen Akku.",
+   "intro": "Wir haben die Lautsprecher nicht selbst getestet. Grundlage sind Herstellerdaten, unabhängige Tests (u. a. SoundGuys, T3, kopfhoerer.de) und die Angebotspreise vom 20.10.2026. Akkulaufzeiten sind Herstellerangaben, außer wir nennen ausdrücklich einen Testwert.",
+   "pickNotes": {
+    "bose-soundlink-flex": {
+     "label": "Bester Allrounder",
+     "why": "Robust, IP67 und mit Schlaufe zum Aufhängen. Bose verspricht bis zu 12 Stunden, im Test von SoundGuys waren es rund 7 Stunden. Über die Bose-App kannst du zwei Flex (2. Gen) zu einem Stereo-Paar koppeln."
+    },
+    "jbl-xtreme-5": {
+     "label": "Für Partys und Ausflüge",
+     "why": "Bis zu 24 Stunden plus 4 Stunden Playtime Boost, IP68, Powerbank-Funktion und Auracast. kopfhoerer.de hebt den austauschbaren Akku und verlustfreies Audio per USB-C hervor. Mit 2,9 kg ist er allerdings schwer, und die vollen 130 Watt gibt es nur am Netzteil."
+    },
+    "sony-ult-field-1": {
+     "label": "Preistipp mit IP67",
+     "why": "Leicht (646 g), IP67 und laut Sony stoßfest. Sony gibt 12 Stunden an, SoundGuys hat mit ausgeschaltetem ULT-Modus sogar knapp 29 Stunden gemessen. Er spielt nur in Mono, die App ist laut SoundGuys eher schwach."
+    },
+    "jbl-go-5-strandtuch-otto": {
+     "label": "Günstiger Mini",
+     "why": "Nur 230 g, IP68 und bis zu 8 Stunden plus 2 Stunden Playtime Boost. Über Auracast koppelst du zwei Go 5 zu Stereo. Diesen Deal gibt es bei OTTO im Set mit Strandtuch."
+    },
+    "marshall-acton-iii": {
+     "label": "Für zu Hause",
+     "why": "Der Acton III läuft am Stromnetz und hat keinen Akku, er ist also nicht für unterwegs gedacht. T3 lobt das Retro-Design und den kräftigen Klang für die Größe. Es gibt Bluetooth 5.2 und einen 3,5-mm-Eingang, aber kein WLAN und keinen Spritzwasserschutz."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Strom / Akku",
+     "Schutz",
+     "Gewicht",
+     "Besonderheit"
+    ],
+    "rows": [
+     [
+      "bose-soundlink-flex",
+      "bis 12 Std. (Test: ca. 7 Std.)",
+      "IP67",
+      "589 g",
+      "Stereo-Kopplung, aptX auf kompatiblen Android-Handys"
+     ],
+     [
+      "jbl-xtreme-5",
+      "bis 24 Std. + 4 Std. Boost",
+      "IP68",
+      "2,9 kg",
+      "Austauschbarer Akku, Powerbank, Auracast"
+     ],
+     [
+      "sony-ult-field-1",
+      "bis 12 Std.",
+      "IP67",
+      "646 g",
+      "Stoßfest, Mono"
+     ],
+     [
+      "jbl-go-5-strandtuch-otto",
+      "bis 8 Std. + 2 Std. Boost",
+      "IP68",
+      "230 g",
+      "Auracast, Set mit Strandtuch (OTTO)"
+     ],
+     [
+      "marshall-acton-iii",
+      "Netzbetrieb, kein Akku",
+      "Keiner",
+      "2,85 kg",
+      "Retro-Design, 3,5-mm-Eingang"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Mobil oder für zu Hause?",
+     "Vier der fünf Lautsprecher haben einen Akku und sind wasserdicht. Der Marshall Acton III ist dagegen ein reiner Heimlautsprecher für Regal oder Sideboard. Wenn du den Lautsprecher mit an den See nehmen willst, ist er die falsche Wahl."
+    ],
+    [
+     "Größe und Klang",
+     "Je größer das Gehäuse, desto mehr Bass und Lautstärke. Ein Mini wie der Go 5 reicht für Dusche, Schreibtisch oder Picknick. Für eine Gartenparty mit mehreren Leuten brauchst du eher ein großes Modell wie den Xtreme 5."
+    ],
+    [
+     "Akkulaufzeit realistisch einschätzen",
+     "Herstellerangaben gelten meist bei mittlerer Lautstärke. Bei hoher Lautstärke oder mit Bass-Modus sinkt die Laufzeit oft deutlich, wie der Bose-Test von SoundGuys zeigt. Plane also einen Puffer ein."
+    ]
+   ],
+   "faq": [
+    [
+     "Hat der Marshall Acton III einen Akku?",
+     "Nein. Er braucht eine Steckdose und ist laut T3 auch nicht wassergeschützt. Er ist ein Lautsprecher für zu Hause."
+    ],
+    [
+     "Welcher Lautsprecher ist am lautesten?",
+     "Der JBL Xtreme 5. kopfhoerer.de nennt 130 Watt am Netzteil und etwa 40 Watt weniger im Akkubetrieb."
+    ],
+    [
+     "Welche Lautsprecher kann ich mit Wasser benutzen?",
+     "JBL Xtreme 5 und JBL Go 5 sind nach IP68 geschützt, Bose SoundLink Flex und Sony ULT Field 1 nach IP67. Alle vier überstehen kurzes Untertauchen."
+    ],
+    [
+     "Wo gibt es den JBL Go 5 Deal?",
+     "Den Deal mit Strandtuch gibt es bei OTTO, nicht bei Amazon."
+    ],
+    [
+     "Habt ihr die Lautsprecher selbst getestet?",
+     "Nein. Wir werten Herstellerdaten und unabhängige Tests aus und vergleichen die aktuellen Preise."
+    ]
+   ],
+   "title": "Bluetooth-Lautsprecher im Vergleich: JBL, Bose, Sony, Marshall",
+   "desc": "Bose SoundLink Flex, JBL Xtreme 5, Sony ULT Field 1, JBL Go 5 und Marshall Acton III im Angebot: welcher Lautsprecher passt zu dir?"
+  },
+  "en": {
+   "h1": "Bluetooth speakers compared: 5 deals from mini to party",
+   "eyebrow": "Comparison · Speaker",
+   "answer": "The best all-rounder on the go is the Bose SoundLink Flex: rugged, IP67 waterproof and nicely compact. For parties and long trips, the JBL Xtreme 5 is the strongest pick. The Sony ULT Field 1 is the budget pick with IP67, and the JBL Go 5 bundle with a beach towel at OTTO is the cheap mini option. The Marshall Acton III is a home speaker, as it has no battery.",
+   "intro": "We did not test these speakers ourselves. This guide is based on manufacturer specs, independent reviews (including SoundGuys, T3 and kopfhoerer.de) and deal prices from 20 Oct 2026. Battery figures are manufacturer claims unless we explicitly cite a review result.",
+   "pickNotes": {
+    "bose-soundlink-flex": {
+     "label": "Best all-rounder",
+     "why": "Rugged, IP67 and with a strap for hanging it up. Bose claims up to 12 hours, while SoundGuys measured about 7 hours. In the Bose app you can pair two Flex (2nd Gen) speakers for stereo."
+    },
+    "jbl-xtreme-5": {
+     "label": "For parties and trips",
+     "why": "Up to 24 hours plus 4 hours of Playtime Boost, IP68, a power bank function and Auracast. kopfhoerer.de highlights the replaceable battery and lossless audio over USB-C. At 2.9 kg it is heavy, though, and the full 130 W only comes with the power adapter."
+    },
+    "sony-ult-field-1": {
+     "label": "Budget pick with IP67",
+     "why": "Light (646 g), IP67 and shock-resistant according to Sony. Sony claims 12 hours, and SoundGuys even measured almost 29 hours with ULT mode off. It only plays in mono, and SoundGuys found the app rather weak."
+    },
+    "jbl-go-5-strandtuch-otto": {
+     "label": "Cheap mini",
+     "why": "Just 230 g, IP68 and up to 8 hours plus 2 hours of Playtime Boost. With Auracast you can pair two Go 5 for stereo. This deal is at OTTO, bundled with a beach towel."
+    },
+    "marshall-acton-iii": {
+     "label": "For home",
+     "why": "The Acton III runs on mains power and has no battery, so it is not meant for outdoor use. T3 praises the retro design and the powerful sound for its size. You get Bluetooth 5.2 and a 3.5 mm input, but no Wi-Fi and no water resistance."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Power / battery",
+     "Protection",
+     "Weight",
+     "Highlight"
+    ],
+    "rows": [
+     [
+      "bose-soundlink-flex",
+      "up to 12 h (review: approx. 7 h)",
+      "IP67",
+      "589 g",
+      "Stereo pairing, aptX on compatible Android phones"
+     ],
+     [
+      "jbl-xtreme-5",
+      "up to 24 h + 4 h boost",
+      "IP68",
+      "2.9 kg",
+      "Replaceable battery, power bank, Auracast"
+     ],
+     [
+      "sony-ult-field-1",
+      "up to 12 h",
+      "IP67",
+      "646 g",
+      "Shock-resistant, mono"
+     ],
+     [
+      "jbl-go-5-strandtuch-otto",
+      "up to 8 h + 2 h boost",
+      "IP68",
+      "230 g",
+      "Auracast, beach towel bundle (OTTO)"
+     ],
+     [
+      "marshall-acton-iii",
+      "Mains powered, no battery",
+      "None",
+      "2.85 kg",
+      "Retro design, 3.5 mm input"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Portable or for home?",
+     "Four of the five speakers have a battery and are waterproof. The Marshall Acton III, on the other hand, is a home speaker for a shelf or sideboard. If you want to take your speaker to the lake, it is the wrong choice."
+    ],
+    [
+     "Size and sound",
+     "The bigger the speaker, the more bass and volume you get. A mini like the Go 5 is fine for the shower, your desk or a picnic. For a garden party with several people, you will want a large model like the Xtreme 5."
+    ],
+    [
+     "Be realistic about battery life",
+     "Manufacturer figures usually assume medium volume. At high volume or with bass modes, battery life often drops noticeably, as SoundGuys' Bose review shows. So plan in some headroom."
+    ]
+   ],
+   "faq": [
+    [
+     "Does the Marshall Acton III have a battery?",
+     "No. It needs a power socket and, according to T3, is not water resistant either. It is a home speaker."
+    ],
+    [
+     "Which speaker is the loudest?",
+     "The JBL Xtreme 5. kopfhoerer.de cites 130 W with the power adapter and about 40 W less on battery."
+    ],
+    [
+     "Which speakers can I use near water?",
+     "The JBL Xtreme 5 and JBL Go 5 are IP68 rated, the Bose SoundLink Flex and Sony ULT Field 1 IP67. All four survive brief submersion."
+    ],
+    [
+     "Where is the JBL Go 5 deal?",
+     "The bundle with a beach towel is available at OTTO, not Amazon."
+    ],
+    [
+     "Did you test the speakers yourselves?",
+     "No. We analyse manufacturer data and independent reviews and compare current prices."
+    ]
+   ],
+   "title": "Bluetooth speakers compared: JBL, Bose, Sony, Marshall",
+   "desc": "Bose SoundLink Flex, JBL Xtreme 5, Sony ULT Field 1, JBL Go 5 and Marshall Acton III on sale: which speaker is right for you?"
+  }
+ },
+ "maehroboter-ohne-begrenzungskabel": {
+  "updated": "2026-10-20",
+  "cat": "garden",
+  "picks": [
+   "anthbot-m5-maehroboter",
+   "anthbot-m9-maehroboter",
+   "anthbot-genie-800-refurbished"
+  ],
+  "sources": [
+   [
+    "ANTHBOT: M5 Produktseite",
+    "https://de.anthbot.com/products/m5-robot-lawn-mower"
+   ],
+   [
+    "ANTHBOT: M9 Produktseite",
+    "https://de.anthbot.com/products/m9-robot-lawn-mower"
+   ],
+   [
+    "ANTHBOT: Genie generalüberholt",
+    "https://de.anthbot.com/products/genie-generaluberholt"
+   ],
+   [
+    "PC-WELT: Anthbot M9 im Test",
+    "https://www.pcwelt.de/article/3090021/anthbot-m9-test.html"
+   ],
+   [
+    "Euronics Trendblog: Anthbot Genie 800 im Test",
+    "https://trendblog.euronics.de/haushalt/anthbot-genie-800-im-test-leiser-cleverer-maehroboter-153442/"
+   ],
+   [
+    "o2 Community: Anthbot M5 im Check",
+    "https://hilfe.o2online.de/testberichte-reviews-9/rasen-maehen-lassen-ohne-kabel-chaos-der-guenstige-anthbot-m5-im-check-668654"
+   ]
+  ],
+  "de": {
+   "h1": "Mähroboter ohne Begrenzungskabel: 3 ANTHBOT-Deals im Vergleich",
+   "eyebrow": "Vergleich · Garten",
+   "answer": "Für kleine Gärten bis etwa 500 m² reicht der ANTHBOT M5. Hast du bis zu 1.000 m² Rasen, ist der M9 die passende Wahl, er bringt laut PC-WELT auch einen größeren Akku mit. Der generalüberholte Genie 800 lohnt sich, wenn du eine größere Fläche hast und mit leichten Gebrauchsspuren und kürzerer Gewährleistung leben kannst. Alle drei Angebote gelten im ANTHBOT Halloween Sale nur bis 30.10.2026.",
+   "intro": "Wir haben die Mähroboter nicht selbst getestet. Grundlage sind die Angaben von ANTHBOT, unabhängige Tests von PC-WELT, Euronics und der o2 Community sowie die Deal-Preise vom 20.10.2026. Flächen-, Steigungs- und Leistungswerte sind Herstellerangaben, sofern nicht anders gekennzeichnet.",
+   "pickNotes": {
+    "anthbot-m5-maehroboter": {
+     "label": "Für kleine Gärten bis 500 m²",
+     "why": "Laut ANTHBOT schafft der M5 bis zu 500 m² und Steigungen bis 45 % (24°). Er kombiniert RTK-Navigation mit zwei Kameras, die bei schwachem Satellitensignal übernehmen, und hat einen Regensensor sowie IPX6-Schutz. Im Check der o2 Community war die Einrichtung in rund zehn Minuten erledigt, Kritikpunkt war, dass die RTK-Antenne dauerhaft im Garten stehen muss."
+    },
+    "anthbot-m9-maehroboter": {
+     "label": "Für mittlere Gärten bis 1.000 m²",
+     "why": "Der M9 teilt viele Daten mit dem M5, ist laut ANTHBOT aber für bis zu 1.000 m² ausgelegt. PC-WELT nennt einen 5-Ah-Akku, lobt die schnelle Kartierung und den präzisen Schnitt und sieht bei der Hinderniserkennung noch Luft nach oben. Im Test fuhr sich der M9 kurz zwischen Stuhlbeinen fest."
+    },
+    "anthbot-genie-800-refurbished": {
+     "label": "Refurbished-Tipp für größere Flächen",
+     "why": "Der Genie 800 nutzt laut Euronics-Test Full-Band-RTK und vier 3D-Kameras. Empfohlen ist er für etwa 800 m², der Akku schafft laut Test aber auch bis zu 1.500 m². Das Gerät ist generalüberholt: ANTHBOT nennt leichte Gebrauchsspuren als möglich, 1 Jahr Gewährleistung und 30 Tage Rückgaberecht."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Max. Fläche (Hersteller)",
+     "Steigung",
+     "Navigation",
+     "Diebstahlschutz",
+     "Besonderheit"
+    ],
+    "rows": [
+     [
+      "anthbot-m5-maehroboter",
+      "bis 500 m²",
+      "bis 45 % (24°)",
+      "RTK + 2 Kameras",
+      "Benachrichtigung in der App",
+      "Neu, 3 Jahre Garantie laut ANTHBOT"
+     ],
+     [
+      "anthbot-m9-maehroboter",
+      "bis 1.000 m²",
+      "bis 45 % (24°)",
+      "RTK + 2 Kameras",
+      "Ortung per 4G (Abo nötig)",
+      "Größerer Akku als M5 (PC-WELT)"
+     ],
+     [
+      "anthbot-genie-800-refurbished",
+      "ca. 800 m², Akku bis 1.500 m² (Euronics)",
+      "bis 45 % (24°)",
+      "RTK + 4 Kameras",
+      "PIN-Schutz, Geofencing",
+      "Generalüberholt, 1 Jahr Gewährleistung"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "RTK oder Kamera: wie findet sich der Roboter zurecht?",
+     "Mähroboter ohne Begrenzungskabel orientieren sich meist per RTK. Dabei werden Satellitendaten mit Korrekturdaten einer Referenzstation im Garten oder über das Mobilfunknetz (Netzwerk-RTK) zentimetergenau verrechnet. Kameras helfen bei der Hinderniserkennung und übernehmen, wenn Bäume oder Hauswände das Signal abschatten. Alle drei Modelle hier kombinieren RTK mit Kameras. Prüfe vorher, ob dein Garten genug freien Himmel für die Antenne bietet."
+    ],
+    [
+     "Rasenfläche und Steigung richtig einschätzen",
+     "Die maximale Fläche ist ein Herstellerwert unter guten Bedingungen. Viele Zonen, enge Durchgänge und verwinkelte Ecken kosten Zeit. Plane deshalb lieber etwas Puffer ein. Alle drei Roboter sollen laut ANTHBOT Steigungen bis 45 % schaffen, bei sehr steilen oder nassen Hängen bleibt das aber ein Grenzbereich."
+    ],
+    [
+     "App, 4G und laufende Kosten",
+     "Die Grundfunktionen laufen auch ohne Internet, die App macht vor allem Zonen, Mähzeiten und Schnitthöhe bequemer. Achte auf die Folgekosten: Laut PC-WELT und o2 Community kostet die 4G-Verbindung nach der Gratisphase rund 40 Euro im Jahr, und auch die Diebstahlortung braucht dieses Abo. Beim M9 ist laut PC-WELT auch Netzwerk-RTK nach drei Gratismonaten kostenpflichtig. Das WLAN der Geräte funkt zudem nur im 2,4-GHz-Band."
+    ],
+    [
+     "Diebstahlschutz",
+     "Ein Mähroboter ohne Kabel steht oft gut sichtbar im Garten. Sinnvoll sind PIN-Sperre, Alarm beim Verlassen der Karte und GPS-Ortung. Die Ortung funktioniert in der Regel nur mit Mobilfunkverbindung, plane das Abo also ein, wenn dir der Schutz wichtig ist. Eine Versicherung über die Hausrat lohnt sich ebenfalls zu prüfen."
+    ],
+    [
+     "Einwintern: so kommt der Roboter gut durch die kalte Jahreszeit",
+     "Reinige Gehäuse, Messerteller und Räder gründlich und lagere den Roboter trocken und frostfrei, zum Beispiel im Keller. Lade den Akku vorher, damit er über den Winter nicht tiefentladen wird, und beachte die Hinweise in der Bedienungsanleitung. Ladestation und RTK-Antenne kannst du je nach Hersteller draußen lassen oder ebenfalls abbauen. Wer jetzt im Herbst kauft, richtet den Roboter oft erst im Frühjahr ein, die Rückgabefrist läuft aber ab Lieferung."
+    ],
+    [
+     "Welcher Roboter passt zu welchem Garten?",
+     "Reihenhaus- oder kleiner Familiengarten bis 500 m²: M5. Klassischer Garten bis 1.000 m² mit mehreren Zonen: M9. Größere Fläche, knappes Budget und kein Problem mit einem überholten Gerät: Genie 800. Der Halloween Sale bei ANTHBOT läuft bis 30.10.2026, danach gelten voraussichtlich wieder die regulären Preise."
+    ]
+   ],
+   "faq": [
+    [
+     "Brauchen diese Mähroboter wirklich kein Begrenzungskabel?",
+     "Ja. Du legst die Grenzen per App fest, indem der Roboter einmal die Rasenkante abfährt oder du ihn fernsteuerst. Die Position bestimmt er per RTK und Kameras."
+    ],
+    [
+     "Wie lange läuft der Halloween Sale?",
+     "Laut ANTHBOT vom 12. bis 30.10.2026. Danach können sich die Preise wieder ändern."
+    ],
+    [
+     "Fallen nach dem Kauf noch Kosten an?",
+     "Möglich. Laut Tests kostet die 4G-Verbindung nach der Gratisphase rund 40 Euro im Jahr. Sie wird für Fernsteuerung unterwegs und Diebstahlortung gebraucht, das Mähen selbst klappt auch ohne."
+    ],
+    [
+     "Lohnt sich ein generalüberholter Mähroboter?",
+     "Wenn der Preisvorteil groß ist, oft ja. Beim Genie 800 nennt ANTHBOT geprüfte Geräte mit möglichen leichten Gebrauchsspuren, 1 Jahr Gewährleistung und 30 Tage Rückgabe. Neugeräte haben laut ANTHBOT 3 Jahre Garantie."
+    ],
+    [
+     "Kann ich den Roboter im Winter draußen lassen?",
+     "Besser nicht. Lagere ihn gereinigt, geladen und frostfrei. Wie mit Ladestation und Antenne umzugehen ist, steht in der Anleitung des Herstellers."
+    ],
+    [
+     "Habt ihr die Mähroboter selbst getestet?",
+     "Nein. Wir werten Herstellerangaben und unabhängige Tests aus und vergleichen die aktuellen Angebotspreise. Die Quellen findest du unten."
+    ]
+   ],
+   "title": "Mähroboter ohne Begrenzungskabel: ANTHBOT M5, M9 & Genie 800",
+   "desc": "Mähroboter ohne Kabel im Halloween Sale bis 30.10.2026: ANTHBOT M5, M9 und Genie 800 refurbished im Vergleich, mit Tipps zu RTK, App und Diebstahlschutz."
+  },
+  "en": {
+   "h1": "Wire-free robot lawn mowers: 3 ANTHBOT deals compared",
+   "eyebrow": "Comparison · Garden",
+   "answer": "For small lawns up to about 500 m², the ANTHBOT M5 is enough. If your lawn is up to 1,000 m², the M9 is the better fit, and according to PC-WELT it also has a bigger battery. The refurbished Genie 800 makes sense for larger areas if you can live with light signs of use and a shorter warranty. All three deals are part of ANTHBOT's Halloween Sale, which ends on 30 Oct 2026.",
+   "intro": "We did not test these mowers ourselves. This guide is based on ANTHBOT's specs, independent reviews from PC-WELT, Euronics and the o2 Community, and deal prices from 20 Oct 2026. Area, slope and performance figures are manufacturer claims unless stated otherwise.",
+   "pickNotes": {
+    "anthbot-m5-maehroboter": {
+     "label": "For small gardens up to 500 m²",
+     "why": "ANTHBOT says the M5 handles up to 500 m² and slopes up to 45% (24°). It combines RTK navigation with two cameras that take over when the satellite signal is weak, and it has a rain sensor and IPX6 protection. In the o2 Community check, setup took about ten minutes. The main downside: the RTK antenna has to stay in the garden."
+    },
+    "anthbot-m9-maehroboter": {
+     "label": "For mid-sized gardens up to 1,000 m²",
+     "why": "The M9 shares many specs with the M5, but ANTHBOT rates it for up to 1,000 m². PC-WELT lists a 5 Ah battery, praises the fast mapping and precise cut, and says obstacle detection still has room for improvement. In their test, the M9 briefly got stuck between chair legs."
+    },
+    "anthbot-genie-800-refurbished": {
+     "label": "Refurbished pick for larger lawns",
+     "why": "According to the Euronics review, the Genie 800 uses full-band RTK and four 3D cameras. It is recommended for about 800 m², though the battery can handle up to 1,500 m² per the review. This unit is refurbished: ANTHBOT says light signs of use are possible and lists a 1-year warranty and a 30-day return window."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Max. area (claimed)",
+     "Slope",
+     "Navigation",
+     "Theft protection",
+     "Highlight"
+    ],
+    "rows": [
+     [
+      "anthbot-m5-maehroboter",
+      "up to 500 m²",
+      "up to 45% (24°)",
+      "RTK + 2 cameras",
+      "App notifications",
+      "New, 3-year warranty per ANTHBOT"
+     ],
+     [
+      "anthbot-m9-maehroboter",
+      "up to 1,000 m²",
+      "up to 45% (24°)",
+      "RTK + 2 cameras",
+      "4G tracking (subscription)",
+      "Bigger battery than M5 (PC-WELT)"
+     ],
+     [
+      "anthbot-genie-800-refurbished",
+      "approx. 800 m², battery up to 1,500 m² (Euronics)",
+      "up to 45% (24°)",
+      "RTK + 4 cameras",
+      "PIN lock, geofencing",
+      "Refurbished, 1-year warranty"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "RTK or cameras: how does the mower find its way?",
+     "Wire-free robot mowers usually rely on RTK. Satellite data is combined with correction data from a reference station in your garden or from the mobile network (network RTK) for centimetre-level accuracy. Cameras help detect obstacles and take over when trees or walls block the signal. All three models here combine RTK with cameras. Check beforehand that your garden has enough open sky for the antenna."
+    ],
+    [
+     "Getting lawn size and slope right",
+     "The maximum area is a manufacturer figure under good conditions. Many zones, narrow passages and awkward corners cost time, so leave some headroom. ANTHBOT says all three mowers handle slopes up to 45%, but very steep or wet slopes remain a borderline case."
+    ],
+    [
+     "App, 4G and running costs",
+     "The basics work without internet. The app mainly makes zones, schedules and cutting height easier to manage. Watch the follow-up costs: according to PC-WELT and the o2 Community, the 4G connection costs around €40 a year after the free period, and theft tracking needs that subscription too. PC-WELT also says network RTK on the M9 is paid after three free months. The mowers' Wi-Fi only supports the 2.4 GHz band."
+    ],
+    [
+     "Theft protection",
+     "A wire-free mower often sits in plain sight. Useful features are a PIN lock, an alarm when it leaves the mapped area, and GPS tracking. Tracking usually needs a mobile connection, so budget for the subscription if that protection matters to you. It is also worth checking whether your home contents insurance covers it."
+    ],
+    [
+     "Winter storage",
+     "Clean the body, blade disc and wheels thoroughly and store the mower somewhere dry and frost-free, such as a basement. Charge the battery first so it does not fully discharge over winter, and follow the manual. Depending on the manufacturer, you can leave the charging station and RTK antenna outside or take them in too. If you buy now, you may only set it up in spring, but the return window starts on delivery."
+    ],
+    [
+     "Which mower suits which garden?",
+     "Terraced house or small family garden up to 500 m²: M5. Typical garden up to 1,000 m² with several zones: M9. Larger area, tight budget and fine with a refurbished unit: Genie 800. ANTHBOT's Halloween Sale runs until 30 Oct 2026, after which regular prices are likely to return."
+    ]
+   ],
+   "faq": [
+    [
+     "Do these mowers really work without a boundary wire?",
+     "Yes. You set the boundaries in the app by letting the mower drive the lawn edge once or by steering it manually. It determines its position using RTK and cameras."
+    ],
+    [
+     "How long does the Halloween Sale last?",
+     "According to ANTHBOT, from 12 to 30 Oct 2026. Prices may change after that."
+    ],
+    [
+     "Are there costs after buying?",
+     "Possibly. Reviews say the 4G connection costs around €40 a year after the free period. You need it for remote control on the go and theft tracking. Mowing itself works without it."
+    ],
+    [
+     "Is a refurbished robot mower worth it?",
+     "Often yes, if the discount is big. For the Genie 800, ANTHBOT mentions tested units with possible light signs of use, a 1-year warranty and 30-day returns. New units come with a 3-year warranty according to ANTHBOT."
+    ],
+    [
+     "Can I leave the mower outside in winter?",
+     "Better not. Store it clean, charged and frost-free. The manual explains what to do with the charging station and antenna."
+    ],
+    [
+     "Did you test the mowers yourselves?",
+     "No. We analyse manufacturer data and independent reviews and compare current deal prices. You will find the sources below."
+    ]
+   ],
+   "title": "Wire-free robot mowers: ANTHBOT M5, M9 & Genie 800 compared",
+   "desc": "Wire-free robot mowers on sale until 30 Oct 2026: ANTHBOT M5, M9 and refurbished Genie 800 compared, with tips on RTK, apps and theft protection."
+  }
+ },
+ "lego-angebote": {
+  "updated": "2026-10-20",
+  "cat": "toys",
+  "picks": [
+   "lego-76331-batman-vs-superman-batmobile",
+   "lego-77246-speed-champions-visa-cash-app-rb-f1",
+   "lego-43031-olivia-rodrigo-gitarre",
+   "lego-donkey-kong-arcade-72051"
+  ],
+  "sources": [
+   [
+    "LEGO.com: Olivia Rodrigo's Dual Guitar 43031",
+    "https://www.lego.com/en-nl/product/43031"
+   ],
+   [
+    "Brickset: LEGO Super Mario 72051 Donkey Kong Arcade revealed",
+    "https://brickset.com/article/133391/lego-super-mario-72051-donkey-kong-arcade-revealed"
+   ],
+   [
+    "Currys: LEGO DC 76331 Batman v Superman Batmobile",
+    "https://www.currys.co.uk/products/lego-dc-76331-batman-v-superman-batmobile-set-10296979.html"
+   ],
+   [
+    "Currys: LEGO Speed Champions 77246 Visa Cash App RB VCARB 01",
+    "https://www.currys.co.uk/products/lego-speed-champions-77246-visa-cash-app-rb-vcarb-01-f1-race-car-set-for-adults-10291212.html"
+   ]
+  ],
+  "de": {
+   "h1": "LEGO-Angebote im Herbst: 4 Sets für Fans und als Geschenk",
+   "eyebrow": "Vergleich · Spielzeug",
+   "answer": "Für Kinder ab 9 Jahren ist das Batman-v-Superman-Batmobile (76331) das passende kleine Geschenk. Formel-1-Fans freuen sich über das Speed-Champions-Rennauto 77246, es ist allerdings nur für Prime-Mitglieder so günstig. Olivia-Rodrigo-Fans ab 14 bekommen mit der Doppelgitarre 43031 ein großes Deko-Set, und für Retro-Gamer ist der Donkey-Kong-Automat 72051 das Highlight mit echten Spielfunktionen.",
+   "intro": "Wir haben die Sets nicht selbst gebaut. Teilezahlen, Altersempfehlungen und Funktionen stammen von LEGO.com, Brickset und Händlerangaben, die Preise sind die Deal-Preise vom 20.10.2026. Preise bei Amazon können sich schnell ändern.",
+   "pickNotes": {
+    "lego-76331-batman-vs-superman-batmobile": {
+     "label": "Kleines Geschenk für Kinder ab 9",
+     "why": "Das Batmobile aus dem Film Batman v Superman hat 220 Teile, ein zu öffnendes Cockpit und einen Shooter vorne. Dazu gibt es eine Batman-Minifigur in Rüstung mit Stoffumhang und eine goldene Sammlermünze. Es gehört zur Jubiläumsreihe zu 20 Jahren LEGO DC Batman."
+    },
+    "lego-77246-speed-champions-visa-cash-app-rb-f1": {
+     "label": "Für Formel-1-Fans",
+     "why": "Das Modell des RB-Rennwagens VCARB 01 hat 248 Teile und eine Fahrerfigur. Laut Händlerangaben ist es ab 18 eingestuft, es ist aber ein kompaktes Set, das schnell gebaut ist. Den Deal-Preis bekommst du nur mit Prime-Mitgliedschaft."
+    },
+    "lego-43031-olivia-rodrigo-gitarre": {
+     "label": "Deko-Set für Musikfans ab 14",
+     "why": "Die Doppelgitarre ist halb E-Gitarre, halb Akustikgitarre, hat 1.228 Teile und ist laut LEGO über 50 cm hoch. Dazu kommen zwei Minifiguren mit Mini-Gitarren und eine versteckte Garderoben-Szene. LEGO.com nennt einen Preis von 119,99 €, der Deal liegt deutlich darunter."
+    },
+    "lego-donkey-kong-arcade-72051": {
+     "label": "Highlight für Retro-Gamer",
+     "why": "Der Arcade-Automat hat 1.367 Teile und ist ab 18. Laut Brickset lässt ein Hebel einzelne Fässer rollen, ein Joystick bewegt Jumpman und ein Knopf lässt ihn springen. Figuren von Jumpman, Donkey Kong und Lady sind dabei. Der Deal-Preis liegt laut unserer Preisrecherche gleichauf mit dem MediaMarkt-Bestpreis."
+    }
+   },
+   "table": {
+    "cols": [
+     "Set",
+     "Thema",
+     "Teile",
+     "Alter",
+     "Figuren",
+     "Für wen?"
+    ],
+    "rows": [
+     [
+      "lego-76331-batman-vs-superman-batmobile",
+      "LEGO DC / Batman",
+      "220",
+      "9+",
+      "Batman",
+      "Kinder und Batman-Fans"
+     ],
+     [
+      "lego-77246-speed-champions-visa-cash-app-rb-f1",
+      "Speed Champions / F1",
+      "248",
+      "18+ (Händlerangabe)",
+      "1 Fahrer",
+      "F1-Fans, Sammler"
+     ],
+     [
+      "lego-43031-olivia-rodrigo-gitarre",
+      "LEGO Editions / Musik",
+      "1.228",
+      "14+",
+      "2 Minifiguren",
+      "Teenager, Musikfans"
+     ],
+     [
+      "lego-donkey-kong-arcade-72051",
+      "Super Mario / Nintendo",
+      "1.367",
+      "18+",
+      "Jumpman, Donkey Kong, Lady",
+      "Erwachsene, Retro-Gamer"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Auf die Altersangabe achten",
+     "Die Altersempfehlung von LEGO sagt vor allem etwas über Bauschwierigkeit und Zielgruppe aus. Sets ab 18 sind meist als Ausstellungsstück gedacht, nicht zum Spielen. Für jüngere Kinder ist das Batmobile die sichere Wahl. Kleinteile gehören grundsätzlich nicht in die Hände von Kleinkindern."
+    ],
+    [
+     "Spielen oder ausstellen?",
+     "Batmobile und F1-Auto sind klein und schnell gebaut, ideal als Mitbringsel oder Wichtelgeschenk. Gitarre und Donkey-Kong-Automat brauchen mehr Zeit und vor allem Platz im Regal. Die Gitarre ist laut LEGO über 50 cm hoch, miss also vorher nach, wo sie stehen soll."
+    ],
+    [
+     "Geschenktipps für Weihnachten",
+     "Kaufst du jetzt schon, hast du den Preis sicher und musst nicht auf Lieferzeiten im Dezember hoffen. Prüfe beim Kauf über Amazon, ob der Artikel von Amazon selbst verkauft wird, und bewahre den Beleg für einen möglichen Umtausch auf. Beim F1-Set gilt der Preis nur mit Prime."
+    ],
+    [
+     "Wie gut sind die Preise?",
+     "Wir vergleichen jeden Deal mit dem aktuellen Preisvergleich. Das Batmobile liegt laut unserer Recherche rund 20 % darunter, die Olivia-Rodrigo-Gitarre etwa 16 € unter dem Vergleichspreis und weit unter dem LEGO-Preis von 119,99 €. Der Donkey-Kong-Automat liegt deutlich unter dem LEGO-Preis von 169,99 €."
+    ]
+   ],
+   "faq": [
+    [
+     "Welches LEGO-Set eignet sich für Kinder?",
+     "Von diesen vier vor allem das Batmobile 76331 mit Altersempfehlung 9+. Die anderen Sets sind ab 14 beziehungsweise ab 18 eingestuft."
+    ],
+    [
+     "Hat das Donkey-Kong-Set echte Spielfunktionen?",
+     "Ja. Laut Brickset kannst du per Hebel Fässer rollen lassen, mit dem Joystick Jumpman bewegen und ihn per Knopf springen lassen. Elektronik ist dafür nicht nötig."
+    ],
+    [
+     "Brauche ich Prime für das F1-Set?",
+     "Ja, der Angebotspreis für 77246 gilt laut Amazon nur für Prime-Mitglieder."
+    ],
+    [
+     "Wie groß ist die Olivia-Rodrigo-Gitarre?",
+     "Laut LEGO über 50 cm hoch, 24 cm breit und 9 cm tief."
+    ],
+    [
+     "Habt ihr die Sets selbst gebaut?",
+     "Nein. Wir werten Angaben von LEGO, Brickset und Händlern aus und vergleichen die aktuellen Angebotspreise. Die Quellen findest du unten."
+    ]
+   ],
+   "title": "LEGO-Angebote im Herbst: 4 Sets für Fans und als Geschenk",
+   "desc": "LEGO-Angebote im Herbst: Batmobile, F1 Speed Champions, Olivia-Rodrigo-Gitarre und Donkey Kong Arcade im Vergleich, mit Tipps für Weihnachtsgeschenke."
+  },
+  "en": {
+   "h1": "LEGO deals this autumn: 4 sets for fans and gifting",
+   "eyebrow": "Comparison · Toys",
+   "answer": "For kids aged 9 and up, the Batman v Superman Batmobile (76331) is the right small gift. Formula 1 fans will like the Speed Champions race car 77246, though the deal price is for Prime members only. Olivia Rodrigo fans aged 14 and up get a big display piece with the Dual Guitar 43031, and for retro gamers the Donkey Kong Arcade 72051 is the highlight, with working play features.",
+   "intro": "We did not build these sets ourselves. Piece counts, age ratings and features come from LEGO.com, Brickset and retailer listings. Prices are the deal prices from 20 Oct 2026, and Amazon prices can change quickly.",
+   "pickNotes": {
+    "lego-76331-batman-vs-superman-batmobile": {
+     "label": "Small gift for kids 9+",
+     "why": "The Batmobile from Batman v Superman has 220 pieces, an opening cockpit and a front shooter. It comes with an armoured Batman minifigure with a fabric cape and a golden collector's coin. It is part of the 20th anniversary LEGO DC Batman range."
+    },
+    "lego-77246-speed-champions-visa-cash-app-rb-f1": {
+     "label": "For Formula 1 fans",
+     "why": "This model of the RB VCARB 01 race car has 248 pieces and a driver figure. Retailers list it as 18+, but it is a compact set that builds quickly. You only get the deal price with a Prime membership."
+    },
+    "lego-43031-olivia-rodrigo-gitarre": {
+     "label": "Display set for music fans 14+",
+     "why": "The Dual Guitar is half electric, half acoustic, has 1,228 pieces and stands over 50 cm tall according to LEGO. It also includes two minifigures with mini guitars and a hidden dressing room scene. LEGO.com lists it at €119.99, and the deal is well below that."
+    },
+    "lego-donkey-kong-arcade-72051": {
+     "label": "Highlight for retro gamers",
+     "why": "The arcade cabinet has 1,367 pieces and is rated 18+. According to Brickset, a lever releases barrels one at a time, a joystick moves Jumpman and a button makes him jump. Jumpman, Donkey Kong and Lady figures are included. Our price check shows the deal matches MediaMarkt's best price."
+    }
+   },
+   "table": {
+    "cols": [
+     "Set",
+     "Theme",
+     "Pieces",
+     "Age",
+     "Figures",
+     "Best for"
+    ],
+    "rows": [
+     [
+      "lego-76331-batman-vs-superman-batmobile",
+      "LEGO DC / Batman",
+      "220",
+      "9+",
+      "Batman",
+      "Kids and Batman fans"
+     ],
+     [
+      "lego-77246-speed-champions-visa-cash-app-rb-f1",
+      "Speed Champions / F1",
+      "248",
+      "18+ (retailer info)",
+      "1 driver",
+      "F1 fans, collectors"
+     ],
+     [
+      "lego-43031-olivia-rodrigo-gitarre",
+      "LEGO Editions / Music",
+      "1,228",
+      "14+",
+      "2 minifigures",
+      "Teens, music fans"
+     ],
+     [
+      "lego-donkey-kong-arcade-72051",
+      "Super Mario / Nintendo",
+      "1,367",
+      "18+",
+      "Jumpman, Donkey Kong, Lady",
+      "Adults, retro gamers"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Check the age rating",
+     "LEGO's age rating mostly reflects build difficulty and target audience. 18+ sets are usually meant for display rather than play. For younger kids, the Batmobile is the safe choice. Small parts should always be kept away from toddlers."
+    ],
+    [
+     "Play or display?",
+     "The Batmobile and F1 car are small and quick to build, ideal as a stocking filler or Secret Santa gift. The guitar and the Donkey Kong cabinet take longer and need shelf space. LEGO says the guitar is over 50 cm tall, so measure where it will go first."
+    ],
+    [
+     "Christmas gift tips",
+     "Buying now locks in the price and avoids December delivery delays. When buying on Amazon, check whether the item is sold by Amazon itself and keep the receipt in case of an exchange. The F1 set price applies to Prime members only."
+    ],
+    [
+     "How good are the prices?",
+     "We compare every deal with the current price comparison. Our research shows the Batmobile about 20% below it, and the Olivia Rodrigo guitar about €16 below the comparison price and far below LEGO's €119.99. The Donkey Kong Arcade is well below LEGO's price of €169.99."
+    ]
+   ],
+   "faq": [
+    [
+     "Which LEGO set is best for kids?",
+     "Of these four, mainly the Batmobile 76331, rated 9+. The other sets are rated 14+ or 18+."
+    ],
+    [
+     "Does the Donkey Kong set have real play features?",
+     "Yes. According to Brickset, a lever rolls barrels, the joystick moves Jumpman and a button makes him jump. No electronics are needed."
+    ],
+    [
+     "Do I need Prime for the F1 set?",
+     "Yes, the deal price for 77246 is for Prime members only according to Amazon."
+    ],
+    [
+     "How big is the Olivia Rodrigo guitar?",
+     "According to LEGO, over 50 cm tall, 24 cm wide and 9 cm deep."
+    ],
+    [
+     "Did you build the sets yourselves?",
+     "No. We analyse information from LEGO, Brickset and retailers and compare current deal prices. You will find the sources below."
+    ]
+   ],
+   "title": "LEGO deals this autumn: 4 sets for fans and gifting",
+   "desc": "LEGO deals this autumn: Batmobile, F1 Speed Champions, Olivia Rodrigo guitar and Donkey Kong Arcade compared, with Christmas gift tips."
+  }
+ },
+ "waschmaschine-trockner-angebote": {
+  "updated": "2026-10-20",
+  "cat": "home",
+  "picks": [
+   "otto-hanseatic-waschmaschine-hwma714abi",
+   "otto-samsung-waermepumpentrockner-dv9d5-cw"
+  ],
+  "sources": [
+   [
+    "OTTO: Hanseatic Waschmaschine HWMA714ABI",
+    "https://www.otto.de/p/hanseatic-waschmaschine-hwma714abi-7-kg-1400-u-min-inkl-5-jahre-langzeitgarantie-1957877635/"
+   ],
+   [
+    "OTTO: Samsung Wärmepumpentrockner DV5000D DV9D5-CW",
+    "https://www.otto.de/p/samsung-waermepumpentrockner-dv5000d-dv9d5-cw-optimal-dry-intelligent-trocknen-mit-sensoren-1953453365/"
+   ],
+   [
+    "Samsung: 9 kg Trockner DV5000D mit Optimal Dry",
+    "https://www.samsung.com/de/washers-and-dryers/dryers/dv5000d-dryer-space-max-hygiene-care-smartthings-ai-energy-mode-9kg-white-dv90dg52a0aeeg"
+   ]
+  ],
+  "de": {
+   "h1": "Waschmaschine und Trockner im Angebot: Kaufberatung und 2 OTTO-Deals",
+   "eyebrow": "Kaufberatung · Haushalt",
+   "answer": "Die Hanseatic HWMA714ABI ist eine günstige 7-kg-Waschmaschine mit Energieklasse A, 1.400 Touren und laut OTTO kostenloser 5-Jahre-Langzeitgarantie. Der Samsung DV5000D ist ein Wärmepumpentrockner mit Feuchtigkeitssensoren, der die Trocknung beendet, sobald die Wäsche trocken ist. Zusammen decken beide einen typischen Haushalt ab, der Trockner bietet dabei mehr Fassungsvermögen als die Waschmaschine.",
+   "intro": "Wir haben die Geräte nicht selbst getestet. Grundlage sind die Angaben auf den OTTO-Produktseiten, die Herstellerdaten von Samsung und die Deal-Preise vom 20.10.2026. Verbrauchs- und Lautstärkewerte sind Herstellerangaben. Prüfe vor dem Kauf immer das Energielabel auf der Produktseite.",
+   "pickNotes": {
+    "otto-hanseatic-waschmaschine-hwma714abi": {
+     "label": "Preistipp Waschmaschine",
+     "why": "Laut OTTO hat die Hanseatic 7 kg Fassungsvermögen, 1.400 U/min und Energieklasse A. An Bord sind ein Dampfprogramm, Eco 40-60, ein Tierhaar-Programm, Startzeitvorwahl, Schaum- und Überlaufschutz sowie Kindersicherung. Neben 3 Jahren Herstellergarantie gibt es aktuell die 5-Jahre-Langzeitgarantie von OTTO gratis dazu. Versand kommt extra."
+    },
+    "otto-samsung-waermepumpentrockner-dv9d5-cw": {
+     "label": "Wärmepumpentrockner mit Sensoren",
+     "why": "Der DV5000D trocknet mit Wärmepumpe, das spart gegenüber einem klassischen Kondenstrockner Strom. Samsung nennt für das 9-kg-Modell der Serie die Sensorsteuerung Optimal Dry, ein Hygieneprogramm, ein 35-Minuten-Kurzprogramm, App-Steuerung per SmartThings und 10 Jahre Garantie auf den Inverter-Motor. Der Preis bei OTTO ist ein Ab-Preis, prüfe also die gewählte Variante."
+    }
+   },
+   "table": {
+    "cols": [
+     "Gerät",
+     "Typ",
+     "Fassungsvermögen",
+     "Energieklasse",
+     "Lautstärke (Hersteller)",
+     "Besonderheit"
+    ],
+    "rows": [
+     [
+      "otto-hanseatic-waschmaschine-hwma714abi",
+      "Waschmaschine",
+      "7 kg",
+      "A (Skala A bis G)",
+      "72 dB(A)",
+      "1.400 U/min, Dampf, 5 Jahre Langzeitgarantie"
+     ],
+     [
+      "otto-samsung-waermepumpentrockner-dv9d5-cw",
+      "Wärmepumpentrockner",
+      "9 kg (DV5000D laut Samsung)",
+      "C (neues Trocknerlabel A bis G, laut Samsung)",
+      "64 dB(A) (laut Samsung)",
+      "Optimal Dry, SmartThings"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Das Energielabel richtig lesen",
+     "Waschmaschinen tragen seit 2021 das neue Label mit der Skala A bis G, Klasse A ist dort sehr gut. Für Wäschetrockner gilt seit Juli 2025 ebenfalls eine neue A-bis-G-Skala. Die Klassen sind deshalb nicht mit dem alten A+++ vergleichbar: Ein Wärmepumpentrockner mit C auf dem neuen Label ist kein Stromfresser. Vergleiche am besten den Verbrauch in kWh, der ebenfalls auf dem Label steht."
+    ],
+    [
+     "Laufende Kosten selbst ausrechnen",
+     "Die Stromkosten hängen von drei Dingen ab: dem Verbrauch pro Durchgang laut Label, deinem Strompreis und wie oft du wäschst oder trocknest. Multipliziere den Verbrauch pro Durchgang mit deinem Strompreis pro kWh und der Zahl der Durchgänge pro Jahr. Bei der Waschmaschine kommt das Wasser dazu. Volle Trommeln und Eco-Programme senken die Kosten pro Kilo Wäsche."
+    ],
+    [
+     "Fassungsvermögen: wie viel brauchst du?",
+     "Für Singles und Paare reichen oft 6 bis 7 kg, Familien profitieren von 8 kg und mehr. Beim Trockner darf die Trommel ruhig größer sein als die der Waschmaschine, denn Wäsche braucht zum Trocknen Platz. Eine 7-kg-Maschine und ein 9-kg-Trockner passen also gut zusammen."
+    ],
+    [
+     "Lautstärke",
+     "Bei Waschmaschinen steht auf dem Label die Lautstärke beim Schleudern, das ist die lauteste Phase. Bei Trocknern gilt der Wert für den Trockenvorgang. Steht das Gerät in der Wohnung oder nahe am Schlafzimmer, lohnt sich ein Blick auf diesen Wert und auf die Startzeitvorwahl, damit das Gerät läuft, wenn es dich nicht stört."
+    ],
+    [
+     "Waschtrockner-Turm und Aufstellung",
+     "Viele Trockner lassen sich mit einem passenden Zwischenbausatz auf die Waschmaschine stellen. Das geht meist nur bei Geräten mit gleicher Breite und mit dem vom Hersteller freigegebenen Bausatz. Hanseatic und Samsung sind unterschiedliche Marken, kläre das also vor dem Kauf. Ein Wärmepumpentrockner braucht keinen Abluftschlauch, das Kondenswasser landet im Behälter oder wird per Schlauch abgeleitet."
+    ]
+   ],
+   "faq": [
+    [
+     "Ist Energieklasse C beim Trockner schlecht?",
+     "Nicht unbedingt. Seit Juli 2025 gilt für Trockner ein neues, strengeres Label von A bis G. Die Werte lassen sich nicht mit dem alten A+++ vergleichen. Wärmepumpentrockner sind grundsätzlich die sparsamste Bauart."
+    ],
+    [
+     "Was bringt die 5-Jahre-Langzeitgarantie bei OTTO?",
+     "Laut OTTO ist sie bei der Hanseatic aktuell kostenlos enthalten. Die genauen Bedingungen findest du auf der Produktseite bei OTTO."
+    ],
+    [
+     "Fallen Versandkosten an?",
+     "Bei der Hanseatic laut Deal ja, die Versandkosten kommen zum Preis dazu. Prüfe die Kosten für Lieferung, Altgerätemitnahme und Anschluss im Warenkorb."
+    ],
+    [
+     "Kann ich den Samsung-Trockner auf die Hanseatic stellen?",
+     "Das ist nicht gesichert. Ein Turm funktioniert meist nur mit einem vom Hersteller freigegebenen Bausatz. Frag im Zweifel beim Kundenservice nach."
+    ],
+    [
+     "Habt ihr die Geräte selbst getestet?",
+     "Nein. Wir werten Herstellerangaben und Shopdaten aus und vergleichen die aktuellen Angebotspreise. Die Quellen findest du unten."
+    ]
+   ],
+   "title": "Waschmaschine & Trockner im Angebot: Hanseatic & Samsung",
+   "desc": "Kaufberatung Waschmaschine und Wärmepumpentrockner: Energielabel, Kapazität, Lautstärke und Kosten erklärt, dazu Hanseatic- und Samsung-Deals bei OTTO."
+  },
+  "en": {
+   "h1": "Washing machine and dryer deals: buying advice and 2 OTTO offers",
+   "eyebrow": "Buying guide · Home",
+   "answer": "The Hanseatic HWMA714ABI is an affordable 7 kg washing machine with energy class A, 1,400 rpm and, according to OTTO, a free 5-year extended warranty. The Samsung DV5000D is a heat pump dryer with moisture sensors that stop the cycle once your laundry is dry. Together they cover a typical household, and the dryer offers more capacity than the washer.",
+   "intro": "We did not test these appliances ourselves. This guide is based on OTTO's product pages, Samsung's specs and deal prices from 20 Oct 2026. Energy and noise figures are manufacturer claims. Always check the energy label on the product page before buying.",
+   "pickNotes": {
+    "otto-hanseatic-waschmaschine-hwma714abi": {
+     "label": "Budget washing machine pick",
+     "why": "According to OTTO, the Hanseatic has a 7 kg capacity, 1,400 rpm and energy class A. It offers a steam programme, Eco 40-60, a pet hair programme, delay start, foam and overflow protection and a child lock. On top of the 3-year manufacturer warranty, OTTO currently adds its 5-year extended warranty for free. Shipping is extra."
+    },
+    "otto-samsung-waermepumpentrockner-dv9d5-cw": {
+     "label": "Heat pump dryer with sensors",
+     "why": "The DV5000D dries with a heat pump, which uses less electricity than a classic condenser dryer. For the 9 kg model in the series, Samsung lists Optimal Dry sensor control, a hygiene programme, a 35-minute quick cycle, SmartThings app control and a 10-year warranty on the inverter motor. OTTO shows a \"from\" price, so check the variant you pick."
+    }
+   },
+   "table": {
+    "cols": [
+     "Appliance",
+     "Type",
+     "Capacity",
+     "Energy class",
+     "Noise (claimed)",
+     "Highlight"
+    ],
+    "rows": [
+     [
+      "otto-hanseatic-waschmaschine-hwma714abi",
+      "Washing machine",
+      "7 kg",
+      "A (A to G scale)",
+      "72 dB(A)",
+      "1,400 rpm, steam, 5-year extended warranty"
+     ],
+     [
+      "otto-samsung-waermepumpentrockner-dv9d5-cw",
+      "Heat pump dryer",
+      "9 kg (DV5000D per Samsung)",
+      "C (new A to G dryer label, per Samsung)",
+      "64 dB(A) (per Samsung)",
+      "Optimal Dry, SmartThings"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Reading the energy label",
+     "Washing machines have used the new A to G label since 2021, and class A is very good there. Tumble dryers moved to a new A to G scale in July 2025 as well. These classes cannot be compared with the old A+++: a heat pump dryer rated C on the new label is not an energy hog. The best comparison is the kWh figure, which is also on the label."
+    ],
+    [
+     "Working out running costs",
+     "Electricity costs depend on three things: the consumption per cycle on the label, your electricity price and how often you wash or dry. Multiply the consumption per cycle by your price per kWh and the number of cycles per year. For washing machines, add the water. Full loads and eco programmes lower the cost per kilo of laundry."
+    ],
+    [
+     "Capacity: how much do you need?",
+     "Singles and couples often manage with 6 to 7 kg, families benefit from 8 kg or more. A dryer drum can be larger than the washer's, because laundry needs room to dry. So a 7 kg washer and a 9 kg dryer work well together."
+    ],
+    [
+     "Noise",
+     "For washing machines, the label shows the noise during the spin cycle, the loudest phase. For dryers, the figure refers to the drying cycle. If the appliance sits in your flat or near a bedroom, check this value and use delay start so it runs when it does not bother you."
+    ],
+    [
+     "Stacking and installation",
+     "Many dryers can be stacked on a washer with a matching stacking kit. This usually only works with appliances of the same width and a kit approved by the manufacturer. Hanseatic and Samsung are different brands, so check this before buying. A heat pump dryer needs no vent hose: the condensed water goes into a tank or down a drain hose."
+    ]
+   ],
+   "faq": [
+    [
+     "Is energy class C bad for a dryer?",
+     "Not necessarily. Since July 2025, dryers use a new, stricter A to G label. The ratings cannot be compared with the old A+++. Heat pump dryers are generally the most efficient type."
+    ],
+    [
+     "What does OTTO's 5-year extended warranty cover?",
+     "According to OTTO, it is currently included for free with the Hanseatic. You will find the exact terms on OTTO's product page."
+    ],
+    [
+     "Are there shipping costs?",
+     "For the Hanseatic, yes, shipping is added to the price according to the deal. Check delivery, old appliance removal and installation costs in the basket."
+    ],
+    [
+     "Can I stack the Samsung dryer on the Hanseatic?",
+     "That is not guaranteed. Stacking usually only works with a kit approved by the manufacturer. If in doubt, ask customer service."
+    ],
+    [
+     "Did you test the appliances yourselves?",
+     "No. We analyse manufacturer and shop data and compare current deal prices. You will find the sources below."
+    ]
+   ],
+   "title": "Washer & dryer deals: Hanseatic & Samsung at OTTO",
+   "desc": "Buying guide for washing machines and heat pump dryers: energy label, capacity, noise and running costs explained, plus Hanseatic and Samsung deals at OTTO."
+  }
+ },
+ "saugroboter-mit-station-vergleich": {
+  "updated": "2026-10-28",
+  "cat": "smarthome",
+  "picks": [
+   "roborock-q10-s5-plus-set",
+   "roborock-qrevo-s-pro-set",
+   "otto-roborock-qrevo-edge-2",
+   "sharkninja-shark-rv3000"
+  ],
+  "sources": [
+   [
+    "netzwelt: Roborock Q10 S5 Testbericht",
+    "https://www.netzwelt.de/roborock-q10-s5/testbericht.html"
+   ],
+   [
+    "Notebookcheck: Q10 S5 – 10.000 Pa, wischt mit Vibrationen",
+    "https://www.notebookcheck.com/Q10-S5-Dieser-Reinigungsroboter-leistet-10-000-Pa-und-wischt-mit-Vibrationen.1013386.0.html"
+   ],
+   [
+    "Notebookcheck: Roborock Q10 S5+ mit Basisstation",
+    "https://www.notebookcheck.com/Roborock-bietet-einen-neuen-Saug-und-Wischroboter-mit-Basisstation-LiDAR-und-Reinigung-mit-Vibrationen-an.1019063.0.html"
+   ],
+   [
+    "smarthomeassistent: Roborock Q10 S5+ Test",
+    "https://www.smarthomeassistent.de/saugroboter/roborock-q10-s5-plus/"
+   ],
+   [
+    "home&smart: Test-Fazit Roborock Qrevo S Pro",
+    "https://www.homeandsmart.de/?p=103682"
+   ],
+   [
+    "Notebookcheck: Roborock Qrevo S Pro",
+    "https://www.notebookcheck.com/Roborock-Verbesserter-Nachfolger-eines-erschwinglichen-Topseller-Saugroboters.1278293.0.html"
+   ],
+   [
+    "Vacuum Wars: Roborock Qrevo Edge 2 Review",
+    "https://vacuumwars.com/roborock-qrevo-edge-2-review/"
+   ],
+   [
+    "basic-tutorials: Roborock Qrevo Edge 2 im Test",
+    "https://basic-tutorials.de/tests/technik-gadgets/roborock-qrevo-edge-2-test/"
+   ],
+   [
+    "Expert Reviews: Shark PowerDetect UV Reveal review",
+    "https://www.expertreviews.co.uk/technology/vacuum-cleaners/shark-powerdetect-uv-reveal-review"
+   ],
+   [
+    "Vacuum Wars: Shark PowerDetect UV Reveal Review",
+    "https://vacuumwars.com/shark-powerdetect-uv-reveal-review/"
+   ]
+  ],
+  "de": {
+   "h1": "Saug- und Wischroboter mit Station: 4 Deals im Vergleich",
+   "eyebrow": "Vergleich · Saugroboter",
+   "answer": "Wer wenig ausgeben will und vor allem saugen möchte, nimmt den Roborock Q10 S5+ mit Absaugstation. Die beste Wahl fürs Geld ist der Roborock Qrevo S Pro: Seine Station wäscht die Mopps mit heißem Wasser und trocknet sie. Der Roborock Qrevo Edge 2 ist mit unter 8 cm am flachsten und reinigt Teppiche am gründlichsten. Der Shark PowerDetect UV Reveal erkennt Flecken per UV-Kamera und umfährt Hindernisse am besten, ist aber teuer und laut.",
+   "intro": "Wir haben die Roboter nicht selbst getestet. Die technischen Daten und Testergebnisse stammen von Herstellern und unabhängigen Tests (u. a. netzwelt, Notebookcheck, home&smart, basic-tutorials, Vacuum Wars, Expert Reviews), die Preise sind unsere Deal-Preise vom 28.10.2026. Wo Quellen sich widersprechen, steht es dabei.",
+   "pickNotes": {
+    "roborock-q10-s5-plus-set": {
+     "label": "Günstiger Einstieg mit Absaugstation",
+     "why": "Laut Tests saugt der Q10 S5 mit 10.000 Pa und LiDAR-Navigation, auf Teppich mit automatischem Boost. Die Station saugt den Staubbehälter in einen 2,7-Liter-Beutel ab, laut Test reicht das bis zu sieben Wochen. Gewischt wird nur mit einem vibrierenden Pad, die Station wäscht es nicht. Schwächen: Ecken und Kanten sowie kleine Hindernisse wie Socken."
+    },
+    "roborock-qrevo-s-pro-set": {
+     "label": "Preis-Leistungs-Tipp mit Moppwäsche",
+     "why": "18.500 Pa, zwei rotierende Mopps, einer fährt für Kanten aus und beide heben sich auf Teppich um 10 mm an. Die Station saugt ab, wäscht die Mopps mit bis zu 75 °C heißem Wasser und trocknet sie mit Warmluft. home&smart lobt die Wischleistung auch bei eingetrockneten Flecken; auf hochflorigem Teppich und bei Tierhaaren bleibt er hinter dem Pa-Wert zurück, und eine Kamera fehlt."
+    },
+    "otto-roborock-qrevo-edge-2": {
+     "label": "Flachster Roboter, beste Teppichreinigung",
+     "why": "Mit versenkbarem LiDAR nur 7,98 cm hoch und damit gut für niedrige Möbel. Vacuum Wars misst eine sehr gute Teppich-Tiefenreinigung, die Station wäscht mit bis zu 80 °C, trocknet mit Heißluft und füllt den Roboter selbst mit Wasser nach. Die Saugkraft gibt basic-tutorials mit 25.000 Pa an. Schwäche: Bei Vacuum Wars wich er nur 14 von 24 Testobjekten aus."
+    },
+    "sharkninja-shark-rv3000": {
+     "label": "Für Fleckenjäger und Tierhalter",
+     "why": "UV-Kameras erkennen Flecken, die der Roboter dann gezielt nachwischt; bei Vacuum Wars umfuhr er 20 von 24 Hindernissen. Die beutellose Station wäscht das Wischpad mit 85 °C und trocknet es mit Heißluft, Wasser muss man aber selbst nachfüllen. Shark nennt keinen Pa-Wert. Nachteile laut Tests: laut, nur eine Karte, mit rund 10 cm recht hoch."
+    }
+   },
+   "table": {
+    "cols": [
+     "Modell",
+     "Saugkraft",
+     "Wischen",
+     "Station",
+     "Höhe",
+     "Für wen?"
+    ],
+    "rows": [
+     [
+      "roborock-q10-s5-plus-set",
+      "10.000 Pa",
+      "Vibrationspad",
+      "Absaugen",
+      "9,9 cm",
+      "Kleines Budget"
+     ],
+     [
+      "roborock-qrevo-s-pro-set",
+      "18.500 Pa",
+      "2 rotierende Mopps",
+      "Absaugen, Heißwasser-Wäsche, Trocknung",
+      "ca. 9,7 cm",
+      "Bester Mix fürs Geld"
+     ],
+     [
+      "otto-roborock-qrevo-edge-2",
+      "25.000 Pa (lt. Test)",
+      "2 rotierende Mopps",
+      "Absaugen, 80-°C-Wäsche, Trocknung, Wasser-Nachfüllung",
+      "7,98 cm",
+      "Niedrige Möbel, Teppich"
+     ],
+     [
+      "sharkninja-shark-rv3000",
+      "keine Angabe",
+      "Vibrationspad, ausfahrbar",
+      "beutellos, 85-°C-Wäsche, Trocknung",
+      "ca. 10 cm",
+      "Flecken, Tierhaare"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Absaugstation oder Komplettstation?",
+     "Eine reine Absaugstation leert nur den Staubbehälter. Eine Komplettstation wäscht und trocknet zusätzlich die Mopps; das spart Arbeit und verhindert muffige Wischtücher. Wer viel wischen lässt, sollte zur Komplettstation greifen."
+    ],
+    [
+     "Pa-Werte richtig lesen",
+     "Die Saugkraft in Pascal ist eine Herstellerangabe und sagt wenig über die echte Reinigung. In Tests saugen Modelle mit niedrigeren Werten teils besser als solche mit hohen. Achte stärker auf Testergebnisse für Teppich und Tierhaare."
+    ],
+    [
+     "Höhe messen",
+     "Miss vor dem Kauf die Höhe unter Sofa und Bett. Viele Roboter mit Laserturm sind knapp 10 cm hoch; der Qrevo Edge 2 passt mit unter 8 cm auch unter flache Möbel."
+    ],
+    [
+     "Folgekosten",
+     "Staubbeutel, Mopps, Filter und Bürsten musst du nachkaufen. Beutellose Stationen wie beim Shark sparen die Beutel, müssen aber öfter geleert werden."
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Saugroboter wäscht die Mopps selbst?",
+     "Von diesen vier der Roborock Qrevo S Pro, der Roborock Qrevo Edge 2 und der Shark PowerDetect UV Reveal. Der Q10 S5+ saugt nur ab."
+    ],
+    [
+     "Welcher ist am flachsten?",
+     "Der Roborock Qrevo Edge 2 mit 7,98 cm."
+    ],
+    [
+     "Füllt die Station Wasser automatisch nach?",
+     "Nur beim Qrevo Edge 2 ist das in den Tests belegt. Beim Shark musst du den Frischwassertank selbst füllen."
+    ],
+    [
+     "Habt ihr die Roboter selbst getestet?",
+     "Nein. Wir werten Herstellerangaben und unabhängige Tests aus und vergleichen die aktuellen Angebotspreise. Die Quellen findest du unten."
+    ]
+   ],
+   "title": "Saugroboter mit Station: 4 Deals im Vergleich (Roborock, Shark)",
+   "desc": "Saug- und Wischroboter mit Station im Angebot: Roborock Q10 S5+, Qrevo S Pro, Qrevo Edge 2 und Shark PowerDetect UV Reveal im Vergleich, mit Daten aus Tests."
+  },
+  "en": {
+   "h1": "Robot vacuums with station: 4 deals compared",
+   "eyebrow": "Comparison · Robot vacuums",
+   "answer": "On a budget and mostly vacuuming? Take the Roborock Q10 S5+ with auto-empty dock. Best value is the Roborock Qrevo S Pro, whose dock washes the mops with hot water and dries them. The Roborock Qrevo Edge 2 is the slimmest at under 8 cm and cleans carpets most thoroughly. The Shark PowerDetect UV Reveal spots stains with a UV camera and avoids obstacles best, but it is pricey and loud.",
+   "intro": "We did not test these robots ourselves. Specs and results come from manufacturers and independent reviews (netzwelt, Notebookcheck, home&smart, basic-tutorials, Vacuum Wars, Expert Reviews); prices are our deal prices from 28 Oct 2026. Where sources disagree, we say so.",
+   "pickNotes": {
+    "roborock-q10-s5-plus-set": {
+     "label": "Budget pick with auto-empty dock",
+     "why": "Tests list 10,000 Pa and LiDAR navigation with carpet boost. The dock empties into a 2.7-litre bag, up to seven weeks per review. It mops with a vibrating pad that the dock does not wash. Weak spots: corners and small obstacles like socks."
+    },
+    "roborock-qrevo-s-pro-set": {
+     "label": "Best value with mop washing",
+     "why": "18,500 Pa, two spinning mops (one extends for edges) that lift 10 mm on carpet. The dock empties, washes the mops at up to 75 °C and dries them with warm air. home&smart praises mopping even on dried stains; on deep carpet and pet hair it trails its Pa rating, and there is no camera."
+    },
+    "otto-roborock-qrevo-edge-2": {
+     "label": "Slimmest, best carpet cleaning",
+     "why": "Retractable LiDAR keeps it at 7.98 cm. Vacuum Wars measured very good deep carpet cleaning; the dock washes at up to 80 °C, dries with hot air and refills the robot with water. basic-tutorials lists 25,000 Pa. Weakness: it avoided only 14 of 24 test objects at Vacuum Wars."
+    },
+    "sharkninja-shark-rv3000": {
+     "label": "For stains and pet owners",
+     "why": "UV cameras detect stains for targeted re-mopping; it avoided 20 of 24 obstacles at Vacuum Wars. The bagless dock washes the pad at 85 °C and dries it, but you refill water yourself. Shark gives no Pa figure. Downsides per reviews: loud, single map only, about 10 cm tall."
+    }
+   },
+   "table": {
+    "cols": [
+     "Model",
+     "Suction",
+     "Mopping",
+     "Dock",
+     "Height",
+     "Best for"
+    ],
+    "rows": [
+     [
+      "roborock-q10-s5-plus-set",
+      "10,000 Pa",
+      "Vibrating pad",
+      "Auto-empty",
+      "9.9 cm",
+      "Small budget"
+     ],
+     [
+      "roborock-qrevo-s-pro-set",
+      "18,500 Pa",
+      "2 spinning mops",
+      "Empty, hot-water wash, drying",
+      "approx. 9.7 cm",
+      "Best value"
+     ],
+     [
+      "otto-roborock-qrevo-edge-2",
+      "25,000 Pa (per review)",
+      "2 spinning mops",
+      "Empty, 80 °C wash, drying, water refill",
+      "7.98 cm",
+      "Low furniture, carpet"
+     ],
+     [
+      "sharkninja-shark-rv3000",
+      "not stated",
+      "Vibrating pad, extends",
+      "Bagless, 85 °C wash, drying",
+      "approx. 10 cm",
+      "Stains, pet hair"
+     ]
+    ]
+   },
+   "sections": [
+    [
+     "Auto-empty or full dock?",
+     "An auto-empty dock only empties the dust bin. A full dock also washes and dries the mops, which saves work and prevents smelly pads."
+    ],
+    [
+     "Reading Pa ratings",
+     "Suction in pascal is a maker's figure and says little about real cleaning. Rely more on test results for carpet and pet hair."
+    ],
+    [
+     "Measure the height",
+     "Check the clearance under sofa and bed. Most robots with a laser tower are almost 10 cm tall; the Qrevo Edge 2 fits under low furniture."
+    ],
+    [
+     "Running costs",
+     "Bags, mops, filters and brushes need replacing. Bagless docks like Shark's save bags but need emptying more often."
+    ]
+   ],
+   "faq": [
+    [
+     "Which robots wash their mops?",
+     "The Roborock Qrevo S Pro, Qrevo Edge 2 and the Shark PowerDetect UV Reveal. The Q10 S5+ only empties."
+    ],
+    [
+     "Which is the slimmest?",
+     "The Roborock Qrevo Edge 2 at 7.98 cm."
+    ],
+    [
+     "Did you test them yourselves?",
+     "No. We evaluate maker specs and independent reviews and compare current deal prices. Sources are listed below."
+    ]
+   ],
+   "title": "Robot vacuums with station: 4 deals compared (Roborock, Shark)",
+   "desc": "Robot vacuum and mop deals with station: Roborock Q10 S5+, Qrevo S Pro, Qrevo Edge 2 and Shark PowerDetect UV Reveal compared, with data from reviews."
+  }
+ }
+}

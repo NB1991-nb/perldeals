@@ -1,0 +1,1759 @@
+[
+ {
+  "slug": "saugroboter",
+  "kw": "Saugroboter",
+  "h": "Saugroboter-Angebote",
+  "re": "Saugroboter|Saug- und Wisch|Roomba|DEEBOT",
+  "group": "haushalt",
+  "best": "beste-saugroboter",
+  "intro": "Saugroboter gehören zu den Produkten mit den stärksten Preisschwankungen: Modelle vom Vorjahr werden oft deutlich günstiger, sobald der Nachfolger erscheint. Hier findest du alle aktuell geprüften Saugroboter-Deals von Roborock, Dreame, eufy, iRobot und Ecovacs.",
+  "tips": [
+   "Navigation: LiDAR-Laser oder Kamera-Navigation planen Räume sauber; Billigmodelle ohne Laser fahren chaotisch.",
+   "Absaugstation lohnt sich, wenn du den Roboter wochenlang nicht anfassen willst. Mit Wischmopp-Waschstation (Omni/Ultra) wird es komfortabel, aber teurer.",
+   "Saugkraft in Pascal (Pa) ist nur ein Richtwert. Wichtiger sind Bürstentyp (Gummi gegen Haare) und Teppicherkennung."
+  ],
+  "shops": [
+   "ecovacs"
+  ]
+ },
+ {
+  "slug": "saug-wischroboter",
+  "kw": "Saug- und Wischroboter",
+  "h": "Saug- und Wischroboter im Angebot",
+  "re": "Saug- und Wisch|Wischroboter|Omni|Roomba Combo",
+  "group": "haushalt",
+  "best": "beste-saugroboter",
+  "intro": "Saug- und Wischroboter erledigen beides in einem Durchgang. Die besten Modelle heben den Mopp auf Teppich an und waschen ihn in der Station selbst aus. Hier siehst du alle aktuellen Deals mit Preisverlauf.",
+  "tips": [
+   "Mopp-Anhebung oder abnehmbarer Mopp verhindert nasse Teppiche.",
+   "Stationen mit Heißwasser- oder Heißluft-Trocknung beugen Geruch vor.",
+   "Achte auf Ersatzteilpreise (Beutel, Mopps, Filter): Sie bestimmen die laufenden Kosten."
+  ],
+  "shops": [
+   "ecovacs"
+  ]
+ },
+ {
+  "slug": "akku-staubsauger",
+  "kw": "Akku-Staubsauger",
+  "h": "Akku-Staubsauger-Angebote",
+  "re": "Akku-Staubsauger|Akku-Sauger|Akku-Handstaubsauger|WandVac|Bodenstaubsauger|V8|V10|V12",
+  "group": "haushalt",
+  "best": "bester-akkustaubsauger",
+  "intro": "Akkusauger von Dyson, Shark, AEG und Philips sind regelmäßig stark reduziert, vor allem ältere Generationen. Wir zeigen nur Deals, deren Preis wir gegen den Verlauf geprüft haben.",
+  "tips": [
+   "Laufzeit in der Praxis gilt meist für die kleinste Stufe; plane mit einem Drittel davon im Turbo-Modus.",
+   "Wechselakku ist ein großer Vorteil für größere Wohnungen.",
+   "Für Tierhaare: Anti-Verhedder-Bürste und gute Filterung (HEPA) wählen."
+  ],
+  "shops": [
+   "sharkninja"
+  ]
+ },
+ {
+  "slug": "nass-trocken-sauger",
+  "kw": "Nass-Trocken-Sauger",
+  "h": "Wischsauger und Nass-Trocken-Sauger im Angebot",
+  "re": "Nass-Trocken|Wischsauger|Nassbodenreiniger|Wischmop|PencilWash|kabelloser elektrischer Wisch|Flecken",
+  "group": "haushalt",
+  "intro": "Wischsauger saugen und wischen Hartböden in einem Zug und nehmen auch Flüssigkeiten auf. Hier findest du aktuelle Angebote von Roborock, Dyson, Shark und anderen.",
+  "tips": [
+   "Selbstreinigung und Trocknung der Walze verhindern Gerüche.",
+   "Zwei Tanks (Frisch- und Schmutzwasser) sind Standard; größer heißt weniger Nachfüllen, aber schwerer.",
+   "Für Teppiche sind Wischsauger nicht geeignet, dafür brauchst du zusätzlich einen normalen Sauger."
+  ]
+ },
+ {
+  "slug": "waschtrockner",
+  "kw": "Waschtrockner",
+  "h": "Waschtrockner-Angebote",
+  "re": "Waschtrockner",
+  "group": "haushalt",
+  "art": "waschmaschine-trockner-angebote",
+  "intro": "Ein Waschtrockner spart Platz, wenn für Waschmaschine und Trockner kein Raum ist. Hier siehst du alle geprüften Waschtrockner-Deals von Bosch, LG und anderen Herstellern.",
+  "tips": [
+   "Die Trocken-Kapazität ist meist nur gut halb so groß wie die Wasch-Kapazität.",
+   "Modelle mit Wärmepumpe sind im Trocknen deutlich sparsamer als Kondensgeräte.",
+   "Rechne die Energieeffizienz für Waschen und Trocknen getrennt."
+  ]
+ },
+ {
+  "slug": "waermepumpentrockner",
+  "kw": "Wärmepumpentrockner",
+  "h": "Wärmepumpentrockner-Angebote",
+  "re": "Wärmepumpentrockner|Trockner",
+  "group": "haushalt",
+  "not": "Waschtrockner|Haar",
+  "art": "waschmaschine-trockner-angebote",
+  "intro": "Wärmepumpentrockner kosten in der Anschaffung mehr, verbrauchen aber nur einen Bruchteil des Stroms von Ablufttrocknern. Hier findest du die aktuell besten Deals mit Preisverlauf.",
+  "tips": [
+   "Energieeffizienzklasse A+++ spart über die Jahre oft mehr, als der Aufpreis kostet.",
+   "Selbstreinigender Kondensator spart lästiges Filterputzen.",
+   "Für Familien: 8 bis 9 kg Fassungsvermögen."
+  ]
+ },
+ {
+  "slug": "kuehlschrank",
+  "kw": "Kühlschrank",
+  "h": "Kühlschrank-Angebote",
+  "re": "Kühlschrank|Kühl-Gefrier|Side-by-Side|Multi-Door|Gefrierschrank",
+  "group": "haushalt",
+  "intro": "Kühl-Gefrierkombinationen, Side-by-Side-Kühlschränke und Gefrierschränke gehören zu den Großgeräten mit den höchsten Ersparnissen in Euro. Wir prüfen jeden Deal gegen den Preisverlauf.",
+  "tips": [
+   "NoFrost spart das Abtauen, kostet aber etwas mehr Strom.",
+   "Achte auf die Energieeffizienzklasse und den Jahresverbrauch in kWh, nicht nur auf den Kaufpreis.",
+   "Maße und Türanschlag vor dem Kauf prüfen, besonders bei Einbaugeräten."
+  ],
+  "shops": [
+   "coolblue",
+   "otto"
+  ]
+ },
+ {
+  "slug": "geschirrspueler",
+  "kw": "Geschirrspüler",
+  "h": "Geschirrspüler-Angebote",
+  "re": "Geschirrspül|Spülmaschine|Einbau-Spülmaschi",
+  "group": "kueche",
+  "intro": "Geschirrspüler von Bosch, Bauknecht und anderen gibt es oft deutlich unter UVP. Hier findest du freistehende, Unterbau- und Einbaugeräte mit geprüftem Preis.",
+  "tips": [
+   "Bauform zuerst klären: freistehend, unterbaufähig, teil- oder vollintegriert.",
+   "Geräuschwert unter 44 dB ist für offene Küchen angenehm.",
+   "Besteckschublade (dritte Ebene) bringt mehr Platz im Unterkorb."
+  ],
+  "shops": [
+   "coolblue",
+   "otto"
+  ]
+ },
+ {
+  "slug": "kochfeld",
+  "kw": "Induktionskochfeld",
+  "h": "Kochfeld-Angebote: Induktion und Glaskeramik",
+  "re": "Kochfeld",
+  "group": "kueche",
+  "intro": "Induktionskochfelder kochen schneller und sparsamer als Glaskeramik. Hier siehst du alle aktuellen Kochfeld-Deals, geprüft gegen den Preisverlauf.",
+  "tips": [
+   "Induktion braucht magnetische Töpfe; prüfe dein Kochgeschirr mit einem Magneten.",
+   "Flex-Zonen erlauben große Bräter und Grillplatten.",
+   "Die Breite (60 oder 80 cm) muss zum Ausschnitt der Arbeitsplatte passen."
+  ]
+ },
+ {
+  "slug": "backofen",
+  "kw": "Backofen",
+  "h": "Backofen- und Herd-Angebote",
+  "re": "Backofen|Herd-Set|Mikrowelle",
+  "group": "kueche",
+  "intro": "Einbaubacköfen, Herd-Sets und Kombi-Mikrowellen im Angebot. Wir zeigen nur Deals mit echtem Preisvorteil.",
+  "tips": [
+   "Pyrolyse-Selbstreinigung spart viel Putzarbeit, kostet aber Aufpreis.",
+   "Teleskopauszüge machen das Arbeiten mit schweren Blechen sicherer.",
+   "Herd-Sets lohnen sich, wenn Ofen und Kochfeld zusammen getauscht werden."
+  ]
+ },
+ {
+  "slug": "dunstabzugshaube",
+  "kw": "Dunstabzugshaube",
+  "h": "Dunstabzugshauben im Angebot",
+  "re": "Dunstabzug",
+  "group": "kueche",
+  "intro": "Dunstabzugshauben gibt es als Wand-, Insel- und Flachschirmhaube. Hier findest du die aktuellen Angebote mit Preisverlauf.",
+  "tips": [
+   "Umluft braucht keinen Mauerdurchbruch, aber regelmäßig neue Aktivkohlefilter.",
+   "Die Haube sollte mindestens so breit sein wie das Kochfeld.",
+   "Lautstärke auf der Normalstufe vergleichen, nicht nur auf der niedrigsten."
+  ]
+ },
+ {
+  "slug": "heissluftfritteuse",
+  "kw": "Heißluftfritteuse",
+  "h": "Heißluftfritteuse-Angebote (Airfryer)",
+  "re": "Heißluftfritteuse|Airfryer|Air Fryer",
+  "group": "kueche",
+  "best": "beste-heissluftfritteuse",
+  "intro": "Airfryer von Ninja, Philips und anderen gehören zu den beliebtesten Küchengeräten. Wir zeigen nur Heißluftfritteusen-Deals, die wirklich günstiger als üblich sind.",
+  "tips": [
+   "Zwei Kammern (Dual Zone) garen Beilage und Hauptgericht gleichzeitig.",
+   "Für 1 bis 2 Personen reichen 4 bis 5 Liter, für Familien 8 Liter und mehr.",
+   "Spülmaschinenfeste Körbe sparen Zeit beim Reinigen."
+  ],
+  "shops": [
+   "sharkninja"
+  ]
+ },
+ {
+  "slug": "kaffeevollautomat",
+  "kw": "Kaffeevollautomat",
+  "h": "Kaffeevollautomat-Angebote",
+  "re": "Kaffeevollautomat|ECAM|Magnifica|PrimaDonna",
+  "group": "kueche",
+  "best": "bester-kaffeevollautomat",
+  "intro": "Kaffeevollautomaten von De'Longhi, Philips, Siemens und anderen fallen regelmäßig deutlich unter ihren Listenpreis. Hier sind alle geprüften Angebote.",
+  "tips": [
+   "Automatisches Milchsystem (LatteCrema, LatteGo) ist bequemer als eine Dampfdüse.",
+   "Herausnehmbare Brühgruppe lässt sich leichter sauber halten.",
+   "Mahlwerk aus Keramik oder Stahl: beide gut, wichtiger ist die Einstellbarkeit."
+  ]
+ },
+ {
+  "slug": "kaffeemaschine",
+  "kw": "Kaffeemaschine",
+  "h": "Kaffeemaschinen im Angebot: Siebträger, Kapsel & mehr",
+  "re": "Siebträger|Kapselmaschine|Nespresso|Vertuo|Kaffeebohnen|Milchaufschäumer|Luxe Café",
+  "group": "kueche",
+  "intro": "Siebträger, Kapselmaschinen, Milchaufschäumer und Kaffeebohnen im Angebot. Kaffeevollautomaten findest du auf einer eigenen Seite.",
+  "tips": [
+   "Kapselmaschinen sind günstig in der Anschaffung, die Kapseln aber teuer pro Tasse.",
+   "Siebträger mit integriertem Mahlwerk sind der günstigste Einstieg in echten Espresso.",
+   "Kaffeebohnen in großen Packungen sind oft pro Kilo deutlich günstiger."
+  ],
+  "shops": [
+   "tassimo"
+  ]
+ },
+ {
+  "slug": "pizzaofen",
+  "kw": "Pizzaofen",
+  "h": "Pizzaofen-Angebote",
+  "re": "Pizzaofen",
+  "group": "kueche",
+  "intro": "Elektrische und Outdoor-Pizzaöfen im Angebot. Echte Neapolitanische Pizza braucht über 400 Grad, das schaffen nur spezielle Öfen.",
+  "tips": [
+   "Elektrische Pizzaöfen funktionieren auf dem Balkon und brauchen kein Gas.",
+   "Die Maximaltemperatur entscheidet über knusprigen Boden in 2 bis 3 Minuten.",
+   "Ein Pizzastein oder Schamottstein speichert die Hitze."
+  ]
+ },
+ {
+  "slug": "kuechenmaschine",
+  "kw": "Küchenmaschine",
+  "h": "Küchenmaschinen und Küchenhelfer im Angebot",
+  "re": "Küchenmaschine|Reibe|Wassersprudler|SodaStream",
+  "group": "kueche",
+  "intro": "Küchenmaschinen, Wassersprudler und praktische Küchenhelfer mit geprüftem Rabatt.",
+  "tips": [
+   "Bei Küchenmaschinen zählt die Motorleistung für schwere Teige.",
+   "Zubehör (Fleischwolf, Gemüseschneider) einzeln nachzukaufen ist oft teuer, Sets lohnen sich.",
+   "Wassersprudler: auf das CO₂-System achten (Quick-Connect oder Schraubzylinder)."
+  ]
+ },
+ {
+  "slug": "rasierer",
+  "kw": "Rasierer",
+  "h": "Rasierer- und Bartschneider-Angebote",
+  "re": "Rasierer|Bartschneider|OneBlade",
+  "group": "haushalt",
+  "intro": "Elektrische Rasierer und Bartschneider von Braun und Philips im Angebot, geprüft gegen den Preisverlauf.",
+  "tips": [
+   "Reinigungsstation spart Zeit, verursacht aber Folgekosten für Kartuschen.",
+   "Folienrasierer sind gründlicher, Rotationsrasierer passen sich Konturen besser an.",
+   "Wasserdichte Modelle lassen sich unter der Dusche nutzen."
+  ]
+ },
+ {
+  "slug": "elektrische-zahnbuerste",
+  "kw": "elektrische Zahnbürste",
+  "h": "Elektrische Zahnbürsten im Angebot",
+  "re": "Zahnbürste|Aufsteckbürsten",
+  "group": "haushalt",
+  "best": "beste-elektrische-zahnbuerste",
+  "intro": "Elektrische Zahnbürsten und Aufsteckbürsten von Oral-B und Philips im Angebot. Teure Top-Modelle sind oft um mehr als die Hälfte reduziert.",
+  "tips": [
+   "Andruckkontrolle schützt das Zahnfleisch.",
+   "Die Ersatzbürsten machen über die Jahre den größten Teil der Kosten aus.",
+   "App und Bluetooth sind nett, für saubere Zähne aber nicht nötig."
+  ]
+ },
+ {
+  "slug": "haarstyler",
+  "kw": "Haarstyler",
+  "h": "Haartrockner und Haarstyler im Angebot",
+  "re": "Haarstyler|Haartrockner|Airwrap|FlexStyle|LED-Maske",
+  "group": "haushalt",
+  "intro": "Haartrockner, Multistyler wie Shark FlexStyle und Beauty-Technik im Angebot.",
+  "tips": [
+   "Multistyler ersetzen Föhn, Glätteisen und Lockenstab.",
+   "Mehrere Hitzestufen und Kaltluft schonen das Haar.",
+   "Generalüberholte Geräte sind deutlich günstiger, haben aber oft kürzere Garantie."
+  ]
+ },
+ {
+  "slug": "fernseher",
+  "kw": "Fernseher",
+  "h": "Fernseher-Angebote",
+  "re": "Fernseher|Smart-TV|QLED|Mini-LED-Fern",
+  "group": "tv",
+  "cat": "tv",
+  "best": "bester-fernseher-55-zoll",
+  "intro": "OLED, QLED und Mini-LED: Fernseher werden über das Jahr deutlich günstiger, am stärksten zwischen Oktober und Dezember. Hier findest du alle geprüften TV-Deals.",
+  "tips": [
+   "OLED hat das beste Schwarz, Mini-LED ist heller für sonnige Räume.",
+   "Für Konsolen: HDMI 2.1 mit 120 Hz.",
+   "Faustregel Sitzabstand: 4K-Fernseher ab etwa dem 1,2-fachen der Bilddiagonale."
+  ],
+  "shops": [
+   "coolblue",
+   "otto",
+   "alternate"
+  ]
+ },
+ {
+  "slug": "oled-fernseher",
+  "kw": "OLED-Fernseher",
+  "h": "OLED-Fernseher im Angebot",
+  "re": "OLED",
+  "group": "tv",
+  "cat": "tv",
+  "best": "bester-fernseher-55-zoll",
+  "intro": "OLED-Fernseher von LG und Samsung bieten perfektes Schwarz und sehr gute Blickwinkel. Vorjahresmodelle sind oft besonders günstig.",
+  "tips": [
+   "Die evo- und Top-Serien (z. B. LG G, Samsung S9x) sind heller als die Einstiegsmodelle.",
+   "Einbrenn-Risiko ist bei normaler Nutzung heute gering.",
+   "Vorjahresmodelle bieten oft das beste Preis-Leistungs-Verhältnis."
+  ]
+ },
+ {
+  "slug": "fernseher-55-zoll",
+  "kw": "55-Zoll-Fernseher",
+  "h": "55-Zoll-Fernseher im Angebot",
+  "re": "55 Zoll|55\"",
+  "group": "tv",
+  "cat": "tv",
+  "best": "bester-fernseher-55-zoll",
+  "intro": "55 Zoll ist die beliebteste Fernsehergröße in Deutschland. Hier findest du alle aktuellen 55-Zoll-Deals, egal ob OLED, QLED oder Mini-LED.",
+  "tips": [
+   "Für 55 Zoll passt ein Sitzabstand von etwa 1,7 bis 2,5 Metern.",
+   "Achte auf echte 100/120 Hz, wenn du schnelle Spiele oder Sport schaust.",
+   "Gute Fernseher kosten in dieser Größe oft weniger als ein 65-Zoll-Modell der Einsteigerklasse."
+  ]
+ },
+ {
+  "slug": "grosse-fernseher",
+  "kw": "großer Fernseher",
+  "h": "Große Fernseher ab 65 Zoll im Angebot",
+  "re": "(6[5-9]|7\\d|8\\d|9\\d) Zoll",
+  "group": "tv",
+  "cat": "tv",
+  "intro": "65, 75, 77, 83 oder 85 Zoll: Große Fernseher sind die Geräte mit den höchsten Rabatten in Euro. Hier findest du alle geprüften Deals ab 65 Zoll.",
+  "tips": [
+   "Sitzabstand ab etwa 2,5 Metern für 65 Zoll.",
+   "Wandhalterung und Traglast der Wand vorher prüfen.",
+   "Bei großen Bildern fallen Schwächen bei der Helligkeit stärker auf: QLED/Mini-LED für helle Räume."
+  ]
+ },
+ {
+  "slug": "soundbar",
+  "kw": "Soundbar",
+  "h": "Soundbar-Angebote",
+  "re": "Soundbar|Theatre Bar|Sound-?bar|Boom",
+  "group": "tv",
+  "art": "soundbar-vergleich",
+  "intro": "Soundbars von Bose, Sony, Samsung, Denon und anderen verbessern den Fernsehton enorm. Hier sind alle aktuellen Soundbar-Deals.",
+  "tips": [
+   "HDMI eARC überträgt Dolby Atmos vom Fernseher zur Soundbar.",
+   "Ein separater Subwoofer bringt deutlich mehr Bass.",
+   "Dolby Atmos lohnt sich vor allem mit Upfiring-Lautsprechern."
+  ]
+ },
+ {
+  "slug": "bluetooth-lautsprecher",
+  "kw": "Bluetooth-Lautsprecher",
+  "h": "Bluetooth-Lautsprecher-Angebote",
+  "re": "Lautsprecher|Speaker",
+  "group": "audio",
+  "art": "bluetooth-lautsprecher-vergleich",
+  "intro": "Bluetooth-Boxen von JBL, Bose, Sony, Marshall und soundcore im Angebot. Wir prüfen jeden Preis gegen den Verlauf.",
+  "tips": [
+   "Wasserschutz IP67 für Strand und Pool.",
+   "Akkulaufzeit gilt meist für mittlere Lautstärke.",
+   "Stereo-Kopplung zweier Boxen bringt mehr Raumklang."
+  ]
+ },
+ {
+  "slug": "kopfhoerer",
+  "kw": "Kopfhörer",
+  "h": "Kopfhörer-Angebote",
+  "re": "Kopfhörer|AirPods|Earbuds|In-Ears",
+  "group": "audio",
+  "best": "beste-kopfhoerer-unter-100-euro",
+  "intro": "Over-Ear, In-Ear und True Wireless: Kopfhörer von Sony, Bose, Apple, JBL und soundcore im Angebot. Hier sind alle geprüften Deals.",
+  "tips": [
+   "Aktive Geräuschunterdrückung (ANC) lohnt sich für Pendler und Großraumbüros.",
+   "Multipoint verbindet Handy und Laptop gleichzeitig.",
+   "Codecs wie LDAC oder aptX bringen nur etwas, wenn dein Handy sie unterstützt."
+  ]
+ },
+ {
+  "slug": "in-ear-kopfhoerer",
+  "kw": "In-Ear-Kopfhörer",
+  "h": "In-Ear-Kopfhörer und True Wireless im Angebot",
+  "re": "In-Ear|Earbuds|AirPods|True-Wireless|In-Ears",
+  "group": "audio",
+  "best": "beste-kopfhoerer-unter-100-euro",
+  "intro": "True-Wireless-In-Ears von Apple, Sony, Bose, JBL und soundcore im Angebot.",
+  "tips": [
+   "Mehrere Ohrstöpsel-Größen sind wichtig für Sitz und Geräuschunterdrückung.",
+   "Kabelloses Laden des Cases ist praktisch, aber kein Muss.",
+   "Für Sport: IPX4 oder höher."
+  ]
+ },
+ {
+  "slug": "noise-cancelling-kopfhoerer",
+  "kw": "Noise-Cancelling-Kopfhörer",
+  "h": "Noise-Cancelling-Kopfhörer im Angebot",
+  "re": "Noise|ANC|QuietComfort|Space One",
+  "group": "audio",
+  "best": "beste-noise-cancelling-kopfhoerer",
+  "intro": "Kopfhörer mit aktiver Geräuschunterdrückung (ANC) im Angebot, von günstigen soundcore-Modellen bis Bose QuietComfort.",
+  "tips": [
+   "Gutes ANC filtert vor allem tiefe, gleichmäßige Geräusche wie Flugzeug und Bahn.",
+   "Transparenzmodus ist wichtig im Straßenverkehr.",
+   "Over-Ear dämpft meist besser als In-Ear."
+  ]
+ },
+ {
+  "slug": "laptop",
+  "kw": "Laptop",
+  "h": "Laptop-Angebote",
+  "re": "Laptop|Notebook|OmniBook",
+  "group": "computer",
+  "intro": "Laptops von HP, Lenovo, MSI, Gigabyte und anderen im Angebot. Wir prüfen Preis und Ausstattung, damit du kein Auslaufmodell zum Neupreis kaufst.",
+  "tips": [
+   "16 GB RAM sind heute das sinnvolle Minimum.",
+   "Eine SSD ab 512 GB vermeidet Speicherknappheit.",
+   "Für Büro und Studium zählen Akku, Display-Helligkeit und Gewicht mehr als ein schneller Prozessor."
+  ],
+  "shops": [
+   "notebooksbilliger",
+   "alternate",
+   "coolblue",
+   "mactrade",
+   "comspot",
+   "itversand",
+   "shifter",
+   "akkunet"
+  ]
+ },
+ {
+  "slug": "gaming-laptop",
+  "kw": "Gaming-Laptop",
+  "h": "Gaming-Laptop-Angebote",
+  "re": "Gaming-Laptop|Gaming A16|Legion|Cyborg|ROG.*Laptop",
+  "group": "computer",
+  "intro": "Gaming-Laptops mit RTX-Grafik im Angebot. Grafikkarte und Kühlung entscheiden mehr über die Leistung als der Prozessor.",
+  "tips": [
+   "Achte auf die Grafikkarte und deren Leistungsaufnahme (TGP).",
+   "Ein Display mit 144 Hz oder mehr ist für Spiele Pflicht.",
+   "Viele Gaming-Laptops sind laut unter Last; Testberichte lesen."
+  ],
+  "shops": [
+   "notebooksbilliger",
+   "alternate",
+   "comspot"
+  ]
+ },
+ {
+  "slug": "monitor",
+  "kw": "Monitor",
+  "h": "Monitor-Angebote",
+  "re": "Monitor|ZenScreen|FlexScan",
+  "group": "computer",
+  "best": "bester-gaming-monitor",
+  "intro": "Office-, Gaming- und OLED-Monitore von Samsung, ASUS, MSI, HP, LG und Lenovo im Angebot.",
+  "tips": [
+   "Für Büroarbeit: 27 Zoll mit WQHD-Auflösung ist der beste Kompromiss.",
+   "USB-C mit Stromversorgung macht den Monitor zur Dockingstation für Laptops.",
+   "Höhenverstellbarer Fuß ist gut für den Rücken."
+  ],
+  "shops": [
+   "notebooksbilliger",
+   "alternate",
+   "coolblue",
+   "itversand",
+   "comspot"
+  ]
+ },
+ {
+  "slug": "gaming-monitor",
+  "kw": "Gaming-Monitor",
+  "h": "Gaming-Monitor-Angebote",
+  "re": "Gaming-Mon|Odyssey|ROG|Omen.*Monitor|OMEN 27|MAG |Strix|TUF Gaming",
+  "group": "computer",
+  "best": "bester-gaming-monitor",
+  "intro": "Gaming-Monitore mit 144 bis 500 Hz, von günstigen IPS-Modellen bis OLED. Alle Deals gegen den Preisverlauf geprüft.",
+  "tips": [
+   "Bildwiederholrate und Reaktionszeit sind für schnelle Spiele am wichtigsten.",
+   "G-Sync oder FreeSync verhindern Bildrisse.",
+   "WQHD mit 165 Hz ist der Sweet Spot für die meisten Grafikkarten."
+  ],
+  "shops": [
+   "notebooksbilliger",
+   "alternate"
+  ]
+ },
+ {
+  "slug": "oled-monitor",
+  "kw": "OLED-Monitor",
+  "h": "OLED-Monitore im Angebot",
+  "re": "OLED.*(Mon|Gaming)|QD-OLED|WOLED",
+  "group": "computer",
+  "cat": "computer",
+  "best": "bester-gaming-monitor",
+  "intro": "QD-OLED- und WOLED-Monitore bieten perfekte Kontraste und extrem kurze Reaktionszeiten. Die Preise fallen gerade schnell.",
+  "tips": [
+   "Achte auf die Garantie gegen Einbrennen (oft 2 bis 3 Jahre).",
+   "QD-OLED hat kräftigere Farben, WOLED schärfere Schrift.",
+   "Für Büroarbeit mit viel statischem Inhalt ist ein IPS-Monitor oft die bessere Wahl."
+  ]
+ },
+ {
+  "slug": "mini-pc",
+  "kw": "Mini-PC",
+  "h": "Mini-PC-Angebote",
+  "re": "Mini-PC|ThinkCentre",
+  "group": "computer",
+  "intro": "Mini-PCs sind klein, sparsam und reichen für Büro, Streaming und Homeserver. Hier sind die aktuellen Angebote.",
+  "tips": [
+   "Achte auf erweiterbaren RAM und einen zweiten SSD-Slot.",
+   "Für Homeserver: zwei LAN-Ports und geringer Leerlaufverbrauch.",
+   "Gebrauchte Business-Mini-PCs (Lenovo, HP, Dell) sind sehr günstig und robust."
+  ],
+  "shops": [
+   "notebooksbilliger",
+   "alternate"
+  ]
+ },
+ {
+  "slug": "nas",
+  "kw": "NAS",
+  "h": "NAS-Angebote",
+  "re": "NAS",
+  "group": "computer",
+  "intro": "Netzwerkspeicher (NAS) für Fotos, Backups und Streaming im Angebot.",
+  "tips": [
+   "Plane mindestens zwei Festplatten für RAID 1 (Spiegelung).",
+   "Ein NAS ersetzt kein externes Backup.",
+   "2,5-Gbit-LAN lohnt sich bei großen Datenmengen."
+  ]
+ },
+ {
+  "slug": "wlan-router",
+  "kw": "WLAN-Router",
+  "h": "WLAN-Router und Mesh-Angebote",
+  "re": "Router|Mesh|Orbi|Nighthawk|WLAN-USB",
+  "group": "computer",
+  "intro": "Wi-Fi-7- und Wi-Fi-6-Router, Mesh-Systeme und mobile 5G-Router im Angebot.",
+  "tips": [
+   "Mesh-Systeme verteilen WLAN in großen Wohnungen und Häusern gleichmäßig.",
+   "Wi-Fi 7 lohnt sich nur, wenn deine Geräte es unterstützen.",
+   "Mobile 5G-Router sind eine Alternative, wenn kein Festnetz verfügbar ist."
+  ],
+  "shops": [
+   "netzwerkartikel",
+   "notebooksbilliger"
+  ]
+ },
+ {
+  "slug": "netzwerk-switch",
+  "kw": "Switch",
+  "h": "Netzwerk-Switch-Angebote",
+  "re": "Switch(?!Bot)|PoE",
+  "group": "computer",
+  "intro": "Gigabit-, 2,5G- und 10G-Switches sowie PoE-Switches im Angebot.",
+  "tips": [
+   "Unmanaged Switches sind einfach: einstecken und fertig.",
+   "PoE versorgt Kameras und Access Points über das Netzwerkkabel mit Strom.",
+   "2,5G lohnt sich, wenn NAS und PC passende Anschlüsse haben."
+  ],
+  "shops": [
+   "netzwerkartikel",
+   "getgoods"
+  ]
+ },
+ {
+  "slug": "gaming-stuhl",
+  "kw": "Gaming-Stuhl",
+  "h": "Gaming-Stuhl-Angebote",
+  "re": "Gaming-Stuhl",
+  "group": "computer",
+  "intro": "Gaming-Stühle und ergonomische Bürostühle von AutoFull und anderen im Angebot.",
+  "tips": [
+   "Einstellbare Lordosenstütze ist wichtiger als die Optik.",
+   "Achte auf die maximale Belastbarkeit und Körpergröße.",
+   "Stoff ist atmungsaktiver als Kunstleder."
+  ],
+  "shops": [
+   "autofull"
+  ]
+ },
+ {
+  "slug": "gaming-maus-tastatur",
+  "kw": "Gaming-Maus",
+  "h": "Gaming-Maus und Tastatur im Angebot",
+  "re": "Maus|Tastatur",
+  "group": "computer",
+  "intro": "Gaming-Mäuse, mechanische Tastaturen und ergonomische Mäuse im Angebot.",
+  "tips": [
+   "Kabellose Gaming-Mäuse sind heute so schnell wie kabelgebundene.",
+   "Tenkeyless (TKL) spart Platz für die Maus.",
+   "Vertikale Mäuse entlasten das Handgelenk."
+  ]
+ },
+ {
+  "slug": "pc-komponenten",
+  "kw": "PC-Gehäuse",
+  "h": "PC-Komponenten im Angebot: Gehäuse, Kühlung & mehr",
+  "re": "Gehäuse|Wasserkühlung|AiO|Kraken|Light Base",
+  "group": "computer",
+  "intro": "PC-Gehäuse, AiO-Wasserkühlungen und weitere Komponenten im Angebot.",
+  "tips": [
+   "Prüfe die maximale Grafikkartenlänge und Kühlerhöhe des Gehäuses.",
+   "240-mm-AiOs reichen für die meisten Prozessoren.",
+   "Gute Gehäuse-Lüfter verbessern Temperatur und Lautstärke deutlich."
+  ],
+  "shops": [
+   "alternate",
+   "notebooksbilliger",
+   "getgoods"
+  ]
+ },
+ {
+  "slug": "tablet",
+  "kw": "Tablet",
+  "h": "Tablet-Angebote",
+  "re": "Tablet|Tab S|Idea Tab",
+  "group": "computer",
+  "intro": "Tablets von Samsung, Lenovo und anderen im Angebot.",
+  "tips": [
+   "Für Streaming: Display mit hoher Helligkeit und guten Lautsprechern.",
+   "Stift-Unterstützung ist für Notizen und Zeichnen wichtig.",
+   "Achte auf die Dauer der Software-Updates."
+  ],
+  "shops": [
+   "mactrade"
+  ]
+ },
+ {
+  "slug": "drucker",
+  "kw": "Drucker",
+  "h": "Drucker-Angebote",
+  "re": "drucker",
+  "group": "computer",
+  "intro": "Laser-, Tintenstrahl- und Etikettendrucker im Angebot.",
+  "tips": [
+   "Farblaser lohnen sich bei viel Text, Tintentank-Drucker bei vielen Fotos.",
+   "Rechne die Kosten pro Seite, nicht nur den Gerätepreis.",
+   "Duplex-Druck spart Papier."
+  ]
+ },
+ {
+  "slug": "dockingstation",
+  "kw": "Dockingstation",
+  "h": "Dockingstation- und USB-C-Hub-Angebote",
+  "re": "Docking|Revodok",
+  "group": "computer",
+  "intro": "USB-C- und Thunderbolt-Dockingstationen im Angebot.",
+  "tips": [
+   "Prüfe die Ladeleistung (Power Delivery) für deinen Laptop.",
+   "Für zwei Monitore braucht dein Laptop DisplayPort-Alt-Mode oder Thunderbolt.",
+   "Thunderbolt-Docks sind schneller, aber teurer."
+  ],
+  "shops": [
+   "tesmart"
+  ]
+ },
+ {
+  "slug": "smartphone",
+  "kw": "Smartphone",
+  "h": "Smartphone-Angebote ohne Vertrag",
+  "re": "Smartphone|Galaxy A|Galaxy Z|Pixel 10|POCO|moto|Moto G|NXTPAPER",
+  "group": "phone",
+  "cat": "phone",
+  "art": "guenstige-smartphones",
+  "intro": "Handys ohne Vertrag von Samsung, Google, Motorola, Xiaomi und anderen im Angebot. Wir prüfen den Preis gegen den Verlauf.",
+  "tips": [
+   "Achte auf die Dauer der Sicherheitsupdates (Samsung und Google: viele Jahre).",
+   "128 GB Speicher sind das Minimum, wenn kein microSD-Slot vorhanden ist.",
+   "Vorjahresmodelle der Mittelklasse sind oft die besten Deals."
+  ],
+  "shops": [
+   "gsmnet",
+   "mactrade",
+   "joybuy"
+  ]
+ },
+ {
+  "slug": "smartwatch",
+  "kw": "Smartwatch",
+  "h": "Smartwatch-Angebote",
+  "re": "Watch|Venu|Amazfit",
+  "group": "phone",
+  "cat": "watch",
+  "best": "beste-smartwatch",
+  "art": "smartwatch-vergleich",
+  "intro": "Smartwatches von Samsung, Google, Huawei, Garmin, Amazfit und Xiaomi im Angebot.",
+  "tips": [
+   "Prüfe die Kompatibilität mit deinem Handy (iPhone oder Android).",
+   "Akkulaufzeit reicht von einem Tag bis zu zwei Wochen.",
+   "Für Sport: GPS integriert und gute Pulsmessung."
+  ],
+  "shops": [
+   "mactrade",
+   "lagenio"
+  ]
+ },
+ {
+  "slug": "verkehrswarner",
+  "kw": "Verkehrswarner",
+  "h": "Verkehrswarner-Angebote",
+  "re": "Verkehrswarner",
+  "group": "phone",
+  "intro": "Verkehrswarner wie OOONO und Needit im Angebot. Sie warnen vor Gefahrenstellen und Staus.",
+  "tips": [
+   "Wichtig: Die Nutzung von Blitzer-Warnfunktionen ist für Fahrer in Deutschland während der Fahrt verboten (§ 23 StVO).",
+   "Prüfe, ob ein Abo für Zusatzfunktionen nötig ist.",
+   "Die Geräte nutzen meist das Handy per Bluetooth."
+  ]
+ },
+ {
+  "slug": "ueberwachungskamera",
+  "kw": "Überwachungskamera",
+  "h": "Überwachungskamera-Angebote",
+  "re": "Kamera(?!.*Action)|Cam(?!era)|eufyCam|SolarCam|WirelessCam",
+  "group": "smarthome",
+  "cat": "smarthome",
+  "best": "beste-ueberwachungskamera-aussen",
+  "intro": "Überwachungskameras für außen und innen von aosu, eufy, EZVIZ, Imou und anderen im Angebot.",
+  "tips": [
+   "Lokaler Speicher (SD-Karte, HomeBase) spart Cloud-Abo-Kosten.",
+   "Solarpanel verlängert die Akkulaufzeit bei Außenkameras.",
+   "Beim Filmen öffentlicher Bereiche und Nachbargrundstücke gelten in Deutschland enge Grenzen."
+  ],
+  "shops": [
+   "imou",
+   "aosu",
+   "blazevideo",
+   "cambuy",
+   "technaxx"
+  ]
+ },
+ {
+  "slug": "video-tuerklingel",
+  "kw": "Video-Türklingel",
+  "h": "Video-Türklingel-Angebote",
+  "re": "Doorbell|Türklingel",
+  "group": "smarthome",
+  "intro": "Video-Türklingeln mit App, Gegensprechfunktion und Bewegungserkennung im Angebot.",
+  "tips": [
+   "Akku-Modelle sind leichter zu installieren, verdrahtete laufen dauerhaft.",
+   "Prüfe, ob Aufnahmen lokal gespeichert werden.",
+   "Mit Gong-Anbindung klingelt es auch ohne Handy."
+  ],
+  "shops": [
+   "aosu",
+   "imou",
+   "yalehome"
+  ]
+ },
+ {
+  "slug": "smart-home-zubehoer",
+  "kw": "Smart-Home",
+  "h": "Smart-Home-Zubehör im Angebot",
+  "re": "Steckdose|Rauchmelder|Bewässerungssteuerung|Ventilator|Strahler",
+  "group": "smarthome",
+  "cat": "smarthome",
+  "intro": "Smarte Steckdosen, Rauchmelder, Bewässerung und mehr im Angebot.",
+  "tips": [
+   "Achte auf den Standard (WLAN, Zigbee, Matter) und deine bestehende Smart-Home-Zentrale.",
+   "Matter-Geräte funktionieren mit Apple, Google und Amazon.",
+   "Smarte Steckdosen mit Strommessung zeigen versteckte Stromfresser."
+  ],
+  "shops": [
+   "currysmarter",
+   "yalehome"
+  ]
+ },
+ {
+  "slug": "luftreiniger",
+  "kw": "Luftreiniger",
+  "h": "Luftreiniger-Angebote",
+  "re": "Luftreiniger",
+  "group": "smarthome",
+  "best": "bester-luftreiniger",
+  "intro": "Luftreiniger mit HEPA-Filter im Angebot.",
+  "tips": [
+   "Die CADR-Angabe zeigt, wie viel Luft pro Stunde gereinigt wird.",
+   "Filterkosten pro Jahr vergleichen.",
+   "Für Schlafzimmer: Nachtmodus unter 30 dB."
+  ]
+ },
+ {
+  "slug": "maehroboter",
+  "kw": "Mähroboter",
+  "h": "Mähroboter-Angebote",
+  "re": "Mähroboter",
+  "group": "garten",
+  "best": "beste-maehroboter",
+  "art": "maehroboter-ohne-begrenzungskabel",
+  "intro": "Mähroboter mit und ohne Begrenzungskabel im Angebot. Die besten Preise gibt es im Herbst und Winter.",
+  "tips": [
+   "Modelle ohne Begrenzungsdraht (RTK oder Kamera) sparen die Verlegung.",
+   "Die angegebene Rasenfläche ist ein Maximalwert, plane Reserve ein.",
+   "Steigung und enge Durchgänge prüfen."
+  ],
+  "shops": [
+   "anthbot",
+   "ecovacs"
+  ]
+ },
+ {
+  "slug": "rasenmaeher-gartengeraete",
+  "kw": "Akku-Rasenmäher",
+  "h": "Gartengeräte im Angebot: Rasenmäher, Heckenschere & mehr",
+  "re": "Rasenmäher|Heckenschere|Kettensäge|Hauswasserwerk|Outdoor Clean",
+  "group": "garten",
+  "intro": "Akku-Rasenmäher, Heckenscheren, Kettensägen, Hauswasserwerke und mehr für den Garten im Angebot.",
+  "tips": [
+   "Bleib bei einem Akku-System, dann passen die Akkus in alle Geräte.",
+   "Für kleine Gärten reicht ein Akku-Rasenmäher mit 32 bis 37 cm Schnittbreite.",
+   "Hauswasserwerke: Förderhöhe und -menge zur Anwendung passend wählen."
+  ],
+  "shops": [
+   "tip",
+   "akkunet"
+  ]
+ },
+ {
+  "slug": "akkuschrauber",
+  "kw": "Akkuschrauber",
+  "h": "Akkuschrauber- und Werkzeug-Angebote",
+  "re": "Akkuschrauber|Bohrschraub|Bohrschraube|Akku 18 V|Multitool|Schraubendreher",
+  "group": "werkzeug",
+  "intro": "Akkuschrauber, Bohrschrauber und Handwerkzeug von Bosch, Worx, Stanley, Wera und Hazet im Angebot.",
+  "tips": [
+   "Für Möbel und Bilder reicht ein kleiner 3,6-V-Schrauber.",
+   "Schlagbohrschrauber für Löcher in Mauerwerk.",
+   "Bleib bei einem Akku-System, das spart viel Geld."
+  ],
+  "shops": [
+   "alternate",
+   "getgoods",
+   "akkunet"
+  ]
+ },
+ {
+  "slug": "wallbox",
+  "kw": "Wallbox",
+  "h": "Wallbox-Angebote für E-Autos",
+  "re": "Wallbox",
+  "group": "werkzeug",
+  "intro": "Mobile und fest installierte Wallboxen für Elektroautos im Angebot.",
+  "tips": [
+   "Wallboxen bis 11 kW müssen beim Netzbetreiber angemeldet werden.",
+   "Mobile Wallboxen mit CEE-Stecker sind flexibel für Mieter.",
+   "Die Installation einer festen Wallbox gehört in die Hände einer Elektrofachkraft."
+  ],
+  "shops": [
+   "miniminipower"
+  ]
+ },
+ {
+  "slug": "e-bike",
+  "kw": "E-Bike",
+  "h": "E-Bike-Angebote",
+  "re": "E-Bike",
+  "group": "sport",
+  "intro": "E-Bikes für Stadt, Trekking und Gelände im Angebot.",
+  "tips": [
+   "Mittelmotor fährt sich natürlicher, Heckmotor ist günstiger.",
+   "Drehmomentsensor reagiert feinfühliger als ein Trittfrequenzsensor.",
+   "Akkukapazität ab 500 Wh für längere Touren."
+  ],
+  "shops": [
+   "evercross"
+  ]
+ },
+ {
+  "slug": "fahrrad",
+  "kw": "Fahrrad",
+  "h": "Fahrrad-Angebote: Mountainbike, Kinderfahrrad & mehr",
+  "re": "Fahrrad|Mountainbike|Kinder-Mountainbike",
+  "group": "sport",
+  "not": "E-Bike|Luftpumpe",
+  "intro": "Fahrräder, Mountainbikes und Kinderfahrräder im Angebot.",
+  "tips": [
+   "Rahmengröße passend zur Körpergröße wählen.",
+   "Für Kinder: 20 Zoll ab etwa 6 Jahren.",
+   "Scheibenbremsen bremsen bei Nässe zuverlässiger."
+  ],
+  "shops": [
+   "evercross"
+  ]
+ },
+ {
+  "slug": "kinderfahrzeuge",
+  "kw": "Kinder-Elektroauto",
+  "h": "Kinderfahrzeuge im Angebot: Elektroauto, Roller & Hoverboard",
+  "re": "Rutschauto|Kinder-Elektromotorrad|Kinderroller|Hoverboard|Elektromotorrad",
+  "group": "spielzeug",
+  "intro": "Elektrische Kinderautos, Kindermotorräder, E-Roller und Hoverboards im Angebot.",
+  "tips": [
+   "Auf Altersempfehlung und Höchstgeschwindigkeit achten.",
+   "Fernbedienung für Eltern ist bei kleinen Kindern sinnvoll.",
+   "Hoverboards und E-Roller nur mit Helm und Schutzausrüstung."
+  ],
+  "shops": [
+   "evercross"
+  ]
+ },
+ {
+  "slug": "actioncam",
+  "kw": "Actioncam",
+  "h": "Actioncam-Angebote",
+  "re": "Actionkamera|Action-Cam|Insta360|GoPro",
+  "group": "sport",
+  "intro": "Actioncams von Insta360, DJI und GoPro im Angebot.",
+  "tips": [
+   "Bildstabilisierung ist wichtiger als die maximale Auflösung.",
+   "Wasserdicht ohne Gehäuse ist praktisch.",
+   "360-Grad-Kameras erlauben das Ausrichten des Bildes nach der Aufnahme."
+  ]
+ },
+ {
+  "slug": "drohne",
+  "kw": "Drohne",
+  "h": "Drohnen-Angebote",
+  "re": "Drohne",
+  "group": "spielzeug",
+  "intro": "Drohnen und Mini-Drohnen von DJI im Angebot.",
+  "tips": [
+   "Unter 250 g gelten in der EU erleichterte Regeln, eine Haftpflichtversicherung brauchst du trotzdem.",
+   "Fly-More-Combos mit Zusatzakkus lohnen sich fast immer.",
+   "Kennzeichnung mit e-ID ist in Deutschland für die meisten Drohnen mit Kamera Pflicht."
+  ]
+ },
+ {
+  "slug": "lego-star-wars",
+  "kw": "LEGO Star Wars",
+  "h": "LEGO Star Wars im Angebot",
+  "re": "LEGO Star Wars",
+  "group": "spielzeug",
+  "art": "lego-angebote",
+  "intro": "LEGO Star Wars Sets im Angebot, vom kleinen Raumschiff bis zum großen UCS-Modell.",
+  "tips": [
+   "Sets laufen meist nach 1 bis 2 Jahren aus, danach steigen die Preise oft.",
+   "Der Preis pro Teil hilft beim Vergleich.",
+   "Große Sets gibt es zu Aktionstagen oft am günstigsten."
+  ]
+ },
+ {
+  "slug": "lego-technic",
+  "kw": "LEGO Technic",
+  "h": "LEGO Technic im Angebot",
+  "re": "LEGO Technic",
+  "group": "spielzeug",
+  "art": "lego-angebote",
+  "intro": "LEGO Technic Fahrzeuge und Maschinen im Angebot.",
+  "tips": [
+   "Achte auf Funktionen wie Motoren und Getriebe.",
+   "Für Kinder ab etwa 9 bis 10 Jahren, große Sets ab 18.",
+   "Lizenzmodelle (McLaren, Volvo) sind beliebte Geschenke."
+  ]
+ },
+ {
+  "slug": "lego-speed-champions",
+  "kw": "LEGO Speed Champions",
+  "h": "LEGO Speed Champions und Autos im Angebot",
+  "re": "Speed Champions|LEGO Icons.*(Jaguar|E-Type)|Batmobile",
+  "group": "spielzeug",
+  "art": "lego-angebote",
+  "intro": "LEGO Speed Champions, Icons-Autos und andere Auto-Sets im Angebot.",
+  "tips": [
+   "Speed Champions sind günstige Sammler-Sets.",
+   "Icons-Autos sind detailreiche Ausstellungsstücke für Erwachsene.",
+   "Mehrere kleine Sets gemeinsam bestellen spart Versand."
+  ]
+ },
+ {
+  "slug": "bausatz-cobi",
+  "kw": "COBI Bausatz",
+  "h": "Bausätze und Klemmbausteine im Angebot",
+  "re": "COBI|Bausatz",
+  "group": "spielzeug",
+  "intro": "Klemmbaustein-Bausätze von COBI und anderen im Angebot.",
+  "tips": [
+   "COBI ist kompatibel mit LEGO-Steinen.",
+   "Militär- und Oldtimer-Modelle sind COBIs Spezialität.",
+   "Maßstab und Teilezahl helfen beim Vergleich."
+  ]
+ },
+ {
+  "slug": "veganes-proteinpulver",
+  "kw": "veganes Proteinpulver",
+  "h": "Veganes Proteinpulver im Angebot",
+  "re": "Proteinpulver|Protein-|Erbsenprotein|Sojaprotein|Proteinmischung",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Veganes Proteinpulver aus Erbse, Soja und Mischungen im Angebot. Nur Produkte, die ausdrücklich als vegan gekennzeichnet sind.",
+  "tips": [
+   "Mischungen aus mehreren Pflanzenquellen haben ein vollständigeres Aminosäureprofil.",
+   "Preis pro Kilo vergleichen, Großpackungen sind oft deutlich günstiger.",
+   "Geschmacksneutrale Varianten eignen sich auch zum Backen."
+  ],
+  "shops": [
+   "myprotein"
+  ]
+ },
+ {
+  "slug": "vegane-supplements",
+  "kw": "vegane Nahrungsergänzung",
+  "h": "Vegane Nahrungsergänzung im Angebot: B12, Omega 3, Kreatin",
+  "re": "Vitamin|Zink|Magnesium|Omega|Gummies|Calcium|Kreatin|Creatine|Glutamin|Carnitin|Inulin|Superfoods",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Vitamin B12, veganes Omega 3 aus Algenöl, Kreatin und weitere vegane Nahrungsergänzung im Angebot.",
+  "tips": [
+   "Vitamin B12 ist für Veganer wichtig; lass deine Werte ärztlich prüfen.",
+   "Veganes Omega 3 stammt aus Algenöl.",
+   "Kreatin-Monohydrat ist von Natur aus vegan, die Kapselhülle nicht immer."
+  ]
+ },
+ {
+  "slug": "nussbutter",
+  "kw": "Erdnussbutter",
+  "h": "Erdnussbutter und Nussmus im Angebot",
+  "re": "Erdnussbutter|Mandelbutter|Nussbutter",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Erdnussbutter, Mandelmus und Nussbutter im Angebot, ausdrücklich vegan.",
+  "tips": [
+   "Naturbelassene Varianten ohne Zucker und Palmöl bevorzugen.",
+   "Ölschicht oben ist normal, einfach umrühren.",
+   "Pulverisierte Erdnussbutter hat weniger Fett."
+  ]
+ },
+ {
+  "slug": "vegane-schuhe",
+  "kw": "vegane Schuhe",
+  "h": "Vegane Schuhe und Sneaker im Angebot",
+  "re": "Sneaker|Schuh|Boots|Lauflern",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Vegane Sneaker, Boots und Kinderschuhe ohne Leder im Angebot. Nur Modelle, die Hersteller ausdrücklich als vegan kennzeichnen.",
+  "tips": [
+   "Achte auf das Vegan-Label des Herstellers, nicht nur auf „Kunstleder“: Auch Kleber kann tierisch sein.",
+   "Mikrofaser und Bio-Baumwolle sind atmungsaktiv.",
+   "Dr. Martens Vegan und Skechers BOBS haben eigene vegane Linien."
+  ]
+ },
+ {
+  "slug": "vegane-mode",
+  "kw": "vegane Mode",
+  "h": "Vegane Mode und Accessoires im Angebot",
+  "re": "Jacke|Blouson|Shopper|Tasche|Gürtel|Geldbörse",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Vegane Jacken, Taschen und Accessoires ohne Leder, Wolle und Daunen im Angebot.",
+  "tips": [
+   "Vegane Wolle-Alternativen sind meist Polyester oder Baumwollmischungen.",
+   "Kork, Apfelleder und Piñatex sind Leder-Alternativen.",
+   "Auf die Pflegehinweise achten, damit die Materialien lange halten."
+  ]
+ },
+ {
+  "slug": "vegane-kosmetik",
+  "kw": "vegane Kosmetik",
+  "h": "Vegane Kosmetik im Angebot",
+  "re": "Serum|Palette|Kosmetik|Augenbrauen",
+  "group": "vegan",
+  "vegan": true,
+  "intro": "Vegane Kosmetik und Pflege im Angebot, ausdrücklich als vegan gekennzeichnet.",
+  "tips": [
+   "Vegan heißt ohne tierische Inhaltsstoffe; tierversuchsfrei ist ein eigenes Siegel.",
+   "Auf Siegel wie die Vegan-Blume achten.",
+   "Probiergrößen sind ein günstiger Einstieg."
+  ]
+ },
+ {
+  "slug": "deals-unter-10-euro",
+  "kw": "Deals unter 10 Euro",
+  "h": "Deals unter 10 Euro",
+  "re": ".",
+  "max": 10,
+  "group": "preis",
+  "price": true,
+  "intro": "Kleine Preise, echte Rabatte: alle geprüften Deals bis 10 Euro auf einen Blick.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "deals-unter-20-euro",
+  "kw": "Deals unter 20 Euro",
+  "h": "Deals unter 20 Euro",
+  "re": ".",
+  "max": 20,
+  "group": "preis",
+  "price": true,
+  "intro": "Alle geprüften Deals bis 20 Euro, ideal für Mitbringsel und Wichtelgeschenke.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "deals-unter-50-euro",
+  "kw": "Deals unter 50 Euro",
+  "h": "Deals unter 50 Euro",
+  "re": ".",
+  "max": 50,
+  "group": "preis",
+  "price": true,
+  "intro": "Alle geprüften Deals bis 50 Euro, von Technik-Zubehör bis Küchenhelfer.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "deals-unter-100-euro",
+  "kw": "Deals unter 100 Euro",
+  "h": "Deals unter 100 Euro",
+  "re": ".",
+  "max": 100,
+  "group": "preis",
+  "price": true,
+  "intro": "Alle geprüften Deals bis 100 Euro: Kopfhörer, Smart Home, Küche und mehr.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "fernseher-unter-500-euro",
+  "kw": "Fernseher unter 500 Euro",
+  "h": "Fernseher unter 500 Euro",
+  "re": "Fernseher|Smart-TV|QLED|Mini-LED-Fern",
+  "max": 500,
+  "cat": "tv",
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Fernseher bis 500 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "fernseher-unter-1000-euro",
+  "kw": "Fernseher unter 1000 Euro",
+  "h": "Fernseher unter 1000 Euro",
+  "re": "Fernseher|Smart-TV|QLED|Mini-LED-Fern",
+  "max": 1000,
+  "cat": "tv",
+  "group": "preis",
+  "price": true,
+  "intro": "OLED, QLED und Mini-LED bis 1000 Euro: alle geprüften TV-Deals in diesem Budget.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kopfhoerer-unter-50-euro",
+  "kw": "Kopfhörer unter 50 Euro",
+  "h": "Kopfhörer unter 50 Euro",
+  "re": "Kopfhörer|Earbuds|In-Ears|AirPods",
+  "max": 50,
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Kopfhörer bis 50 Euro, In-Ear und Over-Ear.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kopfhoerer-unter-100-euro",
+  "kw": "Kopfhörer unter 100 Euro",
+  "h": "Kopfhörer unter 100 Euro",
+  "re": "Kopfhörer|Earbuds|In-Ears|AirPods",
+  "max": 100,
+  "group": "preis",
+  "best": "beste-kopfhoerer-unter-100-euro",
+  "price": true,
+  "intro": "Kopfhörer bis 100 Euro, auch mit Noise Cancelling.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "laptop-unter-500-euro",
+  "kw": "Laptop unter 500 Euro",
+  "h": "Laptops unter 500 Euro",
+  "re": "Laptop|Notebook|OmniBook",
+  "max": 500,
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Laptops bis 500 Euro für Schule, Studium und Büro.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "laptop-unter-1000-euro",
+  "kw": "Laptop unter 1000 Euro",
+  "h": "Laptops unter 1000 Euro",
+  "re": "Laptop|Notebook|OmniBook",
+  "max": 1000,
+  "group": "preis",
+  "price": true,
+  "intro": "Laptops bis 1000 Euro, inklusive Gaming-Einsteiger.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "monitor-unter-200-euro",
+  "kw": "Monitor unter 200 Euro",
+  "h": "Monitore unter 200 Euro",
+  "re": "Monitor",
+  "max": 200,
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Monitore bis 200 Euro für Büro und Homeoffice.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "monitor-unter-500-euro",
+  "kw": "Monitor unter 500 Euro",
+  "h": "Monitore unter 500 Euro",
+  "re": "Monitor",
+  "max": 500,
+  "group": "preis",
+  "price": true,
+  "intro": "Monitore bis 500 Euro, inklusive Gaming und WQHD.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "saugroboter-unter-300-euro",
+  "kw": "Saugroboter unter 300 Euro",
+  "h": "Saugroboter unter 300 Euro",
+  "re": "Saugroboter|Saug- und Wisch|Roomba|DEEBOT",
+  "max": 300,
+  "group": "preis",
+  "best": "beste-saugroboter",
+  "price": true,
+  "intro": "Saugroboter bis 300 Euro, viele davon mit Laser-Navigation.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "smartphone-unter-300-euro",
+  "kw": "Handy unter 300 Euro",
+  "h": "Smartphones unter 300 Euro",
+  "re": "Smartphone|Galaxy A|POCO|moto|Moto G|Pixel",
+  "max": 300,
+  "cat": "phone",
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Handys ohne Vertrag bis 300 Euro.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "smartwatch-unter-200-euro",
+  "kw": "Smartwatch unter 200 Euro",
+  "h": "Smartwatches unter 200 Euro",
+  "re": "Watch|Amazfit",
+  "max": 200,
+  "cat": "watch",
+  "group": "preis",
+  "price": true,
+  "intro": "Smartwatches und Fitnessuhren bis 200 Euro.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "lego-unter-50-euro",
+  "kw": "LEGO unter 50 Euro",
+  "h": "LEGO-Sets unter 50 Euro",
+  "re": "LEGO",
+  "max": 50,
+  "group": "preis",
+  "art": "lego-angebote",
+  "price": true,
+  "intro": "LEGO-Sets bis 50 Euro, ideal als Geschenk.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "waschmaschine-unter-500-euro",
+  "kw": "Waschmaschine unter 500 Euro",
+  "h": "Waschmaschinen unter 500 Euro",
+  "re": "Waschmaschine|Toplader",
+  "max": 500,
+  "group": "preis",
+  "art": "waschmaschine-trockner-angebote",
+  "price": true,
+  "intro": "Waschmaschinen bis 500 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "deals-ueber-50-prozent",
+  "kw": "Deals über 50 Prozent",
+  "h": "Deals mit über 50 Prozent Rabatt",
+  "re": ".",
+  "minPct": 50,
+  "group": "preis",
+  "price": true,
+  "intro": "Die dicksten Rabatte: alle geprüften Deals mit mindestens 50 Prozent gegenüber dem Vergleichspreis.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kreuzfahrt",
+  "kw": "Kreuzfahrt",
+  "h": "Kreuzfahrt-Angebote",
+  "re": "Kreuzfahrt|Mein Schiff|AIDA|MSC|Flusskreuzfahrt",
+  "group": "reisen",
+  "shops": [
+   "meinschiff",
+   "ehoi",
+   "lidlreisen"
+  ],
+  "intro": "Kreuzfahrten sind selten wirklich „im Angebot“: Die Preise hängen stark von Termin, Kabine und Abfahrtshafen ab. Günstig wird es vor allem bei Frühbucher-Aktionen, Last-Minute-Restkabinen und Sonderaktionen der Reedereien. Hier findest du geprüfte Kreuzfahrt-Deals und die Portale, die wir dafür regelmäßig durchsuchen.",
+  "tips": [
+   "Vergleiche den Preis pro Person und Nacht und achte darauf, ob Trinkgelder, Getränke und Ausflüge inklusive sind. Bei Mein Schiff ist z. B. Premium-Alles-Inklusive Standard.",
+   "Innenkabinen sind oft die Hälfte günstiger als Balkonkabinen. Für Häfen-Routen mit vielen Landgängen reicht meist eine Innenkabine.",
+   "An- und Abreise zum Hafen einrechnen: Flug oder Bahn können den Preisvorteil schnell auffressen.",
+   "Reiserücktrittsversicherung prüfen, Stornokosten steigen bei Kreuzfahrten früh stark an."
+  ]
+ },
+ {
+  "slug": "wellness-kurzurlaub",
+  "kw": "Wellness-Kurzurlaub",
+  "h": "Wellness-Kurzurlaub & Therme mit Übernachtung",
+  "re": "Therme|Wellness|Spa\\b|SPA\\b",
+  "group": "reisen",
+  "shops": [
+   "lidlreisen"
+  ],
+  "intro": "Eine Nacht im Hotel plus Tageskarte für die Therme ist als Paket oft günstiger als einzeln gebucht. Hier sammeln wir Wellness-Kurztrips mit konkretem Preis, etwa für Thermen in Baden-Baden, Bad Oeynhausen oder Kaprun.",
+  "tips": [
+   "Schau, ob der Preis pro Person oder pro Zimmer gilt. Die meisten Pakete rechnen pro Person im Doppelzimmer.",
+   "Prüfe, ob die Sauna-Landschaft im Thermen-Ticket enthalten ist, sie kostet sonst oft extra.",
+   "Wochenenden und Ferien sind teurer, Termine unter der Woche oft deutlich günstiger.",
+   "Anreise und Parkgebühren am Hotel einplanen."
+  ]
+ },
+ {
+  "slug": "musical-reise",
+  "kw": "Musical-Reise",
+  "h": "Musical-Reisen mit Hotel",
+  "re": "Musical",
+  "group": "reisen",
+  "shops": [
+   "lidlreisen"
+  ],
+  "intro": "Musical-Ticket und Hotelübernachtung im Paket sparen Planung und oft auch Geld. Hier findest du Musical-Reisen mit konkretem Paketpreis, zum Beispiel ins Festspielhaus Neuschwanstein.",
+  "tips": [
+   "Achte auf die Preiskategorie (PK) des Tickets: Ab-Preise gelten meist für die günstigste Kategorie.",
+   "Vergleiche mit Ticket und Hotel einzeln gebucht, gerade bei Hotels in der Nähe der Spielstätte.",
+   "Spieltermine am Wochenende sind schneller ausgebucht und oft teurer.",
+   "Frühstück und Anreise sind nicht in jedem Paket gleich enthalten."
+  ]
+ },
+ {
+  "slug": "freizeitpark-mit-uebernachtung",
+  "kw": "Freizeitpark mit Übernachtung",
+  "h": "Freizeitpark mit Übernachtung",
+  "re": "Disneyland|Europa-Park|Tropical Islands|Freizeitpark|Phantasialand|Legoland|Heide Park",
+  "group": "reisen",
+  "shops": [
+   "lidlreisen"
+  ],
+  "intro": "Freizeitpark-Tickets mit Hotelnacht sind besonders für Familien interessant, weil zwei Tage im Park ohne Stress möglich werden. Hier zeigen wir Pakete mit Eintritt und Übernachtung, etwa für Disneyland Paris oder Tropical Islands.",
+  "tips": [
+   "Prüfe, wie viele Parktage im Paket enthalten sind und ob es feste Besuchstage gibt.",
+   "Kinderpreise vergleichen: Oft gelten Ermäßigungen nur bis zu einem bestimmten Alter.",
+   "Außerhalb der Ferien sind Pakete meist deutlich günstiger und die Warteschlangen kürzer.",
+   "Achte darauf, ob das Hotel im oder weit außerhalb des Parks liegt."
+  ]
+ },
+ {
+  "slug": "city-pass",
+  "kw": "City-Pass",
+  "h": "City-Pass & Städtereise-Angebote",
+  "re": "City ?Pass|Turbopass|Städtereise|Städtetrip",
+  "group": "reisen",
+  "shops": [
+   "turbopass",
+   "lidlreisen"
+  ],
+  "intro": "City-Pässe bündeln Eintritte für Museen und Sehenswürdigkeiten und oft auch den Nahverkehr. Ob sich ein Pass lohnt, hängt davon ab, wie viele Attraktionen du wirklich besuchst. Hier findest du Pässe und Städtereisen mit konkretem Preis.",
+  "tips": [
+   "Rechne die Einzelpreise der Attraktionen nach, die du sicher besuchen willst. Lohnt sich meist erst ab drei bis vier Eintritten pro Tag.",
+   "Prüfe, ob der Nahverkehr inklusive ist, das spart in Städten wie London oder Paris viel.",
+   "Achte auf Zeitfenster-Reservierungen, die manche Attraktionen trotz Pass verlangen.",
+   "Mehrtages-Pässe sind pro Tag günstiger, aber nur sinnvoll bei vollem Programm."
+  ]
+ },
+ {
+  "slug": "kurzurlaub",
+  "kw": "Kurzurlaub",
+  "h": "Kurzurlaub-Angebote",
+  "re": ".",
+  "cat": "travel",
+  "group": "reisen",
+  "shops": [
+   "lidlreisen",
+   "turbopass",
+   "meinschiff",
+   "ehoi"
+  ],
+  "intro": "Alle geprüften Reise-Deals auf einen Blick: Kurztrips mit Hotel und Eintritt, Städtereisen und Kreuzfahrten. Wir nehmen nur Angebote mit konkretem Preis und nachvollziehbarem Vergleichspreis auf.",
+  "tips": [
+   "Ab-Preise gelten meist pro Person im Doppelzimmer und für den günstigsten Termin.",
+   "Vergleichspreise bei Reisen sind oft Höchstpreise des Anbieters; wir weisen das beim Deal aus.",
+   "Stornobedingungen vor der Buchung lesen, bei Aktionspreisen sind sie oft strenger.",
+   "Anreise, Parkgebühren und Kurtaxe einrechnen."
+  ]
+ },
+ {
+  "slug": "balkonkraftwerk",
+  "kw": "Balkonkraftwerk",
+  "h": "Balkonkraftwerk-Angebote",
+  "re": "Balkonkraftwerk|Solarmodul|Mikrowechselrichter|Solarpanel",
+  "group": "energie",
+  "shops": [
+   "alldrei",
+   "datouboss",
+   "miniminipower",
+   "allpowers"
+  ],
+  "intro": "Balkonkraftwerke sind in den letzten Jahren deutlich günstiger geworden. Seit 2024 dürfen Wechselrichter bis 800 Watt einspeisen, die Anmeldung läuft nur noch über das Marktstammdatenregister. Hier findest du geprüfte Angebote für Komplettsets, Module und Speicher.",
+  "tips": [
+   "Achte auf einen Wechselrichter mit 800 W Einspeiseleistung, die Module dürfen zusammen bis 2.000 Wp haben.",
+   "Prüfe die Halterung für deinen Balkon oder dein Dach, sie ist oft nicht im Set-Preis enthalten.",
+   "Ein Speicher lohnt sich vor allem, wenn tagsüber niemand zu Hause ist und der Strom sonst ins Netz geht.",
+   "Die Anmeldung im Marktstammdatenregister ist Pflicht und kostenlos."
+  ]
+ },
+ {
+  "slug": "powerstation",
+  "kw": "Powerstation",
+  "h": "Powerstation & Solarspeicher-Angebote",
+  "re": "Powerstation|Power Station|LiFePO4|Solarspeicher|Batteriespeicher|EcoFlow|Anker SOLIX|Bluetti|Jackery|DATOUBOSS",
+  "group": "energie",
+  "shops": [
+   "datouboss",
+   "alldrei",
+   "miniminipower",
+   "allpowers",
+   "jackery"
+  ],
+  "intro": "Powerstationen und Batteriespeicher liefern Strom beim Camping, im Garten oder als Notstrom und speichern Solarstrom vom Balkonkraftwerk. Hier zeigen wir geprüfte Angebote mit echtem Vorpreis.",
+  "tips": [
+   "LiFePO4-Akkus halten deutlich mehr Ladezyklen aus als klassische Lithium-Ionen-Akkus.",
+   "Vergleiche den Preis pro Kilowattstunde Kapazität, nicht nur den Gesamtpreis.",
+   "Die Dauerleistung des Wechselrichters entscheidet, welche Geräte du betreiben kannst.",
+   "Für Notstrom auf eine USV-Funktion mit kurzer Umschaltzeit achten."
+  ]
+ },
+ {
+  "slug": "wildkamera",
+  "kw": "Wildkamera",
+  "h": "Wildkamera-Angebote",
+  "re": "Wildkamera|Trail ?cam|Fotofalle",
+  "group": "smarthome",
+  "shops": [
+   "blazevideo",
+   "technaxx"
+  ],
+  "intro": "Wildkameras lösen per Bewegungsmelder aus und filmen Tiere im Garten oder Wald, auch nachts mit Infrarot. Hier findest du geprüfte Angebote, von einfachen Modellen bis zu Kameras mit Solar und Mobilfunk.",
+  "tips": [
+   "No-Glow-Infrarot (940 nm) ist für Tiere unsichtbar, Low-Glow leuchtet schwach rot, aber weiter.",
+   "Eine kurze Auslösezeit unter 0,5 Sekunden verhindert leere Bilder.",
+   "Modelle mit Mobilfunk schicken Bilder aufs Handy, brauchen aber eine SIM-Karte mit Datenvolumen.",
+   "Datenschutz beachten: Öffentliche Wege und Nachbargrundstücke dürfen nicht gefilmt werden."
+  ]
+ },
+ {
+  "slug": "fussmatte",
+  "kw": "Fußmatte",
+  "h": "Fußmatten & Logomatten-Angebote",
+  "re": "Fußmatte|Fussmatte|Schmutzfangmatte|Sauberlaufmatte|Logomatte|Teppichläufer",
+  "group": "haushalt",
+  "shops": [
+   "mattenwelt",
+   "fussmattenwelt",
+   "logomatten"
+  ],
+  "intro": "Eine gute Fußmatte hält einen Großteil des Schmutzes vom Boden fern. Hier findest du Angebote für Fußmatten, Sauberlaufmatten und Matten mit eigenem Logo, viele in Wunschgröße.",
+  "tips": [
+   "Für außen eignen sich grobe, wetterfeste Matten, für innen saugstarke Sauberlaufmatten.",
+   "Rutschfeste Unterseite ist auf Fliesen und Laminat wichtig.",
+   "Matten in Wunschgröße passen genau in Nischen und Windfänge.",
+   "Waschbare Matten sind bei Haustieren praktisch."
+  ]
+ },
+ {
+  "slug": "funkmikrofon",
+  "kw": "Funkmikrofon",
+  "h": "Funkmikrofon & Lavalier-Mikrofon-Angebote",
+  "re": "Funkmikrofon|Lavalier|Ansteckmikrofon|Wireless Mic|DJI Mic|Rode Wireless|Hollyland|Lark",
+  "group": "foto",
+  "shops": [
+   "hollyland"
+  ],
+  "intro": "Kabellose Ansteckmikrofone verbessern den Ton bei Videos, Interviews und Streams enorm. Hier findest du geprüfte Angebote für Systeme von Hollyland, DJI, Rode und anderen.",
+  "tips": [
+   "Achte auf den passenden Anschluss: USB-C oder Lightning fürs Handy, 3,5 mm für Kameras.",
+   "Ein Ladecase mit Akku verlängert die Laufzeit deutlich.",
+   "Interne Aufnahme im Sender sichert den Ton, falls die Funkverbindung abbricht.",
+   "Zwei Sender lohnen sich für Interviews mit zwei Personen."
+  ]
+ },
+ {
+  "slug": "stativ-foto-zubehoer",
+  "kw": "Stativ",
+  "h": "Stative, Objektive & Foto-Zubehör",
+  "re": "Stativ|Objektiv|Gimbal|Einbeinstativ|Videoleuchte",
+  "group": "foto",
+  "shops": [
+   "sirui"
+  ],
+  "intro": "Gutes Zubehör macht bei Foto und Video oft mehr aus als eine neue Kamera. Hier zeigen wir Angebote für Stative, Objektive und Licht, unter anderem von SIRUI.",
+  "tips": [
+   "Carbon-Stative sind leichter als Aluminium, aber teurer.",
+   "Prüfe die maximale Traglast mit Kamera und schwerstem Objektiv.",
+   "Bei Objektiven das richtige Bajonett (z. B. Sony E, Fuji X, L-Mount) wählen.",
+   "Anamorphe Objektive erzeugen den typischen Kino-Look mit Breitbild und Lichtreflexen."
+  ]
+ },
+ {
+  "slug": "netzwerkkabel",
+  "kw": "Netzwerkkabel",
+  "h": "LAN-Kabel & Netzwerkzubehör",
+  "re": "LAN-Kabel|Patchkabel|Netzwerkkabel|HDMI-Kabel|Netzwerkdose",
+  "group": "computer",
+  "shops": [
+   "netzwerkartikel",
+   "getgoods"
+  ],
+  "intro": "Ein gutes Netzwerkkabel ist oft die einfachste Lösung gegen langsames WLAN. Hier findest du Angebote für LAN-Kabel, Switches und Zubehör.",
+  "tips": [
+   "Cat-6a-Kabel reichen für 10 Gbit/s, Cat 7/8 bringt im Heimnetz kaum Vorteile.",
+   "Flachkabel lassen sich gut unter Teppichen und Türen verlegen.",
+   "Für Verlegekabel in der Wand Installationskabel statt Patchkabel nehmen.",
+   "Bei HDMI für 4K/120 Hz auf Ultra High Speed (HDMI 2.1) achten."
+  ]
+ },
+ {
+  "slug": "led-leuchten",
+  "kw": "LED-Leuchten",
+  "h": "LED-Leuchten & Lampen-Angebote",
+  "re": "LED-Panel|LED-Strahler|LED-Fluter|LED-Lampe|Deckenleuchte|LED-Röhre|Hallenstrahler",
+  "group": "smarthome",
+  "shops": [
+   "skled",
+   "lampenwelt"
+  ],
+  "intro": "LED-Leuchten sparen gegenüber alten Lampen viel Strom. Hier findest du Angebote für Panels, Strahler und Fluter für Zuhause, Werkstatt und Gewerbe.",
+  "tips": [
+   "Die Lichtausbeute in Lumen pro Watt zeigt die Effizienz.",
+   "Für Wohnräume eignet sich warmweißes Licht (2.700–3.000 K), für Werkstatt und Büro neutralweiß (4.000 K).",
+   "Ein hoher Farbwiedergabeindex (CRI über 90) lässt Farben natürlicher wirken.",
+   "Für außen auf die Schutzart achten, mindestens IP65."
+  ]
+ },
+ {
+  "slug": "tragbare-espressomaschine",
+  "kw": "Tragbare Espressomaschine",
+  "h": "Tragbare Espressomaschinen-Angebote",
+  "re": "OutIn|tragbare Espresso|Reise-Espresso",
+  "group": "kueche",
+  "shops": [
+   "outin"
+  ],
+  "intro": "Tragbare Espressomaschinen mit Akku heizen Wasser selbst auf und brühen Espresso beim Camping, im Auto oder im Büro. Hier zeigen wir geprüfte Angebote.",
+  "tips": [
+   "Prüfe, ob die Maschine Wasser selbst erhitzt oder heißes Wasser braucht.",
+   "Achte auf Kapsel- oder Pulver-Kompatibilität (z. B. Nespresso-Original).",
+   "Die Akkukapazität bestimmt, wie viele Tassen ohne Laden möglich sind.",
+   "Laden über USB-C oder 12-Volt-Bordnetz ist unterwegs praktisch."
+  ]
+ },
+ {
+  "slug": "e-scooter",
+  "kw": "E-Scooter",
+  "h": "E-Scooter-Angebote",
+  "re": "E-Scooter|Elektroroller|E-Roller",
+  "group": "sport",
+  "shops": [
+   "evercross",
+   "egret",
+   "weroll"
+  ],
+  "intro": "E-Scooter sind für kurze Strecken in der Stadt praktisch. Hier findest du geprüfte Angebote; für den Straßenverkehr brauchst du ein Modell mit Straßenzulassung (ABE) und eine Versicherungsplakette.",
+  "tips": [
+   "Nur Modelle mit ABE dürfen in Deutschland auf die Straße, dazu kommt eine Versicherungsplakette.",
+   "Reichweite in Herstellerangaben ist meist optimistisch, rechne mit etwa zwei Dritteln.",
+   "Luftreifen federn besser, Vollgummireifen sind pannensicher.",
+   "Gewicht beachten, wenn du den Scooter oft tragen musst."
+  ]
+ },
+ {
+  "slug": "software",
+  "kw": "Software",
+  "h": "Software-Angebote (Videoschnitt, PDF, Datenrettung)",
+  "re": "Filmora|PDFelement|Wondershare|Recoverit|EdrawMax",
+  "group": "computer",
+  "shops": [
+   "wondershare",
+   "magix",
+   "kaspersky",
+   "mrkeyshop",
+   "2gosoftware"
+  ],
+  "intro": "Software gibt es oft günstiger als Jahresabo-Aktion oder Dauerlizenz im Sale. Hier sammeln wir Angebote für Videoschnitt, PDF-Bearbeitung und Datenrettung.",
+  "tips": [
+   "Vergleiche Abo und Dauerlizenz: Dauerlizenzen lohnen sich bei langer Nutzung.",
+   "Teste die kostenlose Testversion, bevor du kaufst.",
+   "Achte darauf, ob die Lizenz für Windows und Mac gilt und auf wie vielen Geräten.",
+   "Kündigungsfrist von Abos notieren, viele verlängern sich automatisch zum Normalpreis."
+  ]
+ },
+ {
+  "slug": "personalisierte-geschenke",
+  "kw": "Personalisierte Geschenke",
+  "h": "Personalisierte Geschenke-Angebote",
+  "re": "personalisiert|Gravur|Projektionskette|Fotokette",
+  "group": "geschenke",
+  "shops": [
+   "amazgifts",
+   "logomatten"
+  ],
+  "intro": "Geschenke mit Gravur, Foto oder Namen sind persönlich und trotzdem schnell bestellt. Hier findest du Angebote für personalisierten Schmuck und andere individuelle Geschenke.",
+  "tips": [
+   "Personalisierte Produkte sind meist vom Umtausch ausgeschlossen, Angaben vor dem Bestellen genau prüfen.",
+   "Lieferzeit einplanen, Fertigung dauert oft einige Tage länger.",
+   "Bei Schmuck auf Material achten (z. B. Edelstahl, Sterlingsilber).",
+   "Vor Weihnachten früh bestellen, die Fertigung ist dann oft ausgelastet."
+  ]
+ },
+ {
+  "slug": "gadgets",
+  "kw": "Gadgets",
+  "h": "Gadgets & originelle Geschenkideen",
+  "re": "Kikkerland|Gadget|Geschenkidee",
+  "group": "geschenke",
+  "shops": [
+   "kikkerland",
+   "amazgifts"
+  ],
+  "intro": "Kleine Gadgets und Design-Spielereien sind beliebte Mitbringsel und Wichtelgeschenke. Hier zeigen wir originelle Geschenkideen im Angebot.",
+  "tips": [
+   "Für Wichteln ein festes Budget setzen, viele Gadgets gibt es unter 20 €.",
+   "Bei Gadgets mit Akku auf Ladeanschluss (USB-C) achten.",
+   "Rückgaberecht des Shops prüfen, falls das Geschenk nicht gefällt.",
+   "Rechtzeitig vor Feiertagen bestellen, Versand aus dem Ausland dauert länger."
+  ]
+ },
+ {
+  "slug": "naturkosmetik",
+  "kw": "Naturkosmetik",
+  "h": "Naturkosmetik-Angebote",
+  "re": "Naturkosmetik|100% Pure|100percentpure",
+  "group": "beauty",
+  "shops": [
+   "100percentpure"
+  ],
+  "intro": "Naturkosmetik setzt auf Inhaltsstoffe aus Pflanzen und verzichtet auf viele synthetische Zusätze. Hier findest du geprüfte Angebote; ausdrücklich vegane Produkte sind gekennzeichnet.",
+  "tips": [
+   "„Natürlich“ ist kein geschützter Begriff, Siegel wie NATRUE oder COSMOS geben Orientierung.",
+   "Vegan heißt ohne tierische Inhaltsstoffe wie Bienenwachs, Honig oder Karmin, achte auf die Kennzeichnung.",
+   "Bei empfindlicher Haut auf ätherische Öle und Duftstoffe achten.",
+   "Probiergrößen oder Sets sind ein günstiger Einstieg."
+  ]
+ },
+ {
+  "slug": "pergola",
+  "kw": "Pergola",
+  "h": "Pergola & Lamellendach-Angebote",
+  "re": "Pergola|Lamellendach|Terrassenüberdachung",
+  "group": "garten",
+  "shops": [
+   "pergolux",
+   "lunzo",
+   "outdoorqueen"
+  ],
+  "intro": "Eine Pergola mit Lamellendach macht die Terrasse bei Sonne und Regen nutzbar. Aluminium-Modelle sind wartungsarm und lassen sich teils selbst aufbauen. Hier findest du geprüfte Angebote und Aktionen.",
+  "tips": [
+   "Aluminium rostet nicht und braucht kaum Pflege, Holz wirkt wärmer, muss aber regelmäßig gestrichen werden.",
+   "Verstellbare Lamellen regeln Licht und Luft; bei Regen geschlossen leiten sie das Wasser über die Pfosten ab.",
+   "Prüfe vor dem Kauf, ob für deine Größe eine Baugenehmigung nötig ist, die Regeln unterscheiden sich je Bundesland.",
+   "Fundament und Verankerung einplanen, bei Wind muss die Pergola sicher stehen."
+  ]
+ },
+ {
+  "slug": "3d-drucker",
+  "kw": "3D-Drucker",
+  "h": "3D-Drucker-Angebote",
+  "re": "3D-Drucker|3D Drucker|Bambu|Prusa|Creality|Anycubic|Sovol|Elegoo",
+  "group": "computer",
+  "shops": [
+   "sovol"
+  ],
+  "intro": "3D-Drucker sind deutlich günstiger und einfacher geworden: Viele Einsteigermodelle drucken heute fast ohne Einstellarbeit. Hier findest du geprüfte Angebote für FDM- und Resin-Drucker.",
+  "tips": [
+   "FDM-Drucker mit Filament sind vielseitig und günstig im Betrieb, Resin-Drucker liefern feinere Details, brauchen aber Nachbearbeitung und Lüftung.",
+   "Automatische Bettnivellierung spart viel Einrichtungszeit.",
+   "Ein geschlossenes Gehäuse hilft bei Materialien wie ABS und hält Geruch und Staub zurück.",
+   "Achte auf Ersatzteile und eine aktive Community, gerade bei Open-Source-Druckern."
+  ]
+ }
+]

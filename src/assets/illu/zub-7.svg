@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <title id="t">Lange Kartenbox mit einer Reihe einsortierter Karten</title>
+  <rect width="240" height="240" rx="24" fill="#F1F4F2"/>
+  <circle cx="120" cy="120" r="96" fill="#D6EDE8"/>
+  <path d="M40 112 L72 92 H216 L184 112 Z" fill="#FFFFFF" stroke="#55645F" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M184 112 L216 92 V146 L184 166 Z" fill="#D3DCD8" stroke="#55645F" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M56 110 l20 -12 v-18 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M64 110 l20 -12 v-22 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M72 110 l20 -12 v-20 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M80 110 l20 -12 v-24 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M88 110 l20 -12 v-18 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M96 110 l20 -12 v-22 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M104 110 l20 -12 v-20 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M112 110 l20 -12 v-24 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M120 110 l20 -12 v-18 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M128 110 l20 -12 v-22 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M136 110 l20 -12 v-20 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M144 110 l20 -12 v-24 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M152 110 l20 -12 v-18 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M160 110 l20 -12 v-22 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M168 110 l20 -12 v-20 l-20 12 z" fill="#FFFFFF" stroke="#55645F" stroke-width="1"/>
+  <path d="M176 110 l20 -12 v-24 l-20 12 z" fill="#0B776B" stroke="#55645F" stroke-width="1"/>
+  <path d="M120 108 l20 -12 v-34 l-20 12 z" fill="#F6C343" stroke="#55645F" stroke-width="1"/>
+  <rect x="40" y="112" width="144" height="54" fill="#FFFFFF" stroke="#55645F" stroke-width="2.5"/>
+  <rect x="96" y="128" width="32" height="20" rx="3" fill="#D6EDE8" stroke="#0B776B" stroke-width="1.5"/>
+</svg>
