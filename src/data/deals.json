@@ -3,6 +3,25 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "amazon-ember-4-55-zoll",
+   "asin": "B0DFNM3XZ9",
+   "brand": "Amazon",
+   "cat": "tv",
+   "now": 349.99,
+   "was": 699.99,
+   "title": {
+    "de": "Amazon Ember 4-Serie 55 Zoll 4K Fire TV",
+    "en": "Amazon Ember 4-Series 55\" 4K Fire TV"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T20:25:00+01:00",
+   "checked": "2026-11-17T20:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
    "id": "playmobil-71327-grosse-schule",
    "asin": "B0BT89K8TV",
    "brand": "PLAYMOBIL",
