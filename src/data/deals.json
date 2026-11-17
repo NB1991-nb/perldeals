@@ -3,6 +3,43 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "hp-laptop-15-ryzen5-16gb-512gb",
+   "asin": "B0GMRL7Q32",
+   "brand": "HP",
+   "cat": "computer",
+   "now": 569,
+   "was": 819,
+   "title": {
+    "de": "HP Laptop 15,6\" FHD, Ryzen 5, 16 GB RAM, 512 GB SSD",
+    "en": "HP laptop 15.6\" FHD, Ryzen 5, 16 GB RAM, 512 GB SSD"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T12:25:00+01:00",
+   "checked": "2026-11-17T12:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "playmobil-71607-wohnhaus-wintergarten",
+   "asin": "B0D1XZCLKW",
+   "brand": "PLAYMOBIL",
+   "cat": "toys",
+   "now": 89.99,
+   "was": 139.99,
+   "title": {
+    "de": "PLAYMOBIL My Life 71607 Wohnhaus mit Wintergarten",
+    "en": "PLAYMOBIL My Life 71607 house with conservatory"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T12:25:00+01:00",
+   "checked": "2026-11-17T12:25:00+01:00"
+  },
+  {
    "id": "jbl-quantum-100",
    "asin": "B083X24CFF",
    "brand": "JBL",
