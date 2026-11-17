@@ -3,6 +3,156 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "lego-72423-shrek",
+   "asin": "B0G2XLJR3R",
+   "brand": "LEGO",
+   "cat": "toys",
+   "now": 84.49,
+   "was": 119.99,
+   "title": {
+    "de": "LEGO 72423 Shrek, Esel und der Gestiefelte Kater",
+    "en": "LEGO 72423 Shrek, Donkey and Puss in Boots"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00"
+  },
+  {
+   "id": "dell-15-core3-8gb-512gb",
+   "asin": "B0H2NGQNY4",
+   "brand": "Dell",
+   "cat": "computer",
+   "now": 429,
+   "was": 644.58,
+   "title": {
+    "de": "Dell 15 Laptop, Intel Core 3 100U, 8 GB RAM, 512 GB SSD",
+    "en": "Dell 15 laptop, Intel Core 3 100U, 8 GB RAM, 512 GB SSD"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "lego-10374-rosa-rosenstrauss",
+   "asin": "B01NAET89S",
+   "brand": "LEGO",
+   "cat": "toys",
+   "now": 39.98,
+   "was": 59.99,
+   "title": {
+    "de": "LEGO Botanicals 10374 Rosa Rosenstrauß",
+    "en": "LEGO Botanicals 10374 pink rose bouquet"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00"
+  },
+  {
+   "id": "krups-t8-filterkaffeemaschine",
+   "asin": "B00PHCDIFA",
+   "brand": "Krups",
+   "cat": "kitchen",
+   "now": 94.7,
+   "was": 150,
+   "title": {
+    "de": "Krups T8 Filterkaffeemaschine",
+    "en": "Krups T8 filter coffee maker"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "oppo-enco-air5-pro",
+   "asin": "B0GVJYX9G6",
+   "brand": "OPPO",
+   "cat": "headphones",
+   "now": 55.99,
+   "was": 89.9,
+   "title": {
+    "de": "OPPO Enco Air5 Pro In-Ear-Kopfhörer mit ANC",
+    "en": "OPPO Enco Air5 Pro earbuds with ANC"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "levoit-core-300-luftreiniger",
+   "asin": "B0FDGQLLYL",
+   "brand": "Levoit",
+   "cat": "home",
+   "now": 94.99,
+   "was": 159,
+   "title": {
+    "de": "Levoit Core 300 Luftreiniger",
+    "en": "Levoit Core 300 air purifier"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "ninja-foodi-flexdrawer-10-4l",
+   "asin": "B0CJVNGMFL",
+   "brand": "Ninja",
+   "cat": "kitchen",
+   "now": 159.99,
+   "was": 279.99,
+   "title": {
+    "de": "Ninja Foodi FlexDrawer Heißluftfritteuse 10,4 L Dual Zone",
+    "en": "Ninja Foodi FlexDrawer air fryer 10.4 L dual zone"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "sony-inzone-h3",
+   "asin": "B0B466S1FB",
+   "brand": "Sony",
+   "cat": "headphones",
+   "now": 33,
+   "was": 79.99,
+   "title": {
+    "de": "Sony INZONE H3 Gaming-Headset (kabelgebunden)",
+    "en": "Sony INZONE H3 wired gaming headset"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T13:25:00+01:00",
+   "checked": "2026-11-17T13:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
    "id": "hp-laptop-15-ryzen5-16gb-512gb",
    "asin": "B0GMRL7Q32",
    "brand": "HP",
