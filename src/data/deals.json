@@ -3,6 +3,100 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "anker-nano-10000-30w",
+   "asin": "B0C9CJKCH3",
+   "brand": "Anker",
+   "cat": "phone",
+   "now": 33.23,
+   "was": 49.99,
+   "title": {
+    "de": "Anker Nano Powerbank 10.000 mAh, 30 W, integriertes USB-C-Kabel",
+    "en": "Anker Nano power bank 10,000 mAh, 30 W, built-in USB-C cable"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch AnkerDirect (offizieller Markenshop).",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by AnkerDirect brand store."
+   },
+   "added": "2026-11-17T16:25:00+01:00",
+   "checked": "2026-11-17T16:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "philips-pureprotect-500",
+   "asin": "B0H6JH1B5F",
+   "brand": "Philips",
+   "cat": "home",
+   "now": 49.99,
+   "was": 79.99,
+   "title": {
+    "de": "Philips Luftreiniger PureProtect 500 Serie",
+    "en": "Philips PureProtect 500 series air purifier"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+   },
+   "added": "2026-11-17T16:25:00+01:00",
+   "checked": "2026-11-17T16:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "steelseries-apex-3",
+   "asin": "B083M9CBD5",
+   "brand": "SteelSeries",
+   "cat": "computer",
+   "now": 49.99,
+   "was": 79.99,
+   "title": {
+    "de": "SteelSeries Apex 3 Gaming-Tastatur",
+    "en": "SteelSeries Apex 3 gaming keyboard"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T16:25:00+01:00",
+   "checked": "2026-11-17T16:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "echo-dot-kids-2022",
+   "asin": "B0FD44RDQV",
+   "brand": "Amazon",
+   "cat": "smarthome",
+   "now": 45.99,
+   "was": 99.99,
+   "title": {
+    "de": "Amazon Echo Dot Kids (Version 2022)",
+    "en": "Amazon Echo Dot Kids (2022)"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T16:25:00+01:00",
+   "checked": "2026-11-17T16:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "turtle-beach-rematch-switch",
+   "asin": "B0F1RB4YGC",
+   "brand": "Turtle Beach",
+   "cat": "computer",
+   "now": 24.99,
+   "was": 59.99,
+   "title": {
+    "de": "Turtle Beach Rematch Wireless Controller für Nintendo Switch",
+    "en": "Turtle Beach Rematch wireless controller for Nintendo Switch"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T16:25:00+01:00",
+   "checked": "2026-11-17T16:25:00+01:00"
+  },
+  {
    "id": "dorfromantik-sakura",
    "asin": "B0D92WJ69J",
    "brand": "Pegasus Spiele",
