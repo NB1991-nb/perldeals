@@ -3,6 +3,61 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "playmobil-71327-grosse-schule",
+   "asin": "B0BT89K8TV",
+   "brand": "PLAYMOBIL",
+   "cat": "toys",
+   "now": 77.99,
+   "was": 119.99,
+   "title": {
+    "de": "PLAYMOBIL City Life Große Schule",
+    "en": "PLAYMOBIL City Life large school"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T19:25:00+01:00",
+   "checked": "2026-11-17T19:25:00+01:00"
+  },
+  {
+   "id": "tcl-a65k-soundbar",
+   "asin": "B0H32W1VGZ",
+   "brand": "TCL",
+   "cat": "tv",
+   "now": 179.55,
+   "was": 289,
+   "title": {
+    "de": "TCL A65K 3.1.2-Soundbar mit Subwoofer, Dolby Atmos",
+    "en": "TCL A65K 3.1.2 soundbar with subwoofer, Dolby Atmos"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T19:25:00+01:00",
+   "checked": "2026-11-17T19:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "samsung-microsd-t9-128gb",
+   "asin": "B0GMRFQDYP",
+   "brand": "Samsung",
+   "cat": "computer",
+   "now": 34.99,
+   "was": 58.99,
+   "title": {
+    "de": "Samsung microSD T9 128 GB",
+    "en": "Samsung microSD T9 128 GB"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T19:25:00+01:00",
+   "checked": "2026-11-17T19:25:00+01:00"
+  },
+  {
    "id": "ninja-double-stack-xl-9-5l",
    "asin": "B0CZY23DYB",
    "brand": "Ninja",
