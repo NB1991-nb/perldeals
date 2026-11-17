@@ -3,6 +3,43 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "severin-filterkaffeemaschine-thermokanne",
+   "asin": "B0BZCKH9Q1",
+   "brand": "Severin",
+   "cat": "kitchen",
+   "now": 35.19,
+   "was": 69.99,
+   "title": {
+    "de": "Severin Filterkaffeemaschine mit Thermokanne (8 Tassen)",
+    "en": "Severin filter coffee maker with thermal jug"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T10:25:00+01:00",
+   "checked": "2026-11-17T10:25:00+01:00"
+  },
+  {
+   "id": "cosori-mini-airfryer-2l",
+   "asin": "B0DJH83G29",
+   "brand": "Cosori",
+   "cat": "kitchen",
+   "now": 47.48,
+   "was": 109.9,
+   "title": {
+    "de": "COSORI Mini-Airfryer 2 L",
+    "en": "COSORI mini air fryer 2 L"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T10:25:00+01:00",
+   "checked": "2026-11-17T10:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
    "id": "razer-basilisk-v3-35k",
    "asin": "B0DDC8WYTM",
    "brand": "Razer",
