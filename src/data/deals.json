@@ -3,6 +3,25 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "ninja-double-stack-xl-9-5l",
+   "asin": "B0CZY23DYB",
+   "brand": "Ninja",
+   "cat": "kitchen",
+   "now": 159.99,
+   "was": 269.99,
+   "title": {
+    "de": "Ninja Double Stack XL Heißluftfritteuse 9,5 L",
+    "en": "Ninja Double Stack XL air fryer 9.5 L"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T17:25:00+01:00",
+   "checked": "2026-11-17T17:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
    "id": "anker-nano-10000-30w",
    "asin": "B0C9CJKCH3",
    "brand": "Anker",
