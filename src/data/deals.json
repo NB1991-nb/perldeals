@@ -3,6 +3,44 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "petkit-pura-max-2",
+   "asin": "B0D9QJZ7FG",
+   "brand": "PETKIT",
+   "cat": "pets",
+   "now": 389.97,
+   "was": 599,
+   "title": {
+    "de": "PETKIT Pura Max 2 selbstreinigende Katzentoilette",
+    "en": "PETKIT Pura Max 2 self-cleaning litter box"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch PETKIT (offizieller Markenshop).",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by PETKIT brand store."
+   },
+   "added": "2026-11-17T14:25:00+01:00",
+   "checked": "2026-11-17T14:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "ninja-perfect-temperature-wasserkocher",
+   "asin": "B0FLKJSFY4",
+   "brand": "Ninja",
+   "cat": "kitchen",
+   "now": 59.99,
+   "was": 99.99,
+   "title": {
+    "de": "Ninja Perfect Temperature Wasserkocher 1,7 L",
+    "en": "Ninja Perfect Temperature kettle 1.7 L"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-17T14:25:00+01:00",
+   "checked": "2026-11-17T14:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
    "id": "lego-72423-shrek",
    "asin": "B0G2XLJR3R",
    "brand": "LEGO",
