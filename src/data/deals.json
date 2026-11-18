@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T09:25:00Z",
+  "updated": "2026-11-18T11:25:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
     {
@@ -9584,6 +9584,150 @@
       },
       "added": "2026-11-18T10:25:00+01:00",
       "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "hyperx-pulsefire-haste-2-s",
+      "asin": "B0DSQ4LRV6",
+      "brand": "HyperX",
+      "cat": "computer",
+      "now": 29.99,
+      "was": 66.97,
+      "title": {
+        "de": "HyperX Pulsefire Haste 2 S kabellose Gaming-Maus",
+        "en": "HyperX Pulsefire Haste 2 S wireless gaming mouse"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "schmidt-spiele-dog-49201",
+      "asin": "B001CFFD72",
+      "brand": "Schmidt Spiele",
+      "cat": "toys",
+      "now": 12.99,
+      "was": 25.99,
+      "title": {
+        "de": "Schmidt Spiele 49201 Dog – Familienspiel",
+        "en": "Schmidt Spiele 49201 Dog family game"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "cosori-turbo-tower-pro-10-8l",
+      "asin": "B0DPQ6G71Q",
+      "brand": "Cosori",
+      "cat": "kitchen",
+      "now": 208.97,
+      "was": 401.29,
+      "title": {
+        "de": "Cosori Airfryer Turbo Tower Pro 10,8 L (Dual Blaze)",
+        "en": "Cosori Turbo Tower Pro air fryer 10.8 L"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "babyliss-cordkeeper-2000w",
+      "asin": "B07ZHNJN7Z",
+      "brand": "BaByliss",
+      "cat": "beauty",
+      "now": 27.5,
+      "was": 49.9,
+      "title": {
+        "de": "BaByliss Cordkeeper Haartrockner 2000 W",
+        "en": "BaByliss Cordkeeper hair dryer 2000 W"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "sandisk-microsd-express-512gb-switch-2",
+      "asin": "B0DTQ35NH6",
+      "brand": "SanDisk",
+      "cat": "computer",
+      "now": 96.99,
+      "was": 158.99,
+      "title": {
+        "de": "SanDisk microSD Express 512 GB (für Nintendo Switch 2)",
+        "en": "SanDisk microSD Express 512 GB (for Nintendo Switch 2)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "msi-mag-256fa-e20",
+      "asin": "B0G5Q8ZZL9",
+      "brand": "MSI",
+      "cat": "computer",
+      "now": 84,
+      "was": 118.99,
+      "title": {
+        "de": "MSI MAG 256FA E20 24,5\" Gaming-Monitor, 200 Hz",
+        "en": "MSI MAG 256FA E20 24.5\" gaming monitor, 200 Hz"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "acer-nitro-xv271um3",
+      "asin": "B0C28PRD8V",
+      "brand": "Acer",
+      "cat": "computer",
+      "now": 139,
+      "was": 179.9,
+      "title": {
+        "de": "Acer Nitro XV271UM3 27\" WQHD Gaming-Monitor, 180 Hz",
+        "en": "Acer Nitro XV271UM3 27\" WQHD gaming monitor, 180 Hz"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "siemens-eq500-iaroma-tp553e19",
+      "asin": "B0GZL9RMQ2",
+      "brand": "Siemens",
+      "cat": "kitchen",
+      "now": 549,
+      "was": 699,
+      "title": {
+        "de": "Siemens EQ500 iAroma Kaffeevollautomat TP553E19",
+        "en": "Siemens EQ500 iAroma bean-to-cup TP553E19"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T12:25:00+01:00",
+      "checked": "2026-11-18T12:25:00+01:00"
     }
   ]
 }
