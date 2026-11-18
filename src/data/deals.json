@@ -3,6 +3,43 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "tcl-75t6c-75-zoll",
+   "asin": "B0DW996637",
+   "brand": "TCL",
+   "cat": "tv",
+   "now": 479,
+   "was": 599,
+   "title": {
+    "de": "TCL 75T6C 75\" QLED 4K Fire TV",
+    "en": "TCL 75T6C 75\" QLED 4K Fire TV"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+   },
+   "added": "2026-11-18T08:25:00+01:00",
+   "checked": "2026-11-18T08:25:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "playmobil-feuerwehrflugzeug-loeschfunktion",
+   "asin": "B0CK1WM1CG",
+   "brand": "PLAYMOBIL",
+   "cat": "toys",
+   "now": 24.9,
+   "was": 39.99,
+   "title": {
+    "de": "PLAYMOBIL City Action Feuerwehrflugzeug mit Löschfunktion",
+    "en": "PLAYMOBIL City Action fire plane with water function"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T08:25:00+01:00",
+   "checked": "2026-11-18T08:25:00+01:00"
+  },
+  {
    "id": "microsoft-surface-laptop-snapdragon-x2-elite",
    "asin": "B0GWDRX83G",
    "brand": "Microsoft",
