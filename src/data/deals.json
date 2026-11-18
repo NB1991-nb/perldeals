@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:30:00Z",
+  "updated": "2026-11-18T09:25:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
     {
@@ -9327,6 +9327,263 @@
       "added": "2026-11-18T09:30:00+01:00",
       "checked": "2026-11-18T09:30:00+01:00",
       "validUntil": "2026-11-30"
+    },
+    {
+      "id": "sandisk-microsd-express-256gb-switch-2",
+      "asin": "B0DFQGVLYF",
+      "brand": "SanDisk",
+      "cat": "computer",
+      "now": 55.99,
+      "was": 90.99,
+      "title": {
+        "de": "SanDisk microSD Express 256 GB (für Nintendo Switch 2)",
+        "en": "SanDisk microSD Express 256 GB (for Nintendo Switch 2)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "amazon-echo-dot-max",
+      "asin": "B0DKLVWZPF",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 74.99,
+      "was": 129.99,
+      "title": {
+        "de": "Amazon Echo Dot Max (neueste Generation)",
+        "en": "Amazon Echo Dot Max (latest generation)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-show-8-2025",
+      "asin": "B0DTQF1MQT",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 129.99,
+      "was": 219.99,
+      "title": {
+        "de": "Amazon Echo Show 8 (neueste Generation)",
+        "en": "Amazon Echo Show 8 (latest generation)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-ember-qled-55-zoll",
+      "asin": "B0DD1PZMTZ",
+      "brand": "Amazon",
+      "cat": "tv",
+      "now": 429.99,
+      "was": 799.99,
+      "title": {
+        "de": "Amazon Ember QLED-Serie 55 Zoll 4K Fire TV",
+        "en": "Amazon Ember QLED Series 55\" 4K Fire TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-ember-4-50-zoll",
+      "asin": "B0DFNWC8PW",
+      "brand": "Amazon",
+      "cat": "tv",
+      "now": 299.99,
+      "was": 599.99,
+      "title": {
+        "de": "Amazon Ember 4-Serie 50 Zoll 4K Fire TV",
+        "en": "Amazon Ember 4-Series 50\" 4K Fire TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "samsung-crystal-u7099h-43-zoll",
+      "asin": "B0GXZN9W32",
+      "brand": "Samsung",
+      "cat": "tv",
+      "now": 271,
+      "was": 499.99,
+      "title": {
+        "de": "Samsung Crystal U7099H 4K 43 Zoll",
+        "en": "Samsung Crystal U7099H 4K 43\""
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "kindle-paperwhite-signature-32gb-2024",
+      "asin": "B0CFPN47NY",
+      "brand": "Amazon",
+      "cat": "computer",
+      "now": 159.99,
+      "was": 259.99,
+      "title": {
+        "de": "Amazon Kindle Paperwhite Signature Edition 32 GB (2024)",
+        "en": "Amazon Kindle Paperwhite Signature Edition 32 GB (2024)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "playmobil-71530-grosses-piratenschiff",
+      "asin": "B0CK2KK34J",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 64.99,
+      "was": 99.99,
+      "title": {
+        "de": "PLAYMOBIL Pirates 71530 Großes Piratenschiff",
+        "en": "PLAYMOBIL Pirates 71530 Large Pirate Ship"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "playmobil-70205-grosses-puppenhaus",
+      "asin": "B07P581CK8",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 104.99,
+      "was": 179.99,
+      "title": {
+        "de": "PLAYMOBIL Dollhouse 70205 Mein Großes Puppenhaus",
+        "en": "PLAYMOBIL Dollhouse 70205 Large Doll House"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "logitech-c270-webcam",
+      "asin": "B01BGBJ8Y0",
+      "brand": "Logitech",
+      "cat": "computer",
+      "now": 13.9,
+      "was": 34.99,
+      "title": {
+        "de": "Logitech C270 USB-Webcam 720p mit Mikrofon",
+        "en": "Logitech C270 USB webcam 720p with mic"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "remington-pro-air-d5210",
+      "asin": "B00ECBKODQ",
+      "brand": "Remington",
+      "cat": "beauty",
+      "now": 15.93,
+      "was": 39.99,
+      "title": {
+        "de": "Remington Pro-Air D5210 Haartrockner (2200 W)",
+        "en": "Remington Pro-Air D5210 hair dryer (2200 W)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "tefal-duetto-pfannenset-3tlg",
+      "asin": "B086WQWSNT",
+      "brand": "Tefal",
+      "cat": "kitchen",
+      "now": 59.98,
+      "was": 106.99,
+      "title": {
+        "de": "Tefal Duetto Pfannenset 3-teilig (20/24/28 cm, Induktion)",
+        "en": "Tefal Duetto 3-piece pan set (20/24/28 cm, induction)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "luigis-mansion-3-switch",
+      "asin": "B07NPL79TQ",
+      "brand": "Nintendo",
+      "cat": "toys",
+      "now": 43.99,
+      "was": 69.99,
+      "title": {
+        "de": "Luigi’s Mansion 3 (Nintendo Switch)",
+        "en": "Luigi’s Mansion 3 (Nintendo Switch)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
+    },
+    {
+      "id": "super-mario-odyssey-switch",
+      "asin": "B01MUBNPYP",
+      "brand": "Nintendo",
+      "cat": "toys",
+      "now": 45.26,
+      "was": 69.99,
+      "title": {
+        "de": "Super Mario Odyssey (Nintendo Switch)",
+        "en": "Super Mario Odyssey (Nintendo Switch)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T10:25:00+01:00",
+      "checked": "2026-11-18T10:25:00+01:00"
     }
   ]
 }
