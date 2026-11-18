@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T12:25:00Z",
+  "updated": "2026-11-18T13:25:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
     {
@@ -9836,6 +9836,78 @@
       },
       "added": "2026-11-18T13:25:00+01:00",
       "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "switchbot-luftreiniger-cadr-400",
+      "asin": "B0DG5QLWP6",
+      "brand": "SwitchBot",
+      "cat": "home",
+      "now": 99.99,
+      "was": 239.99,
+      "title": {
+        "de": "SwitchBot Luftreiniger mit App (CADR 400 m³/h, bis 83 m²)",
+        "en": "SwitchBot air purifier with app (CADR 400 m³/h)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T14:25:00+01:00",
+      "checked": "2026-11-18T14:25:00+01:00"
+    },
+    {
+      "id": "playmobil-swat-rettungshelikopter",
+      "asin": "B0BT8BKJX7",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 44.99,
+      "was": 79.99,
+      "title": {
+        "de": "PLAYMOBIL City Action SWAT-Rettungshelikopter",
+        "en": "PLAYMOBIL City Action SWAT rescue helicopter"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T14:25:00+01:00",
+      "checked": "2026-11-18T14:25:00+01:00"
+    },
+    {
+      "id": "cecotec-cecomixer-easy",
+      "asin": "B01LWL9IFR",
+      "brand": "Cecotec",
+      "cat": "kitchen",
+      "now": 35.99,
+      "was": 57.9,
+      "title": {
+        "de": "Cecotec Cecomixer Easy Küchenmaschine (250 W, 3 L)",
+        "en": "Cecotec Cecomixer Easy stand mixer (250 W, 3 L)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T14:25:00+01:00",
+      "checked": "2026-11-18T14:25:00+01:00"
+    },
+    {
+      "id": "lego-city-60414-feuerwehrstation",
+      "asin": "B0CFWMZQ3Y",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 54.99,
+      "was": 79.99,
+      "title": {
+        "de": "LEGO City 60414 Feuerwehrstation mit Drehleiterfahrzeug",
+        "en": "LEGO City 60414 Fire Station with Fire Truck"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T14:25:00+01:00",
+      "checked": "2026-11-18T14:25:00+01:00"
     }
   ]
 }
