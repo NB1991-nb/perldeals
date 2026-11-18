@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-18T16:23:00Z",
+  "updated": "2026-11-18T18:23:29Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "russell-hobbs-wasserkocher-retro-21671-70",
+      "asin": "B01J1RJH7Y",
+      "brand": "Russell Hobbs",
+      "cat": "kitchen",
+      "now": 30.04,
+      "was": 48.59,
+      "title": {
+        "de": "Russell Hobbs Retro Wasserkocher 21671-70 (1,7 l, Edelstahl, Schwarz)",
+        "en": "Russell Hobbs Retro kettle 21671-70 (1.7 l, stainless steel, black)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-18T19:25:00+01:00",
+      "checked": "2026-11-18T19:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "cecotec-cremmaet-latte-touch",
       "asin": "B0FKT11RN6",
