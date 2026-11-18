@@ -1785,6 +1785,38 @@ function rsMetricTable(list){
     return `<tr><td data-l="Deal"><a href="${R.deal.de(d.id)}">${esc(d.title.de)}</a><br><small>${esc(shopName(d))}</small></td><td data-l="Ladenpreis"><strong>${eur(d.now,"de")}</strong> <small>(−${pct(d)} %)</small></td>
     <td data-l="Marktwert*">${m.market ? `≈ ${eur(m.market,"de")}<br><small>${esc(m.basis)}</small>` : "–"}</td><td data-l="Marge*">${mg != null ? `≈ ${eur(mg,"de")} <small>(${Math.round(mg/d.now*100)} %)</small>` : "–"}</td><td data-l="Limit">${m.limit ? esc(m.limit) : "nicht angegeben"}</td></tr>`; }).join("")}</tbody></table></div></div>`;
 }
+/* 18.11.: Reseller-Landingpages im A/B-Test (Nico: „wo kommen Reseller am besten an?“).
+   Varianten unter /reseller/lp/<v>/ (noindex, nur für Links aus Kanälen/Gruppen), Verteiler /reseller/start/ wählt zufällig und merkt sich die Variante.
+   Messung: Kampagne "rslp", Inhalt = Variante, Ereignisse visit/page/click (Shop-Klick)/alarm (Anmeldung)/cta (WhatsApp/Ankauf) → stats.php */
+const RS_LP = ["marge","eol","pokemon","menge","alarm"];
+function buildRsLandings(){
+  if (!RS) return;
+  const all = rsDeals(), lego = rsDeals("lego"), poke = rsDeals("pokemon"), op = rsDeals("onepiece");
+  const withM = all.map(d => ({d, m: rsMetrics(d)})).filter(x => x.m.market).map(x => ({...x, mg: x.m.market - x.d.now})).filter(x => x.mg > 0).sort((a, b) => b.mg - a.mg);
+  const cta = `<p class="lp-cta"><a class="btn btn-primary" data-cta href="/whatsapp/?utm_source=reseller-lp">📲 Reseller-Deals per WhatsApp</a> <a class="btn btn-ghost" data-cta href="/reseller/karten-ankauf/">💰 Ware verkaufen: Ankauf</a></p>`;
+  const stat = (n, l) => `<div class="lp-stat"><strong>${n}</strong><span>${l}</span></div>`;
+  const stats = `<div class="lp-stats">${stat(all.length, "Reseller-Deals jetzt")}${stat(RS.eol.length, "LEGO-Sets auf der EOL-Liste")}${stat(RS.releases.length, "Release-Termine")}${stat(withM.length, "Deals mit errechneter Marge")}</div>`;
+  const tag = v => `<div data-pd-camp="rslp:${v}" hidden></div>`;
+  const V = {
+    marge: {h1:"Unter Marktwert einkaufen: Deals mit errechneter Marge", eyebrow:"Für Reseller · Marge zuerst", lead:"Wir vergleichen jeden Reseller-Deal mit dem Marktwert (eBay-Verkäufe, Cardmarket, EOL-Schätzung) und zeigen dir, was nach dem Weiterverkauf hängen bleiben kann.",
+      body: () => stats + `<div class="wrap">${cta}</div>` + (withM.length ? rsMetricTable(withM.slice(0, 20).map(x => x.d)) : "") + grid(withM.slice(0, 12).map(x => x.d).concat(all.filter(d => !withM.some(x => x.d === d)).slice(0, Math.max(0, 12 - withM.length))), "de", "h2", "Die Deals mit der höchsten Marge") + `<div class="wrap">${rsAlarmBox("rslp-marge")}</div>`},
+    eol: {h1:"LEGO vor dem EOL: jetzt günstig kaufen, später teurer verkaufen", eyebrow:"Für Reseller · LEGO EOL", lead:"Sets, die bald auslaufen, steigen nach dem Produktionsende oft im Wert. Hier siehst du, welche Sets gerade unter UVP zu haben sind und was sie nach dem EOL wert sein könnten.",
+      body: () => stats + `<div class="wrap">${cta}</div>` + rsSec("Auslaufende LEGO-Sets mit Bestpreis und geschätzter Marge", rsEolTable(15)) + (lego.length ? grid(lego.slice(0, 12), "de", "h2", "Aktuelle LEGO-Deals") : "") + `<div class="wrap">${rsAlarmBox("rslp-eol", ["lego"])}</div>`},
+    pokemon: {h1:"Pokémon & One Piece sealed unter UVP: Displays, ETBs, Termine", eyebrow:"Für Reseller · Sammelkarten", lead:"Booster-Displays, Elite-Trainer-Boxen und Sets unter UVP, dazu alle Erscheinungstermine und ein täglicher Preisindex für über 19.000 deutsche Karten.",
+      body: () => stats + `<div class="wrap">${cta}<p><a href="/reseller/release-kalender/"><strong>📅 Release-Kalender</strong></a> · <a href="/reseller/pokemon-preisindex/"><strong>📈 Pokémon-Preisindex</strong></a> · <a href="/reseller/pokemon-sets/"><strong>🎲 Pull-Rates &amp; Erwartungswert</strong></a></p></div>` + (poke.length ? grid(poke.slice(0, 12), "de", "h2", "Aktuelle Pokémon-Deals") : "") + (op.length ? grid(op.slice(0, 6), "de", "h2", "One-Piece-Deals") : "") + `<div class="wrap">${rsAlarmBox("rslp-pokemon", ["pokemon","onepiece"])}</div>`},
+    menge: {h1:"Ware in großen Mengen günstig einkaufen", eyebrow:"Für Händler · Mengen & Limits", lead:"Für Händler zählt nicht nur der Preis, sondern auch, wie viel man kaufen darf. Wir zeigen bei jedem Reseller-Deal das Mengenlimit pro Kunde, soweit der Händler eines nennt, und sortieren nach Rabatt.",
+      body: () => stats + `<div class="wrap">${cta}</div>` + rsMetricTable(all.slice(0, 25)) + grid(all.slice(0, 12), "de", "h2", "Die stärksten Reseller-Deals nach Rabatt") + rsSec("Laufende Händleraktionen", rsPromoList()) + `<div class="wrap">${rsAlarmBox("rslp-menge")}</div>`},
+    alarm: {h1:"Kein Reseller-Deal mehr verpassen", eyebrow:"Für Reseller · Deal-Alarm", lead:"Neue Deals, Release-Termine und Händleraktionen zu Pokémon, One Piece, LEGO und Konsolen sofort per E-Mail. Du legst Themen, Mindestrabatt und Mindestmarge selbst fest.",
+      body: () => `<div class="wrap">${rsAlarmBox("rslp-alarm")}${cta}</div>` + stats + grid(all.slice(0, 6), "de", "h2", "So sehen unsere Reseller-Deals aus")}
+  };
+  for (const v of RS_LP) {
+    const L = V[v];
+    rsPage({path:`/reseller/lp/${v}/`, active:"hub", trail:[[L.eyebrow.split(" · ")[1]]], eyebrow:L.eyebrow, h1:L.h1, lead:esc(L.lead), body: tag(v) + L.body(), title:`${L.h1} · perldeals`, desc:L.lead.slice(0, 158), noindex:true});
+  }
+  /* Verteiler: zufällige, gemerkte Variante */
+  const dir = `${OUT}/reseller/start`; fs.mkdirSync(dir, {recursive:true});
+  fs.writeFileSync(`${dir}/index.html`, `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Reseller-Deals · perldeals</title><link rel="canonical" href="${BASE}/reseller/"><script>(function(){var V=${JSON.stringify(RS_LP)},v=null;try{v=localStorage.getItem("pd-rslp")}catch(e){}if(V.indexOf(v)<0){v=V[Math.floor(Math.random()*V.length)];try{localStorage.setItem("pd-rslp",v)}catch(e){}}location.replace("/reseller/lp/"+v+"/"+location.search+location.hash)})();</script></head><body><p><a href="/reseller/">Weiter zu den Reseller-Deals</a></p></body></html>`);
+}
 /* Karriere (Nico 06.11.): offene Stellen, schnelle Bewerbung per WhatsApp oder Kurzformular, Lebenslauf freiwillig */
 const JOBS = [{
   id: "aushilfe-hagen", title: "Aushilfe Versand & eBay-Listings (m/w/d)", form: "Aushilfe Versand & eBay-Listings (Hagen a.T.W.)",
@@ -1950,8 +1982,16 @@ function buildKartenIndex(){
   const allSets = [...sets.values()].filter(s => s.cards.length);
   const withP = PKART.cards.filter(c => best(c) > 0);
   const top = [...withP].sort((a, b) => best(b) - best(a));
+  /* 18.11.: Einzelseiten für die wertvollsten Karten + Pokémon-Seiten („glurak karte wert“) */
+  const slugTxt = t => String(t).toLowerCase().replace(/ä/g,"ae").replace(/ö/g,"oe").replace(/ü/g,"ue").replace(/ß/g,"ss").replace(/é/g,"e").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+  const CP = new Map();
+  const newest = allSets.filter(x => x.r).sort((a, b) => b.r.localeCompare(a.r)).slice(0, 14);
+  const pick = new Set(top.slice(0, 320).map(c => c[0]));
+  for (const ns of newest) [...ns.cards].filter(c => best(c) >= 5).sort((a, b) => best(b) - best(a)).slice(0, 6).forEach(c => pick.add(c[0]));
+  for (const c of PKART.cards) if (pick.has(c[0])) CP.set(c[0], `${setUrl(sets.get(c[1]))}${slugTxt(c[2])}-${slugTxt(c[3])}/`);
+  const cLink = c => CP.has(c[0]) ? `<a href="${CP.get(c[0])}">${esc(c[3])}</a>` : esc(c[3]);
   const row = (c, withSet) => { const s = sets.get(c[1]); const rev = c[9] && c[9] > (price(c) || 0) ? ` <span class="note">(Reverse Holo ${eur(c[9])})</span>` : "";
-    return `<tr><td data-v="${esc(c[2])}">${esc(c[2])}</td><td><strong>${esc(c[3])}</strong>${rev}</td>${withSet ? `<td><a href="${setUrl(s)}">${esc(s.n)}</a></td>` : ""}<td>${esc(c[4] || "–")}</td><td data-v="${price(c) ?? -1}">${eur(price(c))}</td><td data-v="${c[6] ?? -1}">${eur(c[6])}</td><td data-v="${c[7] ?? -1}">${eur(c[7])}</td><td data-v="${c[8] ?? -1}">${eur(c[8])}</td></tr>`; };
+    return `<tr><td data-v="${esc(c[2])}">${esc(c[2])}</td><td><strong>${cLink(c)}</strong>${rev}</td>${withSet ? `<td><a href="${setUrl(s)}">${esc(s.n)}</a></td>` : ""}<td>${esc(c[4] || "–")}</td><td data-v="${price(c) ?? -1}">${eur(price(c))}</td><td data-v="${c[6] ?? -1}">${eur(c[6])}</td><td data-v="${c[7] ?? -1}">${eur(c[7])}</td><td data-v="${c[8] ?? -1}">${eur(c[8])}</td></tr>`; };
   const head = withSet => `<thead><tr><th data-sort="t">Nr.</th><th data-sort="t">Karte</th>${withSet ? "<th>Set</th>" : ""}<th data-sort="t">Seltenheit</th><th data-sort="n">Preistrend</th><th data-sort="n">Ø 30 Tage</th><th data-sort="n">Ø 7 Tage</th><th data-sort="n">ab</th></tr></thead>`;
   const tbl = (cards, withSet) => `<div class="tbl-wrap"><table class="ev-tbl ps-tbl pi-sort">${head(withSet)}<tbody>${cards.map(c => row(c, withSet)).join("")}</tbody></table></div>`;
   const stand = `<p><strong>Preise vom ${st}</strong> · Cardmarket (Europa, Euro, Karten ohne Grading) über TCGdex · täglich aktualisiert. „Preistrend“ = Cardmarkets gewichteter Marktpreis, „Ø 30 Tage“ = Durchschnitt der Verkäufe der letzten 30 Tage, „ab“ = günstigstes aktuelles Angebot.</p>`;
@@ -1986,6 +2026,7 @@ inp.addEventListener("focus",load);inp.addEventListener("input",function(){load(
     <h2>Karte suchen</h2><p><label for="pi-q">Name, Set oder Nummer eingeben (z. B. „Glurak“, „Mega-Gengar 284“, „Fatale Flammen“):</label></p><p><input id="pi-q" type="search" class="pi-q" placeholder="Karte suchen …" autocomplete="off"></p><div id="pi-res"></div>
     <h2>Die 50 teuersten deutschen Pokémon-Karten</h2><p>Klick auf eine Spaltenüberschrift sortiert die Tabelle.</p>${tbl(top.slice(0, 50), true)}
     ${current ? `<h2>Top 20 der aktuellen Ära: ${esc(current.n)}</h2>${tbl(curTop, true)}` : ""}
+    <h2>Karten nach Pokémon</h2><p>Alle Karten eines Pokémon mit Preisen, z. B. alle Glurak- oder Pikachu-Karten.</p><nav class="chips">${PK_SPECIES.filter(sp => sp !== "Mega-Glurak").map(sp => `<a class="chip" href="${P}pokemon/${PK_SPECIES_SLUG(sp)}/">${esc(sp)}</a>`).join("")}</nav>
     <h2>Alle Sets mit Preisen</h2><p>Jedes Set hat eine eigene Seite mit allen Karten und Preisen.</p>${seriesHtml}
     ${curated}
     <p><a href="/reseller/karten-ankauf/"><strong>Karten verkaufen: Ankauf anfragen</strong></a> · <a href="/reseller/pokemon-sets/">Pull-Rates</a> · <a href="/reseller/pokemon/">Pokémon-Deals</a> · <a href="/reseller/release-kalender/">Release-Kalender</a></p></div>`;
@@ -2008,7 +2049,67 @@ inp.addEventListener("focus",load);inp.addEventListener("input",function(){load(
       title:`${s.n} Preise: alle ${s.cards.length} Pokémon-Karten (${st}) · perldeals`, desc:`${s.n} Kartenpreise: alle ${s.cards.length} Karten mit Cardmarket-Preistrend und Ø 30 Tage${t ? `, teuerste: ${t[3]}` : ""}. Stand ${st}.`.slice(0, 158),
       body:b, scripts:["preisindex.js"]});
   }
+  buildKartenSeiten({P, st, eur, sets, price, best, setUrl, slugTxt, CP, top, tbl, stand});
   return true;
+}
+/* Pokémon-Arten für Sammelseiten (deutsche Namen) */
+const PK_SPECIES = ["Glurak","Pikachu","Gengar","Evoli","Nachtara","Psiana","Folipurba","Glaziola","Feelinara","Aquana","Flamara","Blitza","Mewtu","Mew","Rayquaza","Lugia","Ho-Oh","Bisasam","Bisaflor","Glumanda","Schiggy","Turtok","Relaxo","Garados","Dragoran","Lucario","Quajutsu","Mimigma","Arceus","Giratina","Groudon","Kyogre","Zekrom","Reshiram","Darkrai","Absol","Despotar","Knakrack","Lavados","Arktos","Zapdos","Suicune","Celebi","Jirachi","Deoxys","Xerneas","Yveltal","Zacian","Zamazenta","Miraidon","Koraidon","Pummeluff","Enton","Lapras","Machomei","Simsala","Raichu","Togepi","Karpador","Mauzi","Pantimos","Snobilikat","Dialga","Palkia","Latias","Latios","Kleinstein","Taubsi","Mega-Glurak"];
+const PK_SPECIES_SLUG = n => n.toLowerCase().replace(/ä/g,"ae").replace(/ö/g,"oe").replace(/ü/g,"ue").replace(/[^a-z0-9]+/g,"-");
+function buildKartenSeiten({P, st, eur, sets, price, best, setUrl, slugTxt, CP, top, tbl, stand}){
+  const byId = new Map(PKART.cards.map(c => [c[0], c]));
+  const tok = n => String(n).split(/[\s\-]+/);
+  const speciesOf = n => PK_SPECIES.filter(sp => sp !== "Mega-Glurak" && (sp.includes("-") ? String(n).includes(sp) : tok(n).includes(sp)));
+  const spUrl = sp => `${P}pokemon/${PK_SPECIES_SLUG(sp)}/`;
+  const spCards = new Map();
+  for (const c of PKART.cards) { if (!(best(c) > 0)) continue; for (const sp of speciesOf(c[3])) { if (!spCards.has(sp)) spCards.set(sp, []); spCards.get(sp).push(c); } }
+  const spBuilt = new Set([...spCards].filter(([, l]) => l.length >= 5).map(([sp]) => sp));
+  const pct = (a, b) => (a && b) ? Math.round((a / b - 1) * 100) : null;
+  for (const [id, url] of CP) {
+    const c = byId.get(id), s = sets.get(c[1]), pr = price(c), b = best(c);
+    const tr = pct(c[5], c[6]), wk = pct(c[7], c[6]);
+    const rank = [...s.cards].filter(x => best(x) > 0).sort((a, z) => best(z) - best(a)).findIndex(x => x[0] === id) + 1;
+    const same = [...s.cards].filter(x => x[0] !== id && best(x) > 0).sort((a, z) => best(z) - best(a)).slice(0, 8);
+    const sps = speciesOf(c[3]).filter(sp => spBuilt.has(sp));
+    const others = sps.length ? (spCards.get(sps[0]) || []).filter(x => x[0] !== id).sort((a, z) => best(z) - best(a)).slice(0, 8) : [];
+    const d = s.r ? s.r.split("-").reverse().join(".") : null;
+    const trendTxt = tr == null ? "" : tr > 3 ? `Der Preistrend liegt ${tr} % über dem Durchschnitt der letzten 30 Tage, die Karte ist zuletzt also teurer geworden.` : tr < -3 ? `Der Preistrend liegt ${Math.abs(tr)} % unter dem Durchschnitt der letzten 30 Tage, die Karte ist zuletzt also günstiger geworden.` : `Der Preistrend liegt nahe am Durchschnitt der letzten 30 Tage, der Preis ist also gerade recht stabil.`;
+    const rows = [["Preistrend (Cardmarket)", eur(c[5])], ["Ø Verkaufspreis 30 Tage", eur(c[6])], ["Ø Verkaufspreis 7 Tage", eur(c[7])], ["Günstigstes Angebot", eur(c[8])], ...(c[9] && (!s.r || s.r >= "2002-05") ? [["Reverse Holo: Preistrend", eur(c[9])], ["Reverse Holo: Ø 30 Tage", eur(c[10])]] : []), ["Seltenheit", c[4] || "–"], ["Set", `<a href="${setUrl(s)}">${esc(s.n)}</a> (${esc(s.s)}${d ? `, ${d}` : ""})`], ["Kartennummer", `${esc(c[2])}${s.o ? ` / ${s.o}` : ""}`], ["Rang im Set", rank ? `Nr. ${rank} der teuersten Karten` : "–"]];
+    const body = akBanner() + `<div class="wrap legal wissen">${stand}
+      <div class="tbl-wrap"><table class="ev-tbl ps-tbl"><tbody>${rows.map(r => `<tr><td>${r[0]}</td><td><strong>${r[1]}</strong></td></tr>`).join("")}</tbody></table></div>
+      <h2>Was ist ${esc(c[3])} (${esc(s.n)} ${esc(c[2])}) wert?</h2>
+      <p>Laut Cardmarket liegt der Preistrend für ${esc(c[3])} aus ${esc(s.n)} (Nr. ${esc(c[2])}) am ${st} bei <strong>${eur(pr)}</strong>${c[6] ? `, verkauft wurde die Karte in den letzten 30 Tagen im Schnitt für ${eur(c[6])}` : ""}. ${trendTxt}${wk != null && Math.abs(wk) > 5 ? ` In den letzten 7 Tagen lag der Durchschnitt bei ${eur(c[7])} (${wk > 0 ? "+" : ""}${wk} % zum 30-Tage-Schnitt).` : ""}</p>
+      <p>Die Preise gelten für deutsche Karten ohne Grading in sehr gutem Zustand (Near Mint). Kratzer, weiße Kanten oder eine schlechte Zentrierung senken den Wert deutlich. Gegradete Karten (zum Beispiel PSA 10) erzielen dagegen oft ein Vielfaches.</p>
+      <h2>${esc(c[3])} verkaufen</h2>
+      <p>Händler und Ankäufer zahlen meist weniger als den Marktpreis, weil Gebühren, Versand und Risiko dazukommen. Wer selbst verkauft, zahlt bei Cardmarket und eBay Gebühren. Was am Ende übrig bleibt, rechnet unser <a href="/reseller/rechner/">Reseller-Rechner</a> aus. Du willst die Karte lieber direkt loswerden? Schick uns Fotos über den <a href="/reseller/karten-ankauf/"><strong>Karten-Ankauf</strong></a>, wir machen dir ein Angebot.</p>
+      ${same.length ? `<h2>Weitere teure Karten aus ${esc(s.n)}</h2>${tbl(same, false)}` : ""}
+      ${others.length ? `<h2>Weitere ${esc(sps[0])}-Karten</h2>${tbl(others, true)}<p><a href="${spUrl(sps[0])}"><strong>Alle ${esc(sps[0])}-Karten mit Preisen →</strong></a></p>` : ""}
+      <p><a href="${setUrl(s)}"><strong>← Alle Karten aus ${esc(s.n)}</strong></a> · <a href="${P}">Pokémon-Preisindex</a> · <a href="/reseller/karten-ankauf/">Karten verkaufen</a></p></div>`;
+    const faq = [[`Wie viel ist ${c[3]} ${c[2]} aus ${s.n} wert?`, `Laut Cardmarket-Preistrend vom ${st} rund ${eur(pr)} ohne Grading${c[6] ? `, im Schnitt der letzten 30 Tage ${eur(c[6])}` : ""}. Der tatsächliche Wert hängt stark vom Zustand ab.`],
+      [`Wo verkaufe ich ${c[3]} am besten?`, `Auf Cardmarket erreichst du die meisten Sammler in Europa, auf eBay oft höhere Preise für Spitzenkarten. Beide verlangen Gebühren. Ohne Aufwand geht es über einen Ankauf, dort bekommst du aber weniger als den Marktpreis.`],
+      ["Lohnt sich Grading?", "Bei Karten in sehr gutem Zustand und mit hohem Wert oft ja, weil PSA- oder CGC-10-Karten deutlich teurer gehandelt werden. Grading kostet aber Geld und Zeit, und nicht jede Karte bekommt eine 10."]];
+    rsPage({path:url, active:"pokemon", trail:[["Pokémon-Preisindex", P], [s.n, setUrl(s)], [`${c[3]} ${c[2]}`]], eyebrow:`Kartenwert · ${s.n} · Preise vom ${st}`,
+      h1:`${c[3]} ${c[2]} (${s.n}): aktueller Wert`, lead:esc(`${c[3]} aus ${s.n}, Karte ${c[2]}${s.o ? `/${s.o}` : ""}: Preistrend ${eur(pr)} laut Cardmarket, Ø 30 Tage ${eur(c[6])}. Preise vom ${st}, täglich aktualisiert.`),
+      title:`${c[3]} ${c[2]} ${s.n} Wert: ${eur(pr)} (${st}) · perldeals`.slice(0, 95), desc:`Was ist ${c[3]} ${c[2]} aus ${s.n} wert? Cardmarket-Preistrend ${eur(pr)}, Ø 30 Tage ${eur(c[6])}, günstigstes Angebot ${eur(c[8])}. Stand ${st}, täglich aktualisiert.`.slice(0, 158),
+      body, faq});
+  }
+  /* Pokémon-Seiten */
+  const spList = [...spBuilt].sort();
+  for (const sp of spList) {
+    const list = spCards.get(sp).sort((a, z) => best(z) - best(a));
+    const t = list[0], ts = sets.get(t[1]);
+    const nSets = new Set(list.map(c => c[1])).size;
+    const body = akBanner() + `<div class="wrap legal wissen">${stand}
+      <p>Im Preisindex stehen <strong>${list.length} ${esc(sp)}-Karten</strong> mit Cardmarket-Preis aus ${nSets} Sets. Die teuerste ist ${esc(t[3])} aus ${esc(ts.n)} (Nr. ${esc(t[2])}) mit ${eur(best(t))}.</p>
+      <h2>Die teuersten ${esc(sp)}-Karten</h2><p>Klick auf eine Spaltenüberschrift sortiert die Tabelle.</p>${tbl(list.slice(0, 60), true)}
+      <h2>${esc(sp)}-Karten verkaufen</h2><p>Der Wert hängt vor allem von Set, Seltenheit und Zustand ab. Karten mit Kratzern oder weißen Kanten bringen deutlich weniger als der Preistrend. Für ein Angebot schick uns Fotos über den <a href="/reseller/karten-ankauf/"><strong>Karten-Ankauf</strong></a>.</p>
+      <h2>Weitere Pokémon</h2><nav class="chips">${spList.filter(x => x !== sp).map(x => `<a class="chip" href="${spUrl(x)}">${esc(x)}</a>`).join("")}</nav>
+      <p><a href="${P}"><strong>← Pokémon-Preisindex</strong></a></p></div>`;
+    rsPage({path:spUrl(sp), active:"pokemon", trail:[["Pokémon-Preisindex", P], [`${sp}-Karten`]], eyebrow:`Kartenwert · ${sp} · Preise vom ${st}`,
+      h1:`${sp}-Karten: Wert und Preise aller Karten`, lead:esc(`Was sind ${sp}-Karten wert? ${list.length} deutsche ${sp}-Karten mit Cardmarket-Preistrend, teuerste: ${t[3]} (${ts.n}) mit ${eur(best(t))}. Preise vom ${st}.`),
+      title:`${sp} Karte Wert: alle ${list.length} ${sp}-Pokémon-Karten (${st}) · perldeals`.slice(0, 95), desc:`${sp}-Karten Wert: ${list.length} deutsche Pokémon-Karten mit Cardmarket-Preis, teuerste ${t[3]} mit ${eur(best(t))}. Stand ${st}, täglich aktualisiert.`.slice(0, 158),
+      body, scripts:["preisindex.js"], faq:[[`Welche ${sp}-Karte ist am meisten wert?`, `Laut Cardmarket-Preistrend vom ${st}: ${t[3]} aus ${ts.n} (Nr. ${t[2]}) mit ${eur(best(t))} ohne Grading.`],[`Wie finde ich heraus, welche ${sp}-Karte ich habe?`, "Unten rechts auf der Karte stehen Kartennummer und Set-Symbol. Mit Nummer und Set findest du die Karte in der Tabelle oben oder über die Suche im Preisindex."]]});
+  }
+  console.log(`Kartenseiten: ${CP.size}, Pokémon-Seiten: ${spList.length}`);
 }
 
 function buildPreisindex(){
@@ -2872,7 +2973,7 @@ for (const lang of LANGS){
   buildAccount(lang);
   buildAdvisor(lang);
   if (lang === "en") { TOPICS.forEach(buildTopicEn); buildTopicIndexEn(); BRANDS.forEach(buildBrandEn); WISSEN.items.forEach(buildWissenEn); buildWissenIndexEn(); }
-  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildPokemonSets(); buildPreisindex(); }
+  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildRsLandings(); buildPokemonSets(); buildPreisindex(); }
   ["imprint","money","privacy"].forEach(k => buildLegal(lang, k));
 }
 

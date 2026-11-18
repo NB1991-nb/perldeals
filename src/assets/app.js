@@ -174,12 +174,16 @@ document.querySelectorAll("[data-code]").forEach(b => b.addEventListener("click"
     let camp = null; try { camp = JSON.parse(sessionStorage.getItem("pd-camp") || "null"); } catch (e) {}
     const qc = q.get("utm_campaign");
     if (qc) { camp = { c: qc.slice(0, 40), x: (q.get("utm_content") || "").slice(0, 40) }; try { sessionStorage.setItem("pd-camp", JSON.stringify(camp)); } catch (e) {} }
-    navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ r, u: q.get("utm_source") || "", p, pa: location.pathname.slice(0, 160), en: en ? 1 : 0, c: qc ? camp.c : "", x: qc ? camp.x : "", e: "visit" })], { type: "application/json" }));
+    // Landingpage-Test (18.11.): Seite trägt ihre Variante selbst (data-pd-camp="kampagne:variante"), wenn keine utm_campaign da ist
+    let lp = false; const lpEl = document.querySelector("[data-pd-camp]");
+    if (!qc && lpEl) { const [lc, lx] = lpEl.getAttribute("data-pd-camp").split(":"); camp = { c: lc.slice(0, 40), x: (lx || "").slice(0, 40) }; lp = true; try { sessionStorage.setItem("pd-camp", JSON.stringify(camp)); } catch (e) {} }
+    navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ r, u: q.get("utm_source") || "", p, pa: location.pathname.slice(0, 160), en: en ? 1 : 0, c: (qc || lp) ? camp.c : "", x: (qc || lp) ? camp.x : "", e: "visit" })], { type: "application/json" }));
     // Shop-Klicks je Seite (anonym, nur Pfad): welche Seiten bringen Klicks zu den Shops?
     document.addEventListener("click", ev => { const a = ev.target.closest && ev.target.closest('a[rel~="sponsored"]'); if (a) navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ e: "out", pa: location.pathname.slice(0, 160) })], { type: "application/json" })); }, true);
-    if (camp && !qc) navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ c: camp.c, x: camp.x, e: "page" })], { type: "application/json" }));
+    if (camp && !qc && !lp) navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ c: camp.c, x: camp.x, e: "page" })], { type: "application/json" }));
     if (camp) {
       document.addEventListener("click", ev => { const a = ev.target.closest && ev.target.closest('a[rel~="sponsored"]'); if (a) navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ c: camp.c, x: camp.x, e: "click" })], { type: "application/json" })); }, true);
+      document.addEventListener("click", ev => { const a = ev.target.closest && ev.target.closest("a[data-cta]"); if (a) navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ c: camp.c, x: camp.x, e: "cta" })], { type: "application/json" })); }, true);
       window.pdCampAlarm = () => navigator.sendBeacon("/api/hit.php", new Blob([JSON.stringify({ c: camp.c, x: camp.x, e: "alarm" })], { type: "application/json" }));
     }
   } catch (e) {}

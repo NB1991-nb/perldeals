@@ -30,7 +30,7 @@ function pd_source(string $ref, string $utm): string {
 $camp = strtolower(preg_replace('/[^a-z0-9_-]/i', '', substr((string)($in['c'] ?? ''), 0, 40)));
 if ($camp !== '') {
     $cont = strtolower(preg_replace('/[^a-z0-9_-]/i', '', substr((string)($in['x'] ?? ''), 0, 40))) ?: '-';
-    $ev = in_array($in['e'] ?? '', ['visit', 'click', 'alarm', 'page'], true) ? $in['e'] : 'visit';
+    $ev = in_array($in['e'] ?? '', ['visit', 'click', 'alarm', 'page', 'cta'], true) ? $in['e'] : 'visit';
     try {
         $db = db();
         if (pd_rate('hitc|' . pd_ip_key(), 200, 3600)) {
