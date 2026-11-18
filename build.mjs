@@ -1664,7 +1664,7 @@ const figs = (w, i) => (w.figures || []).filter(f => f[0] === i).map(([, src, al
 /* Wissen-Texte: URLs und interne Pfade im Fließtext anklickbar machen */
 const linkify = t => esc(t)
   .replace(/https?:\/\/[^\s<)]+[^\s<).,;:]/g, u => `<a href="${u}" rel="nofollow noopener" target="_blank">${u.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "")}</a>`)
-  .replace(/(^|[\s(„])(\/(?:reseller|wissen|bestenliste|angebote|rabatte|black-friday|konto|whatsapp|telegram|abgelaufene-deals|gutschein-alarm|shop|kategorie|gutscheine|geschenke|vegan-ratgeber|wasserdicht)\/[a-z0-9\-\/]*)/g, (m, pre, path) => fs.existsSync(`${OUT}${path}${path.endsWith("/") ? "" : "/"}index.html`) || /^\/(reseller|wissen|bestenliste|angebote|kategorie|gutscheine|geschenke|vegan-ratgeber|wasserdicht)\//.test(path) ? `${pre}<a href="${path}">${path}</a>` : m);
+  .replace(/(^|[\s(„])(\/(?:deals|reseller|wissen|bestenliste|angebote|rabatte|black-friday|konto|whatsapp|telegram|abgelaufene-deals|gutschein-alarm|shop|kategorie|gutscheine|geschenke|vegan-ratgeber|wasserdicht)\/[a-z0-9\-\/]*)/g, (m, pre, path) => fs.existsSync(`${OUT}${path}${path.endsWith("/") ? "" : "/"}index.html`) || /^\/(reseller|wissen|bestenliste|angebote|kategorie|gutscheine|geschenke|vegan-ratgeber|wasserdicht)\//.test(path) ? `${pre}<a href="${path}">${path}</a>` : m);
 function buildWissen(w){
   const cr = crumbs("de", [["Start", R.home.de], ["Wissen", "/wissen/"], [w.title.split(":")[0]]]);
   const others = WISSEN.items.filter(x => x.slug !== w.slug);
