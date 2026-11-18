@@ -1,0 +1,668 @@
+{
+ "updated": "2026-11-18",
+ "items": [
+  {
+   "slug": "nes",
+   "name": "Nintendo Entertainment System (NES)",
+   "short": "NES",
+   "maker": "Nintendo",
+   "gen": "3. Generation (8 Bit)",
+   "type": "Heimkonsole",
+   "jp": "15.07.1983 (als Famicom)",
+   "us": "18.10.1985",
+   "eu": "1986",
+   "sold": "61,91 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "successor": "snes",
+   "games": [
+    "Super Mario Bros. 3",
+    "The Legend of Zelda",
+    "Metroid",
+    "Mega Man 2",
+    "Duck Hunt"
+   ],
+   "faults": [
+    "Kontaktprobleme am Modulschacht (72-Pin-Connector): Bild blinkt oder bleibt grau",
+    "Vergilbtes Gehäuse durch UV-Licht",
+    "Ausgeleierte Controller-Tasten"
+   ],
+   "notes": "In Europa erschien das NES je nach Land zu unterschiedlichen Zeitpunkten ab 1986. Das NES gilt als die Konsole, die den Videospielmarkt nach dem Crash von 1983 wiederbelebt hat.",
+   "wiki": "https://de.wikipedia.org/wiki/Nintendo_Entertainment_System"
+  },
+  {
+   "slug": "snes",
+   "name": "Super Nintendo Entertainment System (SNES)",
+   "short": "SNES",
+   "maker": "Nintendo",
+   "gen": "4. Generation (16 Bit)",
+   "type": "Heimkonsole",
+   "jp": "21.11.1990 (als Super Famicom)",
+   "us": "23.08.1991",
+   "eu": "11.04.1992",
+   "sold": "49,10 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "prev": "nes",
+   "successor": "n64",
+   "games": [
+    "Super Mario World",
+    "The Legend of Zelda: A Link to the Past",
+    "Super Metroid",
+    "Donkey Kong Country",
+    "Super Mario Kart"
+   ],
+   "faults": [
+    "Vergilbtes Gehäuse (besonders bei der europäischen Version)",
+    "Defekte Netzteile oder fehlende Original-Kabel",
+    "Batterie in Spielmodulen mit Speicherfunktion leer: Spielstände gehen verloren"
+   ],
+   "notes": "Die europäische und die US-Version unterscheiden sich im Gehäusedesign. Spiele mit Originalverpackung und Anleitung (CIB) sind deutlich mehr wert als lose Module.",
+   "wiki": "https://de.wikipedia.org/wiki/Super_Nintendo_Entertainment_System"
+  },
+  {
+   "slug": "nintendo-64",
+   "name": "Nintendo 64",
+   "short": "N64",
+   "maker": "Nintendo",
+   "gen": "5. Generation (64 Bit)",
+   "type": "Heimkonsole",
+   "jp": "23.06.1996",
+   "us": "29.09.1996",
+   "eu": "01.03.1997",
+   "sold": "32,93 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "prev": "snes",
+   "successor": "gamecube",
+   "games": [
+    "Super Mario 64",
+    "The Legend of Zelda: Ocarina of Time",
+    "Mario Kart 64",
+    "GoldenEye 007",
+    "Banjo-Kazooie"
+   ],
+   "faults": [
+    "Ausgeleierter Analogstick am Controller",
+    "Fehlendes Jumper Pak oder Expansion Pak (für einige Spiele nötig)",
+    "Vergilbte oder verkratzte Module"
+   ],
+   "notes": "Für einige Spiele wie Donkey Kong 64 oder Majora's Mask ist das Expansion Pak nötig. Steckt keins drin, braucht die Konsole das Jumper Pak, sonst startet sie nicht.",
+   "wiki": "https://de.wikipedia.org/wiki/Nintendo_64"
+  },
+  {
+   "slug": "gamecube",
+   "name": "Nintendo GameCube",
+   "short": "GameCube",
+   "maker": "Nintendo",
+   "gen": "6. Generation",
+   "type": "Heimkonsole",
+   "jp": "14.09.2001",
+   "us": "18.11.2001",
+   "eu": "03.05.2002",
+   "sold": "21,74 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "Mini-DVD (8 cm)",
+   "prev": "nintendo-64",
+   "successor": "wii",
+   "games": [
+    "Super Smash Bros. Melee",
+    "The Legend of Zelda: The Wind Waker",
+    "Metroid Prime",
+    "Mario Kart: Double Dash!!",
+    "Pikmin"
+   ],
+   "faults": [
+    "Laufwerk liest Discs nicht mehr (Laser schwach)",
+    "Abgenutzte Controller-Sticks",
+    "Fehlende Memory Card"
+   ],
+   "notes": "Original-Controller und Spiele wie Pikmin 2 oder Paper Mario: Die Legende vom Äonentor sind bei Sammlern sehr gefragt.",
+   "wiki": "https://de.wikipedia.org/wiki/Nintendo_GameCube"
+  },
+  {
+   "slug": "wii",
+   "name": "Nintendo Wii",
+   "short": "Wii",
+   "maker": "Nintendo",
+   "gen": "7. Generation",
+   "type": "Heimkonsole",
+   "jp": "02.12.2006",
+   "us": "19.11.2006",
+   "eu": "08.12.2006",
+   "sold": "101,63 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "DVD (Wii Optical Disc)",
+   "prev": "gamecube",
+   "successor": "wii-u",
+   "games": [
+    "Wii Sports",
+    "Mario Kart Wii",
+    "Super Mario Galaxy",
+    "The Legend of Zelda: Twilight Princess",
+    "Super Smash Bros. Brawl"
+   ],
+   "faults": [
+    "Laufwerk liest Discs nicht mehr",
+    "Fehlende Sensorleiste oder Netzteil",
+    "Defekte Wii-Fernbedienungen (Tasten, Gummihülle)"
+   ],
+   "notes": "Frühe Modelle können auch GameCube-Spiele abspielen und haben Anschlüsse für GameCube-Controller und Memory Cards.",
+   "wiki": "https://de.wikipedia.org/wiki/Wii"
+  },
+  {
+   "slug": "wii-u",
+   "name": "Nintendo Wii U",
+   "short": "Wii U",
+   "maker": "Nintendo",
+   "gen": "8. Generation",
+   "type": "Heimkonsole",
+   "jp": "08.12.2012",
+   "us": "18.11.2012",
+   "eu": "30.11.2012",
+   "sold": "13,56 Mio.",
+   "soldSrc": "Nintendo",
+   "media": "Wii U Optical Disc",
+   "prev": "wii",
+   "games": [
+    "Mario Kart 8",
+    "Super Smash Bros. for Wii U",
+    "Splatoon",
+    "Super Mario 3D World",
+    "Xenoblade Chronicles X"
+   ],
+   "faults": [
+    "Defektes oder schwach haltendes GamePad-Akku",
+    "Kratzer auf dem GamePad-Display",
+    "Laufwerksfehler"
+   ],
+   "notes": "Die Wii U verkaufte sich schwach, deshalb sind manche Spiele heute vergleichsweise selten.",
+   "wiki": "https://de.wikipedia.org/wiki/Wii_U"
+  },
+  {
+   "slug": "game-boy",
+   "name": "Nintendo Game Boy",
+   "short": "Game Boy",
+   "maker": "Nintendo",
+   "gen": "4. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "21.04.1989",
+   "us": "31.07.1989",
+   "eu": "28.09.1990",
+   "sold": "118,69 Mio. (zusammen mit Game Boy Color)",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "successor": "game-boy-color",
+   "games": [
+    "Tetris",
+    "Pokémon Rot/Blau",
+    "Super Mario Land",
+    "The Legend of Zelda: Link's Awakening",
+    "Kirby's Dream Land"
+   ],
+   "faults": [
+    "Fehlende Pixelzeilen im Display (vertikale Linien)",
+    "Korrodierte Batteriekontakte",
+    "Leere Speicherbatterie in Pokémon-Modulen"
+   ],
+   "notes": "Die Pokémon-Spiele für den Game Boy gehören zu den gefragtesten Modulen. Bei Spielen mit Speicherfunktion lohnt ein Blick, ob Spielstände noch gespeichert werden.",
+   "wiki": "https://de.wikipedia.org/wiki/Game_Boy"
+  },
+  {
+   "slug": "game-boy-color",
+   "name": "Nintendo Game Boy Color",
+   "short": "Game Boy Color",
+   "maker": "Nintendo",
+   "gen": "5. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "21.10.1998",
+   "us": "18.11.1998",
+   "eu": "23.11.1998",
+   "sold": "118,69 Mio. (zusammen mit Game Boy)",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "prev": "game-boy",
+   "successor": "game-boy-advance",
+   "games": [
+    "Pokémon Gold/Silber",
+    "Pokémon Kristall",
+    "The Legend of Zelda: Oracle of Seasons/Ages",
+    "Super Mario Bros. Deluxe"
+   ],
+   "faults": [
+    "Kratzer auf der Displayscheibe",
+    "Korrodierte Batteriekontakte",
+    "Fehlender Batteriedeckel"
+   ],
+   "notes": "Der Game Boy Color spielt auch fast alle alten Game-Boy-Spiele ab. Pokémon Kristall ist eines der wertvollsten Module.",
+   "wiki": "https://de.wikipedia.org/wiki/Game_Boy_Color"
+  },
+  {
+   "slug": "game-boy-advance",
+   "name": "Nintendo Game Boy Advance",
+   "short": "GBA",
+   "maker": "Nintendo",
+   "gen": "6. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "21.03.2001",
+   "us": "11.06.2001",
+   "eu": "22.06.2001",
+   "sold": "81,51 Mio. (alle Modelle inkl. SP und Micro)",
+   "soldSrc": "Nintendo",
+   "media": "Steckmodule",
+   "prev": "game-boy-color",
+   "successor": "nintendo-ds",
+   "games": [
+    "Pokémon Rubin/Saphir/Smaragd",
+    "Pokémon Feuerrot/Blattgrün",
+    "The Legend of Zelda: The Minish Cap",
+    "Metroid Fusion",
+    "Mario Kart: Super Circuit"
+   ],
+   "faults": [
+    "Kratzer auf dem Display",
+    "Beim GBA SP: Scharnier und Akku",
+    "Gefälschte Pokémon-Module (Fakes) sind verbreitet"
+   ],
+   "notes": "Vom GBA gibt es drei Modelle: das Original, den aufklappbaren GBA SP mit Beleuchtung und den kleinen Game Boy Micro. Bei Pokémon-Modulen auf Fälschungen achten.",
+   "wiki": "https://de.wikipedia.org/wiki/Game_Boy_Advance"
+  },
+  {
+   "slug": "nintendo-ds",
+   "name": "Nintendo DS",
+   "short": "DS",
+   "maker": "Nintendo",
+   "gen": "7. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "02.12.2004",
+   "us": "21.11.2004",
+   "eu": "11.03.2005",
+   "sold": "154,02 Mio. (alle Modelle)",
+   "soldSrc": "Nintendo",
+   "media": "DS-Spielkarten",
+   "prev": "game-boy-advance",
+   "successor": "nintendo-3ds",
+   "games": [
+    "Pokémon HeartGold/SoulSilver",
+    "Pokémon Platin",
+    "New Super Mario Bros.",
+    "Mario Kart DS",
+    "Nintendogs"
+   ],
+   "faults": [
+    "Gebrochene Scharniere",
+    "Defekter oder verkratzter Touchscreen",
+    "Schwacher Akku"
+   ],
+   "notes": "Der DS ist einer der meistverkauften Handhelds überhaupt. Die Modelle DS Lite und DSi sind heute am häufigsten zu finden.",
+   "wiki": "https://de.wikipedia.org/wiki/Nintendo_DS"
+  },
+  {
+   "slug": "nintendo-3ds",
+   "name": "Nintendo 3DS",
+   "short": "3DS",
+   "maker": "Nintendo",
+   "gen": "8. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "26.02.2011",
+   "us": "27.03.2011",
+   "eu": "25.03.2011",
+   "sold": "75,94 Mio. (alle Modelle inkl. 2DS)",
+   "soldSrc": "Nintendo",
+   "media": "3DS-Spielkarten",
+   "prev": "nintendo-ds",
+   "games": [
+    "Pokémon X/Y",
+    "Pokémon Sonne/Mond",
+    "Animal Crossing: New Leaf",
+    "The Legend of Zelda: A Link Between Worlds",
+    "Mario Kart 7"
+   ],
+   "faults": [
+    "Kratzer auf dem oberen Display durch die Tasten",
+    "Schwacher Akku",
+    "Defekte Schultertasten"
+   ],
+   "notes": "Seit der Schließung des eShops 2023 lassen sich keine neuen digitalen Spiele mehr kaufen. Konsolen mit vorinstallierten Spielen sind deshalb gefragt.",
+   "wiki": "https://de.wikipedia.org/wiki/Nintendo_3DS"
+  },
+  {
+   "slug": "playstation",
+   "name": "Sony PlayStation (PS1)",
+   "short": "PS1",
+   "maker": "Sony",
+   "gen": "5. Generation",
+   "type": "Heimkonsole",
+   "jp": "03.12.1994",
+   "us": "09.09.1995",
+   "eu": "29.09.1995",
+   "sold": "102,49 Mio.",
+   "soldSrc": "Sony",
+   "media": "CD-ROM",
+   "successor": "playstation-2",
+   "games": [
+    "Final Fantasy VII",
+    "Metal Gear Solid",
+    "Crash Bandicoot",
+    "Spyro the Dragon",
+    "Gran Turismo"
+   ],
+   "faults": [
+    "Laufwerk liest CDs nicht mehr oder springt",
+    "Defekte Memory Cards",
+    "Fehlende Spielanleitungen oder gebrochene CD-Hüllen"
+   ],
+   "notes": "Die erste PlayStation machte Sony zum großen Konsolenhersteller. Die kleinere PSone von 2000 ist dieselbe Konsole in kompaktem Gehäuse.",
+   "wiki": "https://de.wikipedia.org/wiki/PlayStation"
+  },
+  {
+   "slug": "playstation-2",
+   "name": "Sony PlayStation 2",
+   "short": "PS2",
+   "maker": "Sony",
+   "gen": "6. Generation",
+   "type": "Heimkonsole",
+   "jp": "04.03.2000",
+   "us": "26.10.2000",
+   "eu": "24.11.2000",
+   "sold": "über 155 Mio.",
+   "soldSrc": "Sony",
+   "media": "DVD und CD",
+   "prev": "playstation",
+   "successor": "playstation-3",
+   "games": [
+    "Grand Theft Auto: San Andreas",
+    "Gran Turismo 4",
+    "Final Fantasy X",
+    "Kingdom Hearts",
+    "Shadow of the Colossus"
+   ],
+   "faults": [
+    "Laser schwach: Discs werden nicht erkannt (besonders bei blauen DVDs)",
+    "Defekte Controller",
+    "Bei der Slim-Version: Deckelmechanik"
+   ],
+   "notes": "Die PS2 ist die meistverkaufte Heimkonsole aller Zeiten. Sie spielt auch die meisten PS1-Spiele ab.",
+   "wiki": "https://de.wikipedia.org/wiki/PlayStation_2"
+  },
+  {
+   "slug": "playstation-3",
+   "name": "Sony PlayStation 3",
+   "short": "PS3",
+   "maker": "Sony",
+   "gen": "7. Generation",
+   "type": "Heimkonsole",
+   "jp": "11.11.2006",
+   "us": "17.11.2006",
+   "eu": "23.03.2007",
+   "sold": null,
+   "media": "Blu-ray, DVD, CD",
+   "prev": "playstation-2",
+   "games": [
+    "The Last of Us",
+    "Uncharted 2",
+    "Red Dead Redemption",
+    "Demon's Souls",
+    "Metal Gear Solid 4"
+   ],
+   "faults": [
+    "„Yellow Light of Death“ bei frühen Modellen (Überhitzung)",
+    "Laufwerk liest Blu-rays nicht mehr",
+    "Lautes Lüftergeräusch durch Staub"
+   ],
+   "notes": "Frühe Modelle mit 60 GB konnten auch PS2-Spiele abspielen und sind bei Sammlern gesucht.",
+   "wiki": "https://de.wikipedia.org/wiki/PlayStation_3"
+  },
+  {
+   "slug": "psp",
+   "name": "Sony PlayStation Portable (PSP)",
+   "short": "PSP",
+   "maker": "Sony",
+   "gen": "7. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "12.12.2004",
+   "us": "24.03.2005",
+   "eu": "01.09.2005",
+   "sold": null,
+   "media": "UMD",
+   "successor": "ps-vita",
+   "games": [
+    "God of War: Chains of Olympus",
+    "Monster Hunter Freedom Unite",
+    "Grand Theft Auto: Liberty City Stories",
+    "Crisis Core: Final Fantasy VII",
+    "Metal Gear Solid: Peace Walker"
+   ],
+   "faults": [
+    "Aufgeblähter Akku (nicht mehr verwenden!)",
+    "UMD-Laufwerk defekt",
+    "Kratzer auf dem Display"
+   ],
+   "notes": "Ein aufgeblähter Akku ist ein Sicherheitsrisiko und muss getauscht werden. Die PSP gibt es in den Modellen 1000, 2000, 3000, Go und Street.",
+   "wiki": "https://de.wikipedia.org/wiki/PlayStation_Portable"
+  },
+  {
+   "slug": "ps-vita",
+   "name": "Sony PlayStation Vita",
+   "short": "PS Vita",
+   "maker": "Sony",
+   "gen": "8. Generation (Handheld)",
+   "type": "Handheld",
+   "jp": "17.12.2011",
+   "us": "22.02.2012",
+   "eu": "22.02.2012",
+   "sold": null,
+   "media": "PS-Vita-Karten",
+   "prev": "psp",
+   "games": [
+    "Persona 4 Golden",
+    "Uncharted: Golden Abyss",
+    "Gravity Rush",
+    "Tearaway",
+    "LittleBigPlanet PS Vita"
+   ],
+   "faults": [
+    "Teure, proprietäre Speicherkarten fehlen oft",
+    "Kratzer auf dem OLED-Display (Modell 1000)",
+    "Defekte Rückseiten-Touchfläche"
+   ],
+   "notes": "Die PS Vita verkaufte sich vergleichsweise schwach, deshalb steigen die Preise für Konsole und Spiele seit Jahren.",
+   "wiki": "https://de.wikipedia.org/wiki/PlayStation_Vita"
+  },
+  {
+   "slug": "sega-master-system",
+   "name": "Sega Master System",
+   "short": "Master System",
+   "maker": "Sega",
+   "gen": "3. Generation (8 Bit)",
+   "type": "Heimkonsole",
+   "jp": "20.10.1985 (als Sega Mark III)",
+   "us": "1986",
+   "eu": "1987",
+   "sold": null,
+   "media": "Steckmodule und Sega Cards",
+   "successor": "sega-mega-drive",
+   "games": [
+    "Alex Kidd in Miracle World",
+    "Sonic the Hedgehog",
+    "Wonder Boy III: The Dragon's Trap",
+    "Phantasy Star"
+   ],
+   "faults": [
+    "Kontaktprobleme am Modulschacht",
+    "Defekte Controller",
+    "Fehlendes Netzteil"
+   ],
+   "notes": "In Europa und Brasilien war das Master System deutlich erfolgreicher als in den USA. Beim Master System II ist Alex Kidd oft fest eingebaut.",
+   "wiki": "https://de.wikipedia.org/wiki/Sega_Master_System"
+  },
+  {
+   "slug": "sega-mega-drive",
+   "name": "Sega Mega Drive",
+   "short": "Mega Drive",
+   "maker": "Sega",
+   "gen": "4. Generation (16 Bit)",
+   "type": "Heimkonsole",
+   "jp": "29.10.1988",
+   "us": "14.08.1989 (als Genesis)",
+   "eu": "30.11.1990",
+   "sold": null,
+   "media": "Steckmodule",
+   "prev": "sega-master-system",
+   "successor": "sega-saturn",
+   "games": [
+    "Sonic the Hedgehog 2",
+    "Streets of Rage 2",
+    "Golden Axe",
+    "Gunstar Heroes",
+    "Shinobi III"
+   ],
+   "faults": [
+    "Kontaktprobleme am Modulschacht",
+    "Gebrochene Spielhüllen (die typischen Kunststoffboxen)",
+    "Fehlendes Netzteil oder Antennenkabel"
+   ],
+   "notes": "In den USA hieß die Konsole Genesis. Der Mega Drive lieferte sich Anfang der 90er mit dem SNES den berühmten 16-Bit-Konsolenkrieg.",
+   "wiki": "https://de.wikipedia.org/wiki/Sega_Mega_Drive"
+  },
+  {
+   "slug": "sega-saturn",
+   "name": "Sega Saturn",
+   "short": "Saturn",
+   "maker": "Sega",
+   "gen": "5. Generation",
+   "type": "Heimkonsole",
+   "jp": "22.11.1994",
+   "us": "11.05.1995",
+   "eu": "08.07.1995",
+   "sold": null,
+   "media": "CD-ROM",
+   "prev": "sega-mega-drive",
+   "successor": "sega-dreamcast",
+   "games": [
+    "Panzer Dragoon Saga",
+    "NiGHTS into Dreams",
+    "Virtua Fighter 2",
+    "Guardian Heroes"
+   ],
+   "faults": [
+    "Leere Uhr-Batterie (CR2032): Datum geht verloren",
+    "Laufwerk liest nicht mehr",
+    "Selten gewordene Original-Controller"
+   ],
+   "notes": "Der Saturn war außerhalb Japans wenig erfolgreich. Spiele wie Panzer Dragoon Saga gehören zu den teuersten Konsolenspielen überhaupt.",
+   "wiki": "https://de.wikipedia.org/wiki/Sega_Saturn"
+  },
+  {
+   "slug": "sega-dreamcast",
+   "name": "Sega Dreamcast",
+   "short": "Dreamcast",
+   "maker": "Sega",
+   "gen": "6. Generation",
+   "type": "Heimkonsole",
+   "jp": "27.11.1998",
+   "us": "09.09.1999",
+   "eu": "14.10.1999",
+   "sold": null,
+   "media": "GD-ROM",
+   "prev": "sega-saturn",
+   "games": [
+    "Shenmue",
+    "Soulcalibur",
+    "Jet Set Radio",
+    "Crazy Taxi",
+    "Sonic Adventure"
+   ],
+   "faults": [
+    "Laufwerk liest GD-ROMs nicht mehr",
+    "Lauter Lüfter",
+    "Leere interne Batterie"
+   ],
+   "notes": "Die Dreamcast war Segas letzte Konsole. Danach entwickelte Sega nur noch Spiele für andere Plattformen.",
+   "wiki": "https://de.wikipedia.org/wiki/Dreamcast"
+  },
+  {
+   "slug": "xbox",
+   "name": "Microsoft Xbox",
+   "short": "Xbox",
+   "maker": "Microsoft",
+   "gen": "6. Generation",
+   "type": "Heimkonsole",
+   "jp": "22.02.2002",
+   "us": "15.11.2001",
+   "eu": "14.03.2002",
+   "sold": null,
+   "media": "DVD",
+   "successor": "xbox-360",
+   "games": [
+    "Halo: Combat Evolved",
+    "Halo 2",
+    "Fable",
+    "Star Wars: Knights of the Old Republic",
+    "Ninja Gaiden"
+   ],
+   "faults": [
+    "Ausgelaufener Uhr-Kondensator bei frühen Modellen (sollte entfernt werden)",
+    "Laufwerk liest Discs nicht mehr",
+    "Fehlende oder defekte Controller"
+   ],
+   "notes": "Die erste Xbox war Microsofts Einstieg in den Konsolenmarkt. Der große Original-Controller hatte den Spitznamen „The Duke“.",
+   "wiki": "https://de.wikipedia.org/wiki/Xbox_(Spielkonsole)"
+  },
+  {
+   "slug": "xbox-360",
+   "name": "Microsoft Xbox 360",
+   "short": "Xbox 360",
+   "maker": "Microsoft",
+   "gen": "7. Generation",
+   "type": "Heimkonsole",
+   "jp": "10.12.2005",
+   "us": "22.11.2005",
+   "eu": "02.12.2005",
+   "sold": null,
+   "media": "DVD",
+   "prev": "xbox",
+   "games": [
+    "Halo 3",
+    "Gears of War",
+    "Forza Motorsport 4",
+    "Mass Effect 2",
+    "Red Dead Redemption"
+   ],
+   "faults": [
+    "„Red Ring of Death“ bei frühen Modellen (Überhitzung)",
+    "Laufwerk laut oder defekt",
+    "Fehlendes Netzteil (der große externe „Ziegel“)"
+   ],
+   "notes": "Frühe Modelle fielen häufig mit dem „Red Ring of Death“ aus. Die späteren Slim- und E-Modelle sind deutlich zuverlässiger.",
+   "wiki": "https://de.wikipedia.org/wiki/Xbox_360"
+  },
+  {
+   "slug": "atari-2600",
+   "name": "Atari 2600 (Atari VCS)",
+   "short": "Atari 2600",
+   "maker": "Atari",
+   "gen": "2. Generation",
+   "type": "Heimkonsole",
+   "jp": null,
+   "us": "11.09.1977",
+   "eu": null,
+   "sold": null,
+   "media": "Steckmodule",
+   "games": [
+    "Space Invaders",
+    "Pac-Man",
+    "Pitfall!",
+    "Adventure",
+    "River Raid"
+   ],
+   "faults": [
+    "Ausgeleierte Joysticks",
+    "Kontaktprobleme am Modulschacht",
+    "Fehlendes Netzteil oder TV-Umschaltbox"
+   ],
+   "notes": "Der Atari 2600 machte Videospiele mit wechselbaren Modulen in den Wohnzimmern populär. Er hieß zuerst Atari VCS (Video Computer System).",
+   "wiki": "https://de.wikipedia.org/wiki/Atari_2600"
+  }
+ ]
+}

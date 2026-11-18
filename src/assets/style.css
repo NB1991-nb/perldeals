@@ -736,3 +736,8 @@ html[data-mode="reseller"] .subnav .nav-rs{display:inline-block}
 .lp-stat strong{font-size:1.8rem;color:var(--accent);line-height:1.1}
 .lp-stat span{color:var(--muted);font-size:.9rem}
 .lp-cta{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 18px}
+/* Ankauf-Box im Konsolen-Lexikon (18.11.) */
+.ak-box{background:linear-gradient(135deg,#0B776B,#06463f);color:#fff;border-radius:20px;padding:24px 26px;margin:24px 0}
+.ak-box h2{color:#fff;margin:0 0 8px}.ak-box p{color:#fff;opacity:.95;margin:0 0 10px}
+.ak-box .btn-ghost{background:#fff;color:#0B776B}
+.ak-box .btn-primary{background:#F5C542;color:#06463f;border-color:#F5C542}

@@ -1817,6 +1817,46 @@ function buildRsLandings(){
   const dir = `${OUT}/reseller/start`; fs.mkdirSync(dir, {recursive:true});
   fs.writeFileSync(`${dir}/index.html`, `<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Reseller-Deals · perldeals</title><link rel="canonical" href="${BASE}/reseller/"><script>(function(){var V=${JSON.stringify(RS_LP)},v=null;try{v=localStorage.getItem("pd-rslp")}catch(e){}if(V.indexOf(v)<0){v=V[Math.floor(Math.random()*V.length)];try{localStorage.setItem("pd-rslp",v)}catch(e){}}location.replace("/reseller/lp/"+v+"/"+location.search+location.hash)})();</script></head><body><p><a href="/reseller/">Weiter zu den Reseller-Deals</a></p></body></html>`);
 }
+/* 18.11.: Konsolen-Lexikon (Retro- und ältere Konsolen) mit Ankauf-Hinweis (Nico: „wir kaufen funktionierende Konsolen, per WhatsApp anfragen“) */
+const KONS = fs.existsSync(`${SRC}/data/konsolen.json`) ? JSON.parse(fs.readFileSync(`${SRC}/data/konsolen.json`, "utf8")) : null;
+function buildKonsolen(){
+  if (!KONS) return;
+  const P = "/reseller/konsolen-lexikon/", url = k => `${P}${k.slug}/`, by = Object.fromEntries(KONS.items.map(k => [k.slug, k]));
+  const wa = k => `https://wa.me/${WA_PHONE.slice(1)}?text=${encodeURIComponent(`Hallo, ich möchte meine ${k.short} verkaufen. Hier ein paar Fotos und was dabei ist: `)}`;
+  const year = d => (String(d || "").match(/(19|20)\d\d/) || [""])[0];
+  const box = k => `<div class="ak-box"><h2>💰 Wir kaufen deine ${esc(k.short)}!</h2><p>Du hast noch eine ${esc(k.short)} im Schrank? Wir kaufen ${k.type === "Handheld" ? "Handhelds" : "Konsolen"} und Spiele <strong>in funktionierendem Zustand</strong> an, gern mit Controller, Kabeln, Spielen und Originalverpackung. Schick uns einfach ein paar Fotos per WhatsApp und schreib dazu, was dabei ist. Das Angebot ist kostenlos und unverbindlich.</p><p class="lp-cta"><a class="btn btn-primary" data-cta href="${wa(k)}" target="_blank" rel="noopener">📲 ${esc(k.short)} per WhatsApp anbieten</a> <a class="btn btn-ghost" href="/reseller/ankauf/retro-konsolen/">Mehr zum Konsolen-Ankauf</a></p></div>`;
+  const chips = cur => `<nav class="chips">${KONS.items.filter(x => x !== cur).map(x => `<a class="chip" href="${url(x)}">${esc(x.short)}</a>`).join("")}</nav>`;
+  for (const k of KONS.items) {
+    const rows = [["Hersteller", k.maker], ["Art", k.type], ["Generation", k.gen], ...(k.jp ? [["Erschienen in Japan", k.jp]] : []), ...(k.us ? [["Erschienen in Nordamerika", k.us]] : []), ...(k.eu ? [["Erschienen in Europa", k.eu]] : []), ["Spiele-Medium", k.media], ...(k.sold ? [["Verkaufte Einheiten weltweit", `${k.sold} (laut ${k.soldSrc})`]] : [])];
+    const nav = [k.prev && by[k.prev] ? `← Vorgänger: <a href="${url(by[k.prev])}">${esc(by[k.prev].short)}</a>` : "", k.successor && by[k.successor] ? `Nachfolger: <a href="${url(by[k.successor])}">${esc(by[k.successor].short)}</a> →` : ""].filter(Boolean).join(" · ");
+    const first = k.eu || k.us || k.jp;
+    const body = `<div class="wrap legal wissen">
+      <div class="tbl-wrap"><table class="ev-tbl ps-tbl"><tbody>${rows.map(r => `<tr><td>${r[0]}</td><td><strong>${esc(r[1])}</strong></td></tr>`).join("")}</tbody></table></div>
+      ${nav ? `<p>${nav}</p>` : ""}
+      <h2>Die ${esc(k.short)} kurz erklärt</h2><p>${esc(k.notes)}</p>
+      <h2>Bekannte Spiele für die ${esc(k.short)}</h2><ul class="checklist">${k.games.map(g => `<li>${esc(g)}</li>`).join("")}</ul>
+      <h2>Worauf du bei einer gebrauchten ${esc(k.short)} achten solltest</h2><ul class="checklist">${k.faults.map(g => `<li>${esc(g)}</li>`).join("")}</ul>
+      <h2>Was ist meine ${esc(k.short)} wert?</h2><p>Der Preis hängt vor allem davon ab, ob die Konsole funktioniert, wie gut sie erhalten ist und was dabei ist: Originalverpackung, Anleitung, Original-Controller und Kabel steigern den Wert deutlich, Vergilbung, Kratzer und fehlendes Zubehör senken ihn. Einen guten Anhaltspunkt geben die <strong>verkauften</strong> Angebote bei eBay, nicht die Angebotspreise. Du willst dir den Aufwand sparen? Dann schick uns Fotos, wir machen dir ein Angebot.</p>
+      </div><div class="wrap">${box(k)}</div><div class="wrap legal wissen">
+      <h2>Weitere Konsolen im Lexikon</h2>${chips(k)}
+      <p><a href="${P}"><strong>← Alle Konsolen im Überblick</strong></a> · <a href="/reseller/ankauf/videospiele/">Videospiele verkaufen</a></p>
+      <p class="note">Quelle für Erscheinungsdaten und Verkaufszahlen: Herstellerangaben, zusammengefasst bei <a href="${esc(k.wiki)}" rel="nofollow noopener" target="_blank">Wikipedia</a>. Verkaufszahlen nennen wir nur, wenn der Hersteller sie veröffentlicht hat.</p></div>`;
+    const faq = [[`Wann ist die ${k.short} erschienen?`, [k.jp && `in Japan am ${k.jp}`, k.us && `in Nordamerika am ${k.us}`, k.eu && `in Europa ${/\./.test(k.eu) ? "am " : ""}${k.eu}`].filter(Boolean).join(", ").replace(/^./, c => c.toUpperCase()) + "."],
+      ...(k.sold ? [[`Wie oft wurde die ${k.short} verkauft?`, `Laut ${k.soldSrc} ${k.sold} Einheiten weltweit.`]] : []),
+      [`Kauft ihr meine ${k.short} an?`, `Ja, wenn sie funktioniert. Schick uns Fotos per WhatsApp und schreib dazu, was dabei ist (Controller, Kabel, Spiele, Verpackung). Das Angebot ist kostenlos und unverbindlich.`]];
+    rsPage({path:url(k), active:"ankauf", trail:[["Konsolen-Lexikon", P], [k.short]], eyebrow:`Konsolen-Lexikon · ${k.maker} · ${year(first)}`, h1:`${k.name}: Erscheinungsdatum, Fakten & Ankauf`,
+      lead:esc(`Wann kam die ${k.short} raus, wie oft wurde sie verkauft und worauf muss man bei gebrauchten Geräten achten? Alle Fakten auf einen Blick – und wir kaufen deine ${k.short} an.`),
+      title:`${k.short}: Erscheinungsdatum, Fakten & Ankauf · perldeals`, desc:`${k.name}: Erscheinungsdatum${k.eu ? ` in Europa ${k.eu}` : ""}, Hersteller ${k.maker}${k.sold ? `, ${k.sold} verkauft` : ""}, bekannte Spiele, typische Defekte. Wir kaufen deine ${k.short} an.`.slice(0, 158), body, faq});
+  }
+  const sorted2 = [...KONS.items].sort((a, b) => year(a.jp || a.us || a.eu).localeCompare(year(b.jp || b.us || b.eu)));
+  const body = `<div class="wrap legal wissen"><p>Von Atari 2600 bis Wii U: Erscheinungsdaten, Hersteller, Verkaufszahlen und typische Schwachstellen der bekanntesten Konsolen und Handhelds. Und falls du deine alte Konsole loswerden willst: Wir kaufen funktionierende Geräte und Spiele an.</p>
+    <div class="tbl-wrap"><table class="ev-tbl ps-tbl"><thead><tr><th>Konsole</th><th>Hersteller</th><th>Erstes Erscheinen</th><th>Europa</th><th>Verkauft</th></tr></thead><tbody>${sorted2.map(k => `<tr><td><a href="${url(k)}"><strong>${esc(k.short)}</strong></a></td><td>${esc(k.maker)}</td><td>${year(k.jp || k.us)}</td><td>${esc(k.eu || "–")}</td><td>${k.sold ? esc(k.sold.split(" (")[0]) : "–"}</td></tr>`).join("")}</tbody></table></div></div>
+    <div class="wrap"><div class="ak-box"><h2>💰 Wir kaufen deine alte Konsole!</h2><p>Funktionierende Konsolen, Handhelds und Spiele, gern mit Zubehör und Verpackung: Schick uns Fotos per WhatsApp, du bekommst ein kostenloses, unverbindliches Angebot.</p><p class="lp-cta"><a class="btn btn-primary" data-cta href="https://wa.me/${WA_PHONE.slice(1)}?text=${encodeURIComponent("Hallo, ich möchte eine Konsole verkaufen. Hier ein paar Fotos: ")}" target="_blank" rel="noopener">📲 Per WhatsApp anbieten</a> <a class="btn btn-ghost" href="/reseller/ankauf/retro-konsolen/">Mehr zum Konsolen-Ankauf</a></p></div></div>`;
+  rsPage({path:P, active:"ankauf", trail:[["Konsolen-Lexikon"]], eyebrow:`Konsolen-Lexikon · ${KONS.items.length} Konsolen`, h1:"Konsolen-Lexikon: alle Retro-Konsolen mit Erscheinungsdatum",
+    lead:esc("NES, SNES, N64, Game Boy, PlayStation, Mega Drive, Dreamcast und mehr: wann sie erschienen sind, wie oft sie verkauft wurden und worauf du bei gebrauchten Geräten achten musst."),
+    title:"Konsolen-Lexikon: Retro-Konsolen mit Erscheinungsdatum & Fakten · perldeals", desc:"Erscheinungsdaten, Hersteller und Verkaufszahlen von NES, SNES, N64, GameCube, Game Boy, PS1, PS2, Mega Drive, Dreamcast, Xbox und mehr. Plus Ankauf deiner alten Konsole.", body,
+    faq:[["Welche Konsole hat sich am häufigsten verkauft?", "Unter den Konsolen in unserem Lexikon die PlayStation 2 mit laut Sony über 155 Millionen Einheiten, bei den Handhelds der Nintendo DS mit 154,02 Millionen laut Nintendo."],["Kauft ihr alte Konsolen an?", "Ja, wenn sie funktionieren. Schick uns Fotos per WhatsApp, wir machen dir ein kostenloses Angebot."]]});
+}
 /* Karriere (Nico 06.11.): offene Stellen, schnelle Bewerbung per WhatsApp oder Kurzformular, Lebenslauf freiwillig */
 const JOBS = [{
   id: "aushilfe-hagen", title: "Aushilfe Versand & eBay-Listings (m/w/d)", form: "Aushilfe Versand & eBay-Listings (Hagen a.T.W.)",
@@ -2986,7 +3026,7 @@ for (const lang of LANGS){
   buildAccount(lang);
   buildAdvisor(lang);
   if (lang === "en") { TOPICS.forEach(buildTopicEn); buildTopicIndexEn(); BRANDS.forEach(buildBrandEn); WISSEN.items.forEach(buildWissenEn); buildWissenIndexEn(); }
-  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildRsLandings(); buildPokemonSets(); buildPreisindex(); }
+  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildRsLandings(); buildKonsolen(); buildPokemonSets(); buildPreisindex(); }
   ["imprint","money","privacy"].forEach(k => buildLegal(lang, k));
 }
 
