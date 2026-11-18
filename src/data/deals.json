@@ -9890,24 +9890,6 @@
       },
       "added": "2026-11-18T14:25:00+01:00",
       "checked": "2026-11-18T14:25:00+01:00"
-    },
-    {
-      "id": "lego-city-60414-feuerwehrstation",
-      "asin": "B0CFWMZQ3Y",
-      "brand": "LEGO",
-      "cat": "toys",
-      "now": 54.99,
-      "was": 79.99,
-      "title": {
-        "de": "LEGO City 60414 Feuerwehrstation mit Drehleiterfahrzeug",
-        "en": "LEGO City 60414 Fire Station with Fire Truck"
-      },
-      "note": {
-        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
-        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
-      },
-      "added": "2026-11-18T14:25:00+01:00",
-      "checked": "2026-11-18T14:25:00+01:00"
     }
   ]
 }
