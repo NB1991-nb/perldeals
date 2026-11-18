@@ -1,7 +1,83 @@
 {
-  "updated": "2026-11-18T14:25:00Z",
+  "updated": "2026-11-18T16:23:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "cecotec-cremmaet-latte-touch",
+      "asin": "B0FKT11RN6",
+      "brand": "Cecotec",
+      "cat": "kitchen",
+      "now": 193.99,
+      "was": 299,
+      "title": {
+        "de": "Cecotec Cremmaet Latte Touch Kaffeevollautomat",
+        "en": "Cecotec Cremmaet Latte Touch bean-to-cup coffee machine"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-18T17:25:00+01:00",
+      "checked": "2026-11-18T17:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "bosch-universalimpact-18v-1-akku",
+      "asin": "B09877WFM6",
+      "brand": "Bosch",
+      "cat": "tools",
+      "now": 78.69,
+      "was": 104.99,
+      "title": {
+        "de": "Bosch UniversalImpact 18V Akku-Schlagbohrschrauber (1 Akku)",
+        "en": "Bosch UniversalImpact 18V cordless impact drill (1 battery)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-18T17:25:00+01:00",
+      "checked": "2026-11-18T17:25:00+01:00",
+      "validUntil": "2026-11-27"
+    },
+    {
+      "id": "razer-deathadder-v3-hyperspeed",
+      "asin": "B0D384K6L9",
+      "brand": "Razer",
+      "cat": "computer",
+      "now": 55.49,
+      "was": 70.35,
+      "title": {
+        "de": "Razer DeathAdder V3 HyperSpeed kabellose Gaming-Maus",
+        "en": "Razer DeathAdder V3 HyperSpeed wireless gaming mouse"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-18T17:25:00+01:00",
+      "checked": "2026-11-18T17:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "tcl-65t6c-65-zoll",
+      "asin": "B0DW96CFKL",
+      "brand": "TCL",
+      "cat": "tv",
+      "now": 349,
+      "was": 439,
+      "title": {
+        "de": "TCL 65T6C 65\" QLED 4K Fire TV",
+        "en": "TCL 65T6C 65\" QLED 4K Fire TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-18T17:25:00+01:00",
+      "checked": "2026-11-18T17:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "tcl-75t6c-75-zoll",
       "asin": "B0DW996637",
