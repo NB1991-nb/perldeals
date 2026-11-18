@@ -3,6 +3,176 @@
  "amazonTag": "boeketv-21",
  "deals": [
   {
+   "id": "microsoft-surface-laptop-snapdragon-x2-elite",
+   "asin": "B0GWDRX83G",
+   "brand": "Microsoft",
+   "cat": "computer",
+   "now": 1169,
+   "was": 1799,
+   "title": {
+    "de": "Microsoft Surface Laptop 13,8\" Snapdragon X2 Elite, 16 GB",
+    "en": "Microsoft Surface Laptop 13.8\" Snapdragon X2 Elite, 16 GB"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "zwilling-core-pfannenset-3tlg",
+   "asin": "B0845DNMH3",
+   "brand": "Zwilling",
+   "cat": "kitchen",
+   "now": 107.99,
+   "was": 169,
+   "title": {
+    "de": "ZWILLING Core Bratpfannen-Set, 3-teilig, Keramik",
+    "en": "ZWILLING Core frying pan set, 3 pieces, ceramic"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "lenovo-legion-27qd-10",
+   "asin": "B0FHKZ9ZTS",
+   "brand": "Lenovo",
+   "cat": "computer",
+   "now": 139,
+   "was": 216.35,
+   "title": {
+    "de": "Lenovo Legion 27QD-10 27\" QHD Gaming-Monitor",
+    "en": "Lenovo Legion 27QD-10 27\" QHD gaming monitor"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "samsung-microsd-t7-512gb",
+   "asin": "B0GMRHHCHC",
+   "brand": "Samsung",
+   "cat": "computer",
+   "now": 89.99,
+   "was": 149.99,
+   "title": {
+    "de": "Samsung microSD T7 512 GB",
+    "en": "Samsung microSD T7 512 GB"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "dreame-l40-ultra-a",
+   "asin": "B0GSRVQB6D",
+   "brand": "Dreame",
+   "cat": "smarthome",
+   "now": 299,
+   "was": 499,
+   "title": {
+    "de": "Dreame L40 Ultra A Saug- und Wischroboter",
+    "en": "Dreame L40 Ultra A robot vacuum and mop"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "cmf-buds-pro-2",
+   "asin": "B0F5B56X84",
+   "brand": "CMF by Nothing",
+   "cat": "headphones",
+   "now": 36.95,
+   "was": 64.95,
+   "title": {
+    "de": "CMF by Nothing Buds Pro 2",
+    "en": "CMF by Nothing Buds Pro 2"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "cosori-airfryer-6-2l-sichtfenster",
+   "asin": "B0CBC78NGX",
+   "brand": "Cosori",
+   "cat": "kitchen",
+   "now": 59.99,
+   "was": 109.99,
+   "title": {
+    "de": "Cosori Airfryer 6,2 L mit Sichtfenster, 12-in-1",
+    "en": "Cosori air fryer 6.2 L with window, 12-in-1"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "philips-senseo-original-plus",
+   "asin": "B08Z4CMJYH",
+   "brand": "Philips",
+   "cat": "kitchen",
+   "now": 49.9,
+   "was": 94.99,
+   "title": {
+    "de": "Philips Senseo Original Plus Kaffeepadmaschine",
+    "en": "Philips Senseo Original Plus coffee pod machine"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00",
+   "validUntil": "2026-11-30"
+  },
+  {
+   "id": "witcher-3-complete-ps5",
+   "asin": "B0BW14XMLV",
+   "brand": "Bandai Namco",
+   "cat": "computer",
+   "now": 19.99,
+   "was": 39.99,
+   "title": {
+    "de": "The Witcher 3: Complete Edition (PS5)",
+    "en": "The Witcher 3: Complete Edition (PS5)"
+   },
+   "note": {
+    "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+    "en": "Amazon price via Amazon API on 18 Nov 2026; reference = Amazon list price. Sold by Amazon."
+   },
+   "added": "2026-11-18T07:40:00+01:00",
+   "checked": "2026-11-18T07:40:00+01:00"
+  },
+  {
    "id": "amazon-ember-4-55-zoll",
    "asin": "B0DFNM3XZ9",
    "brand": "Amazon",
