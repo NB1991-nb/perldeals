@@ -12171,5 +12171,503 @@
    "title": "Best tablet 2026: 6 tablets compared (iPad, Android)",
    "desc": "Best tablet 2026: iPad A16, iPad Air M3, Xiaomi Pad 7, Galaxy Tab S10 FE, Lenovo Idea Tab Pro and Fire Max 11 compared, based on independent reviews."
   }
+ },
+ "beste-action-cam": {
+  "updated": "2026-11-18",
+  "cat": "sport",
+  "keyword": "beste action cam",
+  "sources": [
+   [
+    "Tom's Guide: Best action cameras in 2026 (aktualisiert 31.07.2026)",
+    "https://www.tomsguide.com/us/best-action-cameras%2Creview-3046.html"
+   ],
+   [
+    "TechRadar: The best action camera (aktualisiert 13.10.2026)",
+    "https://www.techradar.com/news/la-mejor-camara-de-accion-del-2019-10-camaras-para-la-generacion-de-gopro"
+   ]
+  ],
+  "de": {
+   "h1": "Beste Action-Cam 2026: Die 6 besten Actionkameras von DJI, GoPro und Insta360",
+   "eyebrow": "Bestenliste · Sport & Outdoor",
+   "title": "Beste Action-Cam 2026: DJI Osmo Action 6, GoPro Hero13 & Co. im Vergleich",
+   "desc": "Die besten Action-Cams 2026 laut Tests von Tom's Guide und TechRadar: DJI Osmo Action 6 und 5 Pro, GoPro Hero13 Black, Insta360 X5, Go 3S und ein Budget-Tipp.",
+   "answer": "Die beste Action-Cam für die meisten ist laut Tom's Guide die DJI Osmo Action 6: großer Sensor, starke Bildstabilisierung, gutes Licht bei Dunkelheit und 20 m wasserdicht ohne Gehäuse. Preis-Leistungs-Tipp ist die DJI Osmo Action 5 Pro mit rund 112 Minuten Akkulaufzeit bei 4K/60 im Test. Wer das größte Zubehör-Ökosystem und 5,3K-Video will, nimmt die GoPro Hero13 Black (bei TechRadar die beste insgesamt). Für 360-Grad-Aufnahmen ist die Insta360 X5 die erste Wahl, die winzige Insta360 Go 3S passt an jede Mütze, und günstig bleibt die DJI Osmo Action 4.",
+   "intro": "Für diese Bestenliste haben wir die aktuellen Bestenlisten und Tests von Tom's Guide (Stand 31.07.2026) und TechRadar (Stand 13.10.2026) ausgewertet. Wir haben die Kameras nicht selbst getestet. Messwerte wie Akkulaufzeiten stammen aus den genannten Tests. Wo sich die Angaben der beiden Quellen unterscheiden, nennen wir die Quelle. Aktuelle Preise siehst du live bei den verlinkten Deals.",
+   "criteria": [
+    [
+     "Worauf du achten solltest: Sensor und Low-Light",
+     "Größere Sensoren liefern bei wenig Licht deutlich bessere Bilder. TechRadar nennt bei der DJI Osmo Action 6 einen 1/1,1-Zoll-Sensor, bei der Osmo Action 4 1/1,3 Zoll. Bei der GoPro Hero13 kritisiert TechRadar schwache Low-Light-Ergebnisse."
+    ],
+    [
+     "Worauf du achten solltest: Wasserdicht ohne Gehäuse",
+     "Die DJI-Modelle Action 5 Pro und Action 6 sind laut Tom's Guide bis 20 m wasserdicht, die GoPro Hero13 bis etwa 10 m. Die Insta360 Go 3S ist mit Action Pod nur spritzwassergeschützt."
+    ],
+    [
+     "Worauf du achten solltest: Akkulaufzeit",
+     "Im Test von Tom's Guide hielt die Osmo Action 6 rund 120 Minuten bei 4K/60, die Action 5 Pro 112 Minuten, die GoPro Hero13 Black 80 Minuten. Für lange Touren lohnt sich ein Zweitakku."
+    ],
+    [
+     "Worauf du achten solltest: Zubehör und Halterungen",
+     "GoPro hat laut beiden Tests das größte Zubehör-Angebot mit Lens Mods und Magnet-Halterung. DJI setzt auf ein eigenes magnetisches Schnellwechsel-System. Prüfe, ob deine vorhandenen Halterungen passen."
+    ],
+    [
+     "Worauf du achten solltest: 360 Grad oder klassisch",
+     "Eine 360-Grad-Kamera wie die Insta360 X5 filmt alles rundherum, du wählst den Bildausschnitt später in der App. Das ist ideal für Ski, Fahrrad und Vlogs, braucht aber mehr Nachbearbeitung."
+    ]
+   ],
+   "items": [
+    {
+     "name": "DJI Osmo Action 6",
+     "brand": "DJI",
+     "label": "Unser Top-Tipp: die beste Action-Cam für die meisten",
+     "why": "Tom's Guide wählt die Osmo Action 6 zur besten Action-Cam insgesamt. Gelobt werden die Videoqualität, die Bildstabilisierung, die guten Aufnahmen bei wenig Licht dank großem Sensor, der gute interne Ton und die wechselbaren Objektive. Im Test hielt der Akku rund 120 Minuten bei 4K/60. Sie ist ohne Gehäuse bis 20 m wasserdicht. TechRadar empfiehlt sie als beste Action-Cam für Unterwasser-Aufnahmen und kritisiert nur die etwas aggressive Bildbearbeitung in der Kamera.",
+     "plus": [
+      "Großer Sensor, gut bei wenig Licht",
+      "Starke Bildstabilisierung",
+      "20 m wasserdicht ohne Gehäuse",
+      "Rund 120 Minuten Akku bei 4K/60 (Tom's Guide)"
+     ],
+     "minus": [
+      "Bildbearbeitung in der Kamera laut TechRadar teils aggressiv",
+      "Zubehör-Befestigung laut TechRadar etwas fummelig",
+      "Teurer als die Action 5 Pro"
+     ],
+     "specs": [
+      [
+       "Sensor",
+       "1/1,1 Zoll (laut TechRadar)"
+      ],
+      [
+       "Wasserdicht",
+       "20 m ohne Gehäuse"
+      ],
+      [
+       "Akku im Test",
+       "ca. 120 min bei 4K/60 (Tom's Guide)"
+      ],
+      [
+       "Gewicht",
+       "149 g (laut TechRadar)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 6"
+    },
+    {
+     "name": "DJI Osmo Action 5 Pro",
+     "brand": "DJI",
+     "label": "Preis-Leistungs-Tipp",
+     "why": "Die Osmo Action 5 Pro ist bei Tom's Guide die Action-Cam mit dem besten Preis-Leistungs-Verhältnis. Sie liefert gute 4K-Videos und guten Ton, hat Profi-Funktionen, 47 GB internen Speicher und verbindet sich direkt mit DJI-Funkmikrofonen. Im Test hielt der Akku 112 Minuten bei 4K/60. Einziger klarer Nachteil laut Tom's Guide: mehr als 4K gibt es nicht.",
+     "plus": [
+      "Sehr gutes Preis-Leistungs-Verhältnis",
+      "47 GB interner Speicher",
+      "Direkte Verbindung zu DJI-Mikrofonen",
+      "20 m wasserdicht"
+     ],
+     "minus": [
+      "Maximal 4K-Auflösung",
+      "Nachfolger Action 6 ist bei wenig Licht besser"
+     ],
+     "specs": [
+      [
+       "Video",
+       "bis 4K/120"
+      ],
+      [
+       "Wasserdicht",
+       "20 m ohne Gehäuse"
+      ],
+      [
+       "Akku im Test",
+       "112 min bei 4K/60 (Tom's Guide)"
+      ],
+      [
+       "Speicher",
+       "47 GB intern + microSD"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 5 Pro"
+    },
+    {
+     "name": "GoPro Hero13 Black",
+     "brand": "GoPro",
+     "label": "Für Profis und Zubehör-Fans",
+     "why": "TechRadar wählt die Hero13 Black zur besten Action-Cam insgesamt, Tom's Guide empfiehlt sie für Profis. Sie filmt in 5,3K mit bis zu 60 Bildern pro Sekunde, hat eine hervorragende Stabilisierung und erkennt aufgesteckte Lens Mods automatisch. Dazu kommen Magnet-Halterung und GoPro Labs. Schwächen laut den Tests: kürzere Akkulaufzeit (80 Minuten bei 4K/60 bei Tom's Guide), nur 10 m wasserdicht, kleinere Displays und schwächere Ergebnisse bei wenig Licht.",
+     "plus": [
+      "5,3K-Video und sehr gute Stabilisierung",
+      "Größtes Zubehör-System mit Lens Mods",
+      "Magnet-Halterung",
+      "GoPro Labs für Zusatzfunktionen"
+     ],
+     "minus": [
+      "Akku kürzer als bei DJI (80 min bei 4K/60)",
+      "Nur ca. 10 m wasserdicht",
+      "Schwächer bei wenig Licht laut TechRadar",
+      "Kaum Neuerungen gegenüber dem Vorgänger"
+     ],
+     "specs": [
+      [
+       "Video",
+       "5,3K/60, 4K/120, 2,7K/240"
+      ],
+      [
+       "Fotos",
+       "27 MP"
+      ],
+      [
+       "Wasserdicht",
+       "10 m"
+      ],
+      [
+       "Akku im Test",
+       "80 min bei 4K/60 (Tom's Guide)"
+      ],
+      [
+       "Gewicht",
+       "159 g"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "GoPro Hero13 Black"
+    },
+    {
+     "name": "Insta360 X5",
+     "brand": "Insta360",
+     "label": "Die beste 360-Grad-Kamera",
+     "why": "Beide Tests wählen die Insta360 X5 zur besten 360-Grad-Kamera. Sie filmt 360-Grad-Video in 8K/30, hat laut TechRadar größere 1/1,28-Zoll-Sensoren, deutlich besseren Ton mit Windreduzierung und Objektive, die man selbst tauschen kann, wenn sie verkratzen. Tom's Guide maß rund 95 Minuten Akku bei gemischten Aufnahmen. Nachteile: hoher Preis und laut TechRadar nur ein kleiner Schritt gegenüber der X4.",
+     "plus": [
+      "8K-360-Grad-Video",
+      "Gut bei wenig Licht dank größerer Sensoren",
+      "Wechselbare Objektive",
+      "Guter Ton mit Windreduzierung"
+     ],
+     "minus": [
+      "Teuer",
+      "Laut TechRadar nur kleiner Fortschritt zur X4",
+      "Mehr Nachbearbeitung in der App nötig"
+     ],
+     "specs": [
+      [
+       "Video",
+       "8K/30 (360°), 4K/60 (ein Objektiv)"
+      ],
+      [
+       "Sensoren",
+       "1/1,28 Zoll (laut TechRadar)"
+      ],
+      [
+       "Wasserdicht",
+       "15 m (TechRadar)"
+      ],
+      [
+       "Akku im Test",
+       "ca. 95 min gemischt (Tom's Guide)"
+      ],
+      [
+       "Gewicht",
+       "200 g"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Insta360 X5"
+    },
+    {
+     "name": "Insta360 Go 3S",
+     "brand": "Insta360",
+     "label": "Die kleinste: für Mütze, Brust und Haustier",
+     "why": "Die Go 3S ist laut Tom's Guide die beste kleine Action-Cam. Die Kamera selbst wiegt nur rund 39 g und lässt sich magnetisch fast überall befestigen. Sie filmt in 4K mit guter Stabilisierung, und mit dem Action Pod hielt sie im Test rund 120 Minuten durch. Nachteile: kein wechselbarer Speicher, kein externes Mikrofon, und der Action Pod ist nicht voll wasserdicht.",
+     "plus": [
+      "Winzig und leicht (Kamera ca. 39 g)",
+      "Gute 4K-Videos mit starker Stabilisierung",
+      "Loop-Aufnahme, auch als Dashcam nutzbar",
+      "Gute App"
+     ],
+     "minus": [
+      "Kein microSD-Slot",
+      "Kein externes Mikrofon",
+      "Action Pod nur spritzwassergeschützt",
+      "Bildqualität nicht ganz auf Niveau der großen Modelle"
+     ],
+     "specs": [
+      [
+       "Video",
+       "bis 4K"
+      ],
+      [
+       "Gewicht",
+       "Kamera 39,1 g, Action Pod 96,3 g"
+      ],
+      [
+       "Akku im Test",
+       "ca. 120 min mit Action Pod (Tom's Guide)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Insta360 Go 3S"
+    },
+    {
+     "name": "DJI Osmo Action 4",
+     "brand": "DJI",
+     "label": "Günstig-Tipp",
+     "why": "Die Osmo Action 4 ist bei Tom's Guide der Budget-Tipp und bei TechRadar die Kamera mit dem besten Preis-Leistungs-Verhältnis. Sie hat einen 1/1,3-Zoll-Sensor, liefert gute Bilder, D-Log für Farbkorrektur, guten Ton und Zeitlupe bis 4K/120. Sie ist bis 18 m wasserdicht. Grenzen: Fotos nur mit 10 MP, kein Video über 4K, und die Akkulaufzeit ist mittelmäßig (80 Minuten bei 4K/60 bei Tom's Guide).",
+     "plus": [
+      "Großer 1/1,3-Zoll-Sensor",
+      "Gute Bildqualität und Stabilisierung laut TechRadar",
+      "18 m wasserdicht",
+      "Oft deutlich günstiger als die Nachfolger"
+     ],
+     "minus": [
+      "Fotos nur 10 MP",
+      "Kein Video über 4K",
+      "Mittelmäßiger Akku"
+     ],
+     "specs": [
+      [
+       "Sensor",
+       "1/1,3 Zoll"
+      ],
+      [
+       "Video",
+       "bis 4K/120"
+      ],
+      [
+       "Wasserdicht",
+       "18 m"
+      ],
+      [
+       "Akku im Test",
+       "80 min bei 4K/60 (Tom's Guide)"
+      ],
+      [
+       "Gewicht",
+       "145 g"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 4"
+    }
+   ],
+   "faq": [
+    [
+     "Welche Action-Cam ist 2026 die beste?",
+     "Laut Tom's Guide die DJI Osmo Action 6, laut TechRadar die GoPro Hero13 Black. Die DJI ist besser bei wenig Licht, beim Akku und unter Wasser, die GoPro hat 5,3K-Video und das größte Zubehör-System."
+    ],
+    [
+     "DJI oder GoPro?",
+     "DJI bietet in den Tests längere Akkulaufzeiten, mehr Wasserdichtigkeit ohne Gehäuse und bessere Bilder bei wenig Licht. GoPro punktet mit 5,3K, Lens Mods und vielen Halterungen."
+    ],
+    [
+     "Welche Action-Cam ist gut und günstig?",
+     "Die DJI Osmo Action 4 ist in beiden Tests der Preis-Leistungs- bzw. Budget-Tipp. Noch günstiger ist laut TechRadar die Akaso Brave 8 Lite, die aber bei Stabilisierung und wenig Licht klar schwächer ist."
+    ],
+    [
+     "Brauche ich eine 360-Grad-Kamera?",
+     "Nur, wenn du später den Bildausschnitt wählen willst, etwa beim Skifahren, Radfahren oder für Vlogs. Für klassische Aufnahmen reicht eine normale Action-Cam."
+    ]
+   ]
+  },
+  "en": {
+   "h1": "Best action camera 2026: the 6 best from DJI, GoPro and Insta360",
+   "eyebrow": "Best list · Sport & outdoor",
+   "title": "Best Action Camera 2026: DJI Osmo Action 6, GoPro Hero13 & More",
+   "desc": "The best action cameras of 2026 based on tests by Tom's Guide and TechRadar: DJI Osmo Action 6 and 5 Pro, GoPro Hero13 Black, Insta360 X5, Go 3S and a budget pick.",
+   "answer": "According to Tom's Guide, the best action camera for most people is the DJI Osmo Action 6, with a large sensor, strong stabilisation, good low-light footage and 20 m waterproofing without a case. Best value is the DJI Osmo Action 5 Pro. For 5.3K video and the biggest accessory ecosystem pick the GoPro Hero13 Black (TechRadar's best overall). The Insta360 X5 is the best 360 camera, the Insta360 Go 3S the smallest, and the DJI Osmo Action 4 the budget pick.",
+   "intro": "We evaluated the current guides and tests by Tom's Guide (31 July 2026) and TechRadar (13 October 2026). We did not test the cameras ourselves. Measured values come from those tests.",
+   "criteria": [
+    [
+     "Sensor and low light",
+     "Larger sensors give much better results in low light."
+    ],
+    [
+     "Waterproof without a case",
+     "DJI Action 5 Pro and Action 6 go to 20 m, GoPro Hero13 to about 10 m."
+    ],
+    [
+     "Battery life",
+     "Tom's Guide measured about 120 min (Action 6), 112 min (Action 5 Pro) and 80 min (Hero13) at 4K/60."
+    ],
+    [
+     "Mounts and accessories",
+     "GoPro has the biggest accessory range; DJI uses its own magnetic quick-release."
+    ],
+    [
+     "360 or classic",
+     "360 cameras let you reframe later but need more editing."
+    ]
+   ],
+   "items": [
+    {
+     "name": "DJI Osmo Action 6",
+     "brand": "DJI",
+     "label": "Top pick for most people",
+     "why": "Tom's Guide's best action camera overall: strong video and stabilisation, good low light, good audio, interchangeable lenses, about 120 minutes at 4K/60 and 20 m waterproof.",
+     "plus": [
+      "Large sensor",
+      "Strong stabilisation",
+      "20 m waterproof",
+      "About 120 min battery at 4K/60"
+     ],
+     "minus": [
+      "Processing can be aggressive (TechRadar)",
+      "Pricier than the Action 5 Pro"
+     ],
+     "specs": [
+      [
+       "Waterproof",
+       "20 m"
+      ],
+      [
+       "Battery tested",
+       "ca. 120 min at 4K/60"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 6"
+    },
+    {
+     "name": "DJI Osmo Action 5 Pro",
+     "brand": "DJI",
+     "label": "Best value",
+     "why": "Best value at Tom's Guide: good 4K video and audio, 47 GB internal storage, direct DJI mic support and 112 minutes at 4K/60. Tops out at 4K.",
+     "plus": [
+      "Great value",
+      "47 GB internal storage",
+      "20 m waterproof"
+     ],
+     "minus": [
+      "4K maximum"
+     ],
+     "specs": [
+      [
+       "Video",
+       "up to 4K/120"
+      ],
+      [
+       "Battery tested",
+       "112 min at 4K/60"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 5 Pro"
+    },
+    {
+     "name": "GoPro Hero13 Black",
+     "brand": "GoPro",
+     "label": "For pros and accessory fans",
+     "why": "TechRadar's best overall: 5.3K/60, excellent stabilisation, auto-detected Lens Mods and magnetic mounting. Shorter battery (80 min at 4K/60) and only about 10 m waterproof.",
+     "plus": [
+      "5.3K video",
+      "Biggest accessory system",
+      "Magnetic mount"
+     ],
+     "minus": [
+      "Shorter battery",
+      "Weaker in low light (TechRadar)"
+     ],
+     "specs": [
+      [
+       "Video",
+       "5.3K/60"
+      ],
+      [
+       "Waterproof",
+       "10 m"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "GoPro Hero13 Black"
+    },
+    {
+     "name": "Insta360 X5",
+     "brand": "Insta360",
+     "label": "Best 360 camera",
+     "why": "Best 360 camera in both tests: 8K 360 video, larger sensors, better audio and user-replaceable lenses. Expensive.",
+     "plus": [
+      "8K 360 video",
+      "Replaceable lenses"
+     ],
+     "minus": [
+      "Expensive",
+      "Small step from X4"
+     ],
+     "specs": [
+      [
+       "Video",
+       "8K/30 (360°)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Insta360 X5"
+    },
+    {
+     "name": "Insta360 Go 3S",
+     "brand": "Insta360",
+     "label": "The smallest",
+     "why": "Tom's Guide's best small camera: about 39 g, 4K, strong stabilisation, about 120 minutes with the Action Pod. No microSD, no external mic.",
+     "plus": [
+      "Tiny and light",
+      "Good stabilisation"
+     ],
+     "minus": [
+      "No microSD",
+      "Action Pod only splash-proof"
+     ],
+     "specs": [
+      [
+       "Weight",
+       "39.1 g camera"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Insta360 Go 3S"
+    },
+    {
+     "name": "DJI Osmo Action 4",
+     "brand": "DJI",
+     "label": "Budget pick",
+     "why": "Budget pick at Tom's Guide and best value at TechRadar: 1/1.3-inch sensor, D-Log, good audio, 18 m waterproof. 10 MP stills, no video above 4K.",
+     "plus": [
+      "Large sensor",
+      "18 m waterproof",
+      "Often much cheaper"
+     ],
+     "minus": [
+      "10 MP stills",
+      "Average battery"
+     ],
+     "specs": [
+      [
+       "Sensor",
+       "1/1.3 inch"
+      ],
+      [
+       "Waterproof",
+       "18 m"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "DJI Osmo Action 4"
+    }
+   ],
+   "faq": [
+    [
+     "Which action camera is best in 2026?",
+     "DJI Osmo Action 6 according to Tom's Guide, GoPro Hero13 Black according to TechRadar."
+    ],
+    [
+     "DJI or GoPro?",
+     "DJI: longer battery, deeper waterproofing, better low light. GoPro: 5.3K, Lens Mods, many mounts."
+    ],
+    [
+     "Good and cheap?",
+     "The DJI Osmo Action 4."
+    ],
+    [
+     "Do I need a 360 camera?",
+     "Only if you want to reframe later."
+    ]
+   ]
+  }
  }
 }
