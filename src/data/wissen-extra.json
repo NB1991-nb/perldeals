@@ -842,6 +842,153 @@
     "/wissen/fernseher-groesse-sitzabstand/"
    ],
    "figures": []
+  },
+  {
+   "slug": "switch-2-speicherkarte",
+   "title": "Switch 2 Speicherkarte: Welche microSD-Express-Karte passt?",
+   "desc": "Die Nintendo Switch 2 braucht microSD Express. Was das heißt, warum normale microSD-Karten nicht gehen, bis wie viel TB möglich ist und welche Karten es gibt.",
+   "lead": "Kurze Antwort: Die Nintendo Switch 2 funktioniert laut Nintendo nur mit microSD-Express-Karten. Normale microSD-Karten (auch schnelle UHS-I, U3 oder A2) kannst du nicht für Spiele nutzen, nur Screenshots und Videos davon übernehmen. Unterstützt werden Karten bis 2 TB. Erhältlich sind unter anderem Modelle von SanDisk, Samsung und Lexar mit 256 GB, 512 GB und 1 TB. Achte beim Kauf ausdrücklich auf „microSD Express“ im Namen.",
+   "sections": [
+    [
+     "Was Nintendo offiziell sagt",
+     [
+      "Laut Nintendo-Support ist die Switch 2 nur mit microSD-Express-Karten kompatibel. Diese lesen und schreiben Daten schneller als normale microSD-Karten.",
+      "Unterstützt werden Karten bis 2 TB. Beim ersten Einsatz einer microSD-Express-Karte ist ein Systemupdate mit Internetverbindung nötig.",
+      "Eine Karte aus der ersten Switch kann auf der Switch 2 keine Spiele oder Spielstände speichern oder laden. Screenshots und Videos von der alten Karte lassen sich aber übernehmen.",
+      "Umgekehrt funktioniert eine microSD-Express-Karte auch in der ersten Switch, dort aber nur so schnell wie eine normale microSD-Karte."
+     ]
+    ],
+    [
+     "Welche Karten gibt es?",
+     [
+      "Laut einer Übersicht von drohnen.de (Stand 10.11.2026) gibt es offizielle Nintendo-Editionen von SanDisk und Samsung mit 256 GB, dazu weitere microSD-Express-Karten von SanDisk, Samsung (P9 Express, 256 und 512 GB) und Lexar (PLAY PRO, 512 GB und 1 TB).",
+      "Die Herstellerangaben liegen bei rund 800 bis 900 MB/s Lesen. Im Alltag zählt vor allem die Kapazität: Viele Switch-2-Spiele sind groß, 256 GB reichen für eine kleine Sammlung, wer viel digital kauft, nimmt 512 GB oder mehr.",
+      "Wichtig: Karten, die nur „für Switch“ oder „Gaming“ heißen, aber kein „Express“ im Namen tragen, funktionieren auf der Switch 2 nicht als Spielspeicher."
+     ]
+    ],
+    [
+     "Wie viel Speicher brauche ich?",
+     [
+      "Die Switch 2 hat ab Werk 256 GB internen Speicher. Wer überwiegend Spiele auf Modul kauft, kommt damit oft aus.",
+      "Wer viele Spiele digital kauft, sollte mit 256 bis 512 GB zusätzlich planen. 1 TB lohnt sich vor allem, wenn du regelmäßig große Spiele lädst."
+     ]
+    ],
+    [
+     "Wo gibt es microSD-Express-Karten günstig?",
+     [
+      "Speicherkarten sind rund um Black Friday oft stark reduziert. Geprüfte Angebote für Speicher siehst du unter /black-friday/speicher/, Konsolen-Deals unter /black-friday/konsolen/. Prüfe bei jedem Angebot, dass „microSD Express“ in der Produktbezeichnung steht."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Geht eine normale microSD-Karte in der Switch 2?",
+     "Nicht für Spiele und Spielstände. Laut Nintendo ist die Switch 2 nur mit microSD-Express-Karten kompatibel. Von einer alten Karte kannst du nur Screenshots und Videos übernehmen."
+    ],
+    [
+     "Wie groß darf die Karte für die Switch 2 sein?",
+     "Laut Nintendo werden microSD-Express-Karten bis 2 TB unterstützt."
+    ],
+    [
+     "Muss es die offizielle Nintendo-Edition sein?",
+     "Nein. Entscheidend ist, dass es eine microSD-Express-Karte ist. Die Nintendo-Editionen von SanDisk und Samsung sind lizenziert, andere microSD-Express-Karten funktionieren ebenfalls."
+    ],
+    [
+     "Funktioniert eine microSD-Express-Karte in der alten Switch?",
+     "Ja, laut Nintendo, dort aber nur mit der Geschwindigkeit einer normalen microSD-Karte."
+    ]
+   ],
+   "sources": [
+    [
+     "Nintendo Support: microSD Card and microSD Express Card Compatibility with Nintendo Switch 2",
+     "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/microSD-Card-and-microSD-Express-Card-Compatibility-with-Nintendo-Switch-2-and-Nintendo-Switch-2797377.html"
+    ],
+    [
+     "drohnen.de: Speicherkarte für Nintendo Switch 2 (geändert 10.11.2026)",
+     "https://www.drohnen.de/82793/speicherkarte-fuer-nintendo-switch-2/"
+    ]
+   ],
+   "links": [
+    "/black-friday/speicher/",
+    "/black-friday/konsolen/",
+    "/geschenke/geschenke-fuer-gamer/",
+    "/wissen/fire-tv-stick-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kindle-vergleich",
+   "title": "Kindle Vergleich 2026: Kindle, Paperwhite, Colorsoft oder Scribe?",
+   "desc": "Welcher Kindle passt zu dir? Basis-Kindle, neuer Paperwhite und Colorsoft (2026), Signature-Modelle, Kids und Scribe im Vergleich: Display, wasserdicht, Akku, Speicher, Preise.",
+   "lead": "Kurze Antwort: Für die meisten ist der Kindle Paperwhite die beste Wahl: 7-Zoll-Display mit 300 ppi, wasserdicht nach IPX8 und bis zu 12 Wochen Akku. Wer Comics, Kochbücher oder Markierungen in Farbe will, nimmt den Kindle Colorsoft (Farbe mit 150 ppi). Der Basis-Kindle reicht zum reinen Lesen, ist aber nicht als wasserdicht genannt. Zum Schreiben und Notizen mit Stift gibt es den Kindle Scribe. Die neuen Paperwhite- und Colorsoft-Modelle sind seit 11.11.2026 erhältlich (laut MonsterDealz).",
+   "sections": [
+    [
+     "Die Kindle-Modelle 2026 im Überblick",
+     [
+      "Kindle (Basis, 16 GB): zum reinen Lesen, mit oder ohne Werbung. Neu ist eine Aluminium-Variante mit 32 GB. Laut MonsterDealz kostete er auf amazon.de 154,99 € mit Werbung.",
+      "Kindle Paperwhite (2026): 7 Zoll, 300 ppi, IPX8 (60 Minuten in 2 m Süßwasser), bis zu 12 Wochen Akku, 16 GB. Neu: bündiges Display, nur 6,8 mm dünn, 204 g, Laden in unter 2,5 Stunden mit 20-W-Netzteil. Preis laut MonsterDealz 209,99 € mit Werbung.",
+      "Kindle Colorsoft (2026): Farb-E-Ink mit 300 ppi in Schwarz-Weiß und 150 ppi in Farbe, IPX8, bis zu 8 Wochen Akku. Das Farbdisplay wurde überarbeitet und streut weniger Licht. Preis laut MonsterDealz 299,99 €.",
+      "Signature-Modelle (Paperwhite und Colorsoft): Aluminiumrückseite, 32 GB, automatisch angepasstes Licht und Umblättern per Doppeltippen.",
+      "Kids-Versionen gibt es für Kindle, Paperwhite und Colorsoft. Sie kommen mit Hülle und Inhalten für Kinder.",
+      "Kindle Scribe: großes Display zum Lesen und Schreiben mit Stift, für Notizen und PDFs."
+     ]
+    ],
+    [
+     "Paperwhite oder Colorsoft?",
+     [
+      "Der Paperwhite hat die schärfere Darstellung (300 ppi) und die längere Akkulaufzeit (bis zu 12 statt 8 Wochen). Für Romane und Sachbücher ist er die bessere Wahl.",
+      "Der Colorsoft lohnt sich, wenn Farbe wichtig ist: Comics, Mangas, Kinderbücher, Reiseführer, Kochbücher oder farbige Markierungen. Farbe wird mit 150 ppi dargestellt, also weniger scharf als Schwarz-Weiß."
+     ]
+    ],
+    [
+     "Mit oder ohne Werbung?",
+     [
+      "Die Variante mit Werbung zeigt Angebote auf dem Sperrbildschirm. Ohne Werbung kostet laut MonsterDealz rund 20 € mehr. Beim Lesen selbst erscheint keine Werbung."
+     ]
+    ],
+    [
+     "Wann sind Kindles am günstigsten?",
+     [
+      "Amazon reduziert seine Geräte vor allem zu Prime Day, Black Friday und Cyber Monday. Aktuelle geprüfte Angebote findest du unter /black-friday/fire-tv-echo/.",
+      "Gerade im Angebot (Stand der jeweiligen Deal-Seite): Kindle Scribe /deals/amazon-kindle-scribe-16gb/, Kindle Colorsoft Signature /deals/kindle-colorsoft-signature-32gb/, Kindle Kids /deals/kindle-kids-16gb-2024/ und ein generalüberholter Paperwhite /deals/kindle-paperwhite-16gb-refurbished/."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Kindle ist der beste?",
+     "Für die meisten der Kindle Paperwhite: scharfes 7-Zoll-Display, wasserdicht und lange Akkulaufzeit. Wer Farbe will, nimmt den Colorsoft."
+    ],
+    [
+     "Ist der Basis-Kindle wasserdicht?",
+     "Eine Wasserdichtigkeit wird beim Basis-Kindle nicht genannt. Paperwhite und Colorsoft sind nach IPX8 geschützt (60 Minuten in 2 m Süßwasser)."
+    ],
+    [
+     "Lohnt sich der Kindle Colorsoft?",
+     "Für Comics, Mangas, Kinder- und Kochbücher ja. Für reine Romane ist der Paperwhite schärfer und hält länger durch."
+    ],
+    [
+     "Was ist der Unterschied zum Signature-Modell?",
+     "Signature-Modelle haben 32 GB, eine Aluminiumrückseite, automatisch angepasstes Licht und Umblättern per Doppeltippen."
+    ],
+    [
+     "Kann ich auf dem Kindle Bücher aus der Bibliothek lesen?",
+     "Kindle unterstützt vor allem Amazons eigenes Format. Onleihe-E-Books aus deutschen Bibliotheken lassen sich auf dem Kindle in der Regel nicht direkt nutzen."
+    ]
+   ],
+   "sources": [
+    [
+     "MonsterDealz Magazin: Amazon Kindle 2026 (veröffentlicht 02.10.2026, Preise Stand 08.11.2026)",
+     "https://www.monsterdealz.de/magazin/kindle-2026"
+    ]
+   ],
+   "links": [
+    "/black-friday/fire-tv-echo/",
+    "/wissen/fire-tv-stick-vergleich/",
+    "/geschenke/geschenke-fuer-oma-und-opa/",
+    "/geschenke/weihnachtsgeschenke/"
+   ],
+   "figures": []
   }
  ]
 }

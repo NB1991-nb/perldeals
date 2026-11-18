@@ -326,7 +326,7 @@ function layout({lang, pathFor, title, description, body, ld = [], bodyClass = "
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="p:domain_verify" content="2d1a9a5cf918dd5b2e18eed646ac164e">
 <title>${esc(title)}</title>
-<meta name="description" content="${esc(description)}">${noindex?'\n<meta name="robots" content="noindex">':""}
+<meta name="description" content="${esc(description)}">${noindex?'\n<meta name="robots" content="noindex">':'\n<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">'}
 <link rel="canonical" href="${BASE}${self}">
 <link rel="alternate" type="application/rss+xml" title="perldeals – neue Deals" href="${BASE}/feed.xml">
 ${single ? "" : `<link rel="alternate" hreflang="de" href="${BASE}${lang==="de"?self:alt}">
