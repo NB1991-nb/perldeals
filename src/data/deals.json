@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:25:00Z",
+  "updated": "2026-11-18T14:25:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
     {
@@ -9890,6 +9890,25 @@
       },
       "added": "2026-11-18T14:25:00+01:00",
       "checked": "2026-11-18T14:25:00+01:00"
+    },
+    {
+      "id": "amazon-ember-2-40-zoll",
+      "asin": "B0F7531B8R",
+      "brand": "Amazon",
+      "cat": "tv",
+      "now": 194.99,
+      "was": 349.99,
+      "title": {
+        "de": "Amazon Ember 2-Serie 40 Zoll HD Fire TV",
+        "en": "Amazon Ember 2-Series 40\" HD Fire TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T15:25:00+01:00",
+      "checked": "2026-11-18T15:25:00+01:00",
+      "validUntil": "2026-11-30"
     }
   ]
 }
