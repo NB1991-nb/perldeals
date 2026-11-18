@@ -1617,6 +1617,619 @@
      "title": "Gifts for Pokémon Fans 2026: Boosters, Boxes & Gear",
      "desc": "Gifts for Pokémon fans: boosters, Elite Trainer Boxes and collecting accessories on sale, checked against price history."
     }
+   },
+   "geschenke-fuer-eltern": {
+    "keyword": "geschenke für eltern",
+    "filter": {
+     "cats": [
+      "kitchen",
+      "home",
+      "smarthome",
+      "tv"
+     ],
+     "max": 300
+    },
+    "de": {
+     "h1": "Geschenke für Eltern: praktische Ideen im Angebot",
+     "title": "Geschenke für Eltern 2026: praktische Ideen & aktuelle Deals",
+     "desc": "Geschenke für Mama und Papa bis 300 €: Kaffeemaschinen, Küchenhelfer, Smart Home, Fernseher und mehr. Täglich geprüfte Angebote mit Preisverlauf.",
+     "intro": "Eltern haben oft schon alles und wünschen sich angeblich nichts. Gut kommen deshalb Geschenke an, die den Alltag spürbar leichter machen: ein Gerät für die Küche, ein smarter Lautsprecher, ein Saugroboter oder ein neuer Fernseher für gemütliche Abende. Hier findest du dazu passende Deals, täglich geprüft und mit Preisverlauf.",
+     "tips": [
+      [
+       "Nach dem Alltag fragen",
+       "Achte darauf, was im Haushalt nervt oder alt ist: die Kaffeemaschine, der Staubsauger, der kleine Fernseher in der Küche. Ein Ersatz wird fast immer genutzt."
+      ],
+      [
+       "Einfache Bedienung",
+       "Für Eltern, die Technik nicht so mögen, sind Geräte mit klaren Tasten und ohne komplizierte App die bessere Wahl. Bei Smart Home hilft es, die Einrichtung gleich mit zu verschenken."
+      ],
+      [
+       "Gemeinsam schenken",
+       "Teurere Wünsche wie ein Saugroboter oder ein großer Fernseher lassen sich gut mit Geschwistern zusammen schenken."
+      ]
+     ],
+     "faq": [
+      [
+       "Was schenkt man Eltern, die schon alles haben?",
+       "Etwas, das ein altes Gerät ersetzt oder den Alltag leichter macht, etwa eine bessere Kaffeemaschine, einen Saugroboter oder einen smarten Lautsprecher. Gemeinsame Zeit, zum Beispiel ein Ausflug, ist ebenfalls beliebt."
+      ],
+      [
+       "Wie viel gibt man für ein Geschenk an die Eltern aus?",
+       "Das ist sehr unterschiedlich. Viele schenken zwischen 30 und 100 Euro, als Geschwister zusammen auch mehr."
+      ],
+      [
+       "Sind Smart-Home-Geräte ein gutes Geschenk für ältere Eltern?",
+       "Ja, wenn du bei der Einrichtung hilfst. Ein smarter Lautsprecher kann zum Beispiel an Termine erinnern oder Radio abspielen, ohne dass man ein Handy braucht."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for parents: practical ideas on sale",
+     "title": "Gifts for Parents 2026: Practical Ideas & Current Deals",
+     "desc": "Gifts for mum and dad up to 300 euros: coffee machines, kitchen helpers, smart home and TVs. Deals from German shops, checked daily.",
+     "intro": "Parents often have everything already. Gifts that make everyday life easier tend to work best: something for the kitchen, a smart speaker, a robot vacuum or a new TV. Here you find matching deals from German shops, checked daily with price history.",
+     "tips": [
+      [
+       "Look at everyday annoyances",
+       "Notice what is old or annoying at home, like the coffee machine or the vacuum. A replacement almost always gets used."
+      ],
+      [
+       "Keep it simple",
+       "For parents who dislike technology, pick devices with clear buttons and no complicated app."
+      ],
+      [
+       "Give together",
+       "Bigger wishes like a robot vacuum or a large TV are easy to share with siblings."
+      ]
+     ],
+     "faq": [
+      [
+       "What do you get parents who have everything?",
+       "Something that replaces an old device or makes daily life easier, such as a better coffee machine or a robot vacuum."
+      ],
+      [
+       "How much should I spend?",
+       "Many people spend 30 to 100 euros, more when siblings give together."
+      ],
+      [
+       "Is smart home a good gift for older parents?",
+       "Yes, if you help with the setup."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-oma-und-opa": {
+    "keyword": "geschenke für oma und opa",
+    "filter": {
+     "re": "Kaffee|Senseo|Wasserkocher|Echo|Kindle|Fire TV|Fernseher|Luftreiniger|Heizdecke|Massage|Fotobuch|Bilderrahmen|Radio|Tablet",
+     "max": 250
+    },
+    "de": {
+     "h1": "Geschenke für Oma und Opa: einfach, nützlich, im Angebot",
+     "title": "Geschenke für Oma und Opa 2026: einfache Technik & Ideen im Angebot",
+     "desc": "Geschenke für Großeltern: einfache Kaffeemaschinen, Wasserkocher, Fire TV, Echo, Luftreiniger und mehr. Geprüfte Deals mit Preisverlauf.",
+     "intro": "Großeltern freuen sich vor allem über Dinge, die leicht zu bedienen sind und jeden Tag helfen: eine einfache Kaffeemaschine, ein neuer Wasserkocher, ein Streaming-Stick für den Fernseher oder ein smarter Lautsprecher, über den sie die Enkel per Sprachbefehl anrufen können. Hier sammeln wir passende Angebote.",
+     "tips": [
+      [
+       "Bedienung vorher prüfen",
+       "Große Tasten, klare Anzeigen und wenig Menüs sind wichtiger als viele Funktionen. Schau dir vor dem Kauf an, wie das Gerät bedient wird."
+      ],
+      [
+       "Einrichtung mitschenken",
+       "Streaming-Stick, smarter Lautsprecher oder Tablet machen nur Freude, wenn sie eingerichtet sind. Plane beim Besuch eine halbe Stunde dafür ein."
+      ],
+      [
+       "Persönliches dazu",
+       "Ein Gerät wirkt herzlicher, wenn du etwas Persönliches dazulegst, etwa Fotos der Enkel auf einem digitalen Bilderrahmen."
+      ]
+     ],
+     "faq": [
+      [
+       "Was schenkt man Großeltern, die nichts brauchen?",
+       "Gemeinsame Zeit, Fotos der Familie oder etwas, das ein altes Gerät im Alltag ersetzt. Auch ein Streaming-Stick für Mediatheken und Lieblingssender kommt oft gut an."
+      ],
+      [
+       "Ist ein Echo-Lautsprecher für Senioren geeignet?",
+       "Für viele ja: Man kann per Sprache Radio hören, Erinnerungen setzen oder Kontakte anrufen. Die Einrichtung sollte aber ein Familienmitglied übernehmen."
+      ],
+      [
+       "Was ist ein gutes Geschenk unter 50 Euro für Oma und Opa?",
+       "Ein Wasserkocher, eine einfache Kaffeepadmaschine, ein Streaming-Stick oder ein digitaler Bilderrahmen liegen im Angebot oft darunter."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for grandparents: simple, useful, on sale",
+     "title": "Gifts for Grandparents 2026: Simple Tech & Ideas on Sale",
+     "desc": "Gifts for grandma and grandpa: simple coffee machines, kettles, Fire TV, Echo and air purifiers. Checked deals with price history.",
+     "intro": "Grandparents mostly enjoy things that are easy to use and help every day: a simple coffee machine, a new kettle, a streaming stick or a smart speaker. Here we collect matching deals.",
+     "tips": [
+      [
+       "Check how it is used",
+       "Big buttons and few menus matter more than many features."
+      ],
+      [
+       "Include the setup",
+       "Streaming sticks and smart speakers only help once they are set up."
+      ],
+      [
+       "Add something personal",
+       "Family photos make any device feel warmer."
+      ]
+     ],
+     "faq": [
+      [
+       "What do you give grandparents who need nothing?",
+       "Time together, family photos or something that replaces an old device."
+      ],
+      [
+       "Is an Echo speaker suitable for seniors?",
+       "For many, yes, if a family member sets it up."
+      ],
+      [
+       "Good gift under 50 euros?",
+       "A kettle, a simple pod coffee machine or a streaming stick."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-kollegen": {
+    "keyword": "geschenke für kollegen",
+    "filter": {
+     "max": 30
+    },
+    "de": {
+     "h1": "Geschenke für Kollegen: kleine Aufmerksamkeiten bis 30 €",
+     "title": "Geschenke für Kollegen 2026: Ideen bis 30 € im Angebot",
+     "desc": "Kleine Geschenke für Kollegen und Team bis 30 €: Gadgets, Küchenhelfer, Zubehör und mehr. Täglich geprüfte Deals mit Preisverlauf.",
+     "intro": "Für Kollegen passen kleine, neutrale Geschenke, die im Büro oder zu Hause nützlich sind: Kabel und Ladegeräte, kleine Gadgets, etwas für die Küche oder Zubehör für den Schreibtisch. Auf dieser Seite stehen nur Deals bis 30 Euro.",
+     "tips": [
+      [
+       "Neutral bleiben",
+       "Im Job kommen praktische Dinge besser an als sehr persönliche Geschenke. Parfum oder Kleidung sind schwierig."
+      ],
+      [
+       "Budget im Team absprechen",
+       "Bei Wichteln oder Teamgeschenken hilft eine feste Grenze, zum Beispiel 15 oder 25 Euro."
+      ],
+      [
+       "Steuer-Hinweis für Chefs",
+       "Geschenke an Mitarbeitende sind steuerlich nur bis zu bestimmten Freigrenzen begünstigt. Lass dich im Zweifel von deiner Steuerberatung beraten."
+      ]
+     ],
+     "faq": [
+      [
+       "Wie viel gibt man für ein Kollegengeschenk aus?",
+       "Meist zwischen 5 und 30 Euro. Im Team wird oft eine feste Grenze vereinbart."
+      ],
+      [
+       "Was schenkt man Kollegen zu Weihnachten?",
+       "Etwas Kleines und Nützliches, etwa ein Ladekabel, einen kleinen Lautsprecher, Zubehör für den Schreibtisch oder etwas Leckeres."
+      ],
+      [
+       "Ist ein Gutschein okay?",
+       "Ja, besonders, wenn du den Geschmack nicht kennst."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for colleagues: small gifts up to 30 euros",
+     "title": "Gifts for Colleagues 2026: Ideas up to 30 Euros",
+     "desc": "Small gifts for colleagues up to 30 euros: gadgets, kitchen helpers, accessories. Deals checked daily.",
+     "intro": "Small, neutral gifts that are useful at the office or at home work best for colleagues. This page only shows deals up to 30 euros.",
+     "tips": [
+      [
+       "Stay neutral",
+       "Practical things work better than personal gifts."
+      ],
+      [
+       "Agree on a budget",
+       "A fixed limit helps for Secret Santa."
+      ],
+      [
+       "Tax note for employers",
+       "Gifts to staff are only tax-favoured up to certain limits; ask your tax advisor."
+      ]
+     ],
+     "faq": [
+      [
+       "How much should I spend?",
+       "Usually 5 to 30 euros."
+      ],
+      [
+       "What to give colleagues for Christmas?",
+       "Something small and useful, like a charging cable or a small speaker."
+      ],
+      [
+       "Is a voucher okay?",
+       "Yes, especially if you don't know their taste."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-studenten": {
+    "keyword": "geschenke für studenten",
+    "filter": {
+     "cats": [
+      "computer",
+      "headphones",
+      "speaker",
+      "phone",
+      "kitchen"
+     ],
+     "max": 80
+    },
+    "de": {
+     "h1": "Geschenke für Studenten: nützlich und günstig",
+     "title": "Geschenke für Studenten 2026: nützliche Deals bis 80 €",
+     "desc": "Geschenke für Studierende bis 80 €: Kopfhörer, Powerbanks, Speicher, Tastaturen und Küchenhelfer für die erste Wohnung. Geprüfte Angebote.",
+     "intro": "Im Studium zählt, was beim Lernen, in der WG oder unterwegs hilft: Kopfhörer mit Geräuschunterdrückung für die Bibliothek, eine Powerbank, mehr Speicher, eine gute Tastatur oder ein kleines Küchengerät für die erste Wohnung. Alle Deals hier kosten höchstens 80 Euro.",
+     "tips": [
+      [
+       "Platz bedenken",
+       "WG-Zimmer sind klein. Kompakte Geräte kommen besser an als große Küchenmaschinen."
+      ],
+      [
+       "Laptop-Zubehör",
+       "Eine externe Tastatur, eine Maus oder ein Monitor machen aus dem Laptop einen bequemen Arbeitsplatz."
+      ],
+      [
+       "Studentenrabatte nutzen",
+       "Viele Shops geben Studierenden extra Rabatt. Eine Übersicht findest du in unserem Ratgeber zum Studentenrabatt."
+      ]
+     ],
+     "faq": [
+      [
+       "Was schenkt man Studenten?",
+       "Praktisches für Lernen und Alltag: Kopfhörer, Powerbank, Speicher, Laptop-Zubehör oder Küchenhelfer."
+      ],
+      [
+       "Was ist ein gutes Geschenk zum Studienbeginn?",
+       "Etwas für den Schreibtisch oder die erste Wohnung, zum Beispiel Kopfhörer mit ANC, eine Tastatur oder ein Wasserkocher."
+      ],
+      [
+       "Gibt es Studentenrabatte bei Technik?",
+       "Ja, unter anderem bei Apple, Samsung und einigen Softwareanbietern. Details stehen in unserem Ratgeber."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for students: useful and affordable",
+     "title": "Gifts for Students 2026: Useful Deals up to 80 Euros",
+     "desc": "Gifts for students up to 80 euros: headphones, power banks, storage, keyboards and kitchen helpers. Checked deals.",
+     "intro": "For students, what helps with studying, shared flats or commuting counts. All deals here cost at most 80 euros.",
+     "tips": [
+      [
+       "Think about space",
+       "Compact devices beat big kitchen machines."
+      ],
+      [
+       "Laptop accessories",
+       "A keyboard, mouse or monitor turns a laptop into a comfy workplace."
+      ],
+      [
+       "Student discounts",
+       "Many shops give students extra discounts."
+      ]
+     ],
+     "faq": [
+      [
+       "What do you give students?",
+       "Practical things: headphones, power bank, storage or kitchen helpers."
+      ],
+      [
+       "Good gift for starting university?",
+       "Noise-cancelling headphones, a keyboard or a kettle."
+      ],
+      [
+       "Are there student discounts on tech?",
+       "Yes, at Apple, Samsung and some software vendors."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-homeoffice": {
+    "keyword": "geschenke homeoffice",
+    "filter": {
+     "re": "^(?!.*(Gaming|Rückspiegel|Rückfahr)).*(Monitor|Tastatur|Maus|Webcam|Headset|Docking|Hub|Schreibtisch|Bürostuhl|Mikrofon|Drucker|Lampe|MK540)",
+     "max": 400
+    },
+    "de": {
+     "h1": "Geschenke fürs Homeoffice: besserer Arbeitsplatz im Angebot",
+     "title": "Geschenke fürs Homeoffice 2026: Monitore, Tastaturen, Webcams im Angebot",
+     "desc": "Homeoffice-Geschenke: Monitore, Tastatur-Maus-Sets, Webcams, Headsets und Dockingstationen. Geprüfte Deals mit Preisverlauf.",
+     "intro": "Wer zu Hause arbeitet, freut sich über alles, was den Arbeitsplatz bequemer macht: einen zweiten Monitor, ein ergonomisches Tastatur-Maus-Set, eine bessere Webcam oder ein Headset für klare Calls. Hier findest du passende Angebote.",
+     "tips": [
+      [
+       "Anschlüsse prüfen",
+       "Vor dem Kauf von Monitor oder Dockingstation klären, welche Anschlüsse der Laptop hat (USB-C mit DisplayPort, HDMI)."
+      ],
+      [
+       "Ergonomie zählt",
+       "Eine gute Tastatur, eine Maus, die zur Hand passt, und ein Monitor auf Augenhöhe helfen mehr als viele Gadgets."
+      ],
+      [
+       "Klang in Calls",
+       "Ein Headset mit gutem Mikrofon verbessert Videocalls oft stärker als eine neue Webcam."
+      ]
+     ],
+     "faq": [
+      [
+       "Was schenkt man jemandem im Homeoffice?",
+       "Etwas, das den Arbeitsplatz verbessert: zweiter Monitor, Tastatur-Maus-Set, Webcam, Headset oder eine Dockingstation."
+      ],
+      [
+       "Welcher Monitor eignet sich fürs Homeoffice?",
+       "Für Büroarbeit reichen meist 24 bis 27 Zoll. Mit QHD-Auflösung passt mehr auf den Bildschirm."
+      ],
+      [
+       "Lohnt sich eine Dockingstation?",
+       "Ja, wenn der Laptop täglich an Monitor, Tastatur und Netzwerk angeschlossen wird. Dann reicht ein Kabel."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Home office gifts: a better workplace on sale",
+     "title": "Home Office Gifts 2026: Monitors, Keyboards, Webcams on Sale",
+     "desc": "Home office gifts: monitors, keyboard and mouse sets, webcams, headsets and docks. Checked deals with price history.",
+     "intro": "People who work from home appreciate anything that makes the desk more comfortable. Here are matching deals.",
+     "tips": [
+      [
+       "Check ports",
+       "Know which ports the laptop has before buying a monitor or dock."
+      ],
+      [
+       "Ergonomics first",
+       "A good keyboard and mouse help more than gadgets."
+      ],
+      [
+       "Sound in calls",
+       "A headset often improves calls more than a new webcam."
+      ]
+     ],
+     "faq": [
+      [
+       "What to give someone working from home?",
+       "A second monitor, keyboard and mouse, webcam, headset or dock."
+      ],
+      [
+       "Which monitor for home office?",
+       "24 to 27 inches is usually enough."
+      ],
+      [
+       "Is a dock worth it?",
+       "Yes, if the laptop is connected to a monitor every day."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-musikliebhaber": {
+    "keyword": "geschenke für musikliebhaber",
+    "filter": {
+     "cats": [
+      "headphones",
+      "speaker"
+     ],
+     "max": 400
+    },
+    "de": {
+     "h1": "Geschenke für Musikliebhaber: Kopfhörer & Lautsprecher im Angebot",
+     "title": "Geschenke für Musikliebhaber 2026: Kopfhörer, Lautsprecher, Soundbars",
+     "desc": "Geschenke für Musikfans: Kopfhörer, In-Ears, Bluetooth-Lautsprecher und Soundbars von JBL, Sony, Bose, soundcore und mehr. Geprüfte Deals.",
+     "intro": "Für Musikfans gibt es kaum ein besseres Geschenk als guten Klang: Over-Ear-Kopfhörer mit Geräuschunterdrückung, kleine In-Ears für unterwegs, ein Bluetooth-Lautsprecher für Party und Balkon oder eine Soundbar fürs Wohnzimmer. Hier stehen die aktuellen Angebote.",
+     "tips": [
+      [
+       "Wo wird gehört?",
+       "Unterwegs passen In-Ears oder ANC-Kopfhörer, zu Hause eher ein Lautsprecher oder eine Soundbar."
+      ],
+      [
+       "Smartphone beachten",
+       "Manche Funktionen wie besondere Codecs oder Raumklang gibt es nur mit bestimmten Smartphones."
+      ],
+      [
+       "Wasserschutz",
+       "Für Dusche, Strand oder Garten lohnt sich ein Lautsprecher mit IP67."
+      ]
+     ],
+     "faq": [
+      [
+       "Welche Kopfhörer sind ein gutes Geschenk?",
+       "Für unterwegs Kopfhörer mit aktiver Geräuschunterdrückung, für Sport leichte In-Ears mit sicherem Sitz."
+      ],
+      [
+       "Lohnt sich ein teurer Lautsprecher?",
+       "Bei Klang und Bass merkt man den Unterschied deutlich. Im Angebot sind Markenlautsprecher oft kaum teurer als No-Name-Geräte."
+      ],
+      [
+       "Was schenke ich jemandem, der schon Kopfhörer hat?",
+       "Einen Bluetooth-Lautsprecher, eine Soundbar oder einen Streaming-Gutschein."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for music lovers: headphones & speakers on sale",
+     "title": "Gifts for Music Lovers 2026: Headphones, Speakers, Soundbars",
+     "desc": "Gifts for music fans: headphones, earbuds, Bluetooth speakers and soundbars from JBL, Sony, Bose and more. Checked deals.",
+     "intro": "For music fans there is hardly a better gift than good sound. Here are the current deals.",
+     "tips": [
+      [
+       "Where do they listen?",
+       "Earbuds or ANC headphones on the go, a speaker or soundbar at home."
+      ],
+      [
+       "Mind the phone",
+       "Some features only work with certain phones."
+      ],
+      [
+       "Water protection",
+       "IP67 speakers suit beach and garden."
+      ]
+     ],
+     "faq": [
+      [
+       "Which headphones make a good gift?",
+       "ANC headphones for commuting, light earbuds for sport."
+      ],
+      [
+       "Is an expensive speaker worth it?",
+       "On sale, brand speakers cost little more than no-name ones."
+      ],
+      [
+       "They already have headphones?",
+       "Try a speaker or soundbar."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-serienfans": {
+    "keyword": "geschenke für serienfans",
+    "filter": {
+     "re": "Fire TV|Fernseher|\\bTV\\b|Soundbar|Beamer|Projektor|Chromecast|Streaming|Ember|OLED|QLED",
+     "max": 800
+    },
+    "de": {
+     "h1": "Geschenke für Serienfans: Streaming, Fernseher, Soundbars",
+     "title": "Geschenke für Serienfans 2026: Fire TV, Fernseher & Soundbars im Angebot",
+     "desc": "Geschenke für Film- und Serienfans: Streaming-Sticks, Fernseher, Soundbars und Beamer. Täglich geprüfte Angebote mit Preisverlauf.",
+     "intro": "Wer gern Serien und Filme schaut, freut sich über alles, was den Fernsehabend besser macht: ein Streaming-Stick für alle Apps, ein größerer Fernseher, eine Soundbar für Kino-Klang oder ein Beamer. Hier findest du die passenden Deals.",
+     "tips": [
+      [
+       "Streaming-Stick als günstiger Einstieg",
+       "Ein Streaming-Stick macht auch ältere Fernseher smart und kostet im Angebot oft unter 40 Euro."
+      ],
+      [
+       "Größe zum Raum",
+       "Wie groß der Fernseher sein darf, hängt vom Sitzabstand ab. Unser Ratgeber zur Fernsehergröße hilft dabei."
+      ],
+      [
+       "Soundbar statt neuer Fernseher",
+       "Viele Fernseher klingen dünn. Eine Soundbar verbessert den Ton deutlich und ist günstiger als ein neues Gerät."
+      ]
+     ],
+     "faq": [
+      [
+       "Was schenkt man Serienfans?",
+       "Einen Streaming-Stick, eine Soundbar, einen Fernseher oder ein Streaming-Abo."
+      ],
+      [
+       "Welcher Streaming-Stick ist der beste?",
+       "Wichtig sind 4K, die passenden Apps und eine schnelle Bedienung. Im Angebot sind Fire TV Sticks oft besonders günstig."
+      ],
+      [
+       "Lohnt sich eine Soundbar?",
+       "Ja, wenn der Fernseher dünn klingt. Schon günstige Modelle sind meist deutlich besser als eingebaute Lautsprecher."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for series fans: streaming, TVs, soundbars",
+     "title": "Gifts for Series Fans 2026: Fire TV, TVs & Soundbars on Sale",
+     "desc": "Gifts for film and series fans: streaming sticks, TVs, soundbars and projectors. Checked deals with price history.",
+     "intro": "Anyone who loves series appreciates a better TV night. Here are matching deals.",
+     "tips": [
+      [
+       "Streaming stick as a cheap start",
+       "Makes older TVs smart, often under 40 euros on sale."
+      ],
+      [
+       "Size for the room",
+       "TV size depends on viewing distance."
+      ],
+      [
+       "Soundbar instead of a new TV",
+       "Improves sound a lot for less money."
+      ]
+     ],
+     "faq": [
+      [
+       "What to give series fans?",
+       "A streaming stick, soundbar, TV or subscription."
+      ],
+      [
+       "Which streaming stick is best?",
+       "Look for 4K, the right apps and fast menus."
+      ],
+      [
+       "Is a soundbar worth it?",
+       "Yes, if the TV sounds thin."
+      ]
+     ]
+    }
+   },
+   "geschenke-fuer-kinder-6-bis-10-jahre": {
+    "keyword": "geschenke für kinder 6 jahre",
+    "filter": {
+     "re": "^(?!.*(Icons|Botanicals|Herr der Ringe|Ideas|Architecture|Art |Monopoly Panini|76419|UCS|Ultimate Collector)).*(LEGO|PLAYMOBIL|Spiel|Puppe|Barbie|Ravensburger|Labyrinth|Tonie|Kinder|Hot Wheels|Kids)",
+     "max": 120
+    },
+    "de": {
+     "h1": "Geschenke für Kinder von 6 bis 10 Jahren im Angebot",
+     "title": "Geschenke für Kinder 6–10 Jahre 2026: LEGO, PLAYMOBIL, Spiele im Angebot",
+     "desc": "Geschenkideen für Kinder von 6 bis 10 Jahren: LEGO, PLAYMOBIL, Brettspiele, Kinder-Technik. Geprüfte Angebote mit Preisverlauf.",
+     "intro": "Zwischen 6 und 10 Jahren sind Bausets, Rollenspiel-Welten und Brettspiele besonders gefragt: LEGO, PLAYMOBIL, Familienspiele oder erste eigene Technik wie ein Kinder-Lautsprecher. Achte immer auf die Altersangabe des Herstellers auf der Packung.",
+     "tips": [
+      [
+       "Altersangabe beachten",
+       "Hersteller geben auf jedem Set ein Mindestalter an. Kleinteile sind für jüngere Geschwister ein Risiko."
+      ],
+      [
+       "Lieber eine Welt erweitern",
+       "Hat das Kind schon eine LEGO- oder PLAYMOBIL-Welt, kommt ein passendes Erweiterungsset meist besser an als etwas völlig Neues."
+      ],
+      [
+       "Spiele für die ganze Familie",
+       "Brettspiele, die Kinder und Erwachsene gemeinsam spielen können, werden besonders oft genutzt."
+      ]
+     ],
+     "faq": [
+      [
+       "Was wünschen sich Kinder mit 6 bis 10 Jahren?",
+       "Häufig Bausets wie LEGO und PLAYMOBIL, Brettspiele, Sammelfiguren, Bücher und erste eigene Technik."
+      ],
+      [
+       "Wie viel kostet ein gutes Kindergeschenk?",
+       "Viele gute Sets und Spiele gibt es im Angebot zwischen 20 und 60 Euro."
+      ],
+      [
+       "Wann sind LEGO-Sets am günstigsten?",
+       "Oft rund um Black Friday und kurz bevor ein Set ausläuft. Unser Preisverlauf zeigt, ob der aktuelle Preis gut ist."
+      ]
+     ]
+    },
+    "en": {
+     "h1": "Gifts for kids aged 6 to 10 on sale",
+     "title": "Gifts for Kids 6–10 Years 2026: LEGO, PLAYMOBIL, Games on Sale",
+     "desc": "Gift ideas for children aged 6 to 10: LEGO, PLAYMOBIL, board games and kids' tech. Checked deals with price history.",
+     "intro": "Between 6 and 10, building sets, play worlds and board games are popular. Always check the manufacturer's age rating.",
+     "tips": [
+      [
+       "Check the age rating",
+       "Small parts are a risk for younger siblings."
+      ],
+      [
+       "Extend a world",
+       "A matching expansion set often beats something new."
+      ],
+      [
+       "Family games",
+       "Games kids and adults play together get used most."
+      ]
+     ],
+     "faq": [
+      [
+       "What do kids aged 6 to 10 want?",
+       "Building sets, board games, figures, books and first tech."
+      ],
+      [
+       "How much does a good kids' gift cost?",
+       "Many sets and games cost 20 to 60 euros on sale."
+      ],
+      [
+       "When is LEGO cheapest?",
+       "Often around Black Friday and before a set retires."
+      ]
+     ]
+    }
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-18",
  "items": [
   {
    "slug": "fake-rabatte-erkennen",
@@ -1887,9 +1887,9 @@
   },
   {
    "slug": "weihnachten-bestellen-bis-wann",
-   "title": "Bis wann bestellen, damit es vor Weihnachten 2026 ankommt?",
-   "desc": "Versandfristen Weihnachten 2026: Bis wann DHL Pakete, Briefe und Express zustellt und wie spät du online bestellen solltest, damit Geschenke rechtzeitig da sind.",
-   "lead": "Kurze Antwort: Laut DHL und Deutscher Post sollten Pakete und Briefe innerhalb Deutschlands spätestens am Montag, 21.12.2026, verschickt werden, Express und Einschreiben spätestens am Dienstag, 22.12.2026. Wenn du online bestellst, muss der Shop das Paket bis dahin übergeben haben. Plane also einige Tage für Bearbeitung und Lager ein und bestell lieber deutlich früher. Stand: 09.11.2026.",
+   "title": "Bis wann bestellen, damit es vor Weihnachten 2026 ankommt? DHL, Hermes, DPD, GLS",
+   "desc": "Versandfristen Weihnachten 2026 im Überblick: letzte Abgabetage bei DHL, Deutscher Post, Hermes, DPD, GLS und UPS, plus wie spät du online bestellen solltest.",
+   "lead": "Kurze Antwort: Innerhalb Deutschlands sind die letzten empfohlenen Abgabetage für Weihnachten 2026: Hermes Samstag, 19.12.; DHL-Paket, GLS (bis 12 Uhr) und DPD Classic (bis 12 Uhr) Montag, 21.12.; DHL Express, DPD Express und Einschreiben Dienstag, 22.12. Wenn du online bestellst, muss der Shop das Paket bis dahin übergeben haben, also lieber deutlich früher bestellen. Alle Termine sind Empfehlungen der Paketdienste, keine Garantien. Stand: 18.11.2026.",
    "sections": [
     [
      "Die Weihnachtsfristen 2026 von DHL und Deutscher Post",
@@ -1897,6 +1897,16 @@
       "Die Deutsche Post hat ihre Weihnachtsfristen für 2026 veröffentlicht, berichten unter anderem mobiFlip (30.10.2026) und TECHBOOK (03.11.2026). Innerhalb Deutschlands gilt: normale Pakete, Briefe und Postkarten bis Montag, 21. Dezember, Einschreiben und DHL Express bis Dienstag, 22. Dezember. Bei Express zählt laut TECHBOOK der Annahmeschluss der Filiale.",
       "Ins Ausland wird es früher knapp: Pakete in Nachbarländer bis 17. Dezember, ins übrige Europa bis 14. Dezember, außerhalb Europas schon bis 26. November. Briefe innerhalb Europas sollten bis 9. Dezember, Briefe außerhalb Europas bis 25. November unterwegs sein. DHL Express nach Europa geht bis 22. Dezember, außerhalb Europas bis 18. Dezember.",
       "Wichtig: Das sind Empfehlungen und keine Liefergarantien, darauf weist auch mobiFlip hin. Wer am letzten Tag verschickt, geht ein Risiko ein."
+     ]
+    ],
+    [
+     "Hermes, DPD, GLS und UPS: Weihnachtsfristen 2026",
+     [
+      "Hermes: Pakete innerhalb Deutschlands bis Samstag, 19.12.2026, im PaketShop abgeben. Für eine Abholung an der Haustür muss sie bis 18.12. beauftragt sein. Hermes sagt laut wortfilter.de einen ersten Zustellversuch bis 24.12. zu, aber keine Zustellgarantie. EU-Ausland als Richtwert bis 14.12. (Finnland, Polen, Portugal, Spanien bis 12.12.).",
+      "DPD: Classic national bis Montag, 21.12.2026, für Privatkunden bis 12 Uhr im Paketshop oder an der Paketstation. DPD Express national bis Dienstag, 22.12. (Zustellung auch am 24.12.). International: Classic bis 15.12., Express bis 16.12., jeweils bis 12 Uhr.",
+      "GLS: Pakete innerhalb Deutschlands bis Montag, 21.12.2026, 12 Uhr. EU-Nachbarländer bis 18.12., weitere EU-Länder bis 17.12., Länder außerhalb der EU bis 15.12., jeweils bis 12 Uhr.",
+      "UPS nennt keinen festen Stichtag, die Laufzeit hängt von Verbindung und Service ab. Am 24.12. gibt es Zustellung und Abholung bis mittags, am 25. und 26.12. keinen Service.",
+      "Quelle für diesen Abschnitt: Zusammenstellung von wortfilter.de, Stand 17.11.2026. Die Termine sind Empfehlungen der Paketdienste."
      ]
     ],
     [
@@ -1926,6 +1936,14 @@
     [
      "Bis wann muss ich ein DHL-Paket abgeben, damit es vor Weihnachten 2026 ankommt?",
      "Innerhalb Deutschlands empfiehlt die Deutsche Post für normale Pakete den 21.12.2026, für DHL Express und Einschreiben den 22.12.2026. Das sind Empfehlungen, keine Garantien."
+    ],
+    [
+     "Bis wann muss ich bei Hermes abgeben?",
+     "Laut Hermes (über wortfilter.de) bis Samstag, 19.12.2026, im PaketShop. Eine Haustürabholung muss bis 18.12. beauftragt sein. Eine Zustellgarantie gibt es nicht."
+    ],
+    [
+     "Bis wann bei DPD und GLS?",
+     "DPD Classic und GLS innerhalb Deutschlands bis Montag, 21.12.2026, jeweils bis 12 Uhr. DPD Express geht bis 22.12."
     ],
     [
      "Bis wann sollte ich online bestellen?",

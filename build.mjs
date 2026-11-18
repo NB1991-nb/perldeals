@@ -1082,11 +1082,19 @@ const BF_CATS = [
   ["backofen","Backofen, Herd & Kochfeld",/backofen|herd-set|herdset|kochfeld|\bherd\b/i,[250,500]],
   ["kuechengeraete","Küchengeräte",null,[100,300],"kitchen"],
   ["werkzeug","Werkzeug",null,[100,250],"tools"],
-  ["smart-home","Smart Home",null,[50,150],"smarthome"]
+  ["smart-home","Smart Home",null,[50,150],"smarthome"],
+  /* 18.11.: Produkt-Keywords fürs Weihnachtsgeschäft (black friday fire tv stick, echo, airfryer, kaffeevollautomat, ssd …) */
+  ["fire-tv-echo","Fire TV, Echo & Kindle",/fire tv|\becho\b|kindle|alexa|ember \d/i,[30,100]],
+  ["heissluftfritteuse","Heißluftfritteusen (Airfryer)",/airfryer|heißluft|fritteuse|double stack|flexdrawer/i,[80,150]],
+  ["kaffeemaschine","Kaffeemaschinen & Kaffeevollautomaten",/kaffee|espresso|senseo|nespresso|tassimo|siebträger/i,[100,400]],
+  ["speicher","SSD, Festplatten & Speicherkarten",/\bssd\b|microsd|speicherkarte|festplatte|\bnvme\b|usb-stick/i,[50,120]],
+  ["lautsprecher","Lautsprecher & Soundbars",/lautsprecher|soundbar|speaker|musikbox/i,[50,200]],
+  ["kamera","Kameras, Action-Cams & Drohnen",/kamera|actioncam|action-cam|gopro|\bdji\b|insta360|drohne|webcam/i,[100,300]],
+  ["spielzeug","Spielzeug (ohne LEGO)",/playmobil|spielzeug|puppe|barbie|hot wheels|ravensburger|brettspiel|dorfromantik|tonie/i,[25,60]]
 ];
 const bfDeals = c => sorted.filter(d => c[4] ? d.cat === c[4] : c[2].test(`${d.title.de} ${d.brand||""}`));
 /* Black Friday je Marke (07.11., Search Console: „bauknecht black friday“, „braun black friday“, „samsung cyber monday“ u. a.) – nur gebaut, wenn mind. 2 geprüfte Deals da sind */
-const BF_BRANDS = [["bauknecht","Bauknecht",/bauknecht/i,[300,600]],["bosch","Bosch",/\bbosch\b/i,[300,600]],["siemens","Siemens",/\bsiemens\b/i,[300,600]],["samsung","Samsung",/samsung/i,[200,500]],["lg","LG",/\blg\b/i,[300,700]],["aeg","AEG",/\baeg\b/i,[300,600]],["braun","Braun",/\bbraun\b/i,[50,150]],["lenovo","Lenovo",/lenovo/i,[500,1000]],["dell","Dell",/\bdell\b|alienware/i,[500,1000]],["ecovacs","Ecovacs",/ecovacs|deebot/i,[300,600]],["ninja","Ninja & Shark",/\bninja\b|\bshark\b/i,[100,250]],["lego","LEGO",/\blego\b/i,[50,100]]].filter(b => b[0] !== "lego");
+const BF_BRANDS = [["bauknecht","Bauknecht",/bauknecht/i,[300,600]],["bosch","Bosch",/\bbosch\b/i,[300,600]],["siemens","Siemens",/\bsiemens\b/i,[300,600]],["samsung","Samsung",/samsung/i,[200,500]],["lg","LG",/\blg\b/i,[300,700]],["aeg","AEG",/\baeg\b/i,[300,600]],["braun","Braun",/\bbraun\b/i,[50,150]],["lenovo","Lenovo",/lenovo/i,[500,1000]],["dell","Dell",/\bdell\b|alienware/i,[500,1000]],["ecovacs","Ecovacs",/ecovacs|deebot/i,[300,600]],["ninja","Ninja & Shark",/\bninja\b|\bshark\b/i,[100,250]],["amazon","Amazon-Geräte",/fire tv|\becho\b|kindle|ember \d|\bring\b|blink/i,[30,100]],["philips","Philips",/philips/i,[50,200]],["roborock","Roborock",/roborock/i,[300,700]],["jbl","JBL",/\bjbl\b/i,[50,150]],["sony","Sony",/\bsony\b|playstation|ps5/i,[100,400]],["delonghi","De'Longhi",/de.?longhi/i,[200,500]],["dyson","Dyson",/dyson/i,[300,500]],["hp","HP",/\bhp\b|omen|omnibook/i,[400,800]],["xiaomi","Xiaomi",/xiaomi|redmi/i,[100,300]],["bose","Bose",/\bbose\b/i,[150,300]],["anker","Anker & soundcore",/anker|soundcore|eufy/i,[30,100]],["playmobil","PLAYMOBIL",/playmobil/i,[25,60]],["logitech","Logitech",/logitech/i,[30,100]],["dji","DJI",/\bdji\b/i,[200,500]],["microsoft","Microsoft & Xbox",/microsoft|surface|xbox/i,[100,800]],["msi","MSI",/\bmsi\b/i,[200,800]],["lego","LEGO",/\blego\b/i,[50,100]]].filter(b => b[0] !== "lego");
 const bfBrandList = () => BF_BRANDS.filter(b => bfDeals(b).length >= 2);
 const bfPromos = () => AWIN_PROMOS.filter(p => promoActive(p) && /black|cyber|singles day|bf-|bfw|november/i.test(`${p.title} ${p.description}`));
 function buildBFSub(c){
