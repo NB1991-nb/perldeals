@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:25:00Z",
+  "updated": "2026-11-18T12:25:00Z",
   "amazonTag": "boeketv-21",
   "deals": [
     {
@@ -9728,6 +9728,114 @@
       },
       "added": "2026-11-18T12:25:00+01:00",
       "checked": "2026-11-18T12:25:00+01:00"
+    },
+    {
+      "id": "russell-hobbs-satisfry-5-5l",
+      "asin": "B0FHWVK4NP",
+      "brand": "Russell Hobbs",
+      "cat": "kitchen",
+      "now": 49.99,
+      "was": 79.99,
+      "title": {
+        "de": "Russell Hobbs Heißluftfritteuse Satisfry XL 5,5 L",
+        "en": "Russell Hobbs Satisfry XL air fryer 5.5 L"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "dell-16-core-5-120u-16gb",
+      "asin": "B0GHZCDGP8",
+      "brand": "Dell",
+      "cat": "computer",
+      "now": 614.2,
+      "was": 919,
+      "title": {
+        "de": "Dell 16 Laptop (Intel Core 5 120U, 16 GB, 512 GB SSD)",
+        "en": "Dell 16 laptop (Intel Core 5 120U, 16 GB, 512 GB SSD)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "worx-vision-cloud-wr304e",
+      "asin": "B0FVG277K8",
+      "brand": "WORX",
+      "cat": "garden",
+      "now": 499.99,
+      "was": 749,
+      "title": {
+        "de": "Worx Vision Cloud WR304E Mähroboter ohne Begrenzungskabel (400 m²)",
+        "en": "Worx Vision Cloud WR304E wire-free robot mower (400 m²)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "lego-technic-42226-bmw-m4-gt3-evo",
+      "asin": "B0FPXFKGQR",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 44.99,
+      "was": 64.99,
+      "title": {
+        "de": "LEGO Technic 42226 BMW M4 GT3 EVO Rennwagen",
+        "en": "LEGO Technic 42226 BMW M4 GT3 EVO race car"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "lego-creator-31389-riesenrad",
+      "asin": "B0FPXD6FNL",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 64.26,
+      "was": 89.99,
+      "title": {
+        "de": "LEGO Creator 3in1 31389 Legendäres Riesenrad",
+        "en": "LEGO Creator 3in1 31389 Legendary Ferris Wheel"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
+    },
+    {
+      "id": "mischwald-grundspiel",
+      "asin": "B0CCQLZ77X",
+      "brand": "Lookout",
+      "cat": "toys",
+      "now": 18.99,
+      "was": 23.99,
+      "title": {
+        "de": "Mischwald Grundspiel (Kartenspiel, Deutsch)",
+        "en": "Mischwald (Forest Shuffle) base game, German"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 18.11.2026; Vergleichspreis = UVP/„Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 18 Nov 2026; reference = list/was price per Amazon. Sold by Amazon."
+      },
+      "added": "2026-11-18T13:25:00+01:00",
+      "checked": "2026-11-18T13:25:00+01:00"
     }
   ]
 }
