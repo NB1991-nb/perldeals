@@ -46,7 +46,11 @@ $path = preg_replace('#/+#', '/', $path);
 if (($in['e'] ?? '') === 'out') {
     if ($path !== '') try { $db = db(); if (pd_rate('hito|' . pd_ip_key(), 120, 3600)) {
         $db->exec("CREATE TABLE IF NOT EXISTS pages_daily (day DATE NOT NULL, path VARCHAR(160) NOT NULL, views INT UNSIGNED NOT NULL DEFAULT 0, outs INT UNSIGNED NOT NULL DEFAULT 0, PRIMARY KEY (day, path)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4");
-        $db->prepare("INSERT INTO pages_daily (day, path, outs) VALUES (CURRENT_DATE(), ?, 1) ON DUPLICATE KEY UPDATE outs = outs + 1")->execute([$path]); } } catch (Throwable $e) {}
+        $db->prepare("INSERT INTO pages_daily (day, path, outs) VALUES (CURRENT_DATE(), ?, 1) ON DUPLICATE KEY UPDATE outs = outs + 1")->execute([$path]);
+        // 19.11.: Klicks je Shop (nur Shop-Kennung wie amazon, ebay, awin:14336 + Pfad, keine Personendaten)
+        $shop = strtolower(preg_replace('/[^a-z0-9.:-]/i', '', substr((string)($in['s'] ?? ''), 0, 40))) ?: 'unbekannt';
+        $db->exec("CREATE TABLE IF NOT EXISTS outs_shop_daily (day DATE NOT NULL, shop VARCHAR(40) NOT NULL, path VARCHAR(160) NOT NULL, hits INT UNSIGNED NOT NULL DEFAULT 0, PRIMARY KEY (day, shop, path)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4");
+        $db->prepare("INSERT INTO outs_shop_daily (day, shop, path, hits) VALUES (CURRENT_DATE(), ?, ?, 1) ON DUPLICATE KEY UPDATE hits = hits + 1")->execute([$shop, $path]); } } catch (Throwable $e) {}
     http_response_code(204); exit;
 }
 $src = pd_source(substr((string)($in['r'] ?? ''), 0, 120), substr((string)($in['u'] ?? ''), 0, 40));
