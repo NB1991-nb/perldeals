@@ -38,6 +38,6 @@ try {
     $shops = []; $shopPages = []; $outPages = [];
     try { $s3 = $db->prepare("SELECT shop, SUM(hits) AS clicks FROM outs_shop_daily WHERE day >= (CURRENT_DATE() - INTERVAL ? DAY) GROUP BY shop ORDER BY clicks DESC"); $s3->execute([$days]); $shops = $s3->fetchAll(); } catch (Throwable $e) {}
     try { $s4 = $db->prepare("SELECT shop, path, SUM(hits) AS clicks FROM outs_shop_daily WHERE day >= (CURRENT_DATE() - INTERVAL ? DAY) GROUP BY shop, path ORDER BY clicks DESC LIMIT 100"); $s4->execute([$days]); $shopPages = $s4->fetchAll(); } catch (Throwable $e) {}
-    try { $s5 = $db->prepare("SELECT path, SUM(views) AS views, SUM(outs) AS outs FROM pages_daily WHERE day >= (CURRENT_DATE() - INTERVAL ? DAY) GROUP BY path HAVING outs > 0 ORDER BY outs DESC LIMIT 100"); $s5->execute([$days]); $outPages = $s5->fetchAll(); } catch (Throwable $e) {}
+    try { $s5 = $db->prepare("SELECT path, SUM(views) AS views, SUM(outs) AS outs FROM pages_daily WHERE day >= (CURRENT_DATE() - INTERVAL ? DAY) GROUP BY path HAVING outs > 0 ORDER BY outs DESC LIMIT 1000"); $s5->execute([$days]); $outPages = $s5->fetchAll(); } catch (Throwable $e) {}
     pd_json(['srv' => $srv, 'pages' => $pages, 'out_pages' => $outPages, 'shops' => $shops, 'shop_pages' => $shopPages, 'campaigns' => $camp, 'subscriptions' => $subs, 'days' => $days, 'total' => array_sum($bySource), 'by_source' => $bySource, 'rows' => $rows]);
 } catch (Throwable $e) { pd_fail(500, 'db'); }
