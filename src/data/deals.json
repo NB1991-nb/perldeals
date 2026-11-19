@@ -1,7 +1,102 @@
 {
-  "updated": "2026-11-19T06:23:03Z",
+  "updated": "2026-11-19T09:21:44Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "pokemon-deluxe-kampfdeck-zapdos-ex",
+      "asin": "B0CVRZYKQF",
+      "brand": "Pokémon",
+      "cat": "toys",
+      "now": 19.89,
+      "was": 24.99,
+      "title": {
+        "de": "Pokémon Deluxe-Kampfdeck Zapdos-ex",
+        "en": "Pokémon Deluxe Battle Deck Zapdos ex"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T10:25:00+01:00",
+      "checked": "2026-11-19T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "hp-deskjet-4320",
+      "asin": "B0FCSVV6X7",
+      "brand": "HP",
+      "cat": "computer",
+      "now": 45.99,
+      "was": 57.9,
+      "title": {
+        "de": "HP DeskJet 4320 Multifunktionsdrucker",
+        "en": "HP DeskJet 4320 all-in-one printer"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T10:25:00+01:00",
+      "checked": "2026-11-19T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "worx-wa3644-akku-20v-4ah",
+      "asin": "B0CLYQH7TJ",
+      "brand": "WORX",
+      "cat": "tools",
+      "now": 32.27,
+      "was": 42.95,
+      "title": {
+        "de": "WORX WA3644 PowerShare Pro Akku 20 V 4,0 Ah",
+        "en": "WORX WA3644 PowerShare Pro battery 20 V 4.0 Ah"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T10:25:00+01:00",
+      "checked": "2026-11-19T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "grundig-wk-4420-wasserkocher",
+      "asin": "B0FS7QT74C",
+      "brand": "Grundig",
+      "cat": "kitchen",
+      "now": 15.29,
+      "was": 22.99,
+      "title": {
+        "de": "Grundig WK 4420 L Wasserkocher 1,7 l Edelstahl",
+        "en": "Grundig WK 4420 L kettle 1.7 l stainless steel"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T10:25:00+01:00",
+      "checked": "2026-11-19T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "remington-proluxe-midnight-ac9140b",
+      "asin": "B086GHJFJY",
+      "brand": "Remington",
+      "cat": "beauty",
+      "now": 23.7,
+      "was": 38.99,
+      "title": {
+        "de": "Remington PROluxe Midnight Edition Haartrockner AC9140B",
+        "en": "Remington PROluxe Midnight Edition hair dryer AC9140B"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T10:25:00+01:00",
+      "checked": "2026-11-19T10:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "motorola-am21-babyphone",
       "asin": "B08BG3DJJ3",
