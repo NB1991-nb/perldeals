@@ -1968,7 +1968,7 @@ function buildReseller(){
       + (lego.length ? grid(lego.slice(0,12), "de", "h2", "Aktuelle LEGO-Deals") + rsMetricTable(lego.slice(0,12)) : "")
       + (kons.length ? grid(kons, "de", "h2", "Konsolen-Deals") : "")
       + (poke.length + op.length ? grid(poke.concat(op), "de", "h2", "Sammelkarten-Deals") : "")
-      + rsSec("Mehr für Reseller", `<ul class="link-list"><li><a href="/reseller/pokemon-preisindex/"><strong>Pokémon-Preisindex: die teuersten Karten aktueller Sets</strong></a></li><li><a href="/reseller/pokemon-sets/"><strong>Pull-Rates &amp; Erwartungswert aller aktuellen Pokémon-Sets</strong></a></li><li><a href="/reseller/pokemon-haendler/">Pokémon für Händler: Deals &amp; Bewertungs-Leitfaden</a></li><li><a href="/reseller/release-kalender/">Release-Kalender Pokémon &amp; One Piece</a></li><li><a href="/reseller/pokemon-display-kaufen/">Pokémon-Display kaufen</a></li><li><a href="/reseller/top-trainer-box-kaufen/">Pokémon Top-Trainer-Box kaufen</a></li><li><a href="/reseller/one-piece-display-kaufen/">One Piece Display kaufen</a></li><li><a href="/reseller/angebote/">Sammlerware direkt von perldeals</a></li><li><a href="/reseller/karten-ankauf/"><strong>Karten &amp; Retro-Konsolen verkaufen: Ankauf per WhatsApp</strong></a></li>${RS_GUIDES.map(g => `<li><a href="/reseller/ratgeber/${g.slug}/">${esc(g.title)}</a></li>`).join("")}</ul>`),
+      + rsSec("Mehr für Reseller", `<ul class="link-list"><li><a href="/reseller/fragen/"><strong>Fragen &amp; Antworten: LEGO EOL, Pokémon-Termine, eBay-Gebühren</strong></a></li><li><strong>Kostenlose Alarme:</strong> <a href="/reseller/alarm/pokemon/">Pokémon</a> · <a href="/reseller/alarm/one-piece/">One Piece</a> · <a href="/reseller/alarm/lego/">LEGO EOL</a> · <a href="/reseller/alarm/konsolen/">Konsolen</a></li><li><a href="/reseller/pokemon-preisindex/"><strong>Pokémon-Preisindex: die teuersten Karten aktueller Sets</strong></a></li><li><a href="/reseller/pokemon-sets/"><strong>Pull-Rates &amp; Erwartungswert aller aktuellen Pokémon-Sets</strong></a></li><li><a href="/reseller/pokemon-haendler/">Pokémon für Händler: Deals &amp; Bewertungs-Leitfaden</a></li><li><a href="/reseller/release-kalender/">Release-Kalender Pokémon &amp; One Piece</a></li><li><a href="/reseller/pokemon-display-kaufen/">Pokémon-Display kaufen</a></li><li><a href="/reseller/top-trainer-box-kaufen/">Pokémon Top-Trainer-Box kaufen</a></li><li><a href="/reseller/one-piece-display-kaufen/">One Piece Display kaufen</a></li><li><a href="/reseller/angebote/">Sammlerware direkt von perldeals</a></li><li><a href="/reseller/karten-ankauf/"><strong>Karten &amp; Retro-Konsolen verkaufen: Ankauf per WhatsApp</strong></a></li>${RS_GUIDES.map(g => `<li><a href="/reseller/ratgeber/${g.slug}/">${esc(g.title)}</a></li>`).join("")}</ul>`),
     faq:[
       ["Was ist der Reseller-Bereich von perldeals?", "Eine Übersicht für Sammler und Wiederverkäufer: Erscheinungstermine von Pokémon- und One-Piece-Karten, Rabattaktionen von Händlern, LEGO-Sets kurz vor dem Produktionsende und geprüfte Deals mit Ladenpreis, geschätztem Marktwert und möglicher Marge."],
       ["Wie funktioniert der Reseller-Deal-Alarm?", "Du wählst deine Themen (Pokémon, One Piece, LEGO, Konsolen oder den allgemeinen Alarm), optional einen Mindestrabatt oder eine Mindestmarge, und bestätigst deine E-Mail-Adresse. Sobald wir einen passenden Deal, Termin oder eine Aktion eintragen, geht innerhalb von etwa 15 Minuten eine E-Mail raus."],
@@ -2003,9 +2003,10 @@ function buildReseller(){
   rsPage({path:"/reseller/alarm/", active:"alarm", crumb:"Deal-Alarm", eyebrow:"Deal-Alarm für Reseller", h1:"Reseller-Deal-Alarm: neue Drops und Deals sofort per E-Mail",
     lead:"Wähle Pokémon, One Piece, LEGO, Konsolen oder den allgemeinen Alarm mit den besten Deals und Aktionen. Optional mit Mindestrabatt oder Mindestmarge. Kostenlos, mit Double-Opt-in und Abmeldelink in jeder E-Mail.",
     title:"Reseller-Deal-Alarm: Pokémon, One Piece, LEGO, Konsolen · perldeals", desc:"Kostenloser Deal-Alarm für Reseller und Sammler: neue Pokémon- und One-Piece-Termine, LEGO-EOL-Deals und Konsolen-Angebote sofort per E-Mail, mit Mindestrabatt und Mindestmarge.",
-    body: `<div class="wrap">${rsAlarmBox("reseller-alarm")}<ol class="wa-how"><li><strong>Themen wählen:</strong> Hake an, was dich interessiert. Der allgemeine Alarm schickt dir zusätzlich die stärksten Deals (ab 40 % Rabatt oder Bestpreis) und alle neuen Aktionen.</li><li><strong>Filter setzen:</strong> Mit Mindestrabatt oder Mindestmarge bekommst du nur Deals, die sich für dich lohnen.</li><li><strong>Bestätigen:</strong> Klick auf den Link in der E-Mail. Erst dann ist der Alarm aktiv. Abmelden geht mit einem Klick in jeder E-Mail.</li></ol></div>`});
+    body: `<div class="wrap">${rsAlarmBox("reseller-alarm")}<p class="prose">Nur ein Thema? <a href="/reseller/alarm/pokemon/">Pokémon-Alarm</a> · <a href="/reseller/alarm/one-piece/">One-Piece-Alarm</a> · <a href="/reseller/alarm/lego/">LEGO-EOL-Alarm</a> · <a href="/reseller/alarm/konsolen/">Konsolen-Alarm</a></p><ol class="wa-how"><li><strong>Themen wählen:</strong> Hake an, was dich interessiert. Der allgemeine Alarm schickt dir zusätzlich die stärksten Deals (ab 40 % Rabatt oder Bestpreis) und alle neuen Aktionen.</li><li><strong>Filter setzen:</strong> Mit Mindestrabatt oder Mindestmarge bekommst du nur Deals, die sich für dich lohnen.</li><li><strong>Bestätigen:</strong> Klick auf den Link in der E-Mail. Erst dann ist der Alarm aktiv. Abmelden geht mit einem Klick in jeder E-Mail.</li></ol></div>`});
   buildResellerMore();
   buildLegoWeglegen();
+  buildResellerSeo();
 }
 /* ---- 19.11. (Nico): „LEGO zum Weglegen“ – Landingpage + Unterseiten aus RS.eol ---- */
 const WEG_P = "/reseller/lego-weglegen/";
@@ -2083,6 +2084,78 @@ function buildLegoWeglegen(){
       <h2>Steuern</h2><p>Wer regelmäßig mit Gewinnabsicht kauft und verkauft, handelt gewerblich. Kläre im Zweifel mit einer Steuerberatung, was für dich gilt.</p>
       <h2>Weiterlesen</h2><ul class="link-list"><li><a href="${WEG_P}">Alle auslaufenden Sets zum Weglegen</a></li><li><a href="/reseller/ankauf/lego/">LEGO verkaufen: Ankauf</a></li><li><a href="/reseller/ratgeber/lego-eol-wertsteigerung/">Was passiert nach dem EOL?</a></li></ul></div>`,
     faq: WEG_FAQ.slice(3)});
+}
+/* ---- 19.11. (Nico): mehr Anmeldungen + SEO/KI-Seiten für Reseller: Alarm-Landingpages je Thema und Antwortseiten /reseller/fragen/ ---- */
+const RS_ALARM_T = [
+  {key:"pokemon", slug:"pokemon", h:"Pokémon-Alarm: neue Sets, Restocks und Deals per E-Mail", name:"Pokémon",
+   lead:"Erfahre sofort, wenn ein neues Pokémon-Set, eine Top-Trainer-Box oder ein Display erscheint, ein Händler eine Aktion startet oder wir einen geprüften Pokémon-Deal finden. Kostenlos, jederzeit abbestellbar.",
+   body:() => rsSec("Diese Termine stehen als Nächstes an", rsReleaseTable("pokemon", 6))},
+  {key:"onepiece", slug:"one-piece", h:"One-Piece-Alarm: neue Booster und Starter Decks per E-Mail", name:"One Piece",
+   lead:"Neue Booster, Extra Booster, Starter Decks und Händleraktionen zum One Piece Card Game sofort per E-Mail. Kostenlos, jederzeit abbestellbar.",
+   body:() => rsSec("Diese Termine stehen als Nächstes an", rsReleaseTable("onepiece", 6))},
+  {key:"lego", slug:"lego", h:"LEGO-EOL-Alarm: auslaufende Sets unter UVP per E-Mail", name:"LEGO",
+   lead:"Bekomme eine E-Mail, wenn ein auslaufendes LEGO-Set tief unter UVP fällt, eine LEGO-Aktion startet oder wir einen geprüften LEGO-Deal eintragen. Ideal, wenn du Sets zum Weglegen suchst.",
+   body:() => rsSec("Aktuell am weitesten unter UVP", rsEolTable(6) + `<p><a href="/reseller/lego-weglegen/">Alle Sets zum Weglegen</a></p>`)},
+  {key:"konsolen", slug:"konsolen", h:"Konsolen-Alarm: PS5-, Switch- und Xbox-Deals per E-Mail", name:"Konsolen",
+   lead:"Geprüfte Angebote für PlayStation, Nintendo Switch, Xbox und Handhelds sofort per E-Mail. Mit Mindestrabatt, damit du nur echte Schnäppchen bekommst.",
+   body:() => { const k = rsDeals("konsolen"); return k.length ? grid(k.slice(0, 6), "de", "h2", "Aktuelle Konsolen-Deals") : ""; }}
+];
+const RS_ALARM_HOW = `<ol class="wa-how"><li><strong>E-Mail eintragen</strong> und Thema anhaken (ist schon vorausgewählt).</li><li><strong>Bestätigen:</strong> Du bekommst eine E-Mail mit Bestätigungslink (Double-Opt-in).</li><li><strong>Fertig:</strong> Neue Termine, Aktionen und Deals kommen innerhalb von etwa 15 Minuten, sonntags zusätzlich ein Wochenüberblick. Abmelden geht mit einem Klick in jeder E-Mail.</li></ol>`;
+const rsQA = (q, a) => `<section class="wrap section"><div class="answer"><h2>Kurze Antwort</h2><p>${a}</p></div></section>`;
+function buildResellerSeo(){
+  if (!RS) return;
+  for (const T of RS_ALARM_T) {
+    rsPage({path:`/reseller/alarm/${T.slug}/`, active:"alarm", trail:[["Deal-Alarm", "/reseller/alarm/"], [T.name]], eyebrow:`Kostenloser ${T.name}-Alarm`, h1:T.h, lead:esc(T.lead),
+      title:`${T.h} · perldeals`, desc:`${T.lead.slice(0, 150)}`,
+      body:`<div class="wrap">${rsAlarmBox("reseller-alarm-" + T.slug, [T.key])}</div>` + rsSec("So funktioniert es", RS_ALARM_HOW) + T.body()
+        + rsSec("Weitere Alarme", `<ul class="link-list">${RS_ALARM_T.filter(x => x !== T).map(x => `<li><a href="/reseller/alarm/${x.slug}/">${esc(x.name)}-Alarm</a></li>`).join("")}<li><a href="/black-friday/">Black-Friday-Alarm 2026</a></li><li><a href="/gutschein-alarm/">Gutschein-Alarm</a></li></ul>`),
+      faq:[["Was kostet der Alarm?", "Nichts. Du brauchst nur eine E-Mail-Adresse und bestätigst die Anmeldung einmal."], ["Wie oft bekomme ich E-Mails?", "Nur wenn es zu deinem Thema etwas Neues gibt, dazu sonntags einen Wochenüberblick. Mit einem Mindestrabatt oder einer Mindestmarge bekommst du weniger, aber stärkere Treffer."], ["Kann ich mich wieder abmelden?", "Ja, jederzeit über den Abmeldelink in jeder E-Mail."]]});
+  }
+  const eol = RS.eol.filter(s => s.best && s.uvp), byTheme = {};
+  for (const s of eol) (byTheme[s.theme] ||= []).push(s);
+  const nextRel = g => RS.releases.filter(r => r.game === g && r.date && daysTo(r.date) >= 0).sort((a, b) => a.date.localeCompare(b.date));
+  const retailers = g => [...new Set(RS.releases.filter(r => r.game === g).flatMap(r => r.retailers || []))];
+  const promosNow = t => { const today = new Date(NOW_MS).toISOString().slice(0, 10); return RS.promos.filter(p => (!p.to || p.to >= today) && (!t || p.topics.includes(t))); };
+  const relLi = r => `<li><a href="${RS_REL_PATH(r)}"><strong>${esc(r.name.split(" (")[0])}</strong></a> – ${dayDe(r.date)}</li>`;
+  const top3 = [...eol].filter(s => s.discountPct > 0).sort((a, b) => b.discountPct - a.discountPct).slice(0, 3);
+  const np = nextRel("pokemon"), no = nextRel("onepiece");
+  const Q = [
+    {slug:"welche-lego-sets-laufen-2026-aus", q:"Welche LEGO-Sets laufen 2026 aus?",
+     a:`Laut den Markierungen im LEGO-Shop und Auswertungen von Fanseiten gehen voraussichtlich ${eol.length} bekannte Sets Ende 2026 aus dem Sortiment, darunter ${eol.slice(0, 4).map(s => `${s.num} ${esc(s.name)}`).join(", ")}. LEGO bestätigt EOL-Termine nicht offiziell.`,
+     body:() => Object.entries(byTheme).map(([th, l]) => rsSec(`LEGO ${esc(th)} (${l.length})`, `<ul class="link-list">${l.map(s => `<li><a href="${RS_EOL_PATH(s)}"><strong>${s.num} ${esc(s.name)}</strong></a> – UVP ${eur(s.uvp,"de")}, aktuell ab ${eur(s.best.price,"de")} (${dayDe(s.best.checked)})</li>`).join("")}</ul>`)).join("")},
+    {slug:"lohnt-sich-lego-als-geldanlage", q:"Lohnt sich LEGO als Geldanlage?",
+     a:"Manchmal. Versiegelte Sets beliebter Themen werden nach dem Produktionsende oft teurer gehandelt, vor allem wenn man sie deutlich unter UVP gekauft hat. Garantiert ist das nicht: Viele Sets bleiben lange unter UVP, und Gebühren, Versand und Lagerplatz kosten Geld. LEGO ist eher ein Sammler-Nebenprojekt als eine sichere Geldanlage.",
+     body:() => rsSec("Worauf es ankommt", WEG_TIPS) + rsSec("Aktuell am weitesten unter UVP", `<ul class="link-list">${top3.map(s => `<li><a href="${RS_EOL_PATH(s)}">${s.num} ${esc(s.name)}</a> – −${s.discountPct} % unter UVP</li>`).join("")}</ul><p><a href="/reseller/lego-weglegen/">Alle Sets zum Weglegen mit Rechnung</a></p>`)},
+    {slug:"lego-eol-erkennen", q:"Woran erkenne ich, dass ein LEGO-Set ausläuft?",
+     a:"Im LEGO-Shop steht bei auslaufenden Sets oft „Bald nicht mehr erhältlich“ oder „Ausverkauft“ ohne Nachschub. Fanseiten werten diese Hinweise aus und führen EOL-Listen. Ein weiteres Zeichen: Händler verkaufen ein Set auffällig günstig ab, weil sie Platz für Neuheiten brauchen.",
+     body:() => rsSec("Sets mit EOL Ende 2026", `<p><a href="/reseller/lego-eol/">Zur LEGO EOL-Liste 2026/2027</a> · <a href="/reseller/alarm/lego/">LEGO-EOL-Alarm aktivieren</a></p>`)},
+    {slug:"naechstes-pokemon-set", q:"Wann erscheint das nächste Pokémon-Set?",
+     a: np.length ? `Als Nächstes erscheint ${esc(np[0].name.split(" (")[0])} am ${dayDe(np[0].date)}${np[0].confirmed ? "" : " (noch nicht offiziell bestätigt)"}.` : "Gerade ist kein kommender Termin eingetragen.",
+     body:() => rsSec("Kommende Pokémon-Termine", np.length ? `<ul class="link-list">${np.slice(0, 8).map(relLi).join("")}</ul>` : "<p>Keine Termine eingetragen.</p>") + `<div class="wrap"><p><a href="/reseller/alarm/pokemon/">Pokémon-Alarm aktivieren</a> · <a href="/reseller/release-kalender/">Release-Kalender</a></p></div>`},
+    {slug:"naechstes-one-piece-set", q:"Wann erscheint das nächste One-Piece-Set?",
+     a: no.length ? `Als Nächstes erscheint ${esc(no[0].name.split(" (")[0])} am ${dayDe(no[0].date)}. Das One Piece Card Game erscheint in Europa auf Englisch.` : "Gerade ist kein kommender Termin eingetragen.",
+     body:() => rsSec("Kommende One-Piece-Termine", no.length ? `<ul class="link-list">${no.slice(0, 8).map(relLi).join("")}</ul>` : "<p>Keine Termine eingetragen.</p>") + `<div class="wrap"><p><a href="/reseller/alarm/one-piece/">One-Piece-Alarm aktivieren</a></p></div>`},
+    {slug:"pokemon-karten-wo-kaufen", q:"Wo kann man Pokémon-Karten zum Ladenpreis kaufen?",
+     a:`Neue Pokémon-Produkte führen unter anderem ${retailers("pokemon").slice(0, 6).map(esc).join(", ")}. Gefragte Produkte gibt es bei Amazon oft nur auf Einladung, bei Discountern nur in einzelnen Aktionen und in kleinen Mengen.`,
+     body:() => rsSec("Laufende Aktionen", rsPromoList("pokemon")) + `<div class="wrap"><p><a href="/reseller/pokemon/">Alle Pokémon-Termine und Händler</a> · <a href="/reseller/alarm/pokemon/">Pokémon-Alarm</a></p></div>`},
+    {slug:"reseller-werden", q:"Wie fange ich als Reseller mit Sammelkarten und LEGO an?",
+     a:"Starte klein mit Produkten, die du kennst, und kaufe nur unter dem Preis, zu dem solche Artikel nachweislich verkauft werden (verkaufte Angebote prüfen, nicht angebotene). Rechne Gebühren und Versand vorher durch. Wer regelmäßig mit Gewinnabsicht verkauft, handelt gewerblich und sollte ein Gewerbe anmelden.",
+     body:() => rsSec("Die wichtigsten Schritte", `<ol class="wa-how"><li><strong>Marktwert prüfen:</strong> verkaufte Angebote bei eBay und Preise bei Cardmarket ansehen.</li><li><strong>Kosten rechnen:</strong> Gebühren, Versand, Verpackung. Dafür gibt es den <a href="/reseller/rechner/">Reseller-Rechner</a>.</li><li><strong>Termine kennen:</strong> neue Sets und Aktionen im <a href="/reseller/release-kalender/">Release-Kalender</a>.</li><li><strong>Alarm nutzen:</strong> mit dem <a href="/reseller/alarm/">Reseller-Alarm</a> bist du bei Deals früh dran.</li><li><strong>Steuern klären:</strong> Bei regelmäßigem Verkauf Gewerbe anmelden und im Zweifel eine Steuerberatung fragen.</li></ol>`)},
+    {slug:"ebay-gebuehren-sammler", q:"Wie hoch sind die eBay-Gebühren beim Verkauf von LEGO und Sammelkarten?",
+     a:"Für gewerbliche Verkäufer liegen die Verkaufsgebühren bei eBay je nach Kategorie grob bei 11 bis 13 % des Gesamtbetrags inklusive Versand, dazu kommt eine kleine Festgebühr pro Bestellung. Private Verkäufer zahlen in Deutschland in vielen Kategorien keine Verkaufsprovision. Die genauen Sätze stehen in der aktuellen eBay-Gebührenübersicht.",
+     body:() => `<div class="wrap"><p><a href="/reseller/rechner/"><strong>Mit dem Reseller-Rechner ausrechnen, was übrig bleibt</strong></a> · <a href="/reseller/pokemon-haendler/verkaufen-gebuehren/">Pokémon-Karten verkaufen: Gebühren im Vergleich</a></p></div>`}
+  ];
+  rsPage({path:"/reseller/fragen/", active:"hub", crumb:"Fragen & Antworten", eyebrow:"Reseller & Sammler · Fragen", h1:"Fragen & Antworten für Reseller und Sammler",
+    lead:"Kurze, aktuelle Antworten zu LEGO EOL, Pokémon- und One-Piece-Terminen, Einkauf und Verkauf. Mit Links zu den Daten dahinter.",
+    title:"Reseller-Fragen: LEGO EOL, Pokémon-Termine, eBay-Gebühren · perldeals", desc:"Antworten für Reseller und Sammler: Welche LEGO-Sets laufen 2026 aus, lohnt sich LEGO als Geldanlage, wann erscheint das nächste Pokémon-Set, eBay-Gebühren und mehr.",
+    body: rsSec("Alle Fragen", `<ul class="link-list">${Q.map(x => `<li><a href="/reseller/fragen/${x.slug}/"><strong>${esc(x.q)}</strong></a></li>`).join("")}</ul>`) + `<div class="wrap">${rsAlarmBox("reseller-fragen")}</div>`,
+    faq: Q.slice(0, 4).map(x => [x.q, x.a.replace(/<[^>]+>/g, "")])});
+  for (const x of Q) {
+    rsPage({path:`/reseller/fragen/${x.slug}/`, active:"hub", trail:[["Fragen", "/reseller/fragen/"], [x.q]], eyebrow:`Reseller-Frage · Stand ${dayDe(new Date(NOW_MS).toISOString().slice(0, 10))}`, h1:x.q, lead:"",
+      title:`${x.q} (${MONTH_DE}) · perldeals`, desc:x.a.replace(/<[^>]+>/g, "").slice(0, 155),
+      body: rsQA(x.q, x.a) + x.body() + `<div class="wrap">${rsAlarmBox("reseller-frage-" + x.slug)}</div>` + rsSec("Weitere Fragen", `<ul class="link-list">${Q.filter(y => y !== x).map(y => `<li><a href="/reseller/fragen/${y.slug}/">${esc(y.q)}</a></li>`).join("")}</ul>`),
+      faq:[[x.q, x.a.replace(/<[^>]+>/g, "")]]});
+  }
 }
 /* ---- Reseller: Unterseiten für Suche (Termine je Set, LEGO-Set-Seiten, Produktarten, Ratgeber, eigene Angebote) ---- */
 const RS_REL_PATH = r => `/reseller/termine/${r.id.replace(/^rel-/, "")}/`;
@@ -3215,6 +3288,9 @@ ${Object.keys(GUIDES).map(id => `- [${GUIDES[id].de.h1}](${BASE}${R.guide.de(id)
 ## Pokémon & Reseller (German)
 - [Pokémon für Händler: beste Deals & Leitfaden](${BASE}/reseller/pokemon-haendler/): aktuelle Pokémon-Deals und Leitfaden zum Finden und Bewerten von Karten.
 - [Karten & Retro-Konsolen verkaufen: Ankauf per WhatsApp](${BASE}/reseller/karten-ankauf/): perldeals kauft Pokémon-, One-Piece- und Yu-Gi-Oh-Karten, Sammlungen, gegradete Karten und versiegelte Produkte sowie Retro-Konsolen und Videospiele (Nintendo 64, Super Nintendo, Game Boy, Sega, PlayStation) an; Anfrage mit Fotos per WhatsApp (${WA_PHONE}) oder E-Mail (kontakt@perldeals.com), Angebot kostenlos.
+- [LEGO zum Weglegen: auslaufende Sets (EOL Ende 2026) unter UVP mit grober Gewinnrechnung](${BASE}/reseller/lego-weglegen/) · [Star Wars](${BASE}/reseller/lego-weglegen/star-wars/) · [Icons & Ideas](${BASE}/reseller/lego-weglegen/icons-ideas/) · [unter 100 €](${BASE}/reseller/lego-weglegen/unter-100-euro/) · [Lagern & verkaufen](${BASE}/reseller/lego-weglegen/lagern/)
+- [Reseller-Fragen mit kurzen Antworten](${BASE}/reseller/fragen/): Welche LEGO-Sets laufen 2026 aus, lohnt sich LEGO als Geldanlage, woran erkennt man EOL, nächstes Pokémon- und One-Piece-Set, wo Pokémon-Karten zum Ladenpreis kaufen, Reseller werden, eBay-Gebühren.
+- Kostenlose E-Mail-Alarme: [Pokémon](${BASE}/reseller/alarm/pokemon/) · [One Piece](${BASE}/reseller/alarm/one-piece/) · [LEGO EOL](${BASE}/reseller/alarm/lego/) · [Konsolen](${BASE}/reseller/alarm/konsolen/)
 - [Reseller-Rechner](${BASE}/reseller/rechner/): berechnet den nötigen Verkaufspreis mit Wunschmarge oder den maximalen Ankaufspreis nach eBay-, Amazon-, Cardmarket- und PayPal-Gebühren, Versand und Umsatzsteuer (inkl. Differenzbesteuerung).
 ${(fs.existsSync(`${SRC}/data/ankauf.json`) ? JSON.parse(fs.readFileSync(`${SRC}/data/ankauf.json`, "utf8")).pages : []).map(a => `- [${a.title}](${BASE}/reseller/ankauf/${a.slug}/): ${a.desc}`).join("\n")}
 ${(fs.existsSync(`${SRC}/data/pokemon-haendler.json`) ? JSON.parse(fs.readFileSync(`${SRC}/data/pokemon-haendler.json`, "utf8")).chapters : []).map(c => `- [${c.title}](${BASE}/reseller/pokemon-haendler/${c.slug}/): ${c.desc}`).join("\n")}
