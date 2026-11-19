@@ -1295,20 +1295,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
       "best": {
-        "shop": "Steinehelden (lt. brickmerge)",
-        "price": 62.89,
+        "shop": "Lidl Onlineshop (zzgl. Versand)",
+        "price": 56.99,
         "url": "https://www.brickmerge.de/60423-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 30,
+      "discountPct": 37,
       "asin": "B0CWH283WW",
       "deal": null,
       "market": {
         "value": 110,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 47.11,
-      "marginPct": 75,
+      "margin": 53.01,
+      "marginPct": 93,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
