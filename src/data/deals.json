@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-19T14:22:30Z",
+  "updated": "2026-11-19T15:22:20Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "playmobil-abenteuerspielplatz-city-life",
+      "asin": "B082PGNDBV",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 23.99,
+      "was": 34.99,
+      "title": {
+        "de": "PLAYMOBIL City Life Abenteuerspielplatz",
+        "en": "PLAYMOBIL City Life adventure playground"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T16:25:00+01:00",
+      "checked": "2026-11-19T16:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "russell-hobbs-filterkaffeemaschine-5-tassen",
       "asin": "B07NDCM7NB",
