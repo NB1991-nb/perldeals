@@ -12669,5 +12669,373 @@
     ]
    ]
   }
+ },
+ "beste-kuechenmaschine": {
+  "updated": "2026-11-19",
+  "cat": "kitchen",
+  "keyword": "beste küchenmaschine",
+  "sources": [
+   [
+    "testberichte.de: Die besten Küchenmaschinen (Test 10/2026)",
+    "https://www.testberichte.de/testsieger/level3_kleine_haushaltsgeraete_kuechenmaschinen_708.html"
+   ],
+   [
+    "Stiftung Warentest: Küchenmaschinen im Test (13.11.2025, Ergebnisse kostenpflichtig)",
+    "https://www.test.de/Kuechenmaschinen-im-Test-4137971-tabelle/"
+   ]
+  ],
+  "de": {
+   "h1": "Beste Küchenmaschine 2026: Die 5 am besten bewerteten Modelle von Bosch, KitchenAid & Co.",
+   "eyebrow": "Bestenliste · Küche",
+   "title": "Beste Küchenmaschine 2026: Bosch, KitchenAid, Severin & Klamer im Vergleich",
+   "desc": "Die am besten bewerteten Küchenmaschinen 2026 laut Testnoten-Übersicht von testberichte.de: Klamer, Bosch Serie 4 MUM5XW20, KitchenAid Artisan, Bosch OptiMUM und Severin – mit Leistung, Schüsselgröße und Deals.",
+   "answer": "Die beste Note in der Bestenliste von testberichte.de (Stand 10/2026) hat die Klamer Küchenmaschine (1,2, 1.800 W, 6 l). Der bestbewertete Markenklassiker ist die Bosch Serie 4 MUM5XW20 (1,3, 1.000 W, 3,9 l). Wer das Design-Original mit großem Zubehörprogramm will, nimmt die KitchenAid Artisan 5KSM125 (1,4, 4,8 l). Für große Teigmengen sind die Bosch OptiMUM MUM9DT5S41 und die günstigere Severin KM 3898 (je 1,5, 5,5 l) interessant.",
+   "intro": "Für diese Bestenliste haben wir die Testnoten-Übersicht von testberichte.de (Stand 10/2026) ausgewertet. Die Noten fassen dort Testergebnisse verschiedener Magazine zusammen. Wir haben die Geräte nicht selbst getestet. Leistung und Schüsselgröße stammen aus derselben Quelle. Stiftung Warentest hat im November 2025 zehn Küchenmaschinen getestet, die Ergebnisse sind aber kostenpflichtig und fließen hier nicht ein. Aktuelle Preise siehst du live bei den verlinkten Deals.",
+   "criteria": [
+    [
+     "Worauf du achten solltest: Schüsselgröße",
+     "3,9 l reichen für normale Haushalte und rund 1 kg Teig-Rezepte. Wer oft für viele Personen backt, greift zu 5,5 bis 6 l."
+    ],
+    [
+     "Worauf du achten solltest: Watt sind nicht alles",
+     "Die KitchenAid Artisan hat nur 300 W und schneidet trotzdem sehr gut ab – Getriebe und Rührsystem sind wichtiger als die Watt-Zahl."
+    ],
+    [
+     "Worauf du achten solltest: Zubehör",
+     "Mixer-Aufsatz, Fleischwolf oder Gemüseschneider kosten oft extra. Prüfe, was im Lieferumfang ist – Multifunktions-Modelle wie die Bosch Serie 4 bringen mehr mit."
+    ],
+    [
+     "Worauf du achten solltest: Waage und Timer",
+     "Modelle mit integrierter Waage (z. B. Bosch MUM5X720) sparen eine extra Küchenwaage."
+    ]
+   ],
+   "items": [
+    {
+     "name": "Bosch Serie 4 MUM5XW20",
+     "brand": "Bosch",
+     "label": "Unser Top-Tipp: der bestbewertete Markenklassiker",
+     "why": "Mit der Note 1,3 ist die Bosch Serie 4 MUM5XW20 in der Bestenliste von testberichte.de die am besten bewertete Küchenmaschine einer großen Marke. Sie wird dort als Multifunktions-Küchenmaschine geführt, mit 1.000 W und 3,9-l-Schüssel – genug für die meisten Haushalte.",
+     "plus": [
+      "Note 1,3 (testberichte.de)",
+      "Multifunktions-Küchenmaschine",
+      "Kompakt mit 3,9 l"
+     ],
+     "minus": [
+      "Kleinere Schüssel als die 5,5-l-Modelle"
+     ],
+     "specs": [
+      [
+       "Leistung",
+       "1.000 W"
+      ],
+      [
+       "Schüssel",
+       "3,9 l"
+      ],
+      [
+       "Note",
+       "1,3 (testberichte.de, 10/2026)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Bosch MUM5XW20"
+    },
+    {
+     "name": "Klamer Küchenmaschine",
+     "brand": "Klamer",
+     "label": "Beste Note in der Übersicht",
+     "why": "Die Klamer Küchenmaschine führt die Bestenliste von testberichte.de mit der Note 1,2 an. Sie hat laut Übersicht 1.800 W und eine 6-l-Schüssel – viel Leistung und Platz für wenig Geld.",
+     "plus": [
+      "Note 1,2 (testberichte.de)",
+      "6-l-Schüssel",
+      "1.800 W"
+     ],
+     "minus": [
+      "Weniger bekannte Marke, Zubehör-Angebot kleiner als bei Bosch oder KitchenAid"
+     ],
+     "specs": [
+      [
+       "Leistung",
+       "1.800 W"
+      ],
+      [
+       "Schüssel",
+       "6 l"
+      ],
+      [
+       "Note",
+       "1,2 (testberichte.de, 10/2026)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Klamer Küchenmaschine"
+    },
+    {
+     "name": "KitchenAid Artisan 5KSM125",
+     "brand": "KitchenAid",
+     "label": "Das Design-Original",
+     "why": "Die KitchenAid Artisan 5KSM125 erreicht bei testberichte.de die Note 1,4 – trotz nur 300 W. Sie hat eine 4,8-l-Schüssel und ist für ihr Design und das große Zubehörprogramm bekannt.",
+     "plus": [
+      "Note 1,4 (testberichte.de)",
+      "4,8-l-Schüssel",
+      "Großes Zubehörprogramm"
+     ],
+     "minus": [
+      "Teurer als Bosch oder Severin",
+      "Zubehör meist extra"
+     ],
+     "specs": [
+      [
+       "Leistung",
+       "300 W"
+      ],
+      [
+       "Schüssel",
+       "4,8 l"
+      ],
+      [
+       "Note",
+       "1,4 (testberichte.de, 10/2026)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "KitchenAid Artisan 5KSM125"
+    },
+    {
+     "name": "Bosch OptiMUM MUM9DT5S41",
+     "brand": "Bosch",
+     "label": "Für große Teigmengen",
+     "why": "Die Bosch OptiMUM MUM9DT5S41 kommt bei testberichte.de auf die Note 1,5. Mit 1.500 W und 5,5-l-Schüssel ist sie die kräftigere Bosch-Wahl für Vielbäcker.",
+     "plus": [
+      "Note 1,5 (testberichte.de)",
+      "5,5-l-Schüssel",
+      "1.500 W"
+     ],
+     "minus": [
+      "Größer und teurer als die Serie 4"
+     ],
+     "specs": [
+      [
+       "Leistung",
+       "1.500 W"
+      ],
+      [
+       "Schüssel",
+       "5,5 l"
+      ],
+      [
+       "Note",
+       "1,5 (testberichte.de, 10/2026)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Bosch OptiMUM MUM9DT5S41"
+    },
+    {
+     "name": "Severin KM 3898",
+     "brand": "Severin",
+     "label": "Preis-Leistungs-Tipp",
+     "why": "Die Severin KM 3898 erreicht ebenfalls die Note 1,5 bei testberichte.de. Sie bietet 1.000 W und eine große 5,5-l-Schüssel.",
+     "plus": [
+      "Note 1,5 (testberichte.de)",
+      "5,5-l-Schüssel"
+     ],
+     "minus": [
+      "Weniger Zubehör-Ökosystem als Bosch oder KitchenAid"
+     ],
+     "specs": [
+      [
+       "Leistung",
+       "1.000 W"
+      ],
+      [
+       "Schüssel",
+       "5,5 l"
+      ],
+      [
+       "Note",
+       "1,5 (testberichte.de, 10/2026)"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Severin KM 3898"
+    }
+   ],
+   "faq": [
+    [
+     "Welche Küchenmaschine ist 2026 die beste?",
+     "In der Testnoten-Übersicht von testberichte.de (10/2026) hat die Klamer Küchenmaschine die beste Note (1,2). Bestbewertete Markenmaschine ist die Bosch Serie 4 MUM5XW20 (1,3)."
+    ],
+    [
+     "Wie viel Watt braucht eine Küchenmaschine?",
+     "Weniger als man denkt: Die KitchenAid Artisan mit 300 W erreicht die Note 1,4. Wichtiger sind Getriebe, Rührsystem und Schüsselgröße."
+    ],
+    [
+     "Was hat Stiftung Warentest getestet?",
+     "Im November 2025 zehn Küchenmaschinen, u. a. Bosch Serie 4 MUM58W20, Bosch Serie 6 MUMS6ZS13D, Kenwood KMX750 und KitchenAid 5KSM175PSE. Die Noten sind nur gegen Gebühr einsehbar."
+    ]
+   ]
+  },
+  "en": {
+   "h1": "Best stand mixer 2026: the 5 top-rated models from Bosch, KitchenAid & more",
+   "eyebrow": "Best list · Kitchen",
+   "title": "Best Stand Mixer 2026: Bosch, KitchenAid, Severin & Klamer compared",
+   "desc": "The top-rated stand mixers of 2026 according to the test-score overview at testberichte.de: Klamer, Bosch Serie 4 MUM5XW20, KitchenAid Artisan, Bosch OptiMUM and Severin.",
+   "answer": "The best grade in the testberichte.de overview (10/2026) goes to the Klamer stand mixer (1.2, 1,800 W, 6 l). The top-rated big-brand model is the Bosch Serie 4 MUM5XW20 (1.3, 1,000 W, 3.9 l). The KitchenAid Artisan 5KSM125 (1.4, 4.8 l) is the design classic; for large batches look at the Bosch OptiMUM MUM9DT5S41 and Severin KM 3898 (both 1.5, 5.5 l).",
+   "intro": "This list is based on the test-score overview at testberichte.de (10/2026), which aggregates results from several magazines. We did not test the machines ourselves. Power and bowl size come from the same source.",
+   "criteria": [
+    [
+     "What to look for: bowl size",
+     "3.9 l suits most households; frequent bakers should pick 5.5–6 l."
+    ],
+    [
+     "What to look for: watts aren't everything",
+     "The 300 W KitchenAid Artisan still scores very well."
+    ],
+    [
+     "What to look for: accessories",
+     "Blender, mincer or slicer attachments often cost extra."
+    ],
+    [
+     "What to look for: scale and timer",
+     "Models with a built-in scale save a separate kitchen scale."
+    ]
+   ],
+   "items": [
+    {
+     "name": "Bosch Serie 4 MUM5XW20",
+     "brand": "Bosch",
+     "label": "Top pick: best-rated big brand",
+     "why": "Grade 1.3 at testberichte.de, 1,000 W, 3.9 l bowl.",
+     "plus": [
+      "Grade 1.3",
+      "Multifunction",
+      "Compact 3.9 l"
+     ],
+     "minus": [
+      "Smaller bowl than 5.5 l models"
+     ],
+     "specs": [
+      [
+       "Power",
+       "1,000 W"
+      ],
+      [
+       "Bowl",
+       "3.9 l"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Bosch MUM5XW20"
+    },
+    {
+     "name": "Klamer stand mixer",
+     "brand": "Klamer",
+     "label": "Best grade in the overview",
+     "why": "Grade 1.2 at testberichte.de, 1,800 W, 6 l bowl.",
+     "plus": [
+      "Grade 1.2",
+      "6 l bowl"
+     ],
+     "minus": [
+      "Smaller accessory range"
+     ],
+     "specs": [
+      [
+       "Power",
+       "1,800 W"
+      ],
+      [
+       "Bowl",
+       "6 l"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Klamer Küchenmaschine"
+    },
+    {
+     "name": "KitchenAid Artisan 5KSM125",
+     "brand": "KitchenAid",
+     "label": "The design original",
+     "why": "Grade 1.4 at testberichte.de despite only 300 W; 4.8 l bowl.",
+     "plus": [
+      "Grade 1.4",
+      "Large accessory range"
+     ],
+     "minus": [
+      "Pricier",
+      "Accessories extra"
+     ],
+     "specs": [
+      [
+       "Power",
+       "300 W"
+      ],
+      [
+       "Bowl",
+       "4.8 l"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "KitchenAid Artisan 5KSM125"
+    },
+    {
+     "name": "Bosch OptiMUM MUM9DT5S41",
+     "brand": "Bosch",
+     "label": "For big batches",
+     "why": "Grade 1.5 at testberichte.de, 1,500 W, 5.5 l bowl.",
+     "plus": [
+      "Grade 1.5",
+      "5.5 l bowl"
+     ],
+     "minus": [
+      "Bigger and pricier"
+     ],
+     "specs": [
+      [
+       "Power",
+       "1,500 W"
+      ],
+      [
+       "Bowl",
+       "5.5 l"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Bosch OptiMUM MUM9DT5S41"
+    },
+    {
+     "name": "Severin KM 3898",
+     "brand": "Severin",
+     "label": "Value pick",
+     "why": "Grade 1.5 at testberichte.de, 1,000 W, 5.5 l bowl.",
+     "plus": [
+      "Grade 1.5",
+      "5.5 l bowl"
+     ],
+     "minus": [
+      "Smaller accessory range"
+     ],
+     "specs": [
+      [
+       "Power",
+       "1,000 W"
+      ],
+      [
+       "Bowl",
+       "5.5 l"
+      ]
+     ],
+     "dealId": null,
+     "amazonQuery": "Severin KM 3898"
+    }
+   ],
+   "faq": [
+    [
+     "Which stand mixer is best in 2026?",
+     "In the testberichte.de overview (10/2026) the Klamer stand mixer has the best grade (1.2); the best-rated big brand is the Bosch Serie 4 MUM5XW20 (1.3)."
+    ]
+   ]
+  }
  }
 }

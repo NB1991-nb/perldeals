@@ -1,7 +1,158 @@
 {
-  "updated": "2026-11-18T18:23:29Z",
+  "updated": "2026-11-19T06:23:03Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "motorola-am21-babyphone",
+      "asin": "B08BG3DJJ3",
+      "brand": "Motorola",
+      "cat": "home",
+      "now": 19.94,
+      "was": 26.99,
+      "title": {
+        "de": "Motorola Nursery AM21 Audio-Babyphone (DECT)",
+        "en": "Motorola Nursery AM21 audio baby monitor (DECT)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "segway-navimow-i105-garage",
+      "asin": "B0FJL5RFPQ",
+      "brand": "Segway",
+      "cat": "garden",
+      "now": 599,
+      "was": 799,
+      "title": {
+        "de": "Segway Navimow i105 Mähroboter mit Garage (ohne Begrenzungskabel, 500 m²)",
+        "en": "Segway Navimow i105 robot mower with garage (wire-free, 500 m²)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Navimow EU Official Store.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Navimow EU Official Store."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "pocketbook-inkpad-eo-64gb",
+      "asin": "B0D1D5J8RY",
+      "brand": "PocketBook",
+      "cat": "computer",
+      "now": 293.9,
+      "was": 388.21,
+      "title": {
+        "de": "PocketBook InkPad Eo 10,3\" Farb-E-Reader (64 GB)",
+        "en": "PocketBook InkPad Eo 10.3\" colour e-reader (64 GB)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00"
+    },
+    {
+      "id": "pokemon-kampfakademie",
+      "asin": "B0D5MFDJQQ",
+      "brand": "Pokémon",
+      "cat": "toys",
+      "now": 23.89,
+      "was": 29.99,
+      "title": {
+        "de": "Pokémon-Sammelkartenspiel: Kampfakademie (für 2 Spieler)",
+        "en": "Pokémon TCG: Battle Academy (2 players)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "pokemon-wm-deck-2024-crushing-thorn",
+      "asin": "B0FF4W5CVP",
+      "brand": "Pokémon",
+      "cat": "toys",
+      "now": 19.89,
+      "was": 29.74,
+      "title": {
+        "de": "Pokémon-Sammelkartenspiel: Weltmeisterschaftsdeck 2024 – Crushing Thorn",
+        "en": "Pokémon TCG: 2024 World Championships Deck – Crushing Thorn"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "canon-pixma-tr7650",
+      "asin": "B0CZP8X9H5",
+      "brand": "Canon",
+      "cat": "computer",
+      "now": 130.9,
+      "was": 168.01,
+      "title": {
+        "de": "Canon PIXMA TR7650 Multifunktionsdrucker (4-in-1, WLAN)",
+        "en": "Canon PIXMA TR7650 all-in-one printer (4-in-1, Wi-Fi)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "hp-laserjet-m209d",
+      "asin": "B0DBRCW7C5",
+      "brand": "HP",
+      "cat": "computer",
+      "now": 69.99,
+      "was": 95,
+      "title": {
+        "de": "HP LaserJet M209d Laserdrucker (s/w, Duplex)",
+        "en": "HP LaserJet M209d laser printer (mono, duplex)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "bosch-mum5x720-kuechenmaschine",
+      "asin": "B0B9XZ4N87",
+      "brand": "Bosch",
+      "cat": "kitchen",
+      "now": 198.99,
+      "was": 289.99,
+      "title": {
+        "de": "Bosch MUM5X720 Küchenmaschine mit integrierter Waage (3,9 l)",
+        "en": "Bosch MUM5X720 stand mixer with built-in scale (3.9 l)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T07:25:00+01:00",
+      "checked": "2026-11-19T07:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "russell-hobbs-wasserkocher-retro-21671-70",
       "asin": "B01J1RJH7Y",
