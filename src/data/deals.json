@@ -1,7 +1,45 @@
 {
-  "updated": "2026-11-19T09:21:44Z",
+  "updated": "2026-11-19T10:21:55Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "philips-luftreiniger-pureprotect-lite-700",
+      "asin": "B0H6JF1PC8",
+      "brand": "Philips",
+      "cat": "home",
+      "now": 94.98,
+      "was": 119.99,
+      "title": {
+        "de": "Philips Luftreiniger PureProtect Lite 700 (bis 75 m²)",
+        "en": "Philips air purifier PureProtect Lite 700 (up to 75 m²)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T11:25:00+01:00",
+      "checked": "2026-11-19T11:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "brueder-mannesmann-werkzeugkoffer-87-teilig",
+      "asin": "B01M8G4JVD",
+      "brand": "Brüder Mannesmann",
+      "cat": "tools",
+      "now": 39.99,
+      "was": 52.35,
+      "title": {
+        "de": "Brüder Mannesmann Werkzeugkoffer 87-teilig",
+        "en": "Brüder Mannesmann tool case 87 pieces"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T11:25:00+01:00",
+      "checked": "2026-11-19T11:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "pokemon-deluxe-kampfdeck-zapdos-ex",
       "asin": "B0CVRZYKQF",
