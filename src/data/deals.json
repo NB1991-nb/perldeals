@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-19T10:21:55Z",
+  "updated": "2026-11-19T11:26:48Z",
   "amazonTag": "boeketv-21",
   "deals": [
+    {
+      "id": "tcl-43t6c-43-zoll",
+      "asin": "B0DW98NN53",
+      "brand": "TCL",
+      "cat": "tv",
+      "now": 207,
+      "was": 259,
+      "title": {
+        "de": "TCL 43T6C 43\" QLED 4K Fire TV",
+        "en": "TCL 43T6C 43\" QLED 4K Fire TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 19.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 19 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-19T12:30:00+01:00",
+      "checked": "2026-11-19T12:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
     {
       "id": "philips-luftreiniger-pureprotect-lite-700",
       "asin": "B0H6JF1PC8",
