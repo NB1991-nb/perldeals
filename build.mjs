@@ -1772,7 +1772,7 @@ function rsEolTable(limit){
   let list = RS.eol.filter(s => s.best && s.discountPct > 0).sort((a,b) => (b.marginPct||0) - (a.marginPct||0));
   if (limit) list = list.slice(0, limit);
   return `<div class="rs-scroll"><table class="rs-table"><thead><tr><th>Set</th><th>UVP</th><th>Bestpreis</th><th>Rabatt</th><th>Wert nach EOL*</th><th>Marge*</th><th></th></tr></thead><tbody>${list.map(s => {
-    const link = s.deal ? `<a class="btn btn-ghost" href="${R.deal.de(s.deal)}">Zum Deal</a>` : s.asin && /^Amazon\.de/.test(s.best.shop) ? `<a class="btn btn-primary" href="${amz(s.asin)}" ${AFF}>Bei Amazon <span class="ad-tag">Anzeige</span></a>` : `<a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a>`;
+    const link = s.deal && LIVE.has(s.deal) ? `<a class="btn btn-ghost" href="${R.deal.de(s.deal)}">Zum Deal</a>` : s.asin ? `<a class="btn btn-primary" href="${amz(s.asin)}" ${AFF}>Bei Amazon <span class="ad-tag">Anzeige</span></a>` : `<a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a>`;
     return `<tr id="${s.id}"><td data-l="Set"><a href="${RS_EOL_PATH(s)}"><strong>LEGO ${esc(s.theme)} ${s.num}</strong></a><br>${esc(s.name)}<br><small>EOL: ${esc(s.eol)} · ${rsSrc([s.eolSource])}</small></td>
     <td data-l="UVP">${eur(s.uvp,"de")}</td><td data-l="Bestpreis"><strong>${eur(s.best.price,"de")}</strong><br><small>${esc(s.best.shop)}, ${dayDe(s.best.checked)}</small></td>
     <td data-l="Rabatt"><span class="rs-pct">−${s.discountPct} %</span></td><td data-l="Wert nach EOL*">≈ ${eur(s.market.value,"de")}</td>
@@ -2020,6 +2020,11 @@ const wegRate = s => {
   if (s.discountPct >= 10) return ["mid", "Nur langfristig"];
   return ["low", "Kaum unter UVP"];
 };
+const wegBuy = s => { const out = [];
+  if (s.asin) out.push(`<a class="btn btn-primary" href="${amz(s.asin)}" ${AFF}>Bei Amazon <span class="ad-tag">Anzeige</span></a>`);
+  if (/^ALTERNATE/i.test(s.best.shop)) out.push(`<a class="btn btn-ghost" href="${awinLink(11731, "https://www.alternate.de/listing.xhtml?q=LEGO+" + s.num)}" ${AFF}>Bei Alternate <span class="ad-tag">Anzeige</span></a>`);
+  out.push(`<a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a>`);
+  return out.join(" "); };
 const WEG_SUBS = [
   {slug:"star-wars", h:"Star-Wars-Sets zum Weglegen", nav:"Star Wars", f:s => s.theme === "Star Wars",
    intro:"Star Wars ist das Thema, das nach dem Produktionsende erfahrungsgemäß am gefragtesten bleibt: große Modelle wie Millennium Falcon, Venator oder Jabbas Segelbarke und Sets mit beliebten Schiffen. Diese Star-Wars-Sets laufen voraussichtlich Ende 2026 aus."},
@@ -2033,7 +2038,7 @@ const WEG_SUBS = [
    intro:"Für den Einstieg mit wenig Kapital: auslaufende Sets, die gerade unter 100 € kosten. Kleinere Sets binden weniger Geld und lassen sich leichter lagern und verschicken."}
 ];
 const wegTable = list => `<div class="rs-scroll"><table class="rs-table"><thead><tr><th>Set</th><th>UVP</th><th>Bestpreis</th><th>unter UVP</th><th>Plus bei Verkauf zur UVP*</th><th>Einschätzung</th><th></th></tr></thead><tbody>${list.map(s => { const [k, lab] = wegRate(s), p = wegPlus(s);
-  return `<tr><td data-l="Set"><a href="${RS_EOL_PATH(s)}"><strong>LEGO ${esc(s.theme)} ${s.num}</strong></a><br>${esc(s.name)}<br><small>EOL: ${esc(s.eol)}</small></td><td data-l="UVP">${eur(s.uvp,"de")}</td><td data-l="Bestpreis"><strong>${eur(s.best.price,"de")}</strong><br><small>${esc(s.best.shop)}, ${dayDe(s.best.checked)}</small></td><td data-l="unter UVP"><span class="rs-pct">−${s.discountPct} %</span></td><td data-l="Plus zur UVP*"><strong>${p > 0 ? "≈ +" + eur(p,"de") : "≈ " + eur(p,"de")}</strong></td><td data-l="Einschätzung"><span class="weg-b weg-${k}">${lab}</span></td><td><a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a></td></tr>`; }).join("")}</tbody></table></div><p class="rs-foot">* Grobe Rechnung: Verkauf später zur UVP, abzüglich ca. ${Math.round(wegFee*100)} % Verkaufsgebühren und ${wegShip} € Versand. Ob und wann ein Set die UVP wieder erreicht oder übertrifft, ist nicht garantiert. Bestpreise laut Preisvergleich zum genannten Datum, sie ändern sich laufend.</p>`;
+  return `<tr><td data-l="Set"><a href="${RS_EOL_PATH(s)}"><strong>LEGO ${esc(s.theme)} ${s.num}</strong></a><br>${esc(s.name)}<br><small>EOL: ${esc(s.eol)}</small></td><td data-l="UVP">${eur(s.uvp,"de")}</td><td data-l="Bestpreis"><strong>${eur(s.best.price,"de")}</strong><br><small>${esc(s.best.shop)}, ${dayDe(s.best.checked)}</small></td><td data-l="unter UVP"><span class="rs-pct">−${s.discountPct} %</span></td><td data-l="Plus zur UVP*"><strong>${p > 0 ? "≈ +" + eur(p,"de") : "≈ " + eur(p,"de")}</strong></td><td data-l="Einschätzung"><span class="weg-b weg-${k}">${lab}</span></td><td>${wegBuy(s)}</td></tr>`; }).join("")}</tbody></table></div><p class="rs-foot">* Grobe Rechnung: Verkauf später zur UVP, abzüglich ca. ${Math.round(wegFee*100)} % Verkaufsgebühren und ${wegShip} € Versand. Ob und wann ein Set die UVP wieder erreicht oder übertrifft, ist nicht garantiert. Bestpreise laut Preisvergleich zum genannten Datum, sie ändern sich laufend.</p>`;
 const wegSort = l => [...l].sort((a, b) => (wegRate(a)[0] === "top" ? 0 : 1) - (wegRate(b)[0] === "top" ? 0 : 1) || b.discountPct - a.discountPct);
 const wegList = () => RS.eol.filter(s => s.best && s.uvp && s.discountPct > 0);
 const wegSubNav = cur => `<nav class="chips topic-chips" aria-label="LEGO zum Weglegen"><a class="chip" href="${WEG_P}"${!cur?' aria-current="page"':""}>Alle Sets</a>${WEG_SUBS.map(x => `<a class="chip" href="${WEG_P}${x.slug}/"${cur===x.slug?' aria-current="page"':""}>${esc(x.nav)}</a>`).join("")}<a class="chip" href="${WEG_P}lagern/"${cur==="lagern"?' aria-current="page"':""}>📦 Lagern &amp; verkaufen</a></nav>`;
@@ -2048,7 +2053,7 @@ const WEG_FAQ = [
 function buildLegoWeglegen(){
   if (!RS) return;
   const all = wegSort(wegList()), tops = all.filter(s => wegRate(s)[0] === "top");
-  const card = s => `<li><div class="rs-promo-head"><strong>LEGO ${esc(s.theme)} ${s.num}</strong><span class="rs-pct">−${s.discountPct} % unter UVP</span></div><h3><a href="${RS_EOL_PATH(s)}">${esc(s.name)}</a></h3><p>Jetzt ab <strong>${eur(s.best.price,"de")}</strong> (${esc(s.best.shop)}, ${dayDe(s.best.checked)}) statt UVP ${eur(s.uvp,"de")}. Bei Verkauf zur UVP grob <strong>+${eur(wegPlus(s),"de")}</strong> nach Gebühren.</p><small>EOL: ${esc(s.eol)} · <a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a></small></li>`;
+  const card = s => `<li><div class="rs-promo-head"><strong>LEGO ${esc(s.theme)} ${s.num}</strong><span class="rs-pct">−${s.discountPct} % unter UVP</span></div><h3><a href="${RS_EOL_PATH(s)}">${esc(s.name)}</a></h3><p>Jetzt ab <strong>${eur(s.best.price,"de")}</strong> (${esc(s.best.shop)}, ${dayDe(s.best.checked)}) statt UVP ${eur(s.uvp,"de")}. Bei Verkauf zur UVP grob <strong>+${eur(wegPlus(s),"de")}</strong> nach Gebühren.</p><small>EOL: ${esc(s.eol)}</small><p class="rg-links">${wegBuy(s)}</p></li>`;
   rsPage({path:WEG_P, active:"weglegen", crumb:"LEGO zum Weglegen", eyebrow:`LEGO zum Weglegen · ${MONTH_DE}`, h1:"LEGO zum Weglegen: auslaufende Sets jetzt unter UVP",
     lead:`${all.length} LEGO-Sets gehen voraussichtlich Ende 2026 aus dem Sortiment und sind gerade unter der UVP zu haben. Hier siehst du, welche sich zum Weglegen am ehesten eignen, mit Bestpreis, Abstand zur UVP und einer groben Rechnung, was beim späteren Verkauf übrig bleiben kann.`,
     title:`LEGO zum Weglegen ${MONTH_DE}: auslaufende Sets unter UVP · perldeals`,
@@ -2536,7 +2541,7 @@ function buildResellerMore(){
         <tr><th>Wert nach EOL*</th><td>≈ ${eur(s.market.value,"de")}</td></tr>
         ${s.margin != null ? `<tr><th>Mögliche Marge*</th><td>≈ ${eur(s.margin,"de")} (${s.marginPct} %)</td></tr>` : ""}
         </tbody></table></div>
-        <p>${s.deal ? `<a class="btn btn-primary" href="${R.deal.de(s.deal)}">Zum geprüften Deal</a> ` : ""}${amzOk ? `<a class="btn btn-primary" href="${amz(s.asin)}" ${AFF}>Bei Amazon ansehen <span class="ad-tag">Anzeige</span></a> ` : ""}<a href="${esc(s.best ? (s.best.url || s.sources[0]) : s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a></p>
+        <p>${s.deal && LIVE.has(s.deal) ? `<a class="btn btn-primary" href="${R.deal.de(s.deal)}">Zum geprüften Deal</a> ` : ""}${s.best ? wegBuy(s) : `<a href="${esc(s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a>`}</p>
         <p class="rs-foot">* Schätzung: UVP + ${Math.round(RS_UPLIFT*100)} % (Median-Wertsteigerung versiegelter Sets zwölf Monate nach EOL), vor Gebühren und Versand.</p></section>
         ${rsAlarmBox("reseller-lego-set", ["lego"])}
         <section class="section"><h2>Weitere auslaufende ${esc(s.theme)}-Sets</h2><ul class="link-list">${RS.eol.filter(x => x.num !== s.num && x.theme === s.theme).map(x => `<li><a href="${RS_EOL_PATH(x)}">LEGO ${x.num} ${esc(x.name)}</a>${x.best ? `: ${eur(x.best.price,"de")} (−${x.discountPct} %)` : ""}</li>`).join("") || "<li>Keine weiteren Sets dieser Reihe auf der Liste.</li>"}</ul><p><a href="${RS_T.lego.path}">Alle ${RS.eol.length} auslaufenden LEGO-Sets</a></p></section></div>`,
