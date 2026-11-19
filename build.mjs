@@ -1929,7 +1929,7 @@ function buildKarriere(){
   }
   layout({lang:"de", single:true, noindex:true, pathFor:()=>"/karriere/danke/", title:"Bewerbung gesendet · perldeals", description:"Deine Bewerbung bei perldeals ist angekommen.", body:`<div class="wrap"><div class="feed-head" style="display:block"><div class="eyebrow">Karriere</div><h1>Danke, deine Bewerbung ist angekommen!</h1><p class="lead">Wir melden uns in den nächsten Tagen bei dir – per WhatsApp, Telefon oder E-Mail.</p></div><p><a class="btn btn-primary" href="/">Zu den Deals</a></p></div>`});
 }
-const rsNav = active => `<nav class="chips topic-chips rs-nav" aria-label="Reseller-Bereich"><a class="chip" href="/reseller/"${active==="hub"?' aria-current="page"':""}>Übersicht</a>${Object.entries(RS_T).map(([k,T]) => `<a class="chip" href="${T.path}"${active===k?' aria-current="page"':""}>${T.icon} ${T.name}</a>`).join("")}<a class="chip" href="/reseller/release-kalender/"${active==="termine"?' aria-current="page"':""}>📅 Termine</a><a class="chip" href="/reseller/aktionen/"${active==="aktionen"?' aria-current="page"':""}>🏷️ Aktionen</a><a class="chip" href="/reseller/angebote/"${active==="angebote"?' aria-current="page"':""}>💎 Angebote</a><a class="chip" href="/reseller/karten-ankauf/"${active==="ankauf"?' aria-current="page"':""}>💰 Ankauf</a><a class="chip" href="/reseller/rechner/"${active==="rechner"?' aria-current="page"':""}>🧮 Rechner</a><a class="chip" href="/reseller/ebay-shop/"${active==="ebay"?' aria-current="page"':""}>🛒 eBay-Shop</a><a class="chip" href="/reseller/ratgeber/"${active==="ratgeber"?' aria-current="page"':""}>📘 Ratgeber</a><a class="chip" href="/reseller/alarm/"${active==="alarm"?' aria-current="page"':""}>🔔 Alarm</a></nav>`;
+const rsNav = active => `<nav class="chips topic-chips rs-nav" aria-label="Reseller-Bereich"><a class="chip" href="/reseller/"${active==="hub"?' aria-current="page"':""}>Übersicht</a>${Object.entries(RS_T).map(([k,T]) => `<a class="chip" href="${T.path}"${active===k?' aria-current="page"':""}>${T.icon} ${T.name}</a>`).join("")}<a class="chip" href="/reseller/lego-weglegen/"${active==="weglegen"?' aria-current="page"':""}>📦 Weglegen</a><a class="chip" href="/reseller/release-kalender/"${active==="termine"?' aria-current="page"':""}>📅 Termine</a><a class="chip" href="/reseller/aktionen/"${active==="aktionen"?' aria-current="page"':""}>🏷️ Aktionen</a><a class="chip" href="/reseller/angebote/"${active==="angebote"?' aria-current="page"':""}>💎 Angebote</a><a class="chip" href="/reseller/karten-ankauf/"${active==="ankauf"?' aria-current="page"':""}>💰 Ankauf</a><a class="chip" href="/reseller/rechner/"${active==="rechner"?' aria-current="page"':""}>🧮 Rechner</a><a class="chip" href="/reseller/ebay-shop/"${active==="ebay"?' aria-current="page"':""}>🛒 eBay-Shop</a><a class="chip" href="/reseller/ratgeber/"${active==="ratgeber"?' aria-current="page"':""}>📘 Ratgeber</a><a class="chip" href="/reseller/alarm/"${active==="alarm"?' aria-current="page"':""}>🔔 Alarm</a></nav>`;
 const akForm = (catSel) => { const cats = ["Pokémon-Karten","Yu-Gi-Oh-Karten","One-Piece-Karten","Andere Sammelkarten","Retro-Konsolen","Videospiele","LEGO","Sonstiges"];
   return `<section class="wrap section" id="ankauf-formular"><h2>Lieber per Formular? Anfrage mit Fotos senden</h2>
   <p class="ak-err" id="ak-err" hidden></p>
@@ -1960,6 +1960,7 @@ function buildReseller(){
     title:`Reseller-Deals ${MONTH_DE}: Pokémon, One Piece, LEGO EOL · perldeals`,
     desc:`Für Reseller und Sammler: Pokémon- und One-Piece-Neuerscheinungen mit Datum und Ladenpreis, LEGO-Sets kurz vor EOL mit Bestpreis und Marge, Rabattaktionen und Deal-Alarm per E-Mail.`,
     body: `<div class="wrap">${rsAlarmBox("reseller-hub")}</div>`
+      + rsSec("📦 NEU: LEGO zum Weglegen – auslaufende Sets jetzt unter UVP", `<p>Diese Sets gehen Ende 2026 aus dem Sortiment und sind gerade bis zu ${Math.max(...RS.eol.filter(s=>s.best&&s.discountPct>0).map(s=>s.discountPct))} % unter UVP. Ideal zum Weglegen: nach dem Auslaufen steigen beliebte Sets oft im Wert (ohne Garantie).</p><ul class="link-list"><li><a href="/reseller/lego-weglegen/"><strong>Übersicht: alle Sets zum Weglegen mit Top-Kandidaten</strong></a></li><li><a href="/reseller/lego-weglegen/star-wars/">Star Wars</a></li><li><a href="/reseller/lego-weglegen/icons-ideas/">Icons, Ideas &amp; Architecture</a></li><li><a href="/reseller/lego-weglegen/marvel-harry-potter/">Marvel &amp; Harry Potter</a></li><li><a href="/reseller/lego-weglegen/technic/">Technic</a></li><li><a href="/reseller/lego-weglegen/unter-100-euro/">Unter 100 €</a></li><li><a href="/reseller/lego-weglegen/lagern/">Lagern &amp; später verkaufen</a></li></ul>`)
       + rsSec("📅 Nächste Erscheinungstermine", rsReleaseTable(null, 6) + `<p><a href="/reseller/pokemon/">Alle Pokémon-Termine</a> · <a href="/reseller/one-piece/">Alle One-Piece-Termine</a></p>`)
       + (rsOwn().filter(o => o.status === "verfügbar").length ? rsSec("💎 Direkt von perldeals", `<ul class="rs-promos">${rsOwn().filter(o => o.status === "verfügbar").slice(0,3).map(rsOwnCard).join("")}</ul><p><a href="/reseller/angebote/">Alle perldeals-Angebote</a></p>`) : "")
       + rsSec("🏷️ Laufende Rabattaktionen", rsPromoList(null))
@@ -1988,7 +1989,7 @@ function buildReseller(){
   rsPage({path:"/reseller/lego-eol/", active:"lego", crumb:"LEGO EOL", eyebrow:`LEGO EOL · ${MONTH_DE}`, h1:`LEGO EOL-Liste 2026/2027: auslaufende Sets mit Bestpreis und Marge`,
     lead:`${RS.eol.length} LEGO-Sets, die voraussichtlich Ende 2026 aus dem Sortiment gehen, mit aktuellem Tiefstpreis, Rabatt auf die UVP und geschätzter Marge nach dem Produktionsende.`,
     title:`LEGO EOL-Liste 2026/2027: auslaufende Sets mit Bestpreis · perldeals`, desc:`LEGO-Sets mit Produktionsende 2026: Millennium Falcon, Venator, Technic Volvo EC500 und mehr mit aktuellem Bestpreis, Rabatt in Prozent und geschätzter Marge für Sammler und Reseller.`,
-    body: `<div class="wrap">${rsAlarmBox("reseller-lego", ["lego"])}</div>` + rsSec("Auslaufende Sets, sortiert nach geschätzter Marge", rsEolTable()) + rsSec("LEGO-Aktionen", rsPromoList("lego")) + (lego.length ? grid(lego, "de", "h2", "Aktuelle LEGO-Deals") + rsMetricTable(lego) : ""),
+    body: `<div class="wrap">${rsAlarmBox("reseller-lego", ["lego"])}<p class="prose"><a class="more" href="/reseller/lego-weglegen/"><strong>📦 Welche Sets eignen sich zum Weglegen? Zur Übersicht</strong></a></p></div>` + rsSec("Auslaufende Sets, sortiert nach geschätzter Marge", rsEolTable()) + rsSec("LEGO-Aktionen", rsPromoList("lego")) + (lego.length ? grid(lego, "de", "h2", "Aktuelle LEGO-Deals") + rsMetricTable(lego) : ""),
     faq:[["Was bedeutet EOL bei LEGO?", "EOL steht für End of Life: LEGO stellt die Produktion eines Sets ein. Danach sinkt das Angebot im Handel, und gefragte Sets werden oft teurer gehandelt."], ["Woher kommen die EOL-Termine?", "Aus der Markierung „Bald nicht mehr erhältlich“ im LEGO-Shop und aus Auswertungen von Fanseiten. LEGO bestätigt die Termine nicht offiziell, sie können sich verschieben."], ["Lohnt sich LEGO als Wertanlage?", "Manche Sets steigen nach dem Produktionsende deutlich, andere kaum. Es gibt kein garantiertes Plus; Lagerung, Gebühren und Versand kosten zusätzlich."]]});
   rsPage({path:"/reseller/konsolen/", active:"konsolen", crumb:"Konsolen", eyebrow:"Konsolen-Deals", h1:"Konsolen-Deals: PlayStation, Nintendo Switch, Xbox",
     lead:"Geprüfte Angebote für Spielkonsolen und Handhelds. Neue Konsolen-Deals bekommst du mit dem Deal-Alarm sofort per E-Mail.",
@@ -2004,6 +2005,79 @@ function buildReseller(){
     title:"Reseller-Deal-Alarm: Pokémon, One Piece, LEGO, Konsolen · perldeals", desc:"Kostenloser Deal-Alarm für Reseller und Sammler: neue Pokémon- und One-Piece-Termine, LEGO-EOL-Deals und Konsolen-Angebote sofort per E-Mail, mit Mindestrabatt und Mindestmarge.",
     body: `<div class="wrap">${rsAlarmBox("reseller-alarm")}<ol class="wa-how"><li><strong>Themen wählen:</strong> Hake an, was dich interessiert. Der allgemeine Alarm schickt dir zusätzlich die stärksten Deals (ab 40 % Rabatt oder Bestpreis) und alle neuen Aktionen.</li><li><strong>Filter setzen:</strong> Mit Mindestrabatt oder Mindestmarge bekommst du nur Deals, die sich für dich lohnen.</li><li><strong>Bestätigen:</strong> Klick auf den Link in der E-Mail. Erst dann ist der Alarm aktiv. Abmelden geht mit einem Klick in jeder E-Mail.</li></ol></div>`});
   buildResellerMore();
+  buildLegoWeglegen();
+}
+/* ---- 19.11. (Nico): „LEGO zum Weglegen“ – Landingpage + Unterseiten aus RS.eol ---- */
+const WEG_P = "/reseller/lego-weglegen/";
+const WEG_STRONG = new Set(["Star Wars","Icons","Ideas","Architecture","Harry Potter","Marvel"]);
+const wegFee = 0.12, wegShip = 6;
+const wegPlus = s => Math.round((s.uvp * (1 - wegFee) - wegShip - s.best.price) * 100) / 100;
+const wegRate = s => {
+  if (s.discountPct >= 30 && WEG_STRONG.has(s.theme)) return ["top", "⭐ Top-Kandidat"];
+  if (s.theme === "Technic") return ["mid", "Technic: steigt meist schwächer"];
+  if (s.theme === "City") return ["mid", "City: wenig Sammlerinteresse"];
+  if (s.discountPct >= 20) return ["ok", "Guter Kandidat"];
+  if (s.discountPct >= 10) return ["mid", "Nur langfristig"];
+  return ["low", "Kaum unter UVP"];
+};
+const WEG_SUBS = [
+  {slug:"star-wars", h:"Star-Wars-Sets zum Weglegen", nav:"Star Wars", f:s => s.theme === "Star Wars",
+   intro:"Star Wars ist das Thema, das nach dem Produktionsende erfahrungsgemäß am gefragtesten bleibt: große Modelle wie Millennium Falcon, Venator oder Jabbas Segelbarke und Sets mit beliebten Schiffen. Diese Star-Wars-Sets laufen voraussichtlich Ende 2026 aus."},
+  {slug:"icons-ideas", h:"LEGO Icons, Ideas & Architecture zum Weglegen", nav:"Icons & Ideas", f:s => ["Icons","Ideas","Architecture"].includes(s.theme),
+   intro:"Sets für Erwachsene aus den Reihen Icons, Ideas und Architecture werden vor allem von Sammlern gekauft, die sie ausstellen. Nach dem Auslaufen fehlt Nachschub im Handel. Wichtig: Einige dieser Sets gibt es gerade kaum unter UVP, dann bleibt beim Weglegen wenig Spielraum."},
+  {slug:"marvel-harry-potter", h:"Marvel- und Harry-Potter-Sets zum Weglegen", nav:"Marvel & Harry Potter", f:s => ["Marvel","Harry Potter"].includes(s.theme),
+   intro:"Lizenzthemen wie Marvel und Harry Potter haben eine große Fangemeinde. Sammlereditionen und Figuren-Sets sind nach dem Auslaufen oft gesucht."},
+  {slug:"technic", h:"LEGO Technic: auslaufende Sets im Check", nav:"Technic", f:s => s.theme === "Technic",
+   intro:"Technic-Sets sind gerade stark reduziert. Nach dem Produktionsende steigen sie erfahrungsgemäß aber schwächer als Star Wars oder Icons, und die Kartons sind oft groß. Zum Weglegen eher zweite Wahl, außer bei sehr tiefen Preisen."},
+  {slug:"unter-100-euro", h:"Auslaufende LEGO-Sets unter 100 € zum Weglegen", nav:"Unter 100 €", f:s => s.best.price < 100,
+   intro:"Für den Einstieg mit wenig Kapital: auslaufende Sets, die gerade unter 100 € kosten. Kleinere Sets binden weniger Geld und lassen sich leichter lagern und verschicken."}
+];
+const wegTable = list => `<div class="rs-scroll"><table class="rs-table"><thead><tr><th>Set</th><th>UVP</th><th>Bestpreis</th><th>unter UVP</th><th>Plus bei Verkauf zur UVP*</th><th>Einschätzung</th><th></th></tr></thead><tbody>${list.map(s => { const [k, lab] = wegRate(s), p = wegPlus(s);
+  return `<tr><td data-l="Set"><a href="${RS_EOL_PATH(s)}"><strong>LEGO ${esc(s.theme)} ${s.num}</strong></a><br>${esc(s.name)}<br><small>EOL: ${esc(s.eol)}</small></td><td data-l="UVP">${eur(s.uvp,"de")}</td><td data-l="Bestpreis"><strong>${eur(s.best.price,"de")}</strong><br><small>${esc(s.best.shop)}, ${dayDe(s.best.checked)}</small></td><td data-l="unter UVP"><span class="rs-pct">−${s.discountPct} %</span></td><td data-l="Plus zur UVP*"><strong>${p > 0 ? "≈ +" + eur(p,"de") : "≈ " + eur(p,"de")}</strong></td><td data-l="Einschätzung"><span class="weg-b weg-${k}">${lab}</span></td><td><a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a></td></tr>`; }).join("")}</tbody></table></div><p class="rs-foot">* Grobe Rechnung: Verkauf später zur UVP, abzüglich ca. ${Math.round(wegFee*100)} % Verkaufsgebühren und ${wegShip} € Versand. Ob und wann ein Set die UVP wieder erreicht oder übertrifft, ist nicht garantiert. Bestpreise laut Preisvergleich zum genannten Datum, sie ändern sich laufend.</p>`;
+const wegSort = l => [...l].sort((a, b) => (wegRate(a)[0] === "top" ? 0 : 1) - (wegRate(b)[0] === "top" ? 0 : 1) || b.discountPct - a.discountPct);
+const wegList = () => RS.eol.filter(s => s.best && s.uvp && s.discountPct > 0);
+const wegSubNav = cur => `<nav class="chips topic-chips" aria-label="LEGO zum Weglegen"><a class="chip" href="${WEG_P}"${!cur?' aria-current="page"':""}>Alle Sets</a>${WEG_SUBS.map(x => `<a class="chip" href="${WEG_P}${x.slug}/"${cur===x.slug?' aria-current="page"':""}>${esc(x.nav)}</a>`).join("")}<a class="chip" href="${WEG_P}lagern/"${cur==="lagern"?' aria-current="page"':""}>📦 Lagern &amp; verkaufen</a></nav>`;
+const WEG_TIPS = `<ol class="wa-how"><li><strong>Tief unter UVP kaufen:</strong> Je größer der Abstand zur UVP, desto mehr Spielraum hast du später. Ab etwa 30 % unter UVP wird es interessant.</li><li><strong>Beliebte Themen wählen:</strong> Star Wars, Icons, Ideas und Lizenzthemen sind nach dem Auslaufen erfahrungsgemäß gefragter als Technic oder City.</li><li><strong>Zeit mitbringen:</strong> Händler verkaufen Restbestände oft noch Monate nach dem Produktionsende ab. Rechne eher mit 6–18 Monaten als mit wenigen Wochen.</li><li><strong>Karton schützen:</strong> Sammler zahlen den vollen Preis nur für versiegelte, unbeschädigte Kartons. Trocken, dunkel und ohne Druck lagern.</li></ol>`;
+const WEG_FAQ = [
+  ["Lohnt es sich, LEGO-Sets vor dem EOL zu kaufen und wegzulegen?", "Das kann sich lohnen, wenn du ein beliebtes Set deutlich unter UVP kaufst und es versiegelt einige Monate bis Jahre lagerst. Eine Garantie gibt es nicht: Manche Sets steigen stark, andere bleiben lange unter UVP."],
+  ["Wie lange sollte ich ein Set nach dem EOL liegen lassen?", "Meist steigen die Preise erst, wenn die Händlerlager leer sind. Das dauert oft 6 bis 18 Monate nach dem Produktionsende, bei großen Sets teils länger."],
+  ["Welche LEGO-Themen eignen sich am besten?", "Erfahrungsgemäß Star Wars (vor allem große Modelle), Icons, Ideas und Lizenzthemen wie Harry Potter oder Marvel. Technic und City steigen meist schwächer."],
+  ["Was kostet der Verkauf später?", "Bei eBay fallen grob 11 bis 13 % Gebühren an, dazu Versand und Verpackung. Rechne mit unserem Reseller-Rechner nach, was am Ende übrig bleibt."],
+  ["Ist das eine Anlageberatung?", "Nein. Die Seite zeigt aktuelle Preise und grobe Schätzungen. Ob du kaufst und wie lange du ein Set behältst, entscheidest du selbst."]
+];
+function buildLegoWeglegen(){
+  if (!RS) return;
+  const all = wegSort(wegList()), tops = all.filter(s => wegRate(s)[0] === "top");
+  const card = s => `<li><div class="rs-promo-head"><strong>LEGO ${esc(s.theme)} ${s.num}</strong><span class="rs-pct">−${s.discountPct} % unter UVP</span></div><h3><a href="${RS_EOL_PATH(s)}">${esc(s.name)}</a></h3><p>Jetzt ab <strong>${eur(s.best.price,"de")}</strong> (${esc(s.best.shop)}, ${dayDe(s.best.checked)}) statt UVP ${eur(s.uvp,"de")}. Bei Verkauf zur UVP grob <strong>+${eur(wegPlus(s),"de")}</strong> nach Gebühren.</p><small>EOL: ${esc(s.eol)} · <a href="${esc(s.best.url || s.sources[0])}" rel="nofollow noopener" target="_blank">Preisvergleich</a></small></li>`;
+  rsPage({path:WEG_P, active:"weglegen", crumb:"LEGO zum Weglegen", eyebrow:`LEGO zum Weglegen · ${MONTH_DE}`, h1:"LEGO zum Weglegen: auslaufende Sets jetzt unter UVP",
+    lead:`${all.length} LEGO-Sets gehen voraussichtlich Ende 2026 aus dem Sortiment und sind gerade unter der UVP zu haben. Hier siehst du, welche sich zum Weglegen am ehesten eignen, mit Bestpreis, Abstand zur UVP und einer groben Rechnung, was beim späteren Verkauf übrig bleiben kann.`,
+    title:`LEGO zum Weglegen ${MONTH_DE}: auslaufende Sets unter UVP · perldeals`,
+    desc:`Auslaufende LEGO-Sets (EOL Ende 2026) unter UVP: Top-Kandidaten zum Weglegen mit Bestpreis, Rabatt und grober Gewinnrechnung. Star Wars, Icons, Ideas, Technic und Sets unter 100 €.`,
+    body: `<div class="wrap">${wegSubNav(null)}</div>`
+      + (tops.length ? rsSec("⭐ Top-Kandidaten: beliebtes Thema und mindestens 30 % unter UVP", `<ul class="rs-promos">${tops.map(card).join("")}</ul>`) : "")
+      + rsSec("Nach Thema und Budget", `<ul class="link-list">${WEG_SUBS.map(x => `<li><a href="${WEG_P}${x.slug}/"><strong>${esc(x.h)}</strong></a> (${all.filter(x.f).length} Sets)</li>`).join("")}<li><a href="${WEG_P}lagern/"><strong>LEGO richtig lagern und später verkaufen</strong></a></li></ul>`)
+      + rsSec("Alle auslaufenden Sets im Überblick", wegTable(all))
+      + rsSec("So gehst du beim Weglegen vor", WEG_TIPS)
+      + `<div class="wrap">${rsAlarmBox("reseller-weglegen", ["lego"])}<p class="prose"><a class="more" href="/reseller/lego-eol/">Komplette LEGO EOL-Liste mit geschätzter Marge</a> · <a class="more" href="/reseller/rechner/">Reseller-Rechner</a> · <a class="more" href="/reseller/ratgeber/lego-eol-wertsteigerung/">Ratgeber: Was passiert nach dem EOL?</a></p></div>`,
+    faq: WEG_FAQ});
+  for (const x of WEG_SUBS) {
+    const list = wegSort(wegList().filter(x.f));
+    rsPage({path:`${WEG_P}${x.slug}/`, active:"weglegen", trail:[["LEGO zum Weglegen", WEG_P], [x.nav]], eyebrow:`LEGO zum Weglegen · ${MONTH_DE}`, h1:x.h,
+      lead:esc(x.intro), title:`${x.h} (${MONTH_DE}) · perldeals`, desc:`${x.h}: ${list.length} Sets mit EOL Ende 2026, aktueller Bestpreis, Abstand zur UVP und grobe Gewinnrechnung für Sammler und Reseller.`,
+      body: `<div class="wrap">${wegSubNav(x.slug)}</div>` + rsSec(`${list.length} Sets`, list.length ? wegTable(list) : "<p>Gerade kein passendes Set auf der Liste.</p>") + rsSec("Worauf du achten solltest", WEG_TIPS) + `<div class="wrap">${rsAlarmBox("reseller-weglegen-" + x.slug, ["lego"])}<p class="prose"><a class="more" href="${WEG_P}">Alle Sets zum Weglegen</a></p></div>`,
+      faq: WEG_FAQ.slice(0, 3)});
+  }
+  rsPage({path:`${WEG_P}lagern/`, active:"weglegen", trail:[["LEGO zum Weglegen", WEG_P], ["Lagern & verkaufen"]], eyebrow:"LEGO zum Weglegen · Ratgeber", h1:"LEGO richtig lagern und später verkaufen",
+    lead:"Wer LEGO-Sets weglegt, verdient nur, wenn der Karton beim Verkauf einwandfrei ist und die Gebühren eingerechnet sind. Das Wichtigste in Kürze.",
+    title:"LEGO lagern und verkaufen: Tipps für Sammler · perldeals", desc:"LEGO-Sets zum Weglegen richtig lagern (trocken, dunkel, ohne Druck), Zustand dokumentieren und später mit Gewinn verkaufen: Plattformen, Gebühren, Zeitpunkt.",
+    body: `<div class="wrap">${wegSubNav("lagern")}</div><div class="wrap legal wissen">
+      <h2>Lagern</h2><p>Versiegelte Kartons trocken, dunkel und bei Zimmertemperatur lagern. Sonnenlicht bleicht die Farben aus, Feuchtigkeit wellt die Pappe. Nicht zu hoch stapeln, damit nichts eingedrückt wird. Große Sets am besten im Versandkarton des Händlers lassen.</p>
+      <h2>Zustand festhalten</h2><p>Direkt nach dem Kauf Fotos von allen Seiten machen und den Kaufbeleg aufheben. Käufer achten auf Siegel, Ecken und Knicke. Schon kleine Dellen drücken den Preis.</p>
+      <h2>Wann verkaufen?</h2><p>Meist steigen die Preise erst, wenn die Händlerlager leer sind, oft 6 bis 18 Monate nach dem Produktionsende. Beobachte verkaufte Angebote, statt nur auf die angebotenen Preise zu schauen. Rund um Weihnachten ist die Nachfrage am größten.</p>
+      <h2>Wo verkaufen?</h2><p>eBay erreicht die meisten Käufer, kostet aber grob 11 bis 13 % Gebühren. Kleinanzeigen ist günstiger, aber mühsamer. Für Sammlungen lohnt auch ein Ankauf. Was am Ende übrig bleibt, rechnest du mit dem <a href="/reseller/rechner/">Reseller-Rechner</a> aus.</p>
+      <h2>Steuern</h2><p>Wer regelmäßig mit Gewinnabsicht kauft und verkauft, handelt gewerblich. Kläre im Zweifel mit einer Steuerberatung, was für dich gilt.</p>
+      <h2>Weiterlesen</h2><ul class="link-list"><li><a href="${WEG_P}">Alle auslaufenden Sets zum Weglegen</a></li><li><a href="/reseller/ankauf/lego/">LEGO verkaufen: Ankauf</a></li><li><a href="/reseller/ratgeber/lego-eol-wertsteigerung/">Was passiert nach dem EOL?</a></li></ul></div>`,
+    faq: WEG_FAQ.slice(3)});
 }
 /* ---- Reseller: Unterseiten für Suche (Termine je Set, LEGO-Set-Seiten, Produktarten, Ratgeber, eigene Angebote) ---- */
 const RS_REL_PATH = r => `/reseller/termine/${r.id.replace(/^rel-/, "")}/`;

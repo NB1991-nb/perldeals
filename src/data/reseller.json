@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T07:40:00+01:00",
+  "updated": "2026-11-19T11:05:00+01:00",
   "uplift": 0.22,
   "releases": [
     {
@@ -572,20 +572,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
       "best": {
-        "shop": "Smyths Toys (zzgl. ggf. Versand, lt. brickmerge)",
-        "price": 749.99,
-        "url": "https://www.brickmerge.de/75192-1_lego-star-wars-millennium-falke",
-        "checked": "2026-10-29"
+        "shop": "Alza.de (lt. brickmerge)",
+        "price": 722.5,
+        "url": "https://www.brickmerge.de/75192-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 12,
+      "discountPct": 15,
       "asin": "B075PT2JH9",
       "deal": null,
       "market": {
         "value": 1037,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 287.01,
-      "marginPct": 38,
+      "margin": 314.5,
+      "marginPct": 44,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/",
@@ -607,15 +607,15 @@
         "url": "https://www.brickmerge.de/75367-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 23,
+      "discountPct": 26,
       "asin": "B0CJ7W6QTW",
       "deal": null,
       "market": {
         "value": 793,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 290.11,
-      "marginPct": 58,
+      "margin": 314,
+      "marginPct": 66,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -636,15 +636,15 @@
         "url": "https://www.brickmerge.de/75397-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 21,
+      "discountPct": 26,
       "asin": null,
       "deal": null,
       "market": {
         "value": 610,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 216.11,
-      "marginPct": 55,
+      "margin": 242.1,
+      "marginPct": 66,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -665,15 +665,15 @@
         "url": "https://www.brickmerge.de/75389-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 36,
+      "discountPct": 35,
       "asin": "B0CWH3FX31",
       "deal": "alternate-lego-75389-dunkler-millennium-falke",
       "market": {
         "value": 220,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 105.1,
-      "marginPct": 91,
+      "margin": 102.78,
+      "marginPct": 88,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-dunkler-millennium-falke-75389",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -694,15 +694,15 @@
         "url": "https://www.brickmerge.de/75413-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 27,
+      "discountPct": 35,
       "asin": "B0DWDQ4YGR",
       "deal": null,
       "market": {
         "value": 183,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 73.02,
-      "marginPct": 66,
+      "margin": 85.01,
+      "marginPct": 87,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -723,15 +723,15 @@
         "url": "https://www.brickmerge.de/75328-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 33,
+      "discountPct": 41,
       "asin": "B09BNWZF68",
       "deal": null,
       "market": {
         "value": 85,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 38.01,
-      "marginPct": 81,
+      "margin": 43.48,
+      "marginPct": 105,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -747,20 +747,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
       "best": {
-        "shop": "Amazon.de",
-        "price": 289.99,
-        "url": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
-        "checked": "2026-10-28"
+        "shop": "Proshop.de (lt. brickmerge)",
+        "price": 257.9,
+        "url": "https://www.brickmerge.de/42215-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 28,
+      "discountPct": 36,
       "asin": "B0DWF9F6TN",
       "deal": "alternate-lego-42215-volvo-ec500",
       "market": {
         "value": 488,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 198.01,
-      "marginPct": 68,
+      "margin": 230.1,
+      "marginPct": 89,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -776,20 +776,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
       "best": {
-        "shop": "Amazon.de",
-        "price": 183.25,
-        "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
-        "checked": "2026-10-25"
+        "shop": "eBay (mit Code, lt. brickmerge)",
+        "price": 154.39,
+        "url": "https://www.brickmerge.de/42177-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 27,
+      "discountPct": 38,
       "asin": "B0CWH2C8LK",
       "deal": null,
       "market": {
         "value": 305,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 121.75,
-      "marginPct": 66,
+      "margin": 150.61,
+      "marginPct": 98,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -805,10 +805,10 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
       "best": {
-        "shop": "Alza.de",
-        "price": 157.88,
-        "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
-        "checked": "2026-10-27"
+        "shop": "Amazon.de (lt. brickmerge)",
+        "price": 157.99,
+        "url": "https://www.brickmerge.de/42171-1",
+        "checked": "2026-11-19"
       },
       "discountPct": 28,
       "asin": "B0CFVZ74KT",
@@ -817,7 +817,7 @@
         "value": 268,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 110.12,
+      "margin": 110.01,
       "marginPct": 70,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171"
@@ -862,20 +862,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
       "best": {
-        "shop": "Amazon.de",
-        "price": 39.99,
-        "url": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
-        "checked": "2026-10-27"
+        "shop": "Amazon.de (lt. brickmerge)",
+        "price": 37.99,
+        "url": "https://www.brickmerge.de/42204-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 33,
+      "discountPct": 37,
       "asin": "B0DHSCKXP2",
       "deal": null,
       "market": {
         "value": 73,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 33.01,
-      "marginPct": 83,
+      "margin": 35.01,
+      "marginPct": 92,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -891,20 +891,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
       "best": {
-        "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
-        "price": 39.97,
-        "url": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
-        "checked": "2026-10-27"
+        "shop": "Steinehelden (lt. brickmerge)",
+        "price": 37.83,
+        "url": "https://www.brickmerge.de/42173-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 25,
+      "discountPct": 29,
       "asin": "B0CWGZTRKJ",
       "deal": null,
       "market": {
         "value": 65,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 25.03,
-      "marginPct": 63,
+      "margin": 27.17,
+      "marginPct": 72,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -920,20 +920,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
       "best": {
-        "shop": "Kaufland",
-        "price": 260.85,
-        "url": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
-        "checked": "2026-10-25"
+        "shop": "Office-Partner (lt. brickmerge)",
+        "price": 277,
+        "url": "https://www.brickmerge.de/10326-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 13,
+      "discountPct": 8,
       "asin": null,
       "deal": null,
       "market": {
         "value": 366,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 105.15,
-      "marginPct": 40,
+      "margin": 89,
+      "marginPct": 32,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -949,20 +949,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
       "best": {
-        "shop": "office-partner.de",
-        "price": 249.49,
-        "url": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
-        "checked": "2026-10-25"
+        "shop": "Amazon.de (lt. brickmerge)",
+        "price": 232.99,
+        "url": "https://www.brickmerge.de/10341-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 4,
+      "discountPct": 10,
       "asin": null,
       "deal": null,
       "market": {
         "value": 317,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 67.51,
-      "marginPct": 27,
+      "margin": 84.01,
+      "marginPct": 36,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -978,20 +978,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
       "best": {
-        "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
-        "price": 71.47,
-        "url": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
-        "checked": "2026-10-24"
+        "shop": "Alza.de (lt. brickmerge)",
+        "price": 69.61,
+        "url": "https://www.brickmerge.de/10315-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 32,
+      "discountPct": 34,
       "asin": null,
       "deal": null,
       "market": {
         "value": 128,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 56.53,
-      "marginPct": 79,
+      "margin": 58.39,
+      "marginPct": 84,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315"
       ],
@@ -1006,10 +1006,10 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
       "best": {
-        "shop": "Amazon.de",
+        "shop": "Amazon.de (lt. brickmerge)",
         "price": 53.99,
-        "url": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
-        "checked": "2026-10-22"
+        "url": "https://www.brickmerge.de/10353-1",
+        "checked": "2026-11-19"
       },
       "discountPct": 33,
       "asin": null,
@@ -1064,20 +1064,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
       "best": {
-        "shop": "LEGO.de",
-        "price": 329.99,
-        "url": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
-        "checked": "2026-10-25"
+        "shop": "eBay (mit Code, lt. brickmerge)",
+        "price": 326.99,
+        "url": "https://www.brickmerge.de/21353-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 0,
+      "discountPct": 1,
       "asin": null,
       "deal": null,
       "market": {
         "value": 403,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 73.01,
-      "marginPct": 22,
+      "margin": 76.01,
+      "marginPct": 23,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1093,20 +1093,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
       "best": {
-        "shop": "eBay",
-        "price": 144.83,
-        "url": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
-        "checked": "2026-10-27"
+        "shop": "ALTERNATE (lt. brickmerge)",
+        "price": 129.9,
+        "url": "https://www.brickmerge.de/21333-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 15,
+      "discountPct": 24,
       "asin": null,
       "deal": null,
       "market": {
         "value": 207,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 62.17,
-      "marginPct": 43,
+      "margin": 77.1,
+      "marginPct": 59,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1127,15 +1127,15 @@
         "url": "https://www.brickmerge.de/21060-1",
         "checked": "2026-11-19"
       },
-      "discountPct": 26,
+      "discountPct": 35,
       "asin": null,
       "deal": null,
       "market": {
         "value": 195,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 76.03,
-      "marginPct": 64,
+      "margin": 91.38,
+      "marginPct": 88,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060"
       ],
@@ -1150,20 +1150,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
       "best": {
-        "shop": "Alza.de",
-        "price": 248.89,
-        "url": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
-        "checked": "2026-10-22"
+        "shop": "Alza.de (lt. brickmerge)",
+        "price": 207.31,
+        "url": "https://www.brickmerge.de/76437-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 4,
+      "discountPct": 20,
       "asin": null,
       "deal": null,
       "market": {
         "value": 317,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 68.11,
-      "marginPct": 27,
+      "margin": 109.69,
+      "marginPct": 53,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1179,20 +1179,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
       "best": {
-        "shop": "Kaufland",
-        "price": 76.55,
-        "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
-        "checked": "2026-10-27"
+        "shop": "OTTO (lt. brickmerge)",
+        "price": 82.2,
+        "url": "https://www.brickmerge.de/76323-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 23,
+      "discountPct": 18,
       "asin": null,
       "deal": null,
       "market": {
         "value": 122,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 45.45,
-      "marginPct": 59,
+      "margin": 39.8,
+      "marginPct": 48,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1208,20 +1208,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
       "best": {
-        "shop": "Amazon.de",
-        "price": 39.99,
-        "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
-        "checked": "2026-10-27"
+        "shop": "Playzeug (lt. brickmerge)",
+        "price": 42.49,
+        "url": "https://www.brickmerge.de/76327-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 33,
+      "discountPct": 29,
       "asin": "B0DHZ5X3K3",
       "deal": null,
       "market": {
         "value": 73,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 33.01,
-      "marginPct": 83,
+      "margin": 30.51,
+      "marginPct": 72,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1266,20 +1266,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
       "best": {
-        "shop": "Amazon.de (Artikelpreis lt. brickfact AT-Seite)",
-        "price": 145.99,
-        "url": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
-        "checked": "2026-10-27"
+        "shop": "ALTERNATE (mit Code, lt. brickmerge)",
+        "price": 127.42,
+        "url": "https://www.brickmerge.de/60470-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 27,
+      "discountPct": 36,
       "asin": "B0DWDSYCZV",
       "deal": null,
       "market": {
         "value": 244,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 98.01,
-      "marginPct": 67,
+      "margin": 116.58,
+      "marginPct": 91,
       "sources": [
         "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
@@ -1295,20 +1295,20 @@
       "eol": "Ende 2026 (erwartet 12/2026)",
       "eolSource": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
       "best": {
-        "shop": "Amazon.de",
-        "price": 56.99,
-        "url": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
-        "checked": "2026-10-27"
+        "shop": "Steinehelden (lt. brickmerge)",
+        "price": 62.89,
+        "url": "https://www.brickmerge.de/60423-1",
+        "checked": "2026-11-19"
       },
-      "discountPct": 37,
+      "discountPct": 30,
       "asin": "B0CWH283WW",
       "deal": null,
       "market": {
         "value": 110,
         "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
       },
-      "margin": 53.01,
-      "marginPct": 93,
+      "margin": 47.11,
+      "marginPct": 75,
       "sources": [
         "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"

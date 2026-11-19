@@ -741,3 +741,6 @@ html[data-mode="reseller"] .subnav .nav-rs{display:inline-block}
 .ak-box h2{color:#fff;margin:0 0 8px}.ak-box p{color:#fff;opacity:.95;margin:0 0 10px}
 .ak-box .btn-ghost{background:#fff;color:#0B776B}
 .ak-box .btn-primary{background:#F5C542;color:#06463f;border-color:#F5C542}
+.weg-b{display:inline-block;font-size:.82rem;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.weg-top{background:#E3F4EF;color:#0B776B}.weg-ok{background:#EEF3FB;color:#28508C}.weg-mid{background:#FFF4E0;color:#8A5A00}.weg-low{background:#F2F2F2;color:#666}
+@media (prefers-color-scheme:dark){.weg-top{background:#103a33;color:#7fd8c6}.weg-ok{background:#1b2a42;color:#9fc0ef}.weg-mid{background:#3a2c10;color:#f0c46a}.weg-low{background:#2a2a2a;color:#bbb}}
