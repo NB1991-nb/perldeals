@@ -2010,7 +2010,7 @@ function buildReseller(){
 }
 /* ---- 19.11. (Nico): „LEGO zum Weglegen“ – Landingpage + Unterseiten aus RS.eol ---- */
 const WEG_P = "/reseller/lego-weglegen/";
-const WEG_STRONG = new Set(["Star Wars","Icons","Ideas","Architecture","Harry Potter","Marvel"]);
+const WEG_STRONG = new Set(["Star Wars","Icons","Ideas","Architecture","Harry Potter","Marvel","Super Heroes"]);
 const wegFee = 0.12, wegShip = 6;
 const wegPlus = s => Math.round((s.uvp * (1 - wegFee) - wegShip - s.best.price) * 100) / 100;
 const wegRate = s => {
@@ -2031,7 +2031,7 @@ const WEG_SUBS = [
    intro:"Star Wars ist das Thema, das nach dem Produktionsende erfahrungsgemäß am gefragtesten bleibt: große Modelle wie Millennium Falcon, Venator oder Jabbas Segelbarke und Sets mit beliebten Schiffen. Diese Star-Wars-Sets laufen voraussichtlich Ende 2026 aus."},
   {slug:"icons-ideas", h:"LEGO Icons, Ideas & Architecture zum Weglegen", nav:"Icons & Ideas", f:s => ["Icons","Ideas","Architecture"].includes(s.theme),
    intro:"Sets für Erwachsene aus den Reihen Icons, Ideas und Architecture werden vor allem von Sammlern gekauft, die sie ausstellen. Nach dem Auslaufen fehlt Nachschub im Handel. Wichtig: Einige dieser Sets gibt es gerade kaum unter UVP, dann bleibt beim Weglegen wenig Spielraum."},
-  {slug:"marvel-harry-potter", h:"Marvel- und Harry-Potter-Sets zum Weglegen", nav:"Marvel & Harry Potter", f:s => ["Marvel","Harry Potter"].includes(s.theme),
+  {slug:"marvel-harry-potter", h:"Marvel-, Batman- und Harry-Potter-Sets zum Weglegen", nav:"Marvel, DC & Harry Potter", f:s => ["Marvel","Super Heroes","Harry Potter"].includes(s.theme),
    intro:"Lizenzthemen wie Marvel und Harry Potter haben eine große Fangemeinde. Sammlereditionen und Figuren-Sets sind nach dem Auslaufen oft gesucht."},
   {slug:"technic", h:"LEGO Technic: auslaufende Sets im Check", nav:"Technic", f:s => s.theme === "Technic",
    intro:"Technic-Sets sind gerade stark reduziert. Nach dem Produktionsende steigen sie erfahrungsgemäß aber schwächer als Star Wars oder Icons, und die Kartons sind oft groß. Zum Weglegen eher zweite Wahl, außer bei sehr tiefen Preisen."},

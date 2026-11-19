@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:05:00+01:00",
+  "updated": "2026-11-19T14:00:00+01:00",
   "uplift": 0.22,
   "releases": [
     {
@@ -1314,6 +1314,195 @@
         "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
       ],
       "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-75435",
+      "num": "75435",
+      "name": "MTT der Separatisten in der Schlacht von Felucia",
+      "theme": "Star Wars",
+      "uvp": 149.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/75435-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 103.98,
+        "url": "https://www.brickmerge.de/75435-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 31,
+      "market": {
+        "value": 183,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 79.02,
+      "marginPct": 76,
+      "sources": [
+        "https://www.brickmerge.de/75435-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-76450",
+      "num": "76450",
+      "name": "Buchstütze: Hogwarts Express",
+      "theme": "Harry Potter",
+      "uvp": 99.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/76450-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 62.99,
+        "url": "https://www.brickmerge.de/76450-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 37,
+      "market": {
+        "value": 122,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 59.01,
+      "marginPct": 94,
+      "sources": [
+        "https://www.brickmerge.de/76450-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-21345",
+      "num": "21345",
+      "name": "Polaroid OneStep SX-70 Sofortbildkamera",
+      "theme": "Ideas",
+      "uvp": 79.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/21345-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 58.9,
+        "url": "https://www.brickmerge.de/21345-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 26,
+      "market": {
+        "value": 98,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 39.1,
+      "marginPct": 66,
+      "sources": [
+        "https://www.brickmerge.de/21345-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-76304",
+      "num": "76304",
+      "name": "Batman Forever Batmobil",
+      "theme": "Super Heroes",
+      "uvp": 99.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/76304-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 70,
+        "url": "https://www.brickmerge.de/76304-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 30,
+      "market": {
+        "value": 122,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 52,
+      "marginPct": 74,
+      "sources": [
+        "https://www.brickmerge.de/76304-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-71847",
+      "num": "71847",
+      "name": "Der Wächterdrache",
+      "theme": "Ninjago",
+      "uvp": 149.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/71847-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 104.99,
+        "url": "https://www.brickmerge.de/71847-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 30,
+      "market": {
+        "value": 183,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 78.01,
+      "marginPct": 74,
+      "sources": [
+        "https://www.brickmerge.de/71847-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-76313",
+      "num": "76313",
+      "name": "MARVEL Logo & Minifiguren",
+      "theme": "Marvel",
+      "uvp": 99.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/76313-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 82.19,
+        "url": "https://www.brickmerge.de/76313-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 18,
+      "market": {
+        "value": 122,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 39.81,
+      "marginPct": 48,
+      "sources": [
+        "https://www.brickmerge.de/76313-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "id": "eol-76447",
+      "num": "76447",
+      "name": "Schloss Hogwarts: Flugstunden",
+      "theme": "Harry Potter",
+      "uvp": 79.99,
+      "eol": "bald (laut brickmerge „EOL steht in Kürze an“)",
+      "eolSource": "https://www.brickmerge.de/76447-1",
+      "best": {
+        "shop": "lt. brickmerge (günstigster Händler)",
+        "price": 67.87,
+        "url": "https://www.brickmerge.de/76447-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 15,
+      "market": {
+        "value": 98,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 30.13,
+      "marginPct": 44,
+      "sources": [
+        "https://www.brickmerge.de/76447-1",
+        "https://www.giga.de/games/wer-diese-lego-sets-noch-will-muss-sich-beeilen-bald-gibt-es-sie-nicht-mehr--01M39XEXM0RV8QK0RD7D33SDGC"
+      ],
+      "added": "2026-11-19T14:00:00+01:00"
     }
   ],
   "own": []
