@@ -1,1321 +1,1320 @@
 {
- "updated": "2026-10-29T07:40:00+01:00",
- "uplift": 0.22,
- "releases": [
-  {
-   "id": "rel-pokemon-30-jahre-boosterbundle-mini-tin",
-   "game": "pokemon",
-   "name": "30 Jahre – Boosterbundle & Mini-Tin-Box (DE + EN 30th Celebration)",
-   "code": "30 Jahre (M6a/30th Celebration)",
-   "date": "2026-10-02",
-   "confirmed": true,
-   "products": [
+  "updated": "2026-10-29T07:40:00+01:00",
+  "uplift": 0.22,
+  "releases": [
     {
-     "type": "Boosterbundle (6 Booster)",
-     "price": 64.99
+      "id": "rel-pokemon-30-jahre-boosterbundle-mini-tin",
+      "game": "pokemon",
+      "name": "30 Jahre – Boosterbundle & Mini-Tin-Box (DE + EN 30th Celebration)",
+      "code": "30 Jahre (M6a/30th Celebration)",
+      "date": "2026-10-02",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Boosterbundle (6 Booster)",
+          "price": 64.99
+        },
+        {
+          "type": "Mini-Tin-Box (2 Booster, Sticker, Karte; 10 Motive)",
+          "price": null
+        }
+      ],
+      "retailers": [
+        "card-corner.de"
+      ],
+      "note": "DE- und EN-Termin laut PokeZentrum identisch (02.10.2026). 64,99 € ist Händlerpreis bei card-corner.de, keine UVP. Laut card-corner gibt es kein deutsches 30-Jahre-Display. Bereits erschienen.",
+      "sources": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-alle-boxen-und-kollektionen-enthuellt/",
+        "https://www.card-corner.de/pokemon-30-jahre"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Mini-Tin-Box (2 Booster, Sticker, Karte; 10 Motive)",
-     "price": null
+      "id": "rel-pokemon-30-jahre-kampfdeck-psiana-nachtara",
+      "game": "pokemon",
+      "name": "30 Jahre – Kampfdeck Psiana-ex / Nachtara-ex (EN: Espeon ex & Umbreon ex Battle Deck)",
+      "code": "30 Jahre",
+      "date": "2026-10-30",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Kampfdeck (2 Varianten: Psiana-ex bzw. Nachtara-ex; je 60-Karten-Deck, Spielmatte, Promo Victini/Zeraora)",
+          "price": null
+        },
+        {
+          "type": "Kampfdeck Nachtara-ex (deutsch), Fachhändler comicplanet.de",
+          "price": 27.49
+        }
+      ],
+      "retailers": [
+        "comicplanet.de"
+      ],
+      "note": "DE am 30.10.2026 laut PokeZentrum (20.10.2026) und comicplanet.de; EN-Datum bei TCGRadar/SetPulls. Zwei getrennte Decks (Psiana-ex oder Nachtara-ex). 27,49 € ist Händlerpreis bei comicplanet.de, keine UVP.",
+      "sources": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-alle-boxen-und-kollektionen-enthuellt/",
+        "https://tcgradar.eu/guides/pokemon-tcg-set-release-calendar-2026",
+        "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027",
+        "https://pokezentrum.de/pokemon-karten-news/entdecke-das-neue-pokemon-kampfdeck-30-jahre/",
+        "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/specials-pkm/pokemon-30-jahre-nachtara-ex-kampfdeck-deutsch"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-delta-herrschaft",
+      "game": "pokemon",
+      "name": "Mega-Entwicklung – Delta-Herrschaft (EN: Mega Evolution – Delta Reign)",
+      "code": "DLR / ME06",
+      "date": "2026-11-06",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Booster (10 Karten)",
+          "price": 4.99
+        },
+        {
+          "type": "Display (36 Booster), Pokémon Center DE",
+          "price": 165.99
+        },
+        {
+          "type": "Top-Trainer-Box (9 Booster, Kyogre-Promo)",
+          "price": 61.99
+        },
+        {
+          "type": "Top-Trainer-Box (deutsch), Fachhändler comicplanet.de",
+          "price": 69.99
+        },
+        {
+          "type": "Pokémon Center Top-Trainer-Box (exklusiv, +2 Booster, gestempelte Kyogre-Promo)",
+          "price": null
+        },
+        {
+          "type": "Boosterbundle (6 Booster)",
+          "price": null
+        },
+        {
+          "type": "3er-Booster-Blister (Jurob/Seel-Promo)",
+          "price": null
+        },
+        {
+          "type": "Checklane-Blister / Premium-Checklane-Blister",
+          "price": null
+        }
+      ],
+      "retailers": [
+        "Pokémon Center EU",
+        "Aldi Süd",
+        "comicplanet.de"
+      ],
+      "note": "Set-Release 06.11.2026 (offiziell). Aldi Süd verkauft Booster ab 09.11.2026 für 4,99 € (GIGA, 26.10.2026). Display- und TTB-Preise (165,99 € / 61,99 €) sind Pokémon-Center-DE-Vorbestellpreise laut pokelix.eu; Displaygröße dort nicht eindeutig (36 oder 18). pokeled.com nennt ca. 56 € UVP für die ETB und 215–220 € für das 36er-Display bei UVP-Distributoren – Angaben widersprüchlich. Pokémon-Center-TTB ist auf pokemoncenter.com/de-de gelistet. Englische Edition erscheint ebenfalls am 06.11.2026.",
+      "sources": [
+        "https://www.pokemon.com/de/news/die-erweiterung-mega-entwicklung-delta-herrschaft-des-pokemon-sammelkartenspiels-erscheint-am-6-november-2026",
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-delta-herrschaft-kaufen-alle-boxen-und-kollektionen/",
+        "https://pokelix.eu/en/blogs/guides-news/delta-herrschaft-alles-wichtige-zum-set",
+        "https://www.giga.de/games/pokemon-karten-aldi-hat-bald-brandneues-set-im-angebot--01M5VW9SR0HW9B25TNDWBT3YJ6",
+        "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/top-trainer-boxen-pkm/pokemon-mega-entwicklung-delta-herrschaft-top-trainer-box-deutsch",
+        "https://www.pokemoncenter.com/de-de/product/10-10438-110/pokemon-sammelkartenspiel-pokemon-center-top-trainer-box-mega-entwicklung-delta-herrschaft",
+        "https://www.pokemoncenter.com/de-de/product/10-10446-103/pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks",
+        "https://pokeled.com/en/blogs/pokemon/delta-reign-pokemon-tcg-expansion"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-delta-herrschaft-build-battle-box",
+      "game": "pokemon",
+      "name": "Delta-Herrschaft – Build & Battle-Box (Prerelease)",
+      "code": "DLR / ME06",
+      "date": "2026-10-24",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Build & Battle-Box (4 Booster, 40-Karten-Deck, Promo)",
+          "price": null
+        }
+      ],
+      "retailers": [],
+      "note": "Nur bei Prerelease-Events im Fachhandel 24.10.–01.11.2026. GIGA nennt 30–35 € je nach Laden (keine UVP).",
+      "sources": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-delta-herrschaft-kaufen-alle-boxen-und-kollektionen/",
+        "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH",
+        "https://slabhit.de/magazin/pokemon-release-kalender-2026"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-30-jahre-ultra-premium-kollektion",
+      "game": "pokemon",
+      "name": "30 Jahre – Ultra-Premium-Kollektion, Ditto-Premium-Kollektion, Figuren-Kollektion",
+      "code": "30 Jahre",
+      "date": "2026-11-06",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Ultra-Premium-Kollektion",
+          "price": null
+        },
+        {
+          "type": "Ultra-Premium-Kollektion Nachtara (deutsch), Fachhändler comicplanet.de",
+          "price": 249.99
+        },
+        {
+          "type": "Premium-Kollektion Ditto",
+          "price": null
+        },
+        {
+          "type": "Figuren-Kollektion",
+          "price": null
+        }
+      ],
+      "retailers": [
+        "card-corner.de",
+        "comicplanet.de"
+      ],
+      "note": "DE-Datum 06.11.2026 laut card-corner.de und comicplanet.de; EN-Datum 06.11.2026 offiziell laut SetPulls. UPC erscheint in DE in Varianten (Tag/Nacht bzw. Psiana/Nachtara). 249,99 € ist Händlerpreis bei comicplanet.de, keine UVP. US-MSRP (nur Tracker): UPC $179.99, Ditto $39.99, Figuren $29.99.",
+      "sources": [
+        "https://www.card-corner.de/pokemon-30-jahre",
+        "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027",
+        "https://pokezentrum.de/pokemon-karten-news/entdecke-die-premium-kollektion-ditto-fuer-pokemon-30-jahre/",
+        "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/specials-pkm/pokemon-30-jahre-nachtara-ultra-premium-kollektion-deutsch"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-30-jahre-ordner-kollektion",
+      "game": "pokemon",
+      "name": "30 Jahre – Ordner-Kollektion (EN: 30th Celebration Binder Collection)",
+      "code": "30 Jahre",
+      "date": "2026-12-04",
+      "confirmed": false,
+      "products": [
+        {
+          "type": "Ordner-Kollektion (Ordner + 5 Booster), Smyths Toys DE",
+          "price": 46.99
+        }
+      ],
+      "retailers": [
+        "Smyths Toys"
+      ],
+      "note": "EN (US) von 02.10. auf 04.12.2026 verschoben. Deutscher Termin laut PokeZentrum (04.09.2026) noch unbekannt; card-corner.de führt die DE-Version mit 16.09.2026 (74,99 €). Smyths DE listet sie für 46,99 €, ohne Termin. Termin für DE daher unbestätigt.",
+      "sources": [
+        "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-release-von-kollektionen-verschoben/",
+        "https://www.smythstoys.com/de/de-de/spielzeug/action-spielzeug/pokemon/pokemon-karten/pokemon-karten-sammelordner-30-jahre-edition/p/264129",
+        "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-30-jahre-top-trainer-box",
+      "game": "pokemon",
+      "name": "30 Jahre – Top-Trainer-Box (bereits erschienen 16.09.2026, im Handel)",
+      "code": "30 Jahre",
+      "date": "2026-09-16",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Top-Trainer-Box, Smyths Toys DE",
+          "price": 54.99
+        },
+        {
+          "type": "Top-Trainer-Box, Amazon.de Einladungs-Angebot",
+          "price": 52.99
+        },
+        {
+          "type": "Elite Trainer Box (EN), Netto Online",
+          "price": 179.99
+        }
+      ],
+      "retailers": [
+        "Smyths Toys",
+        "Amazon.de (Einladung)",
+        "Netto"
+      ],
+      "note": "Außerhalb des Zeitfensters, aber aktuell reseller-relevant. Amazon verkauft nur per 'Einladung anfordern' (72 h Kaufzeit nach Auswahl). Amazon bot laut GIGA (22.10.2026) zudem den 30-Jahre-2er-Blister für 12,99 € an.",
+      "sources": [
+        "https://www.netzwelt.de/schnaeppchen/258984-pokmon-trainerbox-amazon-nur-einladung-netto-gibt-englische-variante-sofort-teurer.html",
+        "https://www.smythstoys.com/de/de-de/spielzeug/action-spielzeug/pokemon/pokemon-karten/pokemon-karten-top-trainer-box-30-jahre-edition/p/264148",
+        "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-pokemon-flowing-fists",
+      "game": "pokemon",
+      "name": "Mega Evolution – Flowing Fists (dt. Name noch nicht bekannt)",
+      "code": null,
+      "date": "2027-02-05",
+      "confirmed": true,
+      "products": [],
+      "retailers": [],
+      "note": "EN-Datum 05.02.2027 offiziell angekündigt (Wargamer, PokeZentrum 21.10.2026). Deutsches Datum und Name offiziell noch nicht bestätigt (Slabhit führt 05.02.2027 auch für DE). Fokus Mega-Lucario Z-ex; JP-Vorlage 'Aura Seeker' 27.11.2026. Keine Produkte/Preise angekündigt.",
+      "sources": [
+        "https://www.wargamer.com/pokemon-trading-card-game/flowing-fists",
+        "https://pokezentrum.de/pokemon-karten-news/englisches-pokemon-set-flowing-fists-erscheint-im-februar-2027/",
+        "https://slabhit.de/magazin/pokemon-release-kalender-2026"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-eb-05-heroines-edition-vol-2",
+      "game": "onepiece",
+      "name": "Extra Booster – ONE PIECE Heroines Edition vol.2",
+      "code": "EB-05",
+      "date": "2026-10-30",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Booster (12 Karten, US-MSRP $4.99 / ca. 4,99 €)",
+          "price": 4.99
+        },
+        {
+          "type": "Display (24 Booster), PixelHeart",
+          "price": 209.9
+        }
+      ],
+      "retailers": [
+        "Saturn (One Piece Official Shop Berlin Alexanderplatz)",
+        "Cardmarket",
+        "PixelHeart"
+      ],
+      "note": "Nur Englisch für Europa; es gibt keine deutsche One-Piece-Edition (Comicschau 18.09.2026). 4,99 € laut tcgallblue als MSRP je Booster; 209,90 € ist Händlerpreis (Vorbestellung), keine UVP.",
+      "sources": [
+        "https://tcgallblue.com/en/news/eb-05-one-piece-tcg-release-date-price-stores-europe",
+        "https://gemcards.de/en/blogs/news/one-piece-eb05-heroines-edition-vol-2",
+        "https://parabox.co.uk/blogs/parabox-tips/one-piece-card-game-eb-05-op-18-release-dates",
+        "https://www.pixelheart.eu/en/produit/one-piece-24-extra-booster-box-eb05-heroines-edition-vol-2-english-version/",
+        "https://www.comicschau.de/news/one-piece-tcg-auf-deutsch-715790/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-ts-03-mini-case-set",
+      "game": "onepiece",
+      "name": "Mini Case Set (Luffy / Shanks / Hancock)",
+      "code": "TS-03",
+      "date": "2026-10-30",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Mini Case Set (2 OP-17-Booster + Promo), US-MSRP $11.99",
+          "price": null
+        }
+      ],
+      "retailers": [],
+      "note": "Datum 30.10.2026 vom offiziellen ONE PIECE CARD GAME Official Shop US (X) bestätigt, außerdem Rarix und Samurai Sword Tokyo. Kein EUR-Preis.",
+      "sources": [
+        "https://www.rarix.be/en/guides/calendrier-sorties-one-piece",
+        "https://samuraiswordtokyo.com/blogs/news/one-piece-card-game-release-schedule-2026-2027",
+        "https://x.com/opcgshopus/status/2113752575946137665"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-op-18-the-dominance-of-god",
+      "game": "onepiece",
+      "name": "BOOSTER PACK -THE DOMINANCE OF GOD-",
+      "code": "OP-18",
+      "date": "2026-11-20",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Booster (US-MSRP $4.99)",
+          "price": null
+        },
+        {
+          "type": "Display (24 Booster), card-collector.net",
+          "price": 120
+        },
+        {
+          "type": "Display (24 Booster), ktcards.de",
+          "price": 139.9
+        }
+      ],
+      "retailers": [
+        "card-collector.net",
+        "ktcards.de",
+        "daesu-cards.de",
+        "keepseven.de",
+        "spielwarenparadies24.de"
+      ],
+      "note": "Offizielles Datum (en.onepiece-cardgame.com, NA/EU). Displaypreise sind Vorbestellpreise deutscher Fachhändler; card-collector.net bereits ausverkauft. ktcards-Preis nur aus dem Listing-Titel (Seite nicht abrufbar).",
+      "sources": [
+        "https://en.onepiece-cardgame.com/products/op18.html",
+        "https://card-collector.net/products/one-piece-card-game-op-18-booster-display-24-packs-englisch-ab-20-11-2026",
+        "https://ktcards.de/One-Piece-CG-OP18-Booster-Display-EN",
+        "https://daesu-cards.de/products/one-piece-card-game-booster-display-op18-englisch-preorder-eta-20-11-2026",
+        "https://keepseven.de/product/one-piece-op18-booster-display-englisch/",
+        "https://spielwarenparadies24.de/shop/one-piece-card-game-op-18-booster-display-englisch/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-gift-collection-heroines-double-pack-13",
+      "game": "onepiece",
+      "name": "Gift Collection -ONE PIECE Heroines- / Double Pack Set Vol.13",
+      "code": "GC-2026 / DP-13",
+      "date": "2026-11-20",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Gift Collection (2 EB-05-Booster, 70 Sleeves, 10 Promos), US-MSRP $44.99",
+          "price": null
+        },
+        {
+          "type": "Double Pack Set Vol.13, US-MSRP $11.99",
+          "price": null
+        }
+      ],
+      "retailers": [],
+      "note": "Offizielle Produktliste EN. Kein EUR-Preis veröffentlicht.",
+      "sources": [
+        "https://en.onepiece-cardgame.com/products/",
+        "https://parabox.co.uk/blogs/parabox-tips/one-piece-card-game-eb-05-op-18-release-dates"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-premium-card-collection-live-action-vol-2",
+      "game": "onepiece",
+      "name": "Premium Card Collection Live Action Edition vol.2 (Strohhut-Bande / Baroque Works)",
+      "code": null,
+      "date": null,
+      "confirmed": false,
+      "products": [
+        {
+          "type": "Premium Card Collection (2 Versionen), US-MSRP $20.00",
+          "price": null
+        }
+      ],
+      "retailers": [],
+      "note": "Nur 'November 2026' ohne Tag (Samurai Sword Tokyo). Müller.de führte die Vorgänger-Live-Action-Edition (vol.1) – für vol.2 kein Beleg, daher nicht als Händler gelistet.",
+      "sources": [
+        "https://samuraiswordtokyo.com/blogs/news/one-piece-card-game-release-schedule-2026-2027"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "rel-one-piece-st-37-st-38-starter-decks",
+      "game": "onepiece",
+      "name": "STARTER DECK -The Desert Princess and the Pirates- / STARTER DECK -Baroque Works-",
+      "code": "ST-37 / ST-38",
+      "date": "2026-12-18",
+      "confirmed": true,
+      "products": [
+        {
+          "type": "Starter Deck ST-37",
+          "price": null
+        },
+        {
+          "type": "Starter Deck ST-38, US-MSRP $16.99",
+          "price": null
+        }
+      ],
+      "retailers": [],
+      "note": "Offizielle EN-Seite nennt ST-37 am 18.12.2026 und ST-38 am 19.12.2026 (so angegeben). Gleichzeitig OFFICIAL CARD SLEEVES 17 am 18.12.2026 ($10). Keine 2027-Produkte offiziell gelistet.",
+      "sources": [
+        "https://en.onepiece-cardgame.com/products/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     }
-   ],
-   "retailers": [
-    "card-corner.de"
-   ],
-   "note": "DE- und EN-Termin laut PokeZentrum identisch (02.10.2026). 64,99 € ist Händlerpreis bei card-corner.de, keine UVP. Laut card-corner gibt es kein deutsches 30-Jahre-Display. Bereits erschienen.",
-   "sources": [
-    "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-alle-boxen-und-kollektionen-enthuellt/",
-    "https://www.card-corner.de/pokemon-30-jahre"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-30-jahre-kampfdeck-psiana-nachtara",
-   "game": "pokemon",
-   "name": "30 Jahre – Kampfdeck Psiana-ex / Nachtara-ex (EN: Espeon ex & Umbreon ex Battle Deck)",
-   "code": "30 Jahre",
-   "date": "2026-10-30",
-   "confirmed": true,
-   "products": [
+  ],
+  "promos": [
     {
-     "type": "Kampfdeck (2 Varianten: Psiana-ex bzw. Nachtara-ex; je 60-Karten-Deck, Spielmatte, Promo Victini/Zeraora)",
-     "price": null
+      "id": "promo-mueller-20-auf-spielwaren-games-gaming-zubehoer-me",
+      "topics": [
+        "lego",
+        "pokemon",
+        "top"
+      ],
+      "retailer": "Müller",
+      "title": "20 % auf Spielwaren, Games, Gaming-Zubehör & Merchandise (inkl. LEGO, Pokémon-Artikel)",
+      "from": "2026-10-25",
+      "to": "2026-10-31",
+      "details": "Online bereits im Preis, in der Filiale an der Kasse abgezogen. Ausgeschlossen: Konsolen, Smartphones/Tablets, Apple/Amazon, Bücher/Zeitschriften, Vorbestellungen, Kombination mit anderen Aktionen. Ob Pokémon-Sammelkarten enthalten sind, nennt die Quelle nicht ausdrücklich (Beispiel: Pokémon Adventskalender 2026). Click & Collect versandkostenfrei.",
+      "sources": [
+        "https://www.klamm.de/news/mueller-20-rabatt-auf-spielwaren-games-und-gaming-zubehoer-bis-3110-44N1614036.html",
+        "https://www.mueller.de/c/spielwaren-aktion/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Kampfdeck Nachtara-ex (deutsch), Fachhändler comicplanet.de",
-     "price": 27.49
+      "id": "promo-aldi-sued-pokemon-delta-herrschaft-booster-fuer-4-",
+      "topics": [
+        "pokemon"
+      ],
+      "retailer": "Aldi Süd",
+      "title": "Pokémon Delta-Herrschaft Booster für 4,99 €",
+      "from": "2026-11-09",
+      "to": null,
+      "details": "Booster (10 Karten + Energie + Code-Karte) ab Montag 09.11.2026 in Aldi-Süd-Filialen, solange Vorrat reicht.",
+      "sources": [
+        "https://www.giga.de/games/pokemon-karten-aldi-hat-bald-brandneues-set-im-angebot--01M5VW9SR0HW9B25TNDWBT3YJ6"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-smyths-toys-10-rabatt-auf-lego-minecraft-lego-one-",
+      "topics": [
+        "lego",
+        "onepiece"
+      ],
+      "retailer": "Smyths Toys",
+      "title": "10 € Rabatt auf LEGO Minecraft & LEGO One Piece ab 50 € Warenkorb",
+      "from": "2026-10-26",
+      "to": "2026-11-02",
+      "details": "35 teilnehmende Artikel; 10 € Abzug ab 50 € Bestellwert dieser Artikel.",
+      "sources": [
+        "https://www.brick-tracker.de/blog/news/lego-smyths-toys-angebote-oktober-2026-minecraft-one-piece/",
+        "https://www.smythstoys.com/de/de-de/spielzeug/lego/lego-aktion/c/lego-aktion"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-kaufland-lego-angebote-im-kaufland-weihnachtskatal",
+      "topics": [
+        "lego"
+      ],
+      "retailer": "Kaufland",
+      "title": "LEGO-Angebote im Kaufland-Weihnachtskatalog 2026",
+      "from": "2026-10-12",
+      "to": null,
+      "details": "Ab 12.10.: LEGO City Adventskalender 19,99 € (statt 26,99 €), Star Wars Adventskalender 24,99 €. Ab 02.11.: u. a. LEGO Lebkuchenhaus 40809, Star Wars Lebkuchen-AT-AT. Ab 12.11.: Creator-3-in-1-Sets. Dezember: Technic/Ninjago (ohne Preise).",
+      "sources": [
+        "https://www.steine-kanal.de/viele-lego-angebote-im-kaufland-weihnachtskatalog-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-kaufland-black-week-spielwaren-schwerpunkt",
+      "topics": [
+        "top"
+      ],
+      "retailer": "Kaufland",
+      "title": "Black Week (Spielwaren-Schwerpunkt)",
+      "from": "2026-11-19",
+      "to": "2026-11-30",
+      "details": "Laut Prospektportal Start Do 19.11.2026, Black Friday 27.11., Cyber Monday 30.11.; Fokus Spielzeug/Adventskalender, haushaltsübliche Mengen. Quelle mit Widersprüchen (Bild-Alt-Text nennt 19.10.) – nicht offiziell bestätigt.",
+      "sources": [
+        "https://www.prospektwelten.com/kaufland-black-friday/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-netto-netto-online-de-pokemon-30th-celebration-m6a",
+      "topics": [
+        "pokemon"
+      ],
+      "retailer": "Netto (netto-online.de)",
+      "title": "Pokémon 30th Celebration (M6a) Display japanisch für 199,99 €",
+      "from": "2026-10-13",
+      "to": null,
+      "details": "Japanisches Display mit 20 Boostern, Online-Shop, zzgl. Versand; laut GIGA schnell vergriffen möglich. Endtermin unbekannt.",
+      "sources": [
+        "https://www.giga.de/games/pokemon-karten-netto-verkauft-wieder-japanisches-30-jahre-display-zum-fairen-preis--01M3PEJ7A6TT4K3P03QKP6TRQZ"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-amazon-de-einladungs-angebot-pokemon-top-trainer-b",
+      "topics": [
+        "pokemon"
+      ],
+      "retailer": "Amazon.de",
+      "title": "Einladungs-Angebot: Pokémon Top-Trainer-Box 30 Jahre für 52,99 €",
+      "from": "2026-09-28",
+      "to": null,
+      "details": "Nur per 'Einladung anfordern'; nach Auswahl 72 h Kaufzeit, Anfrage bis zu 12 Monate gültig. Laut GIGA (22.10.2026) auch 30-Jahre-2er-Blister für 12,99 €. Aktueller Status nicht verifiziert (amazon.de nicht geöffnet).",
+      "sources": [
+        "https://www.netzwelt.de/schnaeppchen/258984-pokmon-trainerbox-amazon-nur-einladung-netto-gibt-englische-variante-sofort-teurer.html",
+        "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "promo-mediamarkt-saturn-halloween-sale-u-a-nintendo-swit",
+      "topics": [
+        "konsolen"
+      ],
+      "retailer": "MediaMarkt / Saturn",
+      "title": "Halloween-Sale: u. a. Nintendo Switch 2 im Bundle für 529 €, PS5 mit Marvel's Wolverine für 669 €",
+      "from": "2026-10-27",
+      "to": "2026-11-03",
+      "details": "Online und in Märkten bis 03.11.2026, 08:59 Uhr, solange Vorrat reicht. Switch 2 mit Switch Sports Resort bzw. mit Zelda-Ocarina-of-Time-Remake je 529 €; PS5 mit Marvel's Wolverine 669 € (WinFuture). Produktlinks in den Quellen zeigen auf mediamarkt.de; Saturn-Preise nicht separat bestätigt. Laut Collectors Junkies zusätzlich verlängertes Rückgaberecht bis 31.12.2026 für Käufe 27.10.–01.12.2026; dort auch LEGO WALL-E & EVE für 45,99 €.",
+      "sources": [
+        "https://winfuture.de/news,162231.html",
+        "https://www.allround-pc.com/news/angebote-zum-gruseln-halloween-deals-bei-mediamarkt-nintendo-switch-2-mit-ocarina-of-time-fuer-529-euro",
+        "https://collectors-junkies.com/mediamarkt-und-saturn-starten-halloween-aktion-mit-technik-angeboten/"
+      ],
+      "added": "2026-10-29T07:40:00+01:00"
+    },
+    {
+      "id": "promo-lego-de-lego-insiders-wochenende-2026",
+      "topics": [
+        "lego"
+      ],
+      "retailer": "LEGO.de",
+      "title": "LEGO Insiders Wochenende 2026",
+      "from": "2026-11-21",
+      "to": "2026-11-22",
+      "details": "Offizieller Termin laut LEGO.de: 21.–22.11.2026 (Wochenende vor Black Friday), nur für LEGO-Insiders-Mitglieder (kostenlose Anmeldung). Konkrete Angebote/GWPs noch nicht bekannt. LEGO Black Friday ab 27.11., Cyber Monday 30.11.2026 laut Promobricks.",
+      "sources": [
+        "https://www.lego.com/de-de/insiders-weekend-deals",
+        "https://www.promobricks.de/lego-insiders-weekend-black-friday-cyber-monday-2026-termine/"
+      ],
+      "added": "2026-10-29T07:40:00+01:00"
     }
-   ],
-   "retailers": [
-    "comicplanet.de"
-   ],
-   "note": "DE am 30.10.2026 laut PokeZentrum (20.10.2026) und comicplanet.de; EN-Datum bei TCGRadar/SetPulls. Zwei getrennte Decks (Psiana-ex oder Nachtara-ex). 27,49 € ist Händlerpreis bei comicplanet.de, keine UVP.",
-   "sources": [
-    "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-alle-boxen-und-kollektionen-enthuellt/",
-    "https://tcgradar.eu/guides/pokemon-tcg-set-release-calendar-2026",
-    "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027",
-    "https://pokezentrum.de/pokemon-karten-news/entdecke-das-neue-pokemon-kampfdeck-30-jahre/",
-    "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/specials-pkm/pokemon-30-jahre-nachtara-ex-kampfdeck-deutsch"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-delta-herrschaft",
-   "game": "pokemon",
-   "name": "Mega-Entwicklung – Delta-Herrschaft (EN: Mega Evolution – Delta Reign)",
-   "code": "DLR / ME06",
-   "date": "2026-11-06",
-   "confirmed": true,
-   "products": [
+  ],
+  "eol": [
     {
-     "type": "Booster (10 Karten)",
-     "price": 4.99
+      "id": "eol-75192",
+      "num": "75192",
+      "name": "Millennium Falcon",
+      "theme": "Star Wars",
+      "uvp": 849.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
+      "best": {
+        "shop": "Smyths Toys (zzgl. ggf. Versand, lt. brickmerge)",
+        "price": 749.99,
+        "url": "https://www.brickmerge.de/75192-1_lego-star-wars-millennium-falke",
+        "checked": "2026-10-29"
+      },
+      "discountPct": 12,
+      "asin": "B075PT2JH9",
+      "deal": null,
+      "market": {
+        "value": 1037,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 287.01,
+      "marginPct": 38,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/",
+        "https://www.brickmerge.de/75192-1_lego-star-wars-millennium-falke"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Display (36 Booster), Pokémon Center DE",
-     "price": 165.99
+      "id": "eol-75367",
+      "num": "75367",
+      "name": "Republikanischer Angriffskreuzer der Venator-Klasse",
+      "theme": "Star Wars",
+      "uvp": 649.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
+      "best": {
+        "shop": "Proshop.de (lt. brickmerge)",
+        "price": 479,
+        "url": "https://www.brickmerge.de/75367-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 23,
+      "asin": "B0CJ7W6QTW",
+      "deal": null,
+      "market": {
+        "value": 793,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 290.11,
+      "marginPct": 58,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Top-Trainer-Box (9 Booster, Kyogre-Promo)",
-     "price": 61.99
+      "id": "eol-75397",
+      "num": "75397",
+      "name": "Jabbas Segelbarke",
+      "theme": "Star Wars",
+      "uvp": 499.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
+      "best": {
+        "shop": "Proshop.de (lt. brickmerge)",
+        "price": 367.9,
+        "url": "https://www.brickmerge.de/75397-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 21,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 610,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 216.11,
+      "marginPct": 55,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Top-Trainer-Box (deutsch), Fachhändler comicplanet.de",
-     "price": 69.99
+      "id": "eol-75389",
+      "num": "75389",
+      "name": "Dunkler Millennium Falke",
+      "theme": "Star Wars",
+      "uvp": 179.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-dunkler-millennium-falke-75389",
+      "best": {
+        "shop": "ALTERNATE (mit Code, lt. brickmerge)",
+        "price": 117.22,
+        "url": "https://www.brickmerge.de/75389-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 36,
+      "asin": "B0CWH3FX31",
+      "deal": "alternate-lego-75389-dunkler-millennium-falke",
+      "market": {
+        "value": 220,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 105.1,
+      "marginPct": 91,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-dunkler-millennium-falke-75389",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Pokémon Center Top-Trainer-Box (exklusiv, +2 Booster, gestempelte Kyogre-Promo)",
-     "price": null
+      "id": "eol-75413",
+      "num": "75413",
+      "name": "Republikanischer Juggernaut",
+      "theme": "Star Wars",
+      "uvp": 149.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
+      "best": {
+        "shop": "Amazon.de (lt. brickmerge)",
+        "price": 97.99,
+        "url": "https://www.brickmerge.de/75413-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 27,
+      "asin": "B0DWDQ4YGR",
+      "deal": null,
+      "market": {
+        "value": 183,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 73.02,
+      "marginPct": 66,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Boosterbundle (6 Booster)",
-     "price": null
+      "id": "eol-75328",
+      "num": "75328",
+      "name": "Mandalorianer Helm",
+      "theme": "Star Wars",
+      "uvp": 69.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
+      "best": {
+        "shop": "Steinehelden (lt. brickmerge)",
+        "price": 41.52,
+        "url": "https://www.brickmerge.de/75328-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 33,
+      "asin": "B09BNWZF68",
+      "deal": null,
+      "market": {
+        "value": 85,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 38.01,
+      "marginPct": 81,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "3er-Booster-Blister (Jurob/Seel-Promo)",
-     "price": null
+      "id": "eol-42215",
+      "num": "42215",
+      "name": "Volvo EC500 Hybrid Bagger",
+      "theme": "Technic",
+      "uvp": 399.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 289.99,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
+        "checked": "2026-10-28"
+      },
+      "discountPct": 28,
+      "asin": "B0DWF9F6TN",
+      "deal": "alternate-lego-42215-volvo-ec500",
+      "market": {
+        "value": 488,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 198.01,
+      "marginPct": 68,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     },
     {
-     "type": "Checklane-Blister / Premium-Checklane-Blister",
-     "price": null
+      "id": "eol-42177",
+      "num": "42177",
+      "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
+      "theme": "Technic",
+      "uvp": 249.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 183.25,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
+        "checked": "2026-10-25"
+      },
+      "discountPct": 27,
+      "asin": "B0CWH2C8LK",
+      "deal": null,
+      "market": {
+        "value": 305,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 121.75,
+      "marginPct": 66,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-42171",
+      "num": "42171",
+      "name": "Mercedes-AMG F1 W14 E Performance",
+      "theme": "Technic",
+      "uvp": 219.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
+      "best": {
+        "shop": "Alza.de",
+        "price": 157.88,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 28,
+      "asin": "B0CFVZ74KT",
+      "deal": null,
+      "market": {
+        "value": 268,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 110.12,
+      "marginPct": 70,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-42154",
+      "num": "42154",
+      "name": "Ford GT 2022",
+      "theme": "Technic",
+      "uvp": 119.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 79.9,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
+        "checked": "2026-10-19"
+      },
+      "discountPct": 33,
+      "asin": "B0BBRZXX8B",
+      "deal": null,
+      "market": {
+        "value": 146,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 66.1,
+      "marginPct": 83,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-42204",
+      "num": "42204",
+      "name": "Fast and Furious Toyota Supra MK4",
+      "theme": "Technic",
+      "uvp": 59.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 39.99,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 33,
+      "asin": "B0DHSCKXP2",
+      "deal": null,
+      "market": {
+        "value": 73,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 33.01,
+      "marginPct": 83,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-42173",
+      "num": "42173",
+      "name": "Koenigsegg Jesko Absolut Supersportwagen in Grau",
+      "theme": "Technic",
+      "uvp": 52.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
+      "best": {
+        "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
+        "price": 39.97,
+        "url": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 25,
+      "asin": "B0CWGZTRKJ",
+      "deal": null,
+      "market": {
+        "value": 65,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 25.03,
+      "marginPct": 63,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-10326",
+      "num": "10326",
+      "name": "Naturhistorisches Museum",
+      "theme": "Icons",
+      "uvp": 299.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
+      "best": {
+        "shop": "Kaufland",
+        "price": 260.85,
+        "url": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
+        "checked": "2026-10-25"
+      },
+      "discountPct": 13,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 366,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 105.15,
+      "marginPct": 40,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-10341",
+      "num": "10341",
+      "name": "NASA Artemis Startrampe",
+      "theme": "Icons",
+      "uvp": 259.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
+      "best": {
+        "shop": "office-partner.de",
+        "price": 249.49,
+        "url": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
+        "checked": "2026-10-25"
+      },
+      "discountPct": 4,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 317,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 67.51,
+      "marginPct": 27,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-10315",
+      "num": "10315",
+      "name": "Garten der Stille",
+      "theme": "Icons",
+      "uvp": 104.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
+      "best": {
+        "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
+        "price": 71.47,
+        "url": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
+        "checked": "2026-10-24"
+      },
+      "discountPct": 32,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 128,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 56.53,
+      "marginPct": 79,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-10353",
+      "num": "10353",
+      "name": "Williams Racing FW14B mit Nigel Mansell",
+      "theme": "Icons",
+      "uvp": 79.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 53.99,
+        "url": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
+        "checked": "2026-10-22"
+      },
+      "discountPct": 33,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 98,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 44.01,
+      "marginPct": 82,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-21323",
+      "num": "21323",
+      "name": "Konzertflügel",
+      "theme": "Ideas",
+      "uvp": 399.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
+      "best": {
+        "shop": "eBay",
+        "price": 399,
+        "url": "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 0,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 488,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 89,
+      "marginPct": 22,
+      "sources": [
+        "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-21353",
+      "num": "21353",
+      "name": "Der botanische Garten",
+      "theme": "Ideas",
+      "uvp": 329.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
+      "best": {
+        "shop": "LEGO.de",
+        "price": 329.99,
+        "url": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
+        "checked": "2026-10-25"
+      },
+      "discountPct": 0,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 403,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 73.01,
+      "marginPct": 22,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-21333",
+      "num": "21333",
+      "name": "Vincent van Gogh – Sternennacht",
+      "theme": "Ideas",
+      "uvp": 169.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
+      "best": {
+        "shop": "eBay",
+        "price": 144.83,
+        "url": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 15,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 207,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 62.17,
+      "marginPct": 43,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-21060",
+      "num": "21060",
+      "name": "Burg Himeji",
+      "theme": "Architecture",
+      "uvp": 159.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060",
+      "best": {
+        "shop": "ALTERNATE (mit Code, lt. brickmerge)",
+        "price": 103.62,
+        "url": "https://www.brickmerge.de/21060-1",
+        "checked": "2026-11-19"
+      },
+      "discountPct": 26,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 195,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 76.03,
+      "marginPct": 64,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-76437",
+      "num": "76437",
+      "name": "Der Fuchsbau – Sammleredition",
+      "theme": "Harry Potter",
+      "uvp": 259.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
+      "best": {
+        "shop": "Alza.de",
+        "price": 248.89,
+        "url": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
+        "checked": "2026-10-22"
+      },
+      "discountPct": 4,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 317,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 68.11,
+      "marginPct": 27,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-76323",
+      "num": "76323",
+      "name": "Avengers: Endgame Letzter Showdown",
+      "theme": "Marvel",
+      "uvp": 99.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
+      "best": {
+        "shop": "Kaufland",
+        "price": 76.55,
+        "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 23,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 122,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 45.45,
+      "marginPct": 59,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-76327",
+      "num": "76327",
+      "name": "Iron Man MK4",
+      "theme": "Marvel",
+      "uvp": 59.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 39.99,
+        "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 33,
+      "asin": "B0DHZ5X3K3",
+      "deal": null,
+      "market": {
+        "value": 73,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 33.01,
+      "marginPct": 83,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-76317",
+      "num": "76317",
+      "name": "Peter Parkers Wohnung",
+      "theme": "Marvel",
+      "uvp": 49.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
+      "best": {
+        "shop": "VSR Spielwaren",
+        "price": 54.98,
+        "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
+        "checked": "2026-10-15"
+      },
+      "discountPct": -10,
+      "asin": null,
+      "deal": null,
+      "market": {
+        "value": 61,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 6.02,
+      "marginPct": 11,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-60470",
+      "num": "60470",
+      "name": "Arktis-Polarexpress",
+      "theme": "City",
+      "uvp": 199.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
+      "best": {
+        "shop": "Amazon.de (Artikelpreis lt. brickfact AT-Seite)",
+        "price": 145.99,
+        "url": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 27,
+      "asin": "B0DWDSYCZV",
+      "deal": null,
+      "market": {
+        "value": 244,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 98.01,
+      "marginPct": 67,
+      "sources": [
+        "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
+    },
+    {
+      "id": "eol-60423",
+      "num": "60423",
+      "name": "Straßenbahn mit Haltestelle",
+      "theme": "City",
+      "uvp": 89.99,
+      "eol": "Ende 2026 (erwartet 12/2026)",
+      "eolSource": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
+      "best": {
+        "shop": "Amazon.de",
+        "price": 56.99,
+        "url": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
+        "checked": "2026-10-27"
+      },
+      "discountPct": 37,
+      "asin": "B0CWH283WW",
+      "deal": null,
+      "market": {
+        "value": 110,
+        "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
+      },
+      "margin": 53.01,
+      "marginPct": 93,
+      "sources": [
+        "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
+        "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
+      ],
+      "added": "2026-10-27T15:00:00+01:00"
     }
-   ],
-   "retailers": [
-    "Pokémon Center EU",
-    "Aldi Süd",
-    "comicplanet.de"
-   ],
-   "note": "Set-Release 06.11.2026 (offiziell). Aldi Süd verkauft Booster ab 09.11.2026 für 4,99 € (GIGA, 26.10.2026). Display- und TTB-Preise (165,99 € / 61,99 €) sind Pokémon-Center-DE-Vorbestellpreise laut pokelix.eu; Displaygröße dort nicht eindeutig (36 oder 18). pokeled.com nennt ca. 56 € UVP für die ETB und 215–220 € für das 36er-Display bei UVP-Distributoren – Angaben widersprüchlich. Pokémon-Center-TTB ist auf pokemoncenter.com/de-de gelistet. Englische Edition erscheint ebenfalls am 06.11.2026.",
-   "sources": [
-    "https://www.pokemon.com/de/news/die-erweiterung-mega-entwicklung-delta-herrschaft-des-pokemon-sammelkartenspiels-erscheint-am-6-november-2026",
-    "https://pokezentrum.de/pokemon-karten-news/pokemon-delta-herrschaft-kaufen-alle-boxen-und-kollektionen/",
-    "https://pokelix.eu/en/blogs/guides-news/delta-herrschaft-alles-wichtige-zum-set",
-    "https://www.giga.de/games/pokemon-karten-aldi-hat-bald-brandneues-set-im-angebot--01M5VW9SR0HW9B25TNDWBT3YJ6",
-    "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/top-trainer-boxen-pkm/pokemon-mega-entwicklung-delta-herrschaft-top-trainer-box-deutsch",
-    "https://www.pokemoncenter.com/de-de/product/10-10438-110/pokemon-sammelkartenspiel-pokemon-center-top-trainer-box-mega-entwicklung-delta-herrschaft",
-    "https://www.pokemoncenter.com/de-de/product/10-10446-103/pokemon-sammelkartenspiel-boosterpack-display-box-mega-entwicklung-delta-herrschaft-36-boosterpacks",
-    "https://pokeled.com/en/blogs/pokemon/delta-reign-pokemon-tcg-expansion"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-delta-herrschaft-build-battle-box",
-   "game": "pokemon",
-   "name": "Delta-Herrschaft – Build & Battle-Box (Prerelease)",
-   "code": "DLR / ME06",
-   "date": "2026-10-24",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Build & Battle-Box (4 Booster, 40-Karten-Deck, Promo)",
-     "price": null
-    }
-   ],
-   "retailers": [],
-   "note": "Nur bei Prerelease-Events im Fachhandel 24.10.–01.11.2026. GIGA nennt 30–35 € je nach Laden (keine UVP).",
-   "sources": [
-    "https://pokezentrum.de/pokemon-karten-news/pokemon-delta-herrschaft-kaufen-alle-boxen-und-kollektionen/",
-    "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH",
-    "https://slabhit.de/magazin/pokemon-release-kalender-2026"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-30-jahre-ultra-premium-kollektion",
-   "game": "pokemon",
-   "name": "30 Jahre – Ultra-Premium-Kollektion, Ditto-Premium-Kollektion, Figuren-Kollektion",
-   "code": "30 Jahre",
-   "date": "2026-11-06",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Ultra-Premium-Kollektion",
-     "price": null
-    },
-    {
-     "type": "Ultra-Premium-Kollektion Nachtara (deutsch), Fachhändler comicplanet.de",
-     "price": 249.99
-    },
-    {
-     "type": "Premium-Kollektion Ditto",
-     "price": null
-    },
-    {
-     "type": "Figuren-Kollektion",
-     "price": null
-    }
-   ],
-   "retailers": [
-    "card-corner.de",
-    "comicplanet.de"
-   ],
-   "note": "DE-Datum 06.11.2026 laut card-corner.de und comicplanet.de; EN-Datum 06.11.2026 offiziell laut SetPulls. UPC erscheint in DE in Varianten (Tag/Nacht bzw. Psiana/Nachtara). 249,99 € ist Händlerpreis bei comicplanet.de, keine UVP. US-MSRP (nur Tracker): UPC $179.99, Ditto $39.99, Figuren $29.99.",
-   "sources": [
-    "https://www.card-corner.de/pokemon-30-jahre",
-    "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027",
-    "https://pokezentrum.de/pokemon-karten-news/entdecke-die-premium-kollektion-ditto-fuer-pokemon-30-jahre/",
-    "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/specials-pkm/pokemon-30-jahre-nachtara-ultra-premium-kollektion-deutsch"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-30-jahre-ordner-kollektion",
-   "game": "pokemon",
-   "name": "30 Jahre – Ordner-Kollektion (EN: 30th Celebration Binder Collection)",
-   "code": "30 Jahre",
-   "date": "2026-12-04",
-   "confirmed": false,
-   "products": [
-    {
-     "type": "Ordner-Kollektion (Ordner + 5 Booster), Smyths Toys DE",
-     "price": 46.99
-    }
-   ],
-   "retailers": [
-    "Smyths Toys"
-   ],
-   "note": "EN (US) von 02.10. auf 04.12.2026 verschoben. Deutscher Termin laut PokeZentrum (04.09.2026) noch unbekannt; card-corner.de führt die DE-Version mit 16.09.2026 (74,99 €). Smyths DE listet sie für 46,99 €, ohne Termin. Termin für DE daher unbestätigt.",
-   "sources": [
-    "https://pokezentrum.de/pokemon-karten-news/pokemon-30-jahre-release-von-kollektionen-verschoben/",
-    "https://www.smythstoys.com/de/de-de/spielzeug/action-spielzeug/pokemon/pokemon-karten/pokemon-karten-sammelordner-30-jahre-edition/p/264129",
-    "https://www.setpulls.com/blog/pokemon-tcg-release-dates-2026-2027"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-30-jahre-top-trainer-box",
-   "game": "pokemon",
-   "name": "30 Jahre – Top-Trainer-Box (bereits erschienen 16.09.2026, im Handel)",
-   "code": "30 Jahre",
-   "date": "2026-09-16",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Top-Trainer-Box, Smyths Toys DE",
-     "price": 54.99
-    },
-    {
-     "type": "Top-Trainer-Box, Amazon.de Einladungs-Angebot",
-     "price": 52.99
-    },
-    {
-     "type": "Elite Trainer Box (EN), Netto Online",
-     "price": 179.99
-    }
-   ],
-   "retailers": [
-    "Smyths Toys",
-    "Amazon.de (Einladung)",
-    "Netto"
-   ],
-   "note": "Außerhalb des Zeitfensters, aber aktuell reseller-relevant. Amazon verkauft nur per 'Einladung anfordern' (72 h Kaufzeit nach Auswahl). Amazon bot laut GIGA (22.10.2026) zudem den 30-Jahre-2er-Blister für 12,99 € an.",
-   "sources": [
-    "https://www.netzwelt.de/schnaeppchen/258984-pokmon-trainerbox-amazon-nur-einladung-netto-gibt-englische-variante-sofort-teurer.html",
-    "https://www.smythstoys.com/de/de-de/spielzeug/action-spielzeug/pokemon/pokemon-karten/pokemon-karten-top-trainer-box-30-jahre-edition/p/264148",
-    "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-pokemon-flowing-fists",
-   "game": "pokemon",
-   "name": "Mega Evolution – Flowing Fists (dt. Name noch nicht bekannt)",
-   "code": null,
-   "date": "2027-02-05",
-   "confirmed": true,
-   "products": [],
-   "retailers": [],
-   "note": "EN-Datum 05.02.2027 offiziell angekündigt (Wargamer, PokeZentrum 21.10.2026). Deutsches Datum und Name offiziell noch nicht bestätigt (Slabhit führt 05.02.2027 auch für DE). Fokus Mega-Lucario Z-ex; JP-Vorlage 'Aura Seeker' 27.11.2026. Keine Produkte/Preise angekündigt.",
-   "sources": [
-    "https://www.wargamer.com/pokemon-trading-card-game/flowing-fists",
-    "https://pokezentrum.de/pokemon-karten-news/englisches-pokemon-set-flowing-fists-erscheint-im-februar-2027/",
-    "https://slabhit.de/magazin/pokemon-release-kalender-2026"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-eb-05-heroines-edition-vol-2",
-   "game": "onepiece",
-   "name": "Extra Booster – ONE PIECE Heroines Edition vol.2",
-   "code": "EB-05",
-   "date": "2026-10-30",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Booster (12 Karten, US-MSRP $4.99 / ca. 4,99 €)",
-     "price": 4.99
-    },
-    {
-     "type": "Display (24 Booster), PixelHeart",
-     "price": 209.9
-    }
-   ],
-   "retailers": [
-    "Saturn (One Piece Official Shop Berlin Alexanderplatz)",
-    "Cardmarket",
-    "PixelHeart"
-   ],
-   "note": "Nur Englisch für Europa; es gibt keine deutsche One-Piece-Edition (Comicschau 18.09.2026). 4,99 € laut tcgallblue als MSRP je Booster; 209,90 € ist Händlerpreis (Vorbestellung), keine UVP.",
-   "sources": [
-    "https://tcgallblue.com/en/news/eb-05-one-piece-tcg-release-date-price-stores-europe",
-    "https://gemcards.de/en/blogs/news/one-piece-eb05-heroines-edition-vol-2",
-    "https://parabox.co.uk/blogs/parabox-tips/one-piece-card-game-eb-05-op-18-release-dates",
-    "https://www.pixelheart.eu/en/produit/one-piece-24-extra-booster-box-eb05-heroines-edition-vol-2-english-version/",
-    "https://www.comicschau.de/news/one-piece-tcg-auf-deutsch-715790/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-ts-03-mini-case-set",
-   "game": "onepiece",
-   "name": "Mini Case Set (Luffy / Shanks / Hancock)",
-   "code": "TS-03",
-   "date": "2026-10-30",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Mini Case Set (2 OP-17-Booster + Promo), US-MSRP $11.99",
-     "price": null
-    }
-   ],
-   "retailers": [],
-   "note": "Datum 30.10.2026 vom offiziellen ONE PIECE CARD GAME Official Shop US (X) bestätigt, außerdem Rarix und Samurai Sword Tokyo. Kein EUR-Preis.",
-   "sources": [
-    "https://www.rarix.be/en/guides/calendrier-sorties-one-piece",
-    "https://samuraiswordtokyo.com/blogs/news/one-piece-card-game-release-schedule-2026-2027",
-    "https://x.com/opcgshopus/status/2113752575946137665"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-op-18-the-dominance-of-god",
-   "game": "onepiece",
-   "name": "BOOSTER PACK -THE DOMINANCE OF GOD-",
-   "code": "OP-18",
-   "date": "2026-11-20",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Booster (US-MSRP $4.99)",
-     "price": null
-    },
-    {
-     "type": "Display (24 Booster), card-collector.net",
-     "price": 120
-    },
-    {
-     "type": "Display (24 Booster), ktcards.de",
-     "price": 139.9
-    }
-   ],
-   "retailers": [
-    "card-collector.net",
-    "ktcards.de",
-    "daesu-cards.de",
-    "keepseven.de",
-    "spielwarenparadies24.de"
-   ],
-   "note": "Offizielles Datum (en.onepiece-cardgame.com, NA/EU). Displaypreise sind Vorbestellpreise deutscher Fachhändler; card-collector.net bereits ausverkauft. ktcards-Preis nur aus dem Listing-Titel (Seite nicht abrufbar).",
-   "sources": [
-    "https://en.onepiece-cardgame.com/products/op18.html",
-    "https://card-collector.net/products/one-piece-card-game-op-18-booster-display-24-packs-englisch-ab-20-11-2026",
-    "https://ktcards.de/One-Piece-CG-OP18-Booster-Display-EN",
-    "https://daesu-cards.de/products/one-piece-card-game-booster-display-op18-englisch-preorder-eta-20-11-2026",
-    "https://keepseven.de/product/one-piece-op18-booster-display-englisch/",
-    "https://spielwarenparadies24.de/shop/one-piece-card-game-op-18-booster-display-englisch/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-gift-collection-heroines-double-pack-13",
-   "game": "onepiece",
-   "name": "Gift Collection -ONE PIECE Heroines- / Double Pack Set Vol.13",
-   "code": "GC-2026 / DP-13",
-   "date": "2026-11-20",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Gift Collection (2 EB-05-Booster, 70 Sleeves, 10 Promos), US-MSRP $44.99",
-     "price": null
-    },
-    {
-     "type": "Double Pack Set Vol.13, US-MSRP $11.99",
-     "price": null
-    }
-   ],
-   "retailers": [],
-   "note": "Offizielle Produktliste EN. Kein EUR-Preis veröffentlicht.",
-   "sources": [
-    "https://en.onepiece-cardgame.com/products/",
-    "https://parabox.co.uk/blogs/parabox-tips/one-piece-card-game-eb-05-op-18-release-dates"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-premium-card-collection-live-action-vol-2",
-   "game": "onepiece",
-   "name": "Premium Card Collection Live Action Edition vol.2 (Strohhut-Bande / Baroque Works)",
-   "code": null,
-   "date": null,
-   "confirmed": false,
-   "products": [
-    {
-     "type": "Premium Card Collection (2 Versionen), US-MSRP $20.00",
-     "price": null
-    }
-   ],
-   "retailers": [],
-   "note": "Nur 'November 2026' ohne Tag (Samurai Sword Tokyo). Müller.de führte die Vorgänger-Live-Action-Edition (vol.1) – für vol.2 kein Beleg, daher nicht als Händler gelistet.",
-   "sources": [
-    "https://samuraiswordtokyo.com/blogs/news/one-piece-card-game-release-schedule-2026-2027"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "rel-one-piece-st-37-st-38-starter-decks",
-   "game": "onepiece",
-   "name": "STARTER DECK -The Desert Princess and the Pirates- / STARTER DECK -Baroque Works-",
-   "code": "ST-37 / ST-38",
-   "date": "2026-12-18",
-   "confirmed": true,
-   "products": [
-    {
-     "type": "Starter Deck ST-37",
-     "price": null
-    },
-    {
-     "type": "Starter Deck ST-38, US-MSRP $16.99",
-     "price": null
-    }
-   ],
-   "retailers": [],
-   "note": "Offizielle EN-Seite nennt ST-37 am 18.12.2026 und ST-38 am 19.12.2026 (so angegeben). Gleichzeitig OFFICIAL CARD SLEEVES 17 am 18.12.2026 ($10). Keine 2027-Produkte offiziell gelistet.",
-   "sources": [
-    "https://en.onepiece-cardgame.com/products/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  }
- ],
- "promos": [
-  {
-   "id": "promo-mueller-20-auf-spielwaren-games-gaming-zubehoer-me",
-   "topics": [
-    "lego",
-    "pokemon",
-    "top"
-   ],
-   "retailer": "Müller",
-   "title": "20 % auf Spielwaren, Games, Gaming-Zubehör & Merchandise (inkl. LEGO, Pokémon-Artikel)",
-   "from": "2026-10-25",
-   "to": "2026-10-31",
-   "details": "Online bereits im Preis, in der Filiale an der Kasse abgezogen. Ausgeschlossen: Konsolen, Smartphones/Tablets, Apple/Amazon, Bücher/Zeitschriften, Vorbestellungen, Kombination mit anderen Aktionen. Ob Pokémon-Sammelkarten enthalten sind, nennt die Quelle nicht ausdrücklich (Beispiel: Pokémon Adventskalender 2026). Click & Collect versandkostenfrei.",
-   "sources": [
-    "https://www.klamm.de/news/mueller-20-rabatt-auf-spielwaren-games-und-gaming-zubehoer-bis-3110-44N1614036.html",
-    "https://www.mueller.de/c/spielwaren-aktion/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-aldi-sued-pokemon-delta-herrschaft-booster-fuer-4-",
-   "topics": [
-    "pokemon"
-   ],
-   "retailer": "Aldi Süd",
-   "title": "Pokémon Delta-Herrschaft Booster für 4,99 €",
-   "from": "2026-11-09",
-   "to": null,
-   "details": "Booster (10 Karten + Energie + Code-Karte) ab Montag 09.11.2026 in Aldi-Süd-Filialen, solange Vorrat reicht.",
-   "sources": [
-    "https://www.giga.de/games/pokemon-karten-aldi-hat-bald-brandneues-set-im-angebot--01M5VW9SR0HW9B25TNDWBT3YJ6"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-smyths-toys-10-rabatt-auf-lego-minecraft-lego-one-",
-   "topics": [
-    "lego",
-    "onepiece"
-   ],
-   "retailer": "Smyths Toys",
-   "title": "10 € Rabatt auf LEGO Minecraft & LEGO One Piece ab 50 € Warenkorb",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
-   "details": "35 teilnehmende Artikel; 10 € Abzug ab 50 € Bestellwert dieser Artikel.",
-   "sources": [
-    "https://www.brick-tracker.de/blog/news/lego-smyths-toys-angebote-oktober-2026-minecraft-one-piece/",
-    "https://www.smythstoys.com/de/de-de/spielzeug/lego/lego-aktion/c/lego-aktion"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-kaufland-lego-angebote-im-kaufland-weihnachtskatal",
-   "topics": [
-    "lego"
-   ],
-   "retailer": "Kaufland",
-   "title": "LEGO-Angebote im Kaufland-Weihnachtskatalog 2026",
-   "from": "2026-10-12",
-   "to": null,
-   "details": "Ab 12.10.: LEGO City Adventskalender 19,99 € (statt 26,99 €), Star Wars Adventskalender 24,99 €. Ab 02.11.: u. a. LEGO Lebkuchenhaus 40809, Star Wars Lebkuchen-AT-AT. Ab 12.11.: Creator-3-in-1-Sets. Dezember: Technic/Ninjago (ohne Preise).",
-   "sources": [
-    "https://www.steine-kanal.de/viele-lego-angebote-im-kaufland-weihnachtskatalog-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-kaufland-black-week-spielwaren-schwerpunkt",
-   "topics": [
-    "top"
-   ],
-   "retailer": "Kaufland",
-   "title": "Black Week (Spielwaren-Schwerpunkt)",
-   "from": "2026-11-19",
-   "to": "2026-11-30",
-   "details": "Laut Prospektportal Start Do 19.11.2026, Black Friday 27.11., Cyber Monday 30.11.; Fokus Spielzeug/Adventskalender, haushaltsübliche Mengen. Quelle mit Widersprüchen (Bild-Alt-Text nennt 19.10.) – nicht offiziell bestätigt.",
-   "sources": [
-    "https://www.prospektwelten.com/kaufland-black-friday/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-netto-netto-online-de-pokemon-30th-celebration-m6a",
-   "topics": [
-    "pokemon"
-   ],
-   "retailer": "Netto (netto-online.de)",
-   "title": "Pokémon 30th Celebration (M6a) Display japanisch für 199,99 €",
-   "from": "2026-10-13",
-   "to": null,
-   "details": "Japanisches Display mit 20 Boostern, Online-Shop, zzgl. Versand; laut GIGA schnell vergriffen möglich. Endtermin unbekannt.",
-   "sources": [
-    "https://www.giga.de/games/pokemon-karten-netto-verkauft-wieder-japanisches-30-jahre-display-zum-fairen-preis--01M3PEJ7A6TT4K3P03QKP6TRQZ"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-amazon-de-einladungs-angebot-pokemon-top-trainer-b",
-   "topics": [
-    "pokemon"
-   ],
-   "retailer": "Amazon.de",
-   "title": "Einladungs-Angebot: Pokémon Top-Trainer-Box 30 Jahre für 52,99 €",
-   "from": "2026-09-28",
-   "to": null,
-   "details": "Nur per 'Einladung anfordern'; nach Auswahl 72 h Kaufzeit, Anfrage bis zu 12 Monate gültig. Laut GIGA (22.10.2026) auch 30-Jahre-2er-Blister für 12,99 €. Aktueller Status nicht verifiziert (amazon.de nicht geöffnet).",
-   "sources": [
-    "https://www.netzwelt.de/schnaeppchen/258984-pokmon-trainerbox-amazon-nur-einladung-netto-gibt-englische-variante-sofort-teurer.html",
-    "https://www.giga.de/sparen/pokemon-delta-herrschaft-gibt-es-diesen-samstag-fuer-nur-fuer-4-euro-pro-booster--01KRE8ZE3JSPV2H1M0F76MJ8MH"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "promo-mediamarkt-saturn-halloween-sale-u-a-nintendo-swit",
-   "topics": [
-    "konsolen"
-   ],
-   "retailer": "MediaMarkt / Saturn",
-   "title": "Halloween-Sale: u. a. Nintendo Switch 2 im Bundle für 529 €, PS5 mit Marvel's Wolverine für 669 €",
-   "from": "2026-10-27",
-   "to": "2026-11-03",
-   "details": "Online und in Märkten bis 03.11.2026, 08:59 Uhr, solange Vorrat reicht. Switch 2 mit Switch Sports Resort bzw. mit Zelda-Ocarina-of-Time-Remake je 529 €; PS5 mit Marvel's Wolverine 669 € (WinFuture). Produktlinks in den Quellen zeigen auf mediamarkt.de; Saturn-Preise nicht separat bestätigt. Laut Collectors Junkies zusätzlich verlängertes Rückgaberecht bis 31.12.2026 für Käufe 27.10.–01.12.2026; dort auch LEGO WALL-E & EVE für 45,99 €.",
-   "sources": [
-    "https://winfuture.de/news,162231.html",
-    "https://www.allround-pc.com/news/angebote-zum-gruseln-halloween-deals-bei-mediamarkt-nintendo-switch-2-mit-ocarina-of-time-fuer-529-euro",
-    "https://collectors-junkies.com/mediamarkt-und-saturn-starten-halloween-aktion-mit-technik-angeboten/"
-   ],
-   "added": "2026-10-29T07:40:00+01:00"
-  },
-  {
-   "id": "promo-lego-de-lego-insiders-wochenende-2026",
-   "topics": [
-    "lego"
-   ],
-   "retailer": "LEGO.de",
-   "title": "LEGO Insiders Wochenende 2026",
-   "from": "2026-11-21",
-   "to": "2026-11-22",
-   "details": "Offizieller Termin laut LEGO.de: 21.–22.11.2026 (Wochenende vor Black Friday), nur für LEGO-Insiders-Mitglieder (kostenlose Anmeldung). Konkrete Angebote/GWPs noch nicht bekannt. LEGO Black Friday ab 27.11., Cyber Monday 30.11.2026 laut Promobricks.",
-   "sources": [
-    "https://www.lego.com/de-de/insiders-weekend-deals",
-    "https://www.promobricks.de/lego-insiders-weekend-black-friday-cyber-monday-2026-termine/"
-   ],
-   "added": "2026-10-29T07:40:00+01:00"
-  }
- ],
- "eol": [
-  {
-   "id": "eol-75192",
-   "num": "75192",
-   "name": "Millennium Falcon",
-   "theme": "Star Wars",
-   "uvp": 849.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
-   "best": {
-    "shop": "Smyths Toys (zzgl. ggf. Versand, lt. brickmerge)",
-    "price": 749.99,
-    "url": "https://www.brickmerge.de/75192-1_lego-star-wars-millennium-falke",
-    "checked": "2026-10-29"
-   },
-   "discountPct": 12,
-   "asin": "B075PT2JH9",
-   "deal": null,
-   "market": {
-    "value": 1037,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 287.01,
-   "marginPct": 38,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-millennium-falcon-75192",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/",
-    "https://www.brickmerge.de/75192-1_lego-star-wars-millennium-falke"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-75367",
-   "num": "75367",
-   "name": "Republikanischer Angriffskreuzer der Venator-Klasse",
-   "theme": "Star Wars",
-   "uvp": 649.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
-   "best": {
-    "shop": "Proshop.de",
-    "price": 502.89,
-    "url": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
-    "checked": "2026-10-28"
-   },
-   "discountPct": 23,
-   "asin": "B0CJ7W6QTW",
-   "deal": null,
-   "market": {
-    "value": 793,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 290.11,
-   "marginPct": 58,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-angriffskreuzer-der-venator-klasse-75367",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-75397",
-   "num": "75397",
-   "name": "Jabbas Segelbarke",
-   "theme": "Star Wars",
-   "uvp": 499.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
-   "best": {
-    "shop": "Alza.de",
-    "price": 393.89,
-    "url": "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
-    "checked": "2026-10-26"
-   },
-   "discountPct": 21,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 610,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 216.11,
-   "marginPct": 55,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-jabbas-segelbarke-75397",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-75389",
-   "num": "75389",
-   "name": "Dunkler Millennium Falke",
-   "theme": "Star Wars",
-   "uvp": 179.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-dunkler-millennium-falke-75389",
-   "best": {
-    "shop": "ALTERNATE",
-    "price": 114.9,
-    "url": null,
-    "checked": "2026-10-27",
-    "deal": "alternate-lego-75389-dunkler-millennium-falke"
-   },
-   "discountPct": 36,
-   "asin": "B0CWH3FX31",
-   "deal": "alternate-lego-75389-dunkler-millennium-falke",
-   "market": {
-    "value": 220,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 105.1,
-   "marginPct": 91,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-dunkler-millennium-falke-75389",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-75413",
-   "num": "75413",
-   "name": "Republikanischer Juggernaut",
-   "theme": "Star Wars",
-   "uvp": 149.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 109.98,
-    "url": "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
-    "checked": "2026-10-18"
-   },
-   "discountPct": 27,
-   "asin": "B0DWDQ4YGR",
-   "deal": null,
-   "market": {
-    "value": 183,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 73.02,
-   "marginPct": 66,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-republikanischer-juggernaut-75413",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-75328",
-   "num": "75328",
-   "name": "Mandalorianer Helm",
-   "theme": "Star Wars",
-   "uvp": 69.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
-   "best": {
-    "shop": "eBay",
-    "price": 46.99,
-    "url": "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
-    "checked": "2026-10-25"
-   },
-   "discountPct": 33,
-   "asin": "B09BNWZF68",
-   "deal": null,
-   "market": {
-    "value": 85,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 38.01,
-   "marginPct": 81,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-star-wars-mandalorianer-helm-75328",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42215",
-   "num": "42215",
-   "name": "Volvo EC500 Hybrid Bagger",
-   "theme": "Technic",
-   "uvp": 399.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 289.99,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
-    "checked": "2026-10-28"
-   },
-   "discountPct": 28,
-   "asin": "B0DWF9F6TN",
-   "deal": "alternate-lego-42215-volvo-ec500",
-   "market": {
-    "value": 488,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 198.01,
-   "marginPct": 68,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-volvo-ec500-hybrid-bagger-42215",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42177",
-   "num": "42177",
-   "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
-   "theme": "Technic",
-   "uvp": 249.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 183.25,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
-    "checked": "2026-10-25"
-   },
-   "discountPct": 27,
-   "asin": "B0CWH2C8LK",
-   "deal": null,
-   "market": {
-    "value": 305,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 121.75,
-   "marginPct": 66,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-mercedes-benz-g-500-professional-line-42177",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42171",
-   "num": "42171",
-   "name": "Mercedes-AMG F1 W14 E Performance",
-   "theme": "Technic",
-   "uvp": 219.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
-   "best": {
-    "shop": "Alza.de",
-    "price": 157.88,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 28,
-   "asin": "B0CFVZ74KT",
-   "deal": null,
-   "market": {
-    "value": 268,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 110.12,
-   "marginPct": 70,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-mercedes-amg-f1-w14-e-performance-42171"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42154",
-   "num": "42154",
-   "name": "Ford GT 2022",
-   "theme": "Technic",
-   "uvp": 119.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 79.9,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
-    "checked": "2026-10-19"
-   },
-   "discountPct": 33,
-   "asin": "B0BBRZXX8B",
-   "deal": null,
-   "market": {
-    "value": 146,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 66.1,
-   "marginPct": 83,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-ford-gt-2022-42154",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42204",
-   "num": "42204",
-   "name": "Fast and Furious Toyota Supra MK4",
-   "theme": "Technic",
-   "uvp": 59.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 39.99,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 33,
-   "asin": "B0DHSCKXP2",
-   "deal": null,
-   "market": {
-    "value": 73,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 33.01,
-   "marginPct": 83,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-fast-and-furious-toyota-supra-mk4-42204",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-42173",
-   "num": "42173",
-   "name": "Koenigsegg Jesko Absolut Supersportwagen in Grau",
-   "theme": "Technic",
-   "uvp": 52.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
-   "best": {
-    "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
-    "price": 39.97,
-    "url": "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 25,
-   "asin": "B0CWGZTRKJ",
-   "deal": null,
-   "market": {
-    "value": 65,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 25.03,
-   "marginPct": 63,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-technic-koenigsegg-jesko-absolut-supersportwagen-in-grau-42173",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-10326",
-   "num": "10326",
-   "name": "Naturhistorisches Museum",
-   "theme": "Icons",
-   "uvp": 299.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
-   "best": {
-    "shop": "Kaufland",
-    "price": 260.85,
-    "url": "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
-    "checked": "2026-10-25"
-   },
-   "discountPct": 13,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 366,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 105.15,
-   "marginPct": 40,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-icons-naturhistorisches-museum-10326",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-10341",
-   "num": "10341",
-   "name": "NASA Artemis Startrampe",
-   "theme": "Icons",
-   "uvp": 259.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
-   "best": {
-    "shop": "office-partner.de",
-    "price": 249.49,
-    "url": "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
-    "checked": "2026-10-25"
-   },
-   "discountPct": 4,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 317,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 67.51,
-   "marginPct": 27,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-icons-nasa-artemis-startrampe-10341",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-10315",
-   "num": "10315",
-   "name": "Garten der Stille",
-   "theme": "Icons",
-   "uvp": 104.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
-   "best": {
-    "shop": "Amazon.fr (inkl. geschätztem Versand nach DE)",
-    "price": 71.47,
-    "url": "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315",
-    "checked": "2026-10-24"
-   },
-   "discountPct": 32,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 128,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 56.53,
-   "marginPct": 79,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-icons-garten-der-stille-10315"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-10353",
-   "num": "10353",
-   "name": "Williams Racing FW14B mit Nigel Mansell",
-   "theme": "Icons",
-   "uvp": 79.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 53.99,
-    "url": "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
-    "checked": "2026-10-22"
-   },
-   "discountPct": 33,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 98,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 44.01,
-   "marginPct": 82,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-icons-williams-racing-fw14b-mit-nigel-mansell-10353",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-21323",
-   "num": "21323",
-   "name": "Konzertflügel",
-   "theme": "Ideas",
-   "uvp": 399.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
-   "best": {
-    "shop": "eBay",
-    "price": 399,
-    "url": "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 0,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 488,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 89,
-   "marginPct": 22,
-   "sources": [
-    "https://brickfact.com/de/sets/lego-ideas-konzertflügel-21323",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-21353",
-   "num": "21353",
-   "name": "Der botanische Garten",
-   "theme": "Ideas",
-   "uvp": 329.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
-   "best": {
-    "shop": "LEGO.de",
-    "price": 329.99,
-    "url": "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
-    "checked": "2026-10-25"
-   },
-   "discountPct": 0,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 403,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 73.01,
-   "marginPct": 22,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-ideas-der-botanische-garten-21353",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-21333",
-   "num": "21333",
-   "name": "Vincent van Gogh – Sternennacht",
-   "theme": "Ideas",
-   "uvp": 169.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
-   "best": {
-    "shop": "eBay",
-    "price": 144.83,
-    "url": "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 15,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 207,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 62.17,
-   "marginPct": 43,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-ideas-vincent-van-gogh-sternennacht-21333",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-21060",
-   "num": "21060",
-   "name": "Burg Himeji",
-   "theme": "Architecture",
-   "uvp": 159.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060",
-   "best": {
-    "shop": "Joybuy",
-    "price": 118.97,
-    "url": "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060",
-    "checked": "2026-10-24"
-   },
-   "discountPct": 26,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 195,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 76.03,
-   "marginPct": 64,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-architecture-burg-himeji-21060"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-76437",
-   "num": "76437",
-   "name": "Der Fuchsbau – Sammleredition",
-   "theme": "Harry Potter",
-   "uvp": 259.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
-   "best": {
-    "shop": "Alza.de",
-    "price": 248.89,
-    "url": "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
-    "checked": "2026-10-22"
-   },
-   "discountPct": 4,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 317,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 68.11,
-   "marginPct": 27,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-harry-potter-der-fuchsbau-sammleredition-76437",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-76323",
-   "num": "76323",
-   "name": "Avengers: Endgame Letzter Showdown",
-   "theme": "Marvel",
-   "uvp": 99.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
-   "best": {
-    "shop": "Kaufland",
-    "price": 76.55,
-    "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 23,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 122,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 45.45,
-   "marginPct": 59,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-avengers-endgame-letzter-showdown-76323",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-76327",
-   "num": "76327",
-   "name": "Iron Man MK4",
-   "theme": "Marvel",
-   "uvp": 59.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 39.99,
-    "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 33,
-   "asin": "B0DHZ5X3K3",
-   "deal": null,
-   "market": {
-    "value": 73,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 33.01,
-   "marginPct": 83,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-iron-man-mk4-76327",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-76317",
-   "num": "76317",
-   "name": "Peter Parkers Wohnung",
-   "theme": "Marvel",
-   "uvp": 49.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
-   "best": {
-    "shop": "VSR Spielwaren",
-    "price": 54.98,
-    "url": "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
-    "checked": "2026-10-15"
-   },
-   "discountPct": -10,
-   "asin": null,
-   "deal": null,
-   "market": {
-    "value": 61,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 6.02,
-   "marginPct": 11,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-marvel-super-heroes-peter-parkers-wohnung-76317",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-60470",
-   "num": "60470",
-   "name": "Arktis-Polarexpress",
-   "theme": "City",
-   "uvp": 199.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
-   "best": {
-    "shop": "Amazon.de (Artikelpreis lt. brickfact AT-Seite)",
-    "price": 145.99,
-    "url": "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 27,
-   "asin": "B0DWDSYCZV",
-   "deal": null,
-   "market": {
-    "value": 244,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 98.01,
-   "marginPct": 67,
-   "sources": [
-    "https://brickfact.com/de-at/sets/lego-city-arktis-polarexpress-60470",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  },
-  {
-   "id": "eol-60423",
-   "num": "60423",
-   "name": "Straßenbahn mit Haltestelle",
-   "theme": "City",
-   "uvp": 89.99,
-   "eol": "Ende 2026 (erwartet 12/2026)",
-   "eolSource": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
-   "best": {
-    "shop": "Amazon.de",
-    "price": 56.99,
-    "url": "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
-    "checked": "2026-10-27"
-   },
-   "discountPct": 37,
-   "asin": "B0CWH283WW",
-   "deal": null,
-   "market": {
-    "value": 110,
-    "basis": "Schätzung: UVP + 22 % (Median-Wertsteigerung versiegelter Sets 12 Monate nach EOL)"
-   },
-   "margin": 53.01,
-   "marginPct": 93,
-   "sources": [
-    "https://brickfact.com/de-de/sets/lego-city-stra%C3%9Fenbahn-mit-haltestelle-60423",
-    "https://stonewars.com/news/lego-retiring-soon-sets-end-of-2026/"
-   ],
-   "added": "2026-10-27T15:00:00+01:00"
-  }
- ],
- "own": []
+  ],
+  "own": []
 }
