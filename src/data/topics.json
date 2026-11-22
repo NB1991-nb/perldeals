@@ -2090,5 +2090,50 @@
    "Ein geschlossenes Gehäuse hilft bei Materialien wie ABS und hält Geruch und Staub zurück.",
    "Achte auf Ersatzteile und eine aktive Community, gerade bei Open-Source-Druckern."
   ]
+ },
+ {
+  "slug": "carrera-angebote",
+  "kw": "Carrera",
+  "h": "Carrera-Angebote: Rennbahnen & RC-Autos",
+  "re": "Carrera",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "Carrera-Rennbahnen (GO!!!, Digital, First) und Carrera-RC-Autos mit geprüftem Rabatt.",
+  "tips": [
+   "Auf den Maßstab achten: Carrera First (1:50) für Kleinkinder, GO!!! (1:43) für Einsteiger, Digital 132/124 für Fortgeschrittene.",
+   "Autos und Schienen passen nur innerhalb desselben Systems zusammen.",
+   "Ausbauschienen und Erweiterungssets gibt es oft günstiger als neue Grundpackungen.",
+   "Vor Weihnachten den Preisverlauf prüfen: Rennbahn-Sets schwanken stark."
+  ]
+ },
+ {
+  "slug": "carrera-rennbahn",
+  "kw": "Carrera Bahn",
+  "h": "Carrera-Rennbahn im Angebot",
+  "re": "Carrera.*(Bahn|GO!!!|Digital|First|Evolution)|Rennbahn",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "Carrera-Rennbahnen von First bis Digital 132 mit geprüftem Rabatt.",
+  "tips": [
+   "Carrera First ist ab ca. 3 Jahren gedacht, GO!!! ab ca. 6 Jahren.",
+   "Digital-Bahnen erlauben Spurwechsel und mehrere Autos pro Spur.",
+   "Platzbedarf vorher messen: viele Grundpackungen brauchen über 3 Meter Fläche.",
+   "Ersatz-Schleifer und Leitkiele für die Autos günstig mitbestellen."
+  ]
+ },
+ {
+  "slug": "playmobil-unter-30-euro",
+  "kw": "PLAYMOBIL unter 30 Euro",
+  "h": "PLAYMOBIL-Sets unter 30 Euro",
+  "re": "PLAYMOBIL",
+  "max": 30,
+  "group": "preis",
+  "price": true,
+  "intro": "PLAYMOBIL-Sets bis 30 Euro, ideal als Mitbringsel, für Nikolaus und zum Wichteln.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
  }
 ]

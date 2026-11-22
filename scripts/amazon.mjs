@@ -113,7 +113,7 @@ const SEARCHES = [
   ["Electronics", "Echo", "smarthome"], ["Electronics", "Fire TV", "tv"], ["Electronics", "Ring Kamera", "smarthome"], ["Electronics", "In-Ear Kopfhörer ANC", "headphones"],
   ["Computers", "Gaming Maus", "computer"], ["Computers", "Tastatur", "computer"], ["Computers", "Router WLAN", "computer"], ["Computers", "microSD", "computer"],
   ["Computers", "Externe Festplatte", "computer"], ["VideoGames", "PlayStation 5", "gaming"], ["VideoGames", "Nintendo Switch", "gaming"], ["VideoGames", "Gaming Headset", "gaming"],
-  ["ToysAndGames", "Pokémon Karten", "toys"], ["ToysAndGames", "Playmobil", "toys"], ["ToysAndGames", "Brettspiel", "toys"],
+  ["ToysAndGames", "Pokémon Karten", "toys"], ["ToysAndGames", "Playmobil", "toys"], ["ToysAndGames", "Playmobil Adventskalender", "toys"], ["ToysAndGames", "Carrera Bahn", "toys"], ["ToysAndGames", "Carrera RC", "toys"], ["ToysAndGames", "Carrera GO", "toys"], ["ToysAndGames", "Brettspiel", "toys"],
   ["HomeAndKitchen", "Akku-Staubsauger", "home"], ["HomeAndKitchen", "Luftreiniger", "home"], ["HomeAndKitchen", "Kaffeemaschine", "kitchen"], ["HomeAndKitchen", "Küchenmaschine", "kitchen"],
   ["HomeAndKitchen", "Wasserkocher", "kitchen"], ["HomeAndKitchen", "Pfannenset", "kitchen"], ["HomeAndKitchen", "Bettwäsche", "home"],
   ["ToolsAndHomeImprovement", "Akkuschrauber", "tools"], ["ToolsAndHomeImprovement", "Werkzeugset", "tools"], ["ToolsAndHomeImprovement", "LED Leuchtmittel", "home"],

@@ -237,6 +237,12 @@ t("fernseher-65-zoll", "Fernseher 65 Zoll", "65-Zoll-Fernseher im Angebot", "65 
 t("playmobil-angebote", "PLAYMOBIL", "PLAYMOBIL-Angebote", "PLAYMOBIL", { cat: "toys", group: "spielzeug" },
   "PLAYMOBIL-Sets mit geprüftem Rabatt, ideal als Geschenk.",
   ["Altersangabe auf der Packung beachten, viele Sets enthalten Kleinteile.", "Sets einer Themenwelt lassen sich meist miteinander kombinieren.", "Vor Weihnachten früh kaufen, beliebte Sets sind dann schnell vergriffen.", "Den Preisverlauf prüfen: viele Sets sind deutlich unter UVP zu haben."]);
+t("carrera-angebote", "Carrera", "Carrera-Angebote: Rennbahnen & RC-Autos", "Carrera", { cat: "toys", group: "spielzeug" },
+  "Carrera-Rennbahnen (GO!!!, Digital, First) und Carrera-RC-Autos mit geprüftem Rabatt.",
+  ["Auf den Maßstab achten: Carrera First (1:50) für Kleinkinder, GO!!! (1:43) für Einsteiger, Digital 132/124 für Fortgeschrittene.", "Autos und Schienen passen nur innerhalb desselben Systems zusammen.", "Ausbauschienen und Erweiterungssets gibt es oft günstiger als neue Grundpackungen.", "Vor Weihnachten den Preisverlauf prüfen: Rennbahn-Sets schwanken stark."]);
+t("carrera-rennbahn", "Carrera Bahn", "Carrera-Rennbahn im Angebot", "Carrera.*(Bahn|GO!!!|Digital|First|Evolution)|Rennbahn", { cat: "toys", group: "spielzeug" },
+  "Carrera-Rennbahnen von First bis Digital 132 mit geprüftem Rabatt.",
+  ["Carrera First ist ab ca. 3 Jahren gedacht, GO!!! ab ca. 6 Jahren.", "Digital-Bahnen erlauben Spurwechsel und mehrere Autos pro Spur.", "Platzbedarf vorher messen: viele Grundpackungen brauchen über 3 Meter Fläche.", "Ersatz-Schleifer und Leitkiele für die Autos günstig mitbestellen."]);
 t("switch-spiele", "Switch-Spiele", "Nintendo-Switch-Spiele im Angebot", "Nintendo Switch|Switch 2|\\bSwitch\\b", { group: "computer" },
   "Spiele für Nintendo Switch und Switch 2 mit geprüftem Rabatt.",
   ["Auf die Plattform achten: Switch-2-Editionen laufen nicht auf der ersten Switch.", "Viele Switch-1-Spiele laufen auch auf der Switch 2.", "Nintendo-Spiele werden selten stark reduziert, ein guter Preis lohnt sich deshalb.", "Physische Spiele lassen sich später weiterverkaufen."]);
@@ -282,6 +288,7 @@ P("drucker-unter-200-euro", "Drucker unter 200 Euro", "Drucker unter 200 Euro", 
 P("kaffeevollautomat-unter-500-euro", "Kaffeevollautomat unter 500 Euro", "Kaffeevollautomaten unter 500 Euro", "Kaffeevollautomat|ECAM|Magnifica|Dinamica|Krups", { max: 500, group: "preis", best: "bester-kaffeevollautomat" }, "Kaffeevollautomaten bis 500 Euro mit geprüftem Rabatt, auch mit Milchsystem.");
 P("pokemon-unter-30-euro", "Pokémon unter 30 Euro", "Pokémon-Produkte unter 30 Euro", "Pokémon", { max: 30, group: "preis" }, "Pokémon-Decks, Boxen und Spiele bis 30 Euro, ideal als Geschenk.");
 P("lego-unter-30-euro", "LEGO unter 30 Euro", "LEGO-Sets unter 30 Euro", "LEGO", { max: 30, group: "preis", art: "lego-angebote" }, "LEGO-Sets bis 30 Euro, perfekt für Nikolaus und als Mitbringsel.");
+P("playmobil-unter-30-euro", "PLAYMOBIL unter 30 Euro", "PLAYMOBIL-Sets unter 30 Euro", "PLAYMOBIL", { max: 30, group: "preis" }, "PLAYMOBIL-Sets bis 30 Euro, ideal als Mitbringsel, für Nikolaus und zum Wichteln.");
 P("luftreiniger-unter-150-euro", "Luftreiniger unter 150 Euro", "Luftreiniger unter 150 Euro", "Luftreiniger|Air Purifier|Core 300|PureProtect", { max: 150, group: "preis" }, "Luftreiniger bis 150 Euro mit geprüftem Rabatt für Schlaf- und Wohnzimmer.");
 P("kopfhoerer-unter-30-euro", "Kopfhörer unter 30 Euro", "Kopfhörer unter 30 Euro", "Kopfhörer|Earbuds|In-Ears|Headset", { max: 30, group: "preis" }, "Günstige Kopfhörer und Headsets bis 30 Euro.");
 P("deals-ueber-50-prozent", "Deals über 50 Prozent", "Deals mit über 50 Prozent Rabatt", ".", { minPct: 50, group: "preis" }, "Die dicksten Rabatte: alle geprüften Deals mit mindestens 50 Prozent gegenüber dem Vergleichspreis.");
