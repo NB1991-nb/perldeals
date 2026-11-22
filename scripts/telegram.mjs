@@ -37,7 +37,7 @@ const now = DATA.deals.filter(d => {
   d.now = a.price; return true;
 });
 if (AMZ.fetched && Object.keys(AMZ.items || {}).length) DATA.updated = AMZ.fetched;
-const shopLink = d => d.link || `https://www.amazon.de/dp/${d.asin}?tag=${DATA.amazonTag}`;
+const shopLink = d => d.link || `https://www.amazon.de/dp/${d.asin}?tag=boeketvtg-21`; // 22.11.: eigene Tracking-ID für Telegram
 let before = [];
 try { before = JSON.parse(execSync("git show HEAD~1:src/data/deals.json", { encoding: "utf8" })).deals; } catch { before = []; }
 const known = new Set(before.map(d => d.id));

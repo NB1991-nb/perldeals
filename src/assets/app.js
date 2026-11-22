@@ -321,3 +321,27 @@ document.querySelectorAll("a[data-job]").forEach(a => a.addEventListener("click"
   document.addEventListener("click", function(e){ dds.forEach(function(d){ if (d.open && !d.contains(e.target)) d.open = false; }); });
   document.addEventListener("keydown", function(e){ if (e.key === "Escape") dds.forEach(function(d){ d.open = false; }); });
 })();
+/* 22.11.: Amazon-Tracking-ID je Kanal (Nico hat boeketvgpt/fb/wa/tg-21 im PartnerNet angelegt).
+   Kanal wird beim ersten Seitenaufruf aus utm_source bzw. Referrer bestimmt und für die Sitzung gemerkt. */
+(function(){
+  var MAP = { gpt: "boeketvgpt-21", fb: "boeketvfb-21", wa: "boeketvwa-21", tg: "boeketvtg-21" };
+  function detect(){
+    var u = "", r = "";
+    try { u = (new URLSearchParams(location.search).get("utm_source") || "").toLowerCase(); } catch (e) {}
+    try { r = (document.referrer || "").toLowerCase(); } catch (e) {}
+    if (/chatgpt|openai/.test(u) || /chatgpt\.com|openai\.com/.test(r)) return "gpt";
+    if (/^facebook|^fb|instagram/.test(u) || /facebook\.com|fb\.com|instagram\.com/.test(r)) return "fb";
+    if (/whatsapp/.test(u) || /whatsapp/.test(r)) return "wa";
+    if (/telegram/.test(u) || /t\.me|telegram/.test(r)) return "tg";
+    return "";
+  }
+  var ch = "";
+  try { ch = sessionStorage.getItem("pd_ch") || ""; } catch (e) {}
+  var fresh = detect();
+  if (fresh) { ch = fresh; try { sessionStorage.setItem("pd_ch", ch); } catch (e) {} }
+  var tag = MAP[ch];
+  if (!tag) return;
+  function fix(a){ if (a.href && /(^|\.)amazon\.de\//.test(a.href.replace(/^https?:\/\//, "")) && /[?&]tag=boeketv-21\b/.test(a.href)) a.href = a.href.replace(/([?&]tag=)boeketv-21\b/, "$1" + tag); }
+  document.querySelectorAll("a[href*='amazon.de']").forEach(fix);
+  document.addEventListener("click", function(e){ var a = e.target.closest && e.target.closest("a[href*='amazon.de']"); if (a) fix(a); }, true);
+})();
