@@ -299,6 +299,51 @@ function akBanner(){ return `<div class="wrap"><a class="ak-banner" href="/resel
     <span class="ak-btn">📲 Jetzt anfragen <span aria-hidden="true">→</span></span></div></a></div>`; }
 function akStrip(){ return `<a class="ak-strip" href="/reseller/karten-ankauf/" aria-label="Ankauf: Wir kaufen deine Karten, Konsolen und LEGO"><span class="wrap"><span class="ak-mini" aria-hidden="true"><i></i><i></i><i></i></span><span class="ak-st"><span class="ak-x">💰 </span>Wir kaufen <span class="ak-x">deine </span><span class="ak-rot" aria-hidden="true">${AK_WORDS.map(w => `<b>${w}</b>`).join("")}</span><span class="sr">Sammlerstücke!</span></span><span class="ak-sbtn">Jetzt anfragen →</span></span></a>`; }
 const OG_PAGES = new Map();
+/* 22.11.: Navigation zusammengefasst (Nico OK) – 5 Bereiche mit Aufklappmenü statt 20 Einzel-Links; Footer in 4 Spalten */
+function navMenu(lang){
+  const de = lang === "de";
+  const dd = (label, items, cls = "") => `<details class="nav-dd${cls ? " " + cls : ""}"><summary>${label}</summary><div class="nav-panel">${items.map(([h, t, ext]) => `<a href="${h}"${ext ? ` target="_blank" rel="noopener"` : ""}>${t}</a>`).join("")}</div></details>`;
+  const bfOn = new Date() <= new Date("2026-12-01T00:00:00+01:00");
+  const deals = de ? [[R.home.de, "Alle Deals"], ["/angebote/deals-ueber-50-prozent/", "🔥 Über 50 % Rabatt"], ["/angebote/deals-unter-30-euro/", "Deals unter 30 €"], ["/angebote/", "Nach Thema & Marke"], ["/shop/", "Alle Shops A–Z"], [R.cat.de("vegan"), "🌱 Vegan"], [R.cat.de("travel"), "✈️ Reisen"], ["/abgelaufene-deals/", "Verpasste Deals"]]
+    : [[R.home.en, "All deals"], ["/en/offers/", "By topic & brand"], ["/en/shop/", "All shops A–Z"], [R.cat.en("vegan"), "🌱 Vegan"], [R.cat.en("travel"), "✈️ Travel"], ["/en/expired-deals/", "Expired deals"]];
+  const guide = de ? [[R.advisor.de, "✨ KI-Berater"], [R.bestIndex.de, "Bestenlisten"], [R.guides.de, "Kaufberatung"], ["/wissen/", "Wissen & Fragen"], [R.gifts.de, "🎁 Geschenke"], ["/vegan-ratgeber/", "Vegan-Ratgeber"]]
+    : [[R.advisor.en, "✨ AI advisor"], [R.bestIndex.en, "Best lists"], [R.guides.en, "Buying guides"], ["/en/knowledge/", "Knowledge"], [R.gifts.en, "🎁 Gifts"]];
+  const rs = [["/reseller/", "Übersicht"], ["/reseller/pokemon-haendler/", "⚡ Pokémon"], ["/reseller/lego-eol/", "🧱 LEGO-EOL"], ["/reseller/lego-weglegen/", "📦 LEGO zum Weglegen"], ["/reseller/release-kalender/", "📅 Termine"], ["/reseller/rechner/", "🧮 Rechner"], ["/reseller/karten-ankauf/", "💰 Ankauf"], ["/reseller/ebay-shop/", "🛒 eBay-Shop"]];
+  return `${dd(de ? "Deals" : "Deals", deals)}${bfOn ? `<a href="${R.bf[lang]}" class="hot">Black Friday</a>` : ""}<a href="${R.codes[lang]}">🏷️ ${de ? "Gutscheine" : "Coupons"}</a>${dd(de ? "Ratgeber" : "Guides", guide)}${de ? dd("🃏 Reseller", rs, "nav-dd-rs") : ""}<a href="${SOCIAL.wa}" target="_blank" rel="noopener" class="wa-nav" aria-label="WhatsApp-Kanal">📲<span class="wa-t"> WhatsApp</span></a>`;
+}
+function footMenu(lang, u){
+  const de = lang === "de";
+  const col = (h, items) => `<div class="foot-col"><h2>${h}</h2><ul>${items.map(([href, t, ext]) => `<li><a href="${href}"${ext ? ` target="_blank" rel="noopener"` : ""}>${t}</a></li>`).join("")}</ul></div>`;
+  const bfOn = new Date() <= new Date("2026-12-01T00:00:00+01:00");
+  const cols = de ? [
+    col("Deals", [[R.home.de, "Alle Deals"], ...(bfOn ? [[R.bf.de, "Black Friday 2026"]] : []), [R.codes.de, "Gutscheine & Rabatte"], ["/angebote/", "Nach Thema & Marke"], ["/shop/", "Alle Shops A–Z"], ["/abgelaufene-deals/", "Verpasste Deals"]]),
+    col("Ratgeber", [[R.bestIndex.de, "Bestenlisten"], [R.guides.de, "Kaufberatung"], ["/wissen/", "Wissen & Fragen"], [R.gifts.de, "Geschenke"], ["/vegan-ratgeber/", "Vegan-Ratgeber"], ["/wasserdicht/", "Ist das wasserdicht?"]]),
+    col("Reseller & Sammler", [["/reseller/", "Reseller-Bereich"], ["/reseller/lego-eol/", "LEGO EOL 2026"], ["/reseller/pokemon/", "Pokémon Neuerscheinungen"], ["/reseller/release-kalender/", "Release-Kalender"], ["/reseller/karten-ankauf/", "Karten verkaufen"], ["/reseller/ebay-shop/", "eBay-Shop & Live"]]),
+    col("perldeals", [[R.account.de, "Preisalarme & Konto"], [R.money.de, u.footerMoney], ["/karriere/", "Jobs"], [R.imprint.de, u.footerImprint], [R.privacy.de, u.footerPrivacy]])
+  ] : [
+    col("Deals", [[R.home.en, "All deals"], ...(bfOn ? [[R.bf.en, "Black Friday 2026"]] : []), [R.codes.en, "Coupons & discounts"], ["/en/offers/", "By topic & brand"], ["/en/shop/", "All shops A–Z"], ["/en/expired-deals/", "Expired deals"]]),
+    col("Guides", [[R.bestIndex.en, "Best lists"], [R.guides.en, "Buying guides"], ["/en/knowledge/", "Knowledge"], [R.gifts.en, "Gifts"]]),
+    col("perldeals", [[R.account.en, u.account], [R.money.en, u.footerMoney], [R.imprint.en, u.footerImprint], [R.privacy.en, u.footerPrivacy]])
+  ];
+  const season = typeof HUBS !== "undefined" && HUBS && HUBS.seasons ? `<nav aria-label="${de ? "Aktionstage" : "Shopping events"}" class="foot-shops"><strong>${de ? "Gerade aktuell:" : "Right now:"}</strong> ${Object.keys(HUBS.seasons).map(k => `<a href="${HUBS.seasons[k].path[lang]}">${esc(HUBS.seasons[k][lang].eyebrow)}</a>`).join("")}</nav>` : "";
+  return `<div class="foot-cols">${cols.join("")}</div>${season}
+    <nav aria-label="${de ? "Folge uns" : "Follow us"}" class="foot-social"><strong>${de ? "Deals aufs Handy:" : "Deals on your phone:"}</strong><a href="${SOCIAL.wa}" target="_blank" rel="noopener">WhatsApp-Kanal</a><a href="${SOCIAL.tg}" target="_blank" rel="noopener">Telegram</a><a href="${SOCIAL.fb}" target="_blank" rel="noopener">${de ? "Facebook-Gruppe" : "Facebook group"}</a></nav>`;
+}
+function buildShopIndex(lang){
+  const de = lang === "de";
+  const ks = Object.keys(SHOPS).sort((a, b) => SHOPS[a].name.localeCompare(SHOPS[b].name, "de"));
+  const n = k => DATA.deals.filter(d => shopKey(d) === k).length;
+  const groups = {};
+  ks.forEach(k => { const c = SHOPS[k].name.replace(/^[^A-Za-zÄÖÜäöü0-9]+/, "").charAt(0).toUpperCase(); const L = /[A-ZÄÖÜ]/.test(c) ? c.replace("Ä","A").replace("Ö","O").replace("Ü","U") : "0–9"; (groups[L] = groups[L] || []).push(k); });
+  const letters = Object.keys(groups).sort((a, b) => a === "0–9" ? -1 : b === "0–9" ? 1 : a.localeCompare(b));
+  const cr = crumbs(lang, [[de ? "Start" : "Home", R.home[lang]], [de ? "Alle Shops A–Z" : "All shops A–Z"]]);
+  const body = `<div class="wrap">${cr.html}<div class="feed-head" style="display:block"><h1>${de ? "Alle Shops von A bis Z" : "All shops from A to Z"}</h1><p class="lead">${de ? `${ks.length} Shops, deren Angebote wir prüfen. Auf jeder Shop-Seite findest du die aktuellen Deals mit Preisverlauf und, falls vorhanden, Gutscheine.` : `${ks.length} shops whose offers we check. Each shop page lists current deals with price history and coupons where available.`}</p></div>
+    <nav class="chips" aria-label="A–Z">${letters.map(l => `<a class="chip" href="#shops-${l}">${l}</a>`).join("")}</nav>
+    ${letters.map(l => `<section class="section" id="shops-${l}"><h2>${l}</h2><ul class="shop-az">${groups[l].map(k => `<li><a href="${R.shop[lang](k)}">${esc(SHOPS[k].name)}</a>${n(k) ? ` <span class="n">${n(k)}</span>` : ""}</li>`).join("")}</ul></section>`).join("")}
+    </div>`;
+  layout({lang, pathFor: l => l === "en" ? "/en/shop/" : "/shop/", title: de ? `Alle Shops A–Z: Angebote und Gutscheine ${MONTH_DE} · perldeals` : `All shops A–Z: deals and coupons · perldeals`, description: de ? `Alle ${ks.length} Shops bei perldeals von A bis Z: aktuelle Angebote mit Preisverlauf und Gutscheine je Shop, täglich geprüft.` : `All ${ks.length} shops on perldeals from A to Z: current deals with price history and coupons per shop, checked daily.`, body, ld: [{"@context": "https://schema.org", ...cr.ld}]});
+}
+
 function layout({lang, pathFor, title, description, body, ld = [], bodyClass = "", type = "website", noindex = false, scripts = [], image = "", single = false}){
   // 13.11.: Seiten ohne eigenes Bild bekommen eine Text-Teilen-Karte (scripts/og-pages.mjs rendert sie nach dem Build)
   let img = image;
@@ -374,24 +419,8 @@ ${ld.map(ldjson).join("\n")}
     </button>
   </div>
   <nav class="subnav" aria-label="${lang==="de"?"Bereiche":"Sections"}"><div class="wrap">${lang==="de"?`
-    <span class="mode-switch" role="group" aria-label="Ansicht wählen"><button type="button" data-mode-set="privat" title="Ansicht für Privatkäufer">👤 Privat</button><button type="button" data-mode-set="reseller" title="Ansicht für Sammler und Reseller">🃏 Reseller</button></span>`:""}
-    <a href="${R.home[lang]}">Deals</a>
-    <a href="${R.advisor[lang]}">✨ ${lang==="de"?"KI-Berater":"AI advisor"}</a>
-    <a href="${R.bf[lang]}" class="hot">Black Friday</a>
-    <a href="${SOCIAL.wa}" target="_blank" rel="noopener" class="wa-nav">📲 ${lang==="de"?"WhatsApp-Kanal":"WhatsApp channel"}</a>
-    <a href="${R.cat[lang]("vegan")}">🌱 Vegan</a>
-    <a href="${R.cat[lang]("travel")}">✈️ ${lang==="de"?"Reisen":"Travel"}</a>${lang==="de"?`
-    <a href="/reseller/pokemon-haendler/">⚡ Pokémon</a>`:""}${lang==="de"?`
-    <a href="/reseller/">🃏 Reseller</a>
-    <a href="/reseller/karten-ankauf/">💰 Ankauf</a>
-    <a class="nav-rs" href="/reseller/release-kalender/">📅 Termine</a>
-    <a class="nav-rs" href="/reseller/lego-eol/">🧱 LEGO-EOL</a>
-    <a class="nav-rs" href="/reseller/rechner/">🧮 Rechner</a>
-    <a class="nav-rs" href="/reseller/ebay-shop/">🛒 eBay-Shop</a>`:""}
-    <a href="${R.codes[lang]}">🏷️ ${lang==="de"?"Rabatte":"Discounts"}</a>
-    <a href="${R.bestIndex[lang]}">${lang==="de"?"Bestenlisten":"Best lists"}</a>
-    <a href="${R.gifts[lang]}">${lang==="de"?"Geschenke":"Gifts"}</a>
-    <a href="${R.guides[lang]}">${lang==="de"?"Kaufberatung":"Guides"}</a>
+    <span class="mode-switch" role="group" aria-label="Ansicht wählen"><button type="button" data-mode-set="privat" title="Ansicht für Privatkäufer" aria-label="Ansicht Privat">👤<span class="ms-t"> Privat</span></button><button type="button" data-mode-set="reseller" title="Ansicht für Sammler und Reseller" aria-label="Ansicht Reseller">🃏<span class="ms-t"> Reseller</span></button></span>`:""}
+    ${navMenu(lang)}
   </div></nav>
 </header>
 ${AKSHOW ? akStrip() : ""}
@@ -401,15 +430,7 @@ ${AKSHOW && !body.includes("ak-banner") ? `<div class="ak-foot">${akBanner()}</d
 </main>
 <footer>
   <div class="wrap">
-    <nav aria-label="Footer">
-      <a href="${R.home[lang]}">${u.footerDeals}</a><a href="${R.guides[lang]}">${u.footerGuides}</a><a href="${R.bestIndex[lang]}">${lang==="de"?"Bestenlisten":"Best lists"}</a><a href="${R.gifts[lang]}">${lang==="de"?"Geschenke":"Gifts"}</a><a href="${R.codes[lang]}">${lang==="de"?"Rabatte":"Discounts"}</a><a href="${R.bf[lang]}">Black Friday</a><a href="${lang==="de"?"/abgelaufene-deals/":"/en/expired-deals/"}">${lang==="de"?"Verpasste Deals":"Expired deals"}</a>${lang==="de"?`<a href="/vegan-ratgeber/">Vegan-Ratgeber</a><a href="/wasserdicht/">Ist das wasserdicht?</a>`:""}<a href="${SOCIAL.wa}" target="_blank" rel="noopener">WhatsApp</a><a href="${SOCIAL.tg}" target="_blank" rel="noopener">Telegram</a><a href="${SOCIAL.fb}" target="_blank" rel="noopener">Facebook</a><a href="${R.account[lang]}">${u.account}</a><a href="${R.money[lang]}">${u.footerMoney}</a>${lang==="de"?`<a href="/karriere/">Jobs</a>`:""}<a href="${R.imprint[lang]}">${u.footerImprint}</a><a href="${R.privacy[lang]}">${u.footerPrivacy}</a>
-    </nav>
-    ${HUBS && HUBS.seasons ? `<nav aria-label="${lang==="de"?"Aktionstage":"Shopping events"}" class="foot-shops"><a href="${R.bf[lang]}">Black Friday</a>${Object.keys(HUBS.seasons).map(k=>`<a href="${HUBS.seasons[k].path[lang]}">${esc(HUBS.seasons[k][lang].eyebrow)}</a>`).join("")}</nav>` : ""}
-    <nav aria-label="${lang==="de"?"Folge uns":"Follow us"}" class="foot-social"><strong>${lang==="de"?"Deals aufs Handy:":"Deals on your phone:"}</strong><a href="${SOCIAL.wa}" target="_blank" rel="noopener">WhatsApp-Kanal</a><a href="${SOCIAL.tg}" target="_blank" rel="noopener">Telegram</a><a href="${SOCIAL.fb}" target="_blank" rel="noopener">${lang==="de"?"Facebook-Gruppe":"Facebook group"}</a>${lang==="de"?`<a href="/reseller/ebay-shop/">eBay-Shop & Live-Auktionen</a>`:""}</nav>
-    ${lang==="en" && TOPICS.length ? `<nav aria-label="Popular deals" class="foot-shops">${TOPICS.filter(T => !T.price && topicIndexed(T) && TOPICS_EN[T.slug]).sort((a,b)=>TOPIC_LIVE[b.slug].length-TOPIC_LIVE[a.slug].length).slice(0,14).map(T => `<a href="${TOPIC_EN_PATH(T)}">${esc(TOPICS_EN[T.slug].h)}</a>`).join("")}<a href="/en/offers/">All topics and brands</a><a href="/en/knowledge/">Knowledge</a></nav>` : ""}
-    ${lang==="de" && TOPICS.length ? `<nav aria-label="Beliebte Angebote" class="foot-shops">${TOPICS.filter(T => !T.price && topicIndexed(T)).sort((a,b)=>TOPIC_LIVE[b.slug].length-TOPIC_LIVE[a.slug].length).slice(0,14).map(T => `<a href="${TOPIC_PATH(T.slug)}">${esc(T.h.replace(/ im Angebot.*$/,""))}</a>`).join("")}<a href="/angebote/">Alle Themen und Marken</a><a href="/wissen/">Wissen</a><a href="/reseller/">Reseller &amp; Sammler</a><a href="/reseller/lego-eol/">LEGO EOL 2026</a><a href="/reseller/pokemon/">Pokémon Neuerscheinungen</a></nav>` : ""}
-    <nav aria-label="${lang==="de"?"Kategorien":"Categories"}" class="foot-shops"><strong>${lang==="de"?"Kategorien:":"Categories:"}</strong>${Object.keys(CATS).filter(k => k==='vegan' || k==='travel' || DATA.deals.some(d => catHas(d, k))).map(k=>`<a href="${R.cat[lang](k)}">${esc(CATS[k][lang][0])}</a>`).join("")}</nav>
-    <nav aria-label="Shops" class="foot-shops">${Object.keys(SHOPS).map(k=>`<a href="${R.shop[lang](k)}">${SHOPS[k].name} ${lang==="de"?"Angebote":"deals"}</a>`).join("")}</nav>
+    ${footMenu(lang, u)}
     <p class="disclosure">${u.disclosure}</p>
     <p class="disclosure">© 2026 perldeals</p>
   </div>
@@ -3195,8 +3216,8 @@ for (const lang of LANGS){
   buildGuideIndex(lang);
   buildAccount(lang);
   buildAdvisor(lang);
-  if (lang === "en") { TOPICS.forEach(buildTopicEn); buildTopicIndexEn(); BRANDS.forEach(buildBrandEn); WISSEN.items.forEach(buildWissenEn); buildWissenIndexEn(); }
-  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildRsLandings(); buildKonsolen(); buildPokemonSets(); buildPreisindex(); }
+  if (lang === "en") { TOPICS.forEach(buildTopicEn); buildTopicIndexEn(); buildShopIndex("en"); BRANDS.forEach(buildBrandEn); WISSEN.items.forEach(buildWissenEn); buildWissenIndexEn(); }
+  if (lang === "de") { BF_CATS.forEach(buildBFSub); bfBrandList().forEach(buildBFSub); buildBFShops(); buildWasserdicht(); buildVeganHub(); buildAdvent(); buildKarriere(); buildShare(); buildWhatsapp(); TOPICS.forEach(buildTopic); buildTopicIndex(); buildShopIndex("de"); BRANDS.forEach(buildBrand); WISSEN.items.forEach(buildWissen); buildWissenIndex(); buildReseller(); buildRsLandings(); buildKonsolen(); buildPokemonSets(); buildPreisindex(); }
   ["imprint","money","privacy"].forEach(k => buildLegal(lang, k));
 }
 

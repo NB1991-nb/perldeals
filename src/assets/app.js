@@ -312,3 +312,12 @@ document.querySelectorAll("a[data-job]").forEach(a => a.addEventListener("click"
   for (var i = 0; i < btns.length; i++) btns[i].addEventListener("click", function(){ setMode(this.getAttribute("data-mode-set")); });
   apply(); syncBar();
 })();
+/* 22.11.: Aufklappmenüs – nur eins offen, Klick außerhalb oder Esc schließt */
+(function(){
+  var dds = document.querySelectorAll(".nav-dd");
+  if (!dds.length) return;
+  dds.forEach(function(d){ d.addEventListener("toggle", function(){ if (d.open) { dds.forEach(function(o){ if (o !== d) o.open = false; }); var r = d.querySelector("summary").getBoundingClientRect(); d.style.setProperty("--dd-top", (r.bottom + 6) + "px"); } }); });
+  window.addEventListener("scroll", function(){ dds.forEach(function(d){ if (d.open && window.innerWidth <= 640) d.open = false; }); }, {passive:true});
+  document.addEventListener("click", function(e){ dds.forEach(function(d){ if (d.open && !d.contains(e.target)) d.open = false; }); });
+  document.addEventListener("keydown", function(e){ if (e.key === "Escape") dds.forEach(function(d){ d.open = false; }); });
+})();
