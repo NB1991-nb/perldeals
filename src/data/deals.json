@@ -3,6 +3,27 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "alternate-tefal-easy-fry-oven-grill-fw5018",
+      "shop": "alternate",
+      "shopName": "Alternate",
+      "link": "https://www.awin1.com/cread.php?awinmid=11731&awinaffid=2721610&clickref=perldeals&ued=https%3A%2F%2Fwww.alternate.de%2FTefal%2FEasy-Fry-Oven-Grill-Mini-Backofen%2Fhtml%2Fproduct%2F1756316&platform=pl",
+      "brand": "Tefal",
+      "cat": "kitchen",
+      "now": 99.9,
+      "was": 159.99,
+      "added": "2026-11-22T18:30:00+01:00",
+      "checked": "2026-11-22T18:30:00+01:00",
+      "validUntil": "2026-11-26",
+      "title": {
+        "de": "Tefal Easy Fry Oven & Grill FW5018 Heißluftfritteuse 11 l",
+        "en": "Tefal Easy Fry Oven & Grill FW5018 air fryer 11 l"
+      },
+      "note": {
+        "de": "Alternate-Wochendeal am 22.11.2026 für 99,90 € (günstigstes Angebot bei idealo); nächstes Händlerangebot bei idealo 159,99 € (Vergleichspreis), geprüft am 22.11.2026.",
+        "en": "Alternate weekly deal on 22 Nov 2026 for €99.90 (lowest offer on idealo); next retailer offer on idealo €159.99 (reference), checked 22 Nov 2026."
+      }
+    },
+    {
       "id": "lego-40820-grosse-weihnachtsmann-minifigur",
       "asin": "B0FTX2GX3N",
       "brand": "LEGO",
