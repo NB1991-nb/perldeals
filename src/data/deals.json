@@ -3,6 +3,44 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "playmobil-71532-riesenkrabbe",
+      "asin": "B0CK2JTPW5",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 9.83,
+      "was": 24.99,
+      "title": {
+        "de": "PLAYMOBIL Pirates 71532 Kampf gegen die Riesenkrabbe",
+        "en": "PLAYMOBIL Pirates 71532 Battle against the Giant Crab"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 22.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 22 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-22T20:30:00+01:00",
+      "checked": "2026-11-22T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-dot-max-graphit",
+      "asin": "B0DKLFHZDH",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 54.99,
+      "was": 129.99,
+      "title": {
+        "de": "Amazon Echo Dot Max (neueste Generation, Graphit)",
+        "en": "Amazon Echo Dot Max (latest generation, graphite)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 22.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 22 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-22T20:30:00+01:00",
+      "checked": "2026-11-22T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "alternate-tefal-easy-fry-oven-grill-fw5018",
       "shop": "alternate",
       "shopName": "Alternate",
