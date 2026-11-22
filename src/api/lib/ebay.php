@@ -91,3 +91,30 @@ function eb_access_token(): ?string {
     eb_write('token', $t);
     return $t['access_token'];
 }
+
+/* Digitale Signatur (Pflicht fuer Finances-API bei EU-Verkaeufern): Ed25519-Schluessel ueber die Key-Management-API. */
+function eb_signing_key(string $tok): ?array {
+    $k = eb_read('signing');
+    if ($k && !empty($k['jwe']) && !empty($k['seed'])) return $k;
+    [$st, $body] = eb_http('POST', 'https://apiz.ebay.com/developer/key_management/v1/signing_key', [
+        'Authorization: Bearer ' . $tok, 'Content-Type: application/json', 'Accept: application/json',
+    ], '{"signingKeyCipher":"ED25519"}');
+    $j = json_decode($body, true);
+    if (($st !== 200 && $st !== 201) || empty($j['jwe']) || empty($j['privateKey'])) { eb_write('signing_error', ['status' => $st, 'body' => substr($body, 0, 500)]); return null; }
+    $der = base64_decode(preg_replace('/-----[^-]+-----|\s+/', '', $j['privateKey']));
+    $k = ['jwe' => $j['jwe'], 'seed' => base64_encode(substr($der, -32)), 'signingKeyId' => $j['signingKeyId'] ?? '', 'created' => date('c')];
+    eb_write('signing', $k);
+    return $k;
+}
+function eb_signature_headers(string $tok, string $method, string $host, string $path): array {
+    $k = eb_signing_key($tok);
+    if (!$k) return [];
+    $authority = parse_url($host, PHP_URL_HOST);
+    $p = parse_url($path, PHP_URL_PATH);
+    $created = time();
+    $params = '("x-ebay-signature-key" "@method" "@path" "@authority");created=' . $created;
+    $base = '"x-ebay-signature-key": ' . $k['jwe'] . "\n" . '"@method": ' . $method . "\n" . '"@path": ' . $p . "\n" . '"@authority": ' . $authority . "\n" . '"@signature-params": ' . $params;
+    $kp = sodium_crypto_sign_seed_keypair(base64_decode($k['seed']));
+    $sig = base64_encode(sodium_crypto_sign_detached($base, sodium_crypto_sign_secretkey($kp)));
+    return ['x-ebay-signature-key: ' . $k['jwe'], 'x-ebay-enforce-signature: true', 'Signature-Input: sig1=' . $params, 'Signature: sig1=:' . $sig . ':'];
+}

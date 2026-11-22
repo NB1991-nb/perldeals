@@ -32,6 +32,8 @@ if ($a === 'authurl') {
     ], '', '&', PHP_QUERY_RFC3986)]);
 }
 
+if ($a === 'signing_error') { eb_json(200, eb_read('signing_error') ?? []); }
+
 if ($a === 'status') {
     $t = eb_read('token');
     eb_json(200, [
@@ -45,18 +47,19 @@ if ($a === 'status') {
 
 if ($a === 'call' && $_SERVER['REQUEST_METHOD'] === 'GET') {
     $path = (string)($_GET['path'] ?? '');
-    if (!preg_match('#^/(sell/(fulfillment|finances|account|analytics|marketing|inventory)|commerce/(identity|taxonomy))/v1(_beta)?/[A-Za-z0-9_\-/]*(\?[A-Za-z0-9_\-=&%:.,\[\]{}|+]*)?$#', $path) || str_contains($path, '..')) {
+    if (!preg_match('#^/(sell/(fulfillment|finances|account|analytics|marketing|inventory)|commerce/(identity|taxonomy))/v1(_beta)?/[A-Za-z0-9_\-/]*(\?[A-Za-z0-9_\-=&%:.,\[\]{}|+]*)?$#', $path) || str_contains((string)parse_url($path, PHP_URL_PATH), '..')) {
         eb_json(400, ['error' => 'path_not_allowed']);
     }
     $tok = eb_access_token();
     if (!$tok) eb_json(503, ['error' => 'not_connected']);
     $host = (str_starts_with($path, '/sell/finances') || str_starts_with($path, '/commerce/identity')) ? 'https://apiz.ebay.com' : 'https://api.ebay.com';
-    [$st, $body] = eb_http('GET', $host . $path, [
+    $sigHeaders = str_starts_with($path, '/sell/finances') ? eb_signature_headers($tok, 'GET', $host, $path) : [];
+    [$st, $body] = eb_http('GET', $host . $path, array_merge($sigHeaders, [
         'Authorization: Bearer ' . $tok,
         'Accept: application/json',
         'X-EBAY-C-MARKETPLACE-ID: EBAY_DE',
         'Accept-Language: de-DE',
-    ]);
+    ]));
     eb_json($st ?: 502, $body);
 }
 
