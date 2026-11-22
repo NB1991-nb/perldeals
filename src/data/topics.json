@@ -1076,6 +1076,110 @@
   ]
  },
  {
+  "slug": "fernseher-75-zoll",
+  "kw": "Fernseher 75 Zoll",
+  "h": "75-Zoll-Fernseher im Angebot",
+  "re": "75 Zoll|75\"|75-Zoll|75T|75Q|75U|GQ75|QE75|OLED75",
+  "cat": "tv",
+  "group": "tv",
+  "intro": "Große 75-Zoll-Fernseher mit geprüftem Rabatt: QLED, Mini-LED und OLED.",
+  "tips": [
+   "Für 75 Zoll empfehlen Hersteller bei 4K meist etwa 1,6 bis 2,5 Meter Sitzabstand.",
+   "Vor dem Kauf Breite und Standfuß mit dem TV-Möbel abgleichen, große Geräte sind oft über 1,65 m breit.",
+   "Für Spielekonsolen auf HDMI 2.1 mit 120 Hz achten.",
+   "Mini-LED und OLED liefern meist besseren Kontrast als einfache LED-Panels."
+  ]
+ },
+ {
+  "slug": "fernseher-65-zoll",
+  "kw": "Fernseher 65 Zoll",
+  "h": "65-Zoll-Fernseher im Angebot",
+  "re": "65 Zoll|65\"|65-Zoll|65T|65Q|65U|GQ65|QE65|OLED65",
+  "cat": "tv",
+  "group": "tv",
+  "intro": "65-Zoll-Fernseher mit geprüftem Rabatt, vom günstigen 4K-LED bis zum OLED.",
+  "tips": [
+   "Für 65 Zoll in 4K liegt der empfohlene Sitzabstand meist bei etwa 1,4 bis 2,2 Metern.",
+   "Für Konsolen auf HDMI 2.1, VRR und 120 Hz achten.",
+   "Eine Soundbar verbessert den Ton flacher Geräte deutlich.",
+   "Den Preisverlauf prüfen: TV-Preise fallen oft einige Monate nach Marktstart."
+  ]
+ },
+ {
+  "slug": "playmobil-angebote",
+  "kw": "PLAYMOBIL",
+  "h": "PLAYMOBIL-Angebote",
+  "re": "PLAYMOBIL",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "PLAYMOBIL-Sets mit geprüftem Rabatt, ideal als Geschenk.",
+  "tips": [
+   "Altersangabe auf der Packung beachten, viele Sets enthalten Kleinteile.",
+   "Sets einer Themenwelt lassen sich meist miteinander kombinieren.",
+   "Vor Weihnachten früh kaufen, beliebte Sets sind dann schnell vergriffen.",
+   "Den Preisverlauf prüfen: viele Sets sind deutlich unter UVP zu haben."
+  ]
+ },
+ {
+  "slug": "switch-spiele",
+  "kw": "Switch-Spiele",
+  "h": "Nintendo-Switch-Spiele im Angebot",
+  "re": "Nintendo Switch|Switch 2|\\bSwitch\\b",
+  "group": "computer",
+  "intro": "Spiele für Nintendo Switch und Switch 2 mit geprüftem Rabatt.",
+  "tips": [
+   "Auf die Plattform achten: Switch-2-Editionen laufen nicht auf der ersten Switch.",
+   "Viele Switch-1-Spiele laufen auch auf der Switch 2.",
+   "Nintendo-Spiele werden selten stark reduziert, ein guter Preis lohnt sich deshalb.",
+   "Physische Spiele lassen sich später weiterverkaufen."
+  ]
+ },
+ {
+  "slug": "wasserkocher",
+  "kw": "Wasserkocher",
+  "h": "Wasserkocher im Angebot",
+  "re": "Wasserkocher",
+  "cat": "kitchen",
+  "group": "kueche",
+  "intro": "Wasserkocher mit geprüftem Rabatt, mit und ohne Temperaturwahl.",
+  "tips": [
+   "Eine Temperaturwahl hilft bei grünem Tee und Babynahrung.",
+   "Ein Edelstahl- oder Glasgehäuse hält meist länger als Kunststoff.",
+   "Regelmäßig entkalken spart Strom und verlängert die Lebensdauer.",
+   "1,7 Liter reichen für die meisten Haushalte."
+  ]
+ },
+ {
+  "slug": "hochdruckreiniger",
+  "kw": "Hochdruckreiniger",
+  "h": "Hochdruckreiniger im Angebot",
+  "re": "Hochdruckreiniger|Aquatak|Kärcher K",
+  "cat": "garden",
+  "group": "garten",
+  "intro": "Hochdruckreiniger mit geprüftem Rabatt für Terrasse, Auto und Fahrrad.",
+  "tips": [
+   "Für Auto und Fahrrad reicht meist weniger Druck, für Steinplatten hilft ein Flächenreiniger.",
+   "Auf die Fördermenge (Liter pro Stunde) achten, nicht nur auf den Druck in bar.",
+   "Ein Kit mit Zubehör ist oft günstiger als Einzelteile.",
+   "Im Winter frostfrei lagern."
+  ]
+ },
+ {
+  "slug": "babyphone",
+  "kw": "Babyphone",
+  "h": "Babyphone im Angebot",
+  "re": "Babyphone|Babyfon",
+  "cat": "home",
+  "group": "haushalt",
+  "intro": "Babyphones mit geprüftem Rabatt, mit Audio oder Kamera.",
+  "tips": [
+   "DECT-Geräte funken verschlüsselt und störungsarm, ohne WLAN.",
+   "Reichweite und Akkulaufzeit der Elterneinheit vergleichen.",
+   "Das Gerät mit Abstand zum Kinderbett aufstellen.",
+   "Kamera-Babyphones mit App vorher auf Datenschutz prüfen."
+  ]
+ },
+ {
   "slug": "deals-unter-10-euro",
   "kw": "Deals unter 10 Euro",
   "h": "Deals unter 10 Euro",
@@ -1486,6 +1590,83 @@
   "group": "preis",
   "price": true,
   "intro": "Tinten- und Laserdrucker bis 200 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kaffeevollautomat-unter-500-euro",
+  "kw": "Kaffeevollautomat unter 500 Euro",
+  "h": "Kaffeevollautomaten unter 500 Euro",
+  "re": "Kaffeevollautomat|ECAM|Magnifica|Dinamica|Krups",
+  "max": 500,
+  "group": "preis",
+  "best": "bester-kaffeevollautomat",
+  "price": true,
+  "intro": "Kaffeevollautomaten bis 500 Euro mit geprüftem Rabatt, auch mit Milchsystem.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "pokemon-unter-30-euro",
+  "kw": "Pokémon unter 30 Euro",
+  "h": "Pokémon-Produkte unter 30 Euro",
+  "re": "Pokémon",
+  "max": 30,
+  "group": "preis",
+  "price": true,
+  "intro": "Pokémon-Decks, Boxen und Spiele bis 30 Euro, ideal als Geschenk.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "lego-unter-30-euro",
+  "kw": "LEGO unter 30 Euro",
+  "h": "LEGO-Sets unter 30 Euro",
+  "re": "LEGO",
+  "max": 30,
+  "group": "preis",
+  "art": "lego-angebote",
+  "price": true,
+  "intro": "LEGO-Sets bis 30 Euro, perfekt für Nikolaus und als Mitbringsel.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "luftreiniger-unter-150-euro",
+  "kw": "Luftreiniger unter 150 Euro",
+  "h": "Luftreiniger unter 150 Euro",
+  "re": "Luftreiniger|Air Purifier|Core 300|PureProtect",
+  "max": 150,
+  "group": "preis",
+  "price": true,
+  "intro": "Luftreiniger bis 150 Euro mit geprüftem Rabatt für Schlaf- und Wohnzimmer.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kopfhoerer-unter-30-euro",
+  "kw": "Kopfhörer unter 30 Euro",
+  "h": "Kopfhörer unter 30 Euro",
+  "re": "Kopfhörer|Earbuds|In-Ears|Headset",
+  "max": 30,
+  "group": "preis",
+  "price": true,
+  "intro": "Günstige Kopfhörer und Headsets bis 30 Euro.",
   "tips": [
    "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
    "Lieferkosten und Rückgaberecht des Shops beachten.",

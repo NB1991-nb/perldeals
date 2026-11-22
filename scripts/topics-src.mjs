@@ -228,6 +228,28 @@ t("vegane-kosmetik", "vegane Kosmetik", "Vegane Kosmetik im Angebot", "Serum|Pal
   "Vegane Kosmetik und Pflege im Angebot, ausdrücklich als vegan gekennzeichnet.",
   ["Vegan heißt ohne tierische Inhaltsstoffe; tierversuchsfrei ist ein eigenes Siegel.", "Auf Siegel wie die Vegan-Blume achten.", "Probiergrößen sind ein günstiger Einstieg."]);
 
+t("fernseher-75-zoll", "Fernseher 75 Zoll", "75-Zoll-Fernseher im Angebot", "75 Zoll|75\"|75-Zoll|75T|75Q|75U|GQ75|QE75|OLED75", { cat: "tv", group: "tv" },
+  "Große 75-Zoll-Fernseher mit geprüftem Rabatt: QLED, Mini-LED und OLED.",
+  ["Für 75 Zoll empfehlen Hersteller bei 4K meist etwa 1,6 bis 2,5 Meter Sitzabstand.", "Vor dem Kauf Breite und Standfuß mit dem TV-Möbel abgleichen, große Geräte sind oft über 1,65 m breit.", "Für Spielekonsolen auf HDMI 2.1 mit 120 Hz achten.", "Mini-LED und OLED liefern meist besseren Kontrast als einfache LED-Panels."]);
+t("fernseher-65-zoll", "Fernseher 65 Zoll", "65-Zoll-Fernseher im Angebot", "65 Zoll|65\"|65-Zoll|65T|65Q|65U|GQ65|QE65|OLED65", { cat: "tv", group: "tv" },
+  "65-Zoll-Fernseher mit geprüftem Rabatt, vom günstigen 4K-LED bis zum OLED.",
+  ["Für 65 Zoll in 4K liegt der empfohlene Sitzabstand meist bei etwa 1,4 bis 2,2 Metern.", "Für Konsolen auf HDMI 2.1, VRR und 120 Hz achten.", "Eine Soundbar verbessert den Ton flacher Geräte deutlich.", "Den Preisverlauf prüfen: TV-Preise fallen oft einige Monate nach Marktstart."]);
+t("playmobil-angebote", "PLAYMOBIL", "PLAYMOBIL-Angebote", "PLAYMOBIL", { cat: "toys", group: "spielzeug" },
+  "PLAYMOBIL-Sets mit geprüftem Rabatt, ideal als Geschenk.",
+  ["Altersangabe auf der Packung beachten, viele Sets enthalten Kleinteile.", "Sets einer Themenwelt lassen sich meist miteinander kombinieren.", "Vor Weihnachten früh kaufen, beliebte Sets sind dann schnell vergriffen.", "Den Preisverlauf prüfen: viele Sets sind deutlich unter UVP zu haben."]);
+t("switch-spiele", "Switch-Spiele", "Nintendo-Switch-Spiele im Angebot", "Nintendo Switch|Switch 2|\\bSwitch\\b", { group: "computer" },
+  "Spiele für Nintendo Switch und Switch 2 mit geprüftem Rabatt.",
+  ["Auf die Plattform achten: Switch-2-Editionen laufen nicht auf der ersten Switch.", "Viele Switch-1-Spiele laufen auch auf der Switch 2.", "Nintendo-Spiele werden selten stark reduziert, ein guter Preis lohnt sich deshalb.", "Physische Spiele lassen sich später weiterverkaufen."]);
+t("wasserkocher", "Wasserkocher", "Wasserkocher im Angebot", "Wasserkocher", { cat: "kitchen", group: "kueche" },
+  "Wasserkocher mit geprüftem Rabatt, mit und ohne Temperaturwahl.",
+  ["Eine Temperaturwahl hilft bei grünem Tee und Babynahrung.", "Ein Edelstahl- oder Glasgehäuse hält meist länger als Kunststoff.", "Regelmäßig entkalken spart Strom und verlängert die Lebensdauer.", "1,7 Liter reichen für die meisten Haushalte."]);
+t("hochdruckreiniger", "Hochdruckreiniger", "Hochdruckreiniger im Angebot", "Hochdruckreiniger|Aquatak|Kärcher K", { cat: "garden", group: "garten" },
+  "Hochdruckreiniger mit geprüftem Rabatt für Terrasse, Auto und Fahrrad.",
+  ["Für Auto und Fahrrad reicht meist weniger Druck, für Steinplatten hilft ein Flächenreiniger.", "Auf die Fördermenge (Liter pro Stunde) achten, nicht nur auf den Druck in bar.", "Ein Kit mit Zubehör ist oft günstiger als Einzelteile.", "Im Winter frostfrei lagern."]);
+t("babyphone", "Babyphone", "Babyphone im Angebot", "Babyphone|Babyfon", { cat: "home", group: "haushalt" },
+  "Babyphones mit geprüftem Rabatt, mit Audio oder Kamera.",
+  ["DECT-Geräte funken verschlüsselt und störungsarm, ohne WLAN.", "Reichweite und Akkulaufzeit der Elterneinheit vergleichen.", "Das Gerät mit Abstand zum Kinderbett aufstellen.", "Kamera-Babyphones mit App vorher auf Datenschutz prüfen."]);
+
 /* Preisgrenzen */
 const P = (slug, kw, h, re, o, intro) => t(slug, kw, h, re, { ...o, price: true }, intro, ["Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.", "Lieferkosten und Rückgaberecht des Shops beachten.", "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."]);
 P("deals-unter-10-euro", "Deals unter 10 Euro", "Deals unter 10 Euro", ".", { max: 10, group: "preis" }, "Kleine Preise, echte Rabatte: alle geprüften Deals bis 10 Euro auf einen Blick.");
@@ -257,6 +279,11 @@ P("ps5-spiele-unter-30-euro", "PS5-Spiele unter 30 Euro", "PS5-Spiele unter 30 E
 P("deals-unter-30-euro", "Deals unter 30 Euro", "Deals unter 30 Euro", ".", { max: 30, group: "preis" }, "Alle geprüften Deals bis 30 Euro, ideal für Wichtel- und Nikolausgeschenke.");
 P("kuechenmaschine-unter-300-euro", "Küchenmaschine unter 300 Euro", "Küchenmaschinen unter 300 Euro", "Küchenmaschine|MUM5|MUMS|Kenwood|KitchenAid", { max: 300, group: "preis" }, "Küchenmaschinen bis 300 Euro mit geprüftem Rabatt.");
 P("drucker-unter-200-euro", "Drucker unter 200 Euro", "Drucker unter 200 Euro", "Drucker|DeskJet|LaserJet|PIXMA|Smart Tank|EcoTank|OfficeJet", { max: 200, group: "preis" }, "Tinten- und Laserdrucker bis 200 Euro mit geprüftem Rabatt.");
+P("kaffeevollautomat-unter-500-euro", "Kaffeevollautomat unter 500 Euro", "Kaffeevollautomaten unter 500 Euro", "Kaffeevollautomat|ECAM|Magnifica|Dinamica|Krups", { max: 500, group: "preis", best: "bester-kaffeevollautomat" }, "Kaffeevollautomaten bis 500 Euro mit geprüftem Rabatt, auch mit Milchsystem.");
+P("pokemon-unter-30-euro", "Pokémon unter 30 Euro", "Pokémon-Produkte unter 30 Euro", "Pokémon", { max: 30, group: "preis" }, "Pokémon-Decks, Boxen und Spiele bis 30 Euro, ideal als Geschenk.");
+P("lego-unter-30-euro", "LEGO unter 30 Euro", "LEGO-Sets unter 30 Euro", "LEGO", { max: 30, group: "preis", art: "lego-angebote" }, "LEGO-Sets bis 30 Euro, perfekt für Nikolaus und als Mitbringsel.");
+P("luftreiniger-unter-150-euro", "Luftreiniger unter 150 Euro", "Luftreiniger unter 150 Euro", "Luftreiniger|Air Purifier|Core 300|PureProtect", { max: 150, group: "preis" }, "Luftreiniger bis 150 Euro mit geprüftem Rabatt für Schlaf- und Wohnzimmer.");
+P("kopfhoerer-unter-30-euro", "Kopfhörer unter 30 Euro", "Kopfhörer unter 30 Euro", "Kopfhörer|Earbuds|In-Ears|Headset", { max: 30, group: "preis" }, "Günstige Kopfhörer und Headsets bis 30 Euro.");
 P("deals-ueber-50-prozent", "Deals über 50 Prozent", "Deals mit über 50 Prozent Rabatt", ".", { minPct: 50, group: "preis" }, "Die dicksten Rabatte: alle geprüften Deals mit mindestens 50 Prozent gegenüber dem Vergleichspreis.");
 
 fs.writeFileSync("src/data/topics.json", JSON.stringify(T, null, 1) + "\n");
