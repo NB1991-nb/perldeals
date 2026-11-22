@@ -777,3 +777,14 @@ html[data-mode="reseller"] .nav-dd-rs>summary{background:var(--accent-soft);colo
  .nav-panel{position:fixed;left:12px;right:12px;top:var(--dd-top,120px)}
  .subnav .wa-nav .wa-t{display:inline}
 }
+
+/* 22.11. 21:15: Handy-Menü als Blatt von unten (iOS: Panel im Kopfbereich wurde verdeckt) */
+.dd-ov{position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.38)}
+.dd-sheet{position:fixed;left:0;right:0;bottom:0;z-index:1001;max-height:78vh;overflow-y:auto;-webkit-overflow-scrolling:touch;background:var(--surface);color:var(--ink);border-radius:18px 18px 0 0;padding:10px 12px calc(14px + env(safe-area-inset-bottom));box-shadow:0 -12px 40px -10px rgba(0,0,0,.35)}
+.dd-sh-h{display:flex;align-items:center;justify-content:space-between;padding:6px 6px 10px;border-bottom:1px solid var(--line);margin-bottom:6px;font:700 17px var(--f-body)}
+.dd-x{border:0;background:var(--surface-2);color:var(--ink);width:36px;height:36px;border-radius:999px;font-size:16px;cursor:pointer}
+.dd-sh-l{display:grid;gap:2px}
+.dd-sh-l a{display:block;padding:13px 12px;border-radius:12px;font:600 16px var(--f-body);color:var(--ink);text-decoration:none}
+.dd-sh-l a:active,.dd-sh-l a:hover{background:var(--surface-2)}
+html.dd-lock,html.dd-lock body{overflow:hidden}
+@media (max-width:640px){.nav-dd .nav-panel{display:none!important}}

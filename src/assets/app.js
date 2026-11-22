@@ -312,14 +312,39 @@ document.querySelectorAll("a[data-job]").forEach(a => a.addEventListener("click"
   for (var i = 0; i < btns.length; i++) btns[i].addEventListener("click", function(){ setMode(this.getAttribute("data-mode-set")); });
   apply(); syncBar();
 })();
-/* 22.11.: Aufklappmenüs – nur eins offen, Klick außerhalb oder Esc schließt */
+/* 22.11.: Aufklappmenüs – nur eins offen, Klick außerhalb oder Esc schließt.
+   Handy (≤640 px): Menü öffnet als Blatt von unten, direkt im <body> – so kann es weder vom
+   Kopfbereich (backdrop-filter) noch von der waagerecht scrollenden Leiste verdeckt werden (iOS). */
 (function(){
   var dds = document.querySelectorAll(".nav-dd");
   if (!dds.length) return;
-  dds.forEach(function(d){ d.addEventListener("toggle", function(){ if (d.open) { dds.forEach(function(o){ if (o !== d) o.open = false; }); var r = d.querySelector("summary").getBoundingClientRect(); d.style.setProperty("--dd-top", (r.bottom + 6) + "px"); } }); });
-  window.addEventListener("scroll", function(){ dds.forEach(function(d){ if (d.open && window.innerWidth <= 640) d.open = false; }); }, {passive:true});
-  document.addEventListener("click", function(e){ dds.forEach(function(d){ if (d.open && !d.contains(e.target)) d.open = false; }); });
+  var mob = function(){ return window.innerWidth <= 640; };
+  var ov = null, sh = null;
+  function closeSheet(){ if (ov) { ov.remove(); ov = null; } if (sh) { sh.remove(); sh = null; } document.documentElement.classList.remove("dd-lock"); }
+  function openSheet(d){
+    closeSheet();
+    var sum = d.querySelector("summary"), pan = d.querySelector(".nav-panel");
+    ov = document.createElement("div"); ov.className = "dd-ov";
+    sh = document.createElement("div"); sh.className = "dd-sheet"; sh.setAttribute("role", "dialog"); sh.setAttribute("aria-modal", "true");
+    var t = (sum.textContent || "").replace(/[▾▴]/g, "").trim();
+    sh.innerHTML = '<div class="dd-sh-h"><b></b><button type="button" class="dd-x" aria-label="Schließen">✕</button></div><nav class="dd-sh-l"></nav>';
+    sh.querySelector("b").textContent = t;
+    sh.querySelector(".dd-sh-l").innerHTML = pan ? pan.innerHTML : "";
+    ov.addEventListener("click", function(){ d.open = false; });
+    sh.querySelector(".dd-x").addEventListener("click", function(){ d.open = false; });
+    document.body.appendChild(ov); document.body.appendChild(sh);
+    document.documentElement.classList.add("dd-lock");
+  }
+  dds.forEach(function(d){ d.addEventListener("toggle", function(){
+    if (d.open) {
+      dds.forEach(function(o){ if (o !== d) o.open = false; });
+      if (mob()) openSheet(d);
+      else { var r = d.querySelector("summary").getBoundingClientRect(); d.style.setProperty("--dd-top", (r.bottom + 6) + "px"); }
+    } else if (sh && !document.querySelector(".nav-dd[open]")) closeSheet();
+  }); });
+  document.addEventListener("click", function(e){ if (sh && sh.contains(e.target)) return; dds.forEach(function(d){ if (d.open && !d.contains(e.target)) d.open = false; }); });
   document.addEventListener("keydown", function(e){ if (e.key === "Escape") dds.forEach(function(d){ d.open = false; }); });
+  window.addEventListener("pageshow", function(){ dds.forEach(function(d){ d.open = false; }); closeSheet(); });
 })();
 /* 22.11.: Amazon-Tracking-ID je Kanal (Nico hat boeketvgpt/fb/wa/tg-21 im PartnerNet angelegt).
    Kanal wird beim ersten Seitenaufruf aus utm_source bzw. Referrer bestimmt und für die Sitzung gemerkt. */
