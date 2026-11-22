@@ -1339,6 +1339,160 @@
   ]
  },
  {
+  "slug": "saugroboter-unter-200-euro",
+  "kw": "Saugroboter unter 200 Euro",
+  "h": "Saugroboter unter 200 Euro",
+  "re": "Saugroboter|Saug- und Wisch|Roomba|DEEBOT",
+  "max": 200,
+  "group": "preis",
+  "best": "beste-saugroboter",
+  "price": true,
+  "intro": "Günstige Saugroboter bis 200 Euro mit geprüftem Rabatt, ideal für kleinere Wohnungen.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "saugroboter-unter-500-euro",
+  "kw": "Saugroboter unter 500 Euro",
+  "h": "Saugroboter unter 500 Euro",
+  "re": "Saugroboter|Saug- und Wisch|Roomba|DEEBOT",
+  "max": 500,
+  "group": "preis",
+  "best": "beste-saugroboter",
+  "price": true,
+  "intro": "Saugroboter bis 500 Euro, oft schon mit Wischfunktion und Absaugstation.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "saug-wischroboter-unter-500-euro",
+  "kw": "Saug-Wischroboter unter 500 Euro",
+  "h": "Saug- und Wischroboter unter 500 Euro",
+  "re": "Saug- und Wisch|Wischroboter|Wischfunktion|Omni|Ultra",
+  "max": 500,
+  "group": "preis",
+  "best": "beste-saugroboter",
+  "price": true,
+  "intro": "Saug- und Wischroboter bis 500 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "heissluftfritteuse-unter-100-euro",
+  "kw": "Heißluftfritteuse unter 100 Euro",
+  "h": "Heißluftfritteusen unter 100 Euro",
+  "re": "Heißluftfritteuse|Airfryer|Air Fryer|Heissluftfritteuse",
+  "max": 100,
+  "group": "preis",
+  "best": "beste-heissluftfritteuse",
+  "price": true,
+  "intro": "Heißluftfritteusen bis 100 Euro, auch mit zwei Kammern.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "akkusauger-unter-300-euro",
+  "kw": "Akkusauger unter 300 Euro",
+  "h": "Akkusauger unter 300 Euro",
+  "re": "Akku-Staubsauger|Akkusauger|Akku-Handstaubsauger|kabelloser Staubsauger|Stabstaubsauger",
+  "max": 300,
+  "group": "preis",
+  "price": true,
+  "intro": "Akku- und Handstaubsauger bis 300 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "gaming-monitor-unter-300-euro",
+  "kw": "Gaming-Monitor unter 300 Euro",
+  "h": "Gaming-Monitore unter 300 Euro",
+  "re": "Gaming-Monitor|144 Hz|165 Hz|180 Hz|240 Hz",
+  "max": 300,
+  "group": "preis",
+  "price": true,
+  "intro": "Schnelle Gaming-Monitore bis 300 Euro, von Full HD bis WQHD.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "ps5-spiele-unter-30-euro",
+  "kw": "PS5-Spiele unter 30 Euro",
+  "h": "PS5-Spiele unter 30 Euro",
+  "re": "PS5|PlayStation 5",
+  "max": 30,
+  "group": "preis",
+  "price": true,
+  "intro": "PS5-Spiele bis 30 Euro, viele davon weit unter der UVP.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "deals-unter-30-euro",
+  "kw": "Deals unter 30 Euro",
+  "h": "Deals unter 30 Euro",
+  "re": ".",
+  "max": 30,
+  "group": "preis",
+  "price": true,
+  "intro": "Alle geprüften Deals bis 30 Euro, ideal für Wichtel- und Nikolausgeschenke.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "kuechenmaschine-unter-300-euro",
+  "kw": "Küchenmaschine unter 300 Euro",
+  "h": "Küchenmaschinen unter 300 Euro",
+  "re": "Küchenmaschine|MUM5|MUMS|Kenwood|KitchenAid",
+  "max": 300,
+  "group": "preis",
+  "price": true,
+  "intro": "Küchenmaschinen bis 300 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
+  "slug": "drucker-unter-200-euro",
+  "kw": "Drucker unter 200 Euro",
+  "h": "Drucker unter 200 Euro",
+  "re": "Drucker|DeskJet|LaserJet|PIXMA|Smart Tank|EcoTank|OfficeJet",
+  "max": 200,
+  "group": "preis",
+  "price": true,
+  "intro": "Tinten- und Laserdrucker bis 200 Euro mit geprüftem Rabatt.",
+  "tips": [
+   "Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.",
+   "Lieferkosten und Rückgaberecht des Shops beachten.",
+   "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
+  ]
+ },
+ {
   "slug": "deals-ueber-50-prozent",
   "kw": "Deals über 50 Prozent",
   "h": "Deals mit über 50 Prozent Rabatt",

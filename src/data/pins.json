@@ -147,6 +147,10 @@
   "kind": "article",
   "title": "Saug- und Wischroboter mit Station"
  },
+ "heissluftfritteuse-2-koerbe-vergleich": {
+  "kind": "article",
+  "title": "Heißluftfritteuse mit 2 Körben"
+ },
  "beste-saugroboter": {
   "kind": "best",
   "title": "Bester Saugroboter 2026"
@@ -218,6 +222,18 @@
  "bester-gaming-stuhl": {
   "kind": "best",
   "title": "Bester Gaming-Stuhl 2026"
+ },
+ "bestes-tablet": {
+  "kind": "best",
+  "title": "Bestes Tablet 2026"
+ },
+ "beste-action-cam": {
+  "kind": "best",
+  "title": "Beste Action-Cam 2026"
+ },
+ "beste-kuechenmaschine": {
+  "kind": "best",
+  "title": "Beste Küchenmaschine 2026"
  },
  "black-friday": {
   "kind": "hub",
@@ -306,6 +322,38 @@
  "geschenke-fuer-pokemon-fans": {
   "kind": "gift",
   "title": "Geschenke für Pokémon-Fans"
+ },
+ "geschenke-fuer-eltern": {
+  "kind": "gift",
+  "title": "Geschenke für Eltern"
+ },
+ "geschenke-fuer-oma-und-opa": {
+  "kind": "gift",
+  "title": "Geschenke für Oma und Opa"
+ },
+ "geschenke-fuer-kollegen": {
+  "kind": "gift",
+  "title": "Geschenke für Kollegen"
+ },
+ "geschenke-fuer-studenten": {
+  "kind": "gift",
+  "title": "Geschenke für Studenten"
+ },
+ "geschenke-fuer-homeoffice": {
+  "kind": "gift",
+  "title": "Geschenke fürs Homeoffice"
+ },
+ "geschenke-fuer-musikliebhaber": {
+  "kind": "gift",
+  "title": "Geschenke für Musikliebhaber"
+ },
+ "geschenke-fuer-serienfans": {
+  "kind": "gift",
+  "title": "Geschenke für Serienfans"
+ },
+ "geschenke-fuer-kinder-6-bis-10-jahre": {
+  "kind": "gift",
+  "title": "Geschenke für Kinder von 6 bis 10 Jahren im Angebot"
  },
  "singles-day": {
   "kind": "season",
@@ -423,6 +471,56 @@
   "kind": "coupon",
   "title": "SIRUI Gutschein & Rabattcode",
   "shop": "sirui"
+ },
+ "gutschein-mediamarkt": {
+  "kind": "coupon",
+  "title": "MediaMarkt Gutschein & Rabattcode",
+  "shop": "mediamarkt"
+ },
+ "gutschein-saturn": {
+  "kind": "coupon",
+  "title": "Saturn Gutschein & Rabattcode",
+  "shop": "saturn"
+ },
+ "gutschein-ikea": {
+  "kind": "coupon",
+  "title": "IKEA Gutschein & Rabattcode",
+  "shop": "ikea"
+ },
+ "gutschein-kaufland": {
+  "kind": "coupon",
+  "title": "Kaufland Marktplatz Gutschein & Rabattcode",
+  "shop": "kaufland"
+ },
+ "gutschein-rossmann": {
+  "kind": "coupon",
+  "title": "Rossmann Gutschein & Rabattcode",
+  "shop": "rossmann"
+ },
+ "gutschein-obi": {
+  "kind": "coupon",
+  "title": "OBI Gutschein & Rabattcode",
+  "shop": "obi"
+ },
+ "gutschein-hornbach": {
+  "kind": "coupon",
+  "title": "Hornbach Gutschein & Rabattcode",
+  "shop": "hornbach"
+ },
+ "gutschein-decathlon": {
+  "kind": "coupon",
+  "title": "Decathlon Gutschein & Rabattcode",
+  "shop": "decathlon"
+ },
+ "gutschein-tchibo": {
+  "kind": "coupon",
+  "title": "Tchibo Gutschein & Rabattcode",
+  "shop": "tchibo"
+ },
+ "gutschein-galaxus": {
+  "kind": "coupon",
+  "title": "Galaxus Gutschein & Rabattcode",
+  "shop": "galaxus"
  },
  "thema-kreuzfahrt": {
   "kind": "topic",
@@ -721,7 +819,7 @@
  },
  "wissen-weihnachten-bestellen-bis-wann": {
   "kind": "page",
-  "title": "Bis wann bestellen, damit es vor Weihnachten 2026 ankommt?",
+  "title": "Bis wann bestellen, damit es vor Weihnachten 2026 ankommt? DHL, Hermes, DPD, GLS",
   "url": "/wissen/weihnachten-bestellen-bis-wann/"
  },
  "wissen-oled-qled-mini-led-unterschied": {
@@ -754,6 +852,166 @@
   "title": "Preis gesunken nach dem Kauf",
   "url": "/wissen/preis-gesunken-nach-kauf/"
  },
+ "wissen-amazon-gutschein-einloesen": {
+  "kind": "page",
+  "title": "Amazon-Gutschein einlösen",
+  "url": "/wissen/amazon-gutschein-einloesen/"
+ },
+ "wissen-amazon-coupons-aktivieren": {
+  "kind": "page",
+  "title": "Amazon-Coupons",
+  "url": "/wissen/amazon-coupons-aktivieren/"
+ },
+ "wissen-amazon-prime-kosten": {
+  "kind": "page",
+  "title": "Was kostet Amazon Prime 2026 pro Monat und pro Jahr?",
+  "url": "/wissen/amazon-prime-kosten/"
+ },
+ "wissen-amazon-black-friday-termine": {
+  "kind": "page",
+  "title": "Wann ist die Amazon Black Friday Woche 2026?",
+  "url": "/wissen/amazon-black-friday-termine/"
+ },
+ "wissen-amazon-retourenkauf-lohnt-sich": {
+  "kind": "page",
+  "title": "Amazon Retourenkauf",
+  "url": "/wissen/amazon-retourenkauf-lohnt-sich/"
+ },
+ "wissen-amazon-preise-schwanken": {
+  "kind": "page",
+  "title": "Warum schwanken Amazon-Preise und wann ist es am günstigsten?",
+  "url": "/wissen/amazon-preise-schwanken/"
+ },
+ "wissen-amazon-versandkosten-ohne-prime": {
+  "kind": "page",
+  "title": "Ab wann liefert Amazon 2026 ohne Prime versandkostenfrei?",
+  "url": "/wissen/amazon-versandkosten-ohne-prime/"
+ },
+ "wissen-amazon-geschenkgutschein-gueltigkeit": {
+  "kind": "page",
+  "title": "Wie lange ist ein Amazon-Gutschein gültig – und lohnt Aufladen?",
+  "url": "/wissen/amazon-geschenkgutschein-gueltigkeit/"
+ },
+ "wissen-black-friday-2026-datum": {
+  "kind": "page",
+  "title": "Wann ist Black Friday 2026 und wie lange gehen die Angebote?",
+  "url": "/wissen/black-friday-2026-datum/"
+ },
+ "wissen-black-friday-lohnt-sich": {
+  "kind": "page",
+  "title": "Lohnt sich Black Friday wirklich? Das zeigen Auswertungen",
+  "url": "/wissen/black-friday-lohnt-sich/"
+ },
+ "wissen-singles-day-deutschland": {
+  "kind": "page",
+  "title": "Was ist der Singles Day am 11.11. und wer macht mit?",
+  "url": "/wissen/singles-day-deutschland/"
+ },
+ "wissen-cashback-portale-erklaert": {
+  "kind": "page",
+  "title": "Wie funktionieren Cashback-Portale und wo ist der Haken?",
+  "url": "/wissen/cashback-portale-erklaert/"
+ },
+ "wissen-payback-punkte-wert": {
+  "kind": "page",
+  "title": "Was ist ein Payback-Punkt wert und wann verfallen Punkte?",
+  "url": "/wissen/payback-punkte-wert/"
+ },
+ "wissen-b-ware-refurbished-unterschied": {
+  "kind": "page",
+  "title": "B-Ware, Refurbished, Vorführware",
+  "url": "/wissen/b-ware-refurbished-unterschied/"
+ },
+ "wissen-lieferung-zu-spaet-rechte": {
+  "kind": "page",
+  "title": "Lieferung zu spät vor Weihnachten",
+  "url": "/wissen/lieferung-zu-spaet-rechte/"
+ },
+ "wissen-zoll-china-bestellung": {
+  "kind": "page",
+  "title": "Zoll bei Bestellungen aus China",
+  "url": "/wissen/zoll-china-bestellung/"
+ },
+ "wissen-studentenrabatt-uebersicht": {
+  "kind": "page",
+  "title": "Wo gibt es Rabatt für Studenten, Azubis und Schüler?",
+  "url": "/wissen/studentenrabatt-uebersicht/"
+ },
+ "wissen-saugroboter-saugkraft-pa": {
+  "kind": "page",
+  "title": "Wie viel Pa Saugkraft braucht ein Saugroboter wirklich?",
+  "url": "/wissen/saugroboter-saugkraft-pa/"
+ },
+ "wissen-heissluftfritteuse-kaufen-worauf-achten": {
+  "kind": "page",
+  "title": "Heißluftfritteuse kaufen",
+  "url": "/wissen/heissluftfritteuse-kaufen-worauf-achten/"
+ },
+ "wissen-waermepumpentrockner-oder-kondenstrockner": {
+  "kind": "page",
+  "title": "Wärmepumpentrockner oder Kondenstrockner",
+  "url": "/wissen/waermepumpentrockner-oder-kondenstrockner/"
+ },
+ "wissen-induktionskochfeld-toepfe-stromverbrauch": {
+  "kind": "page",
+  "title": "Induktionskochfeld",
+  "url": "/wissen/induktionskochfeld-toepfe-stromverbrauch/"
+ },
+ "wissen-qi2-magsafe-unterschied": {
+  "kind": "page",
+  "title": "Qi2, Qi2 25W und MagSafe",
+  "url": "/wissen/qi2-magsafe-unterschied/"
+ },
+ "wissen-geschirrspueler-45-oder-60-cm": {
+  "kind": "page",
+  "title": "Geschirrspüler",
+  "url": "/wissen/geschirrspueler-45-oder-60-cm/"
+ },
+ "wissen-waschmaschine-wie-viel-kg": {
+  "kind": "page",
+  "title": "Waschmaschine",
+  "url": "/wissen/waschmaschine-wie-viel-kg/"
+ },
+ "wissen-maehroboter-ohne-begrenzungskabel": {
+  "kind": "page",
+  "title": "Mähroboter ohne Begrenzungskabel",
+  "url": "/wissen/maehroboter-ohne-begrenzungskabel/"
+ },
+ "wissen-saugroboter-wischwalze-oder-wischmopp": {
+  "kind": "page",
+  "title": "Saugroboter",
+  "url": "/wissen/saugroboter-wischwalze-oder-wischmopp/"
+ },
+ "wissen-saugroboter-kaufen-worauf-achten": {
+  "kind": "page",
+  "title": "Saugroboter kaufen",
+  "url": "/wissen/saugroboter-kaufen-worauf-achten/"
+ },
+ "wissen-kaffeevollautomat-kaufen-worauf-achten": {
+  "kind": "page",
+  "title": "Kaffeevollautomat kaufen",
+  "url": "/wissen/kaffeevollautomat-kaufen-worauf-achten/"
+ },
+ "wissen-otto-gutschein-bestandskunden": {
+  "kind": "page",
+  "title": "OTTO-Gutschein für Bestandskunden",
+  "url": "/wissen/otto-gutschein-bestandskunden/"
+ },
+ "wissen-mediamarkt-geschenkkarte-guthaben-pruefen": {
+  "kind": "page",
+  "title": "MediaMarkt-Geschenkkarte",
+  "url": "/wissen/mediamarkt-geschenkkarte-guthaben-pruefen/"
+ },
+ "wissen-ikea-geschenkkarte-guthaben-abfragen": {
+  "kind": "page",
+  "title": "IKEA-Geschenkkarte",
+  "url": "/wissen/ikea-geschenkkarte-guthaben-abfragen/"
+ },
+ "wissen-amazon-rueckgabefrist": {
+  "kind": "page",
+  "title": "Amazon-Rückgabefrist 2026",
+  "url": "/wissen/amazon-rueckgabefrist/"
+ },
  "wissen-pokemon-30-jahre-set": {
   "kind": "page",
   "title": "Pokémon 30 Jahre",
@@ -768,6 +1026,21 @@
   "kind": "page",
   "title": "LEGO EOL-Liste 2026 und 2027",
   "url": "/wissen/lego-eol-liste-2026/"
+ },
+ "wissen-fire-tv-stick-vergleich": {
+  "kind": "page",
+  "title": "Fire TV Stick Vergleich 2026",
+  "url": "/wissen/fire-tv-stick-vergleich/"
+ },
+ "wissen-switch-2-speicherkarte": {
+  "kind": "page",
+  "title": "Switch 2 Speicherkarte",
+  "url": "/wissen/switch-2-speicherkarte/"
+ },
+ "wissen-kindle-vergleich": {
+  "kind": "page",
+  "title": "Kindle Vergleich 2026",
+  "url": "/wissen/kindle-vergleich/"
  },
  "wissen-vegan-werden": {
   "kind": "page",
@@ -979,99 +1252,114 @@
   "title": "Pokémon-Karten bewerten",
   "url": "/reseller/pokemon-haendler/ankauf-checkliste/"
  },
- "deal-sharkninja-shark-sd200eu": {
+ "deal-mafia-the-old-country-ps5": {
   "kind": "deal",
-  "title": "Shark SteamPickUp 3-in-1 Dampfreiniger",
-  "deal": "sharkninja-shark-sd200eu"
+  "title": "Mafia: The Old Country",
+  "deal": "mafia-the-old-country-ps5"
  },
- "deal-ebay-eglo-led-weihnachtskranz-50cm": {
+ "deal-shark-powerdetect-clean-empty-ip3225eut": {
   "kind": "deal",
-  "title": "Eglo LED-Weihnachtskranz Ø 50 cm mit 30 LEDs (Schnee-Optik",
-  "deal": "ebay-eglo-led-weihnachtskranz-50cm"
+  "title": "Shark PowerDetect Clean & Empty Akkusauger IP3225EUT mit Absaugstation",
+  "deal": "shark-powerdetect-clean-empty-ip3225eut"
  },
- "deal-ebay-scheppach-tb99-werkzeugkoffer": {
+ "deal-remington-proluxe-midnight-ac9140b": {
   "kind": "deal",
-  "title": "Scheppach TB99 Werkzeugkoffer",
-  "deal": "ebay-scheppach-tb99-werkzeugkoffer"
+  "title": "Remington PROluxe Midnight Edition Haartrockner AC9140B",
+  "deal": "remington-proluxe-midnight-ac9140b"
  },
- "deal-alternate-hisense-wd3s9043bw3": {
+ "deal-wwe-2k26-ps5": {
   "kind": "deal",
-  "title": "Hisense WD3S9043BW3 Waschtrockner (9 kg waschen / 6 kg trocknen",
-  "deal": "alternate-hisense-wd3s9043bw3"
+  "title": "WWE 2K26",
+  "deal": "wwe-2k26-ps5"
  },
- "deal-alternate-cooler-master-hyper-212-pro": {
+ "deal-motorola-am24-babyphone": {
   "kind": "deal",
-  "title": "Cooler Master Hyper 212 Pro CPU-Kühler (120 mm",
-  "deal": "alternate-cooler-master-hyper-212-pro"
+  "title": "Motorola Nursery AM24 Audio-Babyphone",
+  "deal": "motorola-am24-babyphone"
  },
- "deal-ebay-steinel-xled-cam1": {
+ "deal-grundig-wk-4420-wasserkocher": {
   "kind": "deal",
-  "title": "Steinel XLED CAM1 SC Sensor-LED-Strahler mit Kamera",
-  "deal": "ebay-steinel-xled-cam1"
+  "title": "Grundig WK 4420 L Wasserkocher 1",
+  "deal": "grundig-wk-4420-wasserkocher"
  },
- "deal-dreame-l10s-ultra-gen-3": {
+ "deal-playmobil-abenteuerspielplatz-city-life": {
   "kind": "deal",
-  "title": "Dreame L10s Ultra Gen 3 Saug- und Wischroboter mit Station",
-  "deal": "dreame-l10s-ultra-gen-3"
+  "title": "PLAYMOBIL City Life Abenteuerspielplatz",
+  "deal": "playmobil-abenteuerspielplatz-city-life"
  },
- "deal-sharkninja-ninja-kt200eu": {
+ "deal-bosch-easyaquatak-120-premium-kit": {
   "kind": "deal",
-  "title": "Ninja Wasserkocher mit Temperaturwahl 1",
-  "deal": "sharkninja-ninja-kt200eu"
+  "title": "Bosch Hochdruckreiniger EasyAquatak 120 Premium Kit",
+  "deal": "bosch-easyaquatak-120-premium-kit"
  },
- "deal-alternate-philips-77oled811": {
+ "deal-koorui-27-zoll-curved-qhd-180hz": {
   "kind": "deal",
-  "title": "Philips 77OLED811 OLED-Fernseher 77 Zoll (194 cm",
-  "deal": "alternate-philips-77oled811"
+  "title": "KOORUI 27\" Curved Gaming-Monitor QHD 180 Hz",
+  "deal": "koorui-27-zoll-curved-qhd-180hz"
  },
- "deal-ecovacs-deebot-t50-omni-gen3": {
+ "deal-pokemon-wm-deck-2024-sakuya-ota": {
   "kind": "deal",
-  "title": "ECOVACS DEEBOT T50 Omni Gen3 Saug- und Wischroboter",
-  "deal": "ecovacs-deebot-t50-omni-gen3"
+  "title": "Pokémon-Sammelkartenspiel: Weltmeisterschaftsdeck 2024 – Sakuya Ota",
+  "deal": "pokemon-wm-deck-2024-sakuya-ota"
  },
- "deal-sharkninja-shark-hp300eu": {
+ "deal-hp-smart-tank-7007": {
   "kind": "deal",
-  "title": "Shark NeverChange Luftreiniger Max (HP300EU",
-  "deal": "sharkninja-shark-hp300eu"
+  "title": "HP Smart Tank 7007 Multifunktionsdrucker (WLAN",
+  "deal": "hp-smart-tank-7007"
  },
- "deal-philips-airfryer-3000-na350": {
+ "deal-worx-wa3644-akku-20v-4ah": {
   "kind": "deal",
-  "title": "Philips Airfryer 3000 Serie NA350/00 Heißluftfritteuse 6",
-  "deal": "philips-airfryer-3000-na350"
+  "title": "WORX WA3644 PowerShare Pro Akku 20 V 4",
+  "deal": "worx-wa3644-akku-20v-4ah"
  },
- "deal-alternate-ocypus-iota-p750": {
+ "deal-brueder-mannesmann-werkzeugkoffer-87-teilig": {
   "kind": "deal",
-  "title": "Ocypus Iota P750 Black PC-Netzteil (750 W",
-  "deal": "alternate-ocypus-iota-p750"
+  "title": "Brüder Mannesmann Werkzeugkoffer 87-teilig",
+  "deal": "brueder-mannesmann-werkzeugkoffer-87-teilig"
  },
- "deal-alternate-hyte-y60-snow-white": {
+ "deal-grundig-vch-9832-handstaubsauger": {
   "kind": "deal",
-  "title": "HYTE Y60 Snow White Edition Tower-Gehäuse (weiß",
-  "deal": "alternate-hyte-y60-snow-white"
+  "title": "GRUNDIG VCH 9832 2-in-1 Akku-Handstaubsauger",
+  "deal": "grundig-vch-9832-handstaubsauger"
  },
- "deal-haier-heissluftfritteuse-flex-11l": {
+ "deal-russell-hobbs-filterkaffeemaschine-5-tassen": {
   "kind": "deal",
-  "title": "Haier Heißluftfritteuse Flex 11 l Dual",
-  "deal": "haier-heissluftfritteuse-flex-11l"
+  "title": "Russell Hobbs Filterkaffeemaschine 0",
+  "deal": "russell-hobbs-filterkaffeemaschine-5-tassen"
  },
- "deal-ninja-pro-air-fryer-af140eu": {
+ "deal-dell-15-i5-1334u-8gb-512gb": {
   "kind": "deal",
-  "title": "Ninja PRO Air Fryer AF140EU Heißluftfritteuse 4",
-  "deal": "ninja-pro-air-fryer-af140eu"
+  "title": "Dell 15 Laptop (Core i5-1334U",
+  "deal": "dell-15-i5-1334u-8gb-512gb"
  },
- "deal-coolblue-dji-mini-4-pro-fly-more-rc2": {
+ "deal-hyperx-cloud-iii-headset": {
   "kind": "deal",
-  "title": "DJI Mini 4 Pro Fly More Combo mit DJI RC 2",
-  "deal": "coolblue-dji-mini-4-pro-fly-more-rc2"
+  "title": "HyperX Cloud III Gaming-Headset",
+  "deal": "hyperx-cloud-iii-headset"
  },
- "deal-alternate-meacofan-sefte-6": {
+ "deal-philips-luftreiniger-pureprotect-lite-700": {
   "kind": "deal",
-  "title": "MeacoFan Sefte 6 Tischventilator (12 Stufen",
-  "deal": "alternate-meacofan-sefte-6"
+  "title": "Philips Luftreiniger PureProtect Lite 700",
+  "deal": "philips-luftreiniger-pureprotect-lite-700"
  },
- "deal-sharkninja-shark-fh320eu": {
+ "deal-hp-deskjet-4320": {
   "kind": "deal",
-  "title": "Shark FacialPro Glow + DePuffi Gesichtspflege-System",
-  "deal": "sharkninja-shark-fh320eu"
+  "title": "HP DeskJet 4320 Multifunktionsdrucker",
+  "deal": "hp-deskjet-4320"
+ },
+ "deal-philips-luftreiniger-600-serie": {
+  "kind": "deal",
+  "title": "Philips Luftreiniger 600 Serie mit SmartSensor",
+  "deal": "philips-luftreiniger-600-serie"
+ },
+ "deal-tcl-43t6c-43-zoll": {
+  "kind": "deal",
+  "title": "TCL 43T6C 43\" QLED 4K Fire TV",
+  "deal": "tcl-43t6c-43-zoll"
+ },
+ "deal-pokemon-deluxe-kampfdeck-zapdos-ex": {
+  "kind": "deal",
+  "title": "Pokémon Deluxe-Kampfdeck Zapdos-ex",
+  "deal": "pokemon-deluxe-kampfdeck-zapdos-ex"
  }
 }
