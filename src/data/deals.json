@@ -3,6 +3,25 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "bosch-readyy-y-serie-2-akkusauger",
+      "asin": "B0HJ97RRL9",
+      "brand": "Bosch",
+      "cat": "home",
+      "now": 89.99,
+      "was": 159.99,
+      "title": {
+        "de": "Bosch 2-in-1 Akku-Staubsauger Readyy'y Serie 2",
+        "en": "Bosch 2-in-1 cordless vacuum Readyy'y Series 2"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 22.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 22 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-22T12:25:00+01:00",
+      "checked": "2026-11-22T12:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "pokemon-wm-deck-2024-sakuya-ota",
       "asin": "B0FF4RQLDW",
       "brand": "Pokémon",
