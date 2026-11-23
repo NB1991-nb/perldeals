@@ -3,6 +3,82 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "playmobil-71418-piratenschiff",
+      "asin": "B0CJ34B965",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 28.86,
+      "was": 49.99,
+      "title": {
+        "de": "PLAYMOBIL Pirates 71418 Piratenschiff",
+        "en": "PLAYMOBIL Pirates 71418 Pirate Ship"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T05:10:00+01:00",
+      "checked": "2026-11-23T05:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "carrera-rc-mario-kart-pipe-kart-bowser",
+      "asin": "B0F5X9PYCW",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 35.09,
+      "was": 45.48,
+      "title": {
+        "de": "Carrera RC Mario Kart Pipe Kart Bowser (1:18, 2,4 GHz)",
+        "en": "Carrera RC Mario Kart Pipe Kart Bowser (1:18, 2.4 GHz)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T05:10:00+01:00",
+      "checked": "2026-11-23T05:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "carrera-rc-factory-racing-21-buggy",
+      "asin": "B0CVRTTRLB",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 25.79,
+      "was": 39.99,
+      "title": {
+        "de": "Carrera RC Factory Racing 21 Elektro-Buggy 1:20 (2,4 GHz)",
+        "en": "Carrera RC Factory Racing 21 electric buggy 1:20 (2.4 GHz)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T05:10:00+01:00",
+      "checked": "2026-11-23T05:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "carrera-first-mario-kart-mario-vs-yoshi",
+      "asin": "B07PQGP8B7",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 20.09,
+      "was": 26.7,
+      "title": {
+        "de": "Carrera FIRST Mario Kart – Mario vs. Yoshi Rennbahn (1:50, 2,4 m)",
+        "en": "Carrera FIRST Mario Kart – Mario vs. Yoshi race track (1:50, 2.4 m)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T05:10:00+01:00",
+      "checked": "2026-11-23T05:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "playmobil-71743-welpenhaus",
       "asin": "B0DPJ8FHX6",
       "brand": "PLAYMOBIL",
