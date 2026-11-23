@@ -3,6 +3,82 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "ravensburger-26888-weltreise",
+      "asin": "B087SDMLQ4",
+      "brand": "Ravensburger",
+      "cat": "toys",
+      "now": 24.99,
+      "was": 49.99,
+      "title": {
+        "de": "Ravensburger Familienspiel 26888 Weltreise",
+        "en": "Ravensburger family game 26888 Weltreise (World Tour)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T08:35:00+01:00",
+      "checked": "2026-11-23T08:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-71144-swat-gelaendefahrzeug",
+      "asin": "B0BT8BY881",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 35.99,
+      "was": 69.99,
+      "title": {
+        "de": "PLAYMOBIL City Action 71144 SWAT-Geländefahrzeug mit Licht und Sound",
+        "en": "PLAYMOBIL City Action 71144 SWAT off-road vehicle with light and sound"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T08:35:00+01:00",
+      "checked": "2026-11-23T08:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lego-75421-darth-vaders-tie-fighter-smart-play",
+      "asin": "B0FPXVHD1Y",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 39.89,
+      "was": 69.99,
+      "title": {
+        "de": "LEGO Star Wars SMART Play 75421 Darth Vaders TIE Fighter",
+        "en": "LEGO Star Wars SMART Play 75421 Darth Vader's TIE Fighter"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T08:35:00+01:00",
+      "checked": "2026-11-23T08:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lego-71868-wyldfyres-drachenmech",
+      "asin": "B0FPXGXPWD",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 49.7,
+      "was": 89.99,
+      "title": {
+        "de": "LEGO Ninjago 71868 Wyldfyres Drachenmech",
+        "en": "LEGO Ninjago 71868 Wyldfyre's Dragon Mech"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T08:35:00+01:00",
+      "checked": "2026-11-23T08:35:00+01:00",
+      "validUntil": "2026-11-28"
+    },
+    {
       "id": "playmobil-71418-piratenschiff",
       "asin": "B0CJ34B965",
       "brand": "PLAYMOBIL",
