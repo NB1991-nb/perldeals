@@ -3,6 +3,101 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "hakle-traumweich-16-rollen",
+      "asin": "B01G8I0ELM",
+      "brand": "Hakle",
+      "cat": "home",
+      "now": 5.99,
+      "was": 9.98,
+      "title": {
+        "de": "Hakle Traumweich Toilettenpapier 4-lagig, 16 Rollen",
+        "en": "Hakle Traumweich toilet paper 4-ply, 16 rolls"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T09:55:00+01:00",
+      "checked": "2026-11-23T09:55:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "pampers-premium-protection-gr1-248",
+      "asin": "B0GKVFHQ84",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 36.19,
+      "was": 54.19,
+      "title": {
+        "de": "Pampers Premium Protection Größe 1 (2–5 kg), 248 Windeln",
+        "en": "Pampers Premium Protection size 1 (2–5 kg), 248 nappies"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T09:55:00+01:00",
+      "checked": "2026-11-23T09:55:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "gillette-fusion5-24-klingen",
+      "asin": "B09D7R2YX7",
+      "brand": "Gillette",
+      "cat": "beauty",
+      "now": 49.99,
+      "was": 77.99,
+      "title": {
+        "de": "Gillette Fusion5 Rasierklingen, 24 Stück",
+        "en": "Gillette Fusion5 razor blades, 24 pack"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T09:55:00+01:00",
+      "checked": "2026-11-23T09:55:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "philips-oneblade-360-ersatzklingen",
+      "asin": "B0GMHCMVCP",
+      "brand": "PHILIPS",
+      "cat": "beauty",
+      "now": 34.99,
+      "was": 57.99,
+      "title": {
+        "de": "Philips OneBlade 360 Original-Ersatzklingen",
+        "en": "Philips OneBlade 360 original replacement blades"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T09:55:00+01:00",
+      "checked": "2026-11-23T09:55:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "brita-maxtra-pro-extra-kalkschutz-6er",
+      "asin": "B0BZSS9CTY",
+      "brand": "BRITA",
+      "cat": "kitchen",
+      "now": 26.99,
+      "was": 49.99,
+      "title": {
+        "de": "BRITA Wasserfilter-Kartuschen MAXTRA PRO Extra Kalkschutz, 6er-Pack",
+        "en": "BRITA MAXTRA PRO Extra Limescale filter cartridges, pack of 6"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T09:55:00+01:00",
+      "checked": "2026-11-23T09:55:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "ravensburger-26888-weltreise",
       "asin": "B087SDMLQ4",
       "brand": "Ravensburger",
