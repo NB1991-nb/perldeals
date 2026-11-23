@@ -119,7 +119,18 @@ const SEARCHES = [
   ["ToolsAndHomeImprovement", "Akkuschrauber", "tools"], ["ToolsAndHomeImprovement", "Werkzeugset", "tools"], ["ToolsAndHomeImprovement", "LED Leuchtmittel", "home"],
   ["GardenAndOutdoor", "Gartenschlauch", "garden"], ["GardenAndOutdoor", "Hochdruckreiniger", "garden"], ["Automotive", "Dashcam", "car"], ["Automotive", "Starthilfe Powerbank", "car"],
   ["Beauty", "Elektrische Zahnbürste", "beauty"], ["Beauty", "Rasierer", "beauty"], ["Beauty", "Haartrockner", "beauty"],
-  ["OfficeProducts", "Drucker", "computer"], ["Baby", "Babyphone", "baby"], ["PetSupplies", "Katzenklo", "home"]
+  ["OfficeProducts", "Drucker", "computer"], ["Baby", "Babyphone", "baby"], ["PetSupplies", "Katzenklo", "home"],
+  // 23.11. (Nico: Produktpalette ausweiten, auch Verbrauchsartikel mit starkem Rabatt; Lebensmittel nur vegan)
+  ["HealthPersonalCare", "Waschmittel", "home"], ["HealthPersonalCare", "Spülmaschinentabs", "home"], ["HealthPersonalCare", "Weichspüler", "home"],
+  ["HealthPersonalCare", "Spülmittel", "home"], ["HealthPersonalCare", "Allzweckreiniger", "home"], ["HealthPersonalCare", "Toilettenpapier", "home"],
+  ["HealthPersonalCare", "Küchenrolle", "home"], ["HealthPersonalCare", "Taschentücher", "home"], ["HealthPersonalCare", "Müllbeutel", "home"],
+  ["HealthPersonalCare", "Rasierklingen", "beauty"], ["HealthPersonalCare", "Aufsteckbürsten", "beauty"], ["HealthPersonalCare", "Zahnpasta", "beauty"],
+  ["Beauty", "Duschgel", "beauty"], ["Beauty", "Shampoo", "beauty"], ["Beauty", "Deo", "beauty"], ["Beauty", "Sonnencreme", "beauty"],
+  ["Electronics", "Batterien AA", "home"], ["OfficeProducts", "Druckerpatronen", "computer"], ["OfficeProducts", "Kopierpapier", "computer"],
+  ["HomeAndKitchen", "Wasserfilter Kartuschen", "kitchen"], ["HomeAndKitchen", "Gefrierbeutel", "kitchen"], ["HomeAndKitchen", "Backpapier", "kitchen"],
+  ["Grocery", "Kaffeebohnen", "kitchen"], ["Grocery", "Kaffeekapseln", "kitchen"], ["Grocery", "Tee", "kitchen"],
+  ["Baby", "Windeln", "baby"], ["Baby", "Feuchttücher", "baby"], ["PetSupplies", "Katzenstreu", "pets"],
+  ["Automotive", "Scheibenreiniger", "car"], ["HomeAndKitchen", "Kerzen", "home"], ["SportsAndOutdoors", "Trinkflasche", "sport"]
 ];
 const known = new Set(asins);
 const cand = new Map();

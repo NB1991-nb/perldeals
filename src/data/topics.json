@@ -2135,5 +2135,19 @@
    "Lieferkosten und Rückgaberecht des Shops beachten.",
    "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."
   ]
+ },
+ {
+  "slug": "vorratsdeals",
+  "kw": "Vorratsdeals Verbrauchsartikel",
+  "h": "Vorratsdeals: Verbrauchsartikel stark reduziert",
+  "re": "Waschmittel|Spülmaschinen|Geschirrspül|Weichspüler|Spülmittel|Reiniger|Toilettenpapier|Küchenrolle|Taschentücher|Müllbeutel|Rasierklingen|Aufsteckbürste|Zahnpasta|Duschgel|Shampoo|Deo|Sonnencreme|Batterien|Druckerpatrone|Tintenpatrone|Toner|Kopierpapier|Filterkartusche|Gefrierbeutel|Backpapier|Kaffeebohnen|Kaffeekapseln|Windeln|Feuchttücher|Katzenstreu|Scheibenreiniger",
+  "group": "haushalt",
+  "intro": "Dinge, die man sowieso regelmäßig kauft – Waschmittel, Spülmaschinentabs, Rasierklingen, Batterien, Kaffee und mehr – mit starkem, geprüftem Rabatt. Ideal zum Vorrat-Anlegen.",
+  "tips": [
+   "Auf den Grundpreis achten (€ pro Waschladung, pro Tab, pro 100 g) – große Packungen sind nicht immer günstiger.",
+   "Bei Amazon lohnt sich oft „Spar-Abo“: zusätzlich 5–15 % Rabatt, jederzeit kündbar.",
+   "Nur so viel bevorraten, wie vor dem Mindesthaltbarkeitsdatum verbraucht wird.",
+   "Lebensmittel nehmen wir nur auf, wenn sie vegan sind."
+  ]
  }
 ]
