@@ -3,6 +3,175 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "zewa-wisch-weg-sparblatt-mega-pack",
+      "asin": "B086LV68QQ",
+      "brand": "Zewa",
+      "cat": "home",
+      "now": 33,
+      "was": 48.99,
+      "title": {
+        "de": "Zewa Wisch&Weg Sparblatt Küchenrolle, Mega Pack (12 Packungen)",
+        "en": "Zewa Wisch&Weg Sparblatt kitchen roll, mega pack (12 packs)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00"
+    },
+    {
+      "id": "sandisk-extreme-microsdxc-128gb",
+      "asin": "B09X7BK27V",
+      "brand": "SANDISK",
+      "cat": "computer",
+      "now": 24.99,
+      "was": 39.99,
+      "title": {
+        "de": "SanDisk Extreme microSDXC 128 GB (bis 190 MB/s) mit Adapter",
+        "en": "SanDisk Extreme microSDXC 128 GB (up to 190 MB/s) with adapter"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00"
+    },
+    {
+      "id": "logitech-g733-lightspeed",
+      "asin": "B07W7KT2B3",
+      "brand": "Logitech G",
+      "cat": "computer",
+      "now": 72.49,
+      "was": 129.99,
+      "title": {
+        "de": "Logitech G733 Lightspeed kabelloses Gaming-Headset",
+        "en": "Logitech G733 Lightspeed wireless gaming headset"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "samsung-gu65u7099hu-65-zoll",
+      "asin": "B0GXZJZ45C",
+      "brand": "Samsung",
+      "cat": "tv",
+      "now": 469,
+      "was": 781.99,
+      "title": {
+        "de": "Samsung Crystal U7099H 65 Zoll 4K UHD Smart TV",
+        "en": "Samsung Crystal U7099H 65-inch 4K UHD smart TV"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "dyson-v8-origin",
+      "asin": "B0GVP7XY36",
+      "brand": "Dyson",
+      "cat": "home",
+      "now": 229,
+      "was": 379,
+      "title": {
+        "de": "Dyson V8 Origin Akku-Staubsauger",
+        "en": "Dyson V8 Origin cordless vacuum"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "fitbit-versa-4",
+      "asin": "B0B6WRRCM3",
+      "brand": "Fitbit",
+      "cat": "watch",
+      "now": 99,
+      "was": 229.95,
+      "title": {
+        "de": "Fitbit Versa 4 Smartwatch (Sandrosa/Kupferrosé)",
+        "en": "Fitbit Versa 4 smartwatch (pink sand/copper rose)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-show-15-2024",
+      "asin": "B0C7XHY6YS",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 219.99,
+      "was": 379.99,
+      "title": {
+        "de": "Amazon Echo Show 15 (neueste Generation), 15,6-Zoll-Smart-Display",
+        "en": "Amazon Echo Show 15 (latest generation), 15.6-inch smart display"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-kindle-kids-2024",
+      "asin": "B0CP317938",
+      "brand": "Amazon",
+      "cat": "computer",
+      "now": 99.99,
+      "was": 179.99,
+      "title": {
+        "de": "Amazon Kindle Kids 16 GB (Version 2024)",
+        "en": "Amazon Kindle Kids 16 GB (2024)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-spot-2024",
+      "asin": "B0C2S2J7JP",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 49.99,
+      "was": 119.99,
+      "title": {
+        "de": "Amazon Echo Spot (neueste Generation), smarter Wecker mit Alexa",
+        "en": "Amazon Echo Spot (latest generation), smart alarm clock with Alexa"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T10:10:00+01:00",
+      "checked": "2026-11-23T10:10:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "hakle-traumweich-16-rollen",
       "asin": "B01G8I0ELM",
       "brand": "Hakle",
