@@ -3,6 +3,63 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "rowenta-x-pert-6-60-essential",
+      "asin": "B09C6J3Z9F",
+      "brand": "Rowenta",
+      "cat": "home",
+      "now": 89.99,
+      "was": 129.99,
+      "title": {
+        "de": "Rowenta X-Pert 6.60 Essential Akku-Staubsauger",
+        "en": "Rowenta X-Pert 6.60 Essential cordless vacuum"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T19:40:00+01:00",
+      "checked": "2026-11-23T19:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "noco-boost-gb50",
+      "asin": "B07MVY7K43",
+      "brand": "NOCO",
+      "cat": "tools",
+      "now": 99.36,
+      "was": 179.95,
+      "title": {
+        "de": "NOCO Boost XL GB50 Starthilfe-Powerbank 1500 A",
+        "en": "NOCO Boost XL GB50 1500A jump starter"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T19:40:00+01:00",
+      "checked": "2026-11-23T19:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "carrera-rc-nerf-blasting-car",
+      "asin": "B0CVRQY7YR",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 26.49,
+      "was": 49.99,
+      "title": {
+        "de": "Carrera RC Nerf Blasting Car 2,4 GHz (370240020)",
+        "en": "Carrera RC Nerf Blasting Car 2.4 GHz (370240020)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T19:40:00+01:00",
+      "checked": "2026-11-23T19:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "jbl-quantum-100m2",
       "asin": "B0D6NLHV8N",
       "brand": "JBL",
