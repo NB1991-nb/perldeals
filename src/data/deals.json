@@ -3,6 +3,157 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "philips-haartrockner-5000-bhd510",
+      "asin": "B0C9V91171",
+      "brand": "PHILIPS",
+      "cat": "home",
+      "now": 36,
+      "was": 54.99,
+      "title": {
+        "de": "Philips Haartrockner 5000 Series (BHD510)",
+        "en": "Philips 5000 Series hair dryer (BHD510)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00"
+    },
+    {
+      "id": "pampers-premium-protection-gr4-186",
+      "asin": "B0GKVBB85B",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 40.75,
+      "was": 59.81,
+      "title": {
+        "de": "Pampers Premium Protection Größe 4, 186 Windeln",
+        "en": "Pampers Premium Protection size 4, 186 nappies"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-show-11",
+      "asin": "B0DTQCWJBR",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 179.99,
+      "was": 269.99,
+      "title": {
+        "de": "Amazon Echo Show 11 (neueste Generation)",
+        "en": "Amazon Echo Show 11 (latest generation)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "kosmos-karak",
+      "asin": "B0916YHDY1",
+      "brand": "Thames & Kosmos",
+      "cat": "toys",
+      "now": 17.29,
+      "was": 29.99,
+      "title": {
+        "de": "KOSMOS Karak – Das Abenteuer beginnt (Brettspiel)",
+        "en": "KOSMOS Karak board game"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lego-31168-ritterburg",
+      "asin": "B0DWDT5BQ9",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 78.79,
+      "was": 119.99,
+      "title": {
+        "de": "LEGO Creator 3in1 31168 Ritterburg im Mittelalter",
+        "en": "LEGO Creator 3in1 31168 Medieval Castle"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-71466-feuerwehrmotorrad",
+      "asin": "B0CK1V24GW",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 6.79,
+      "was": 12.99,
+      "title": {
+        "de": "PLAYMOBIL 71466 Feuerwehrmotorrad am Unfallort",
+        "en": "PLAYMOBIL 71466 Fire motorcycle at the accident scene"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-71202-rettungswagen",
+      "asin": "B0BKQP7DSS",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 35.09,
+      "was": 59.99,
+      "title": {
+        "de": "PLAYMOBIL 71202 Rettungswagen mit Licht und Sound",
+        "en": "PLAYMOBIL 71202 Ambulance with lights and sound"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-71615-krankenhaus",
+      "asin": "B0D1XZL4NF",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 56.99,
+      "was": 99.99,
+      "title": {
+        "de": "PLAYMOBIL 71615 Modernes Krankenhaus",
+        "en": "PLAYMOBIL 71615 Modern Hospital"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T17:35:00+01:00",
+      "checked": "2026-11-23T17:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "hot-wheels-city-t-rex-garage",
       "asin": "B0G43R2F1C",
       "brand": "Hot Wheels",
