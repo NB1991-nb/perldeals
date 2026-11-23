@@ -2140,7 +2140,7 @@
   "slug": "vorratsdeals",
   "kw": "Vorratsdeals Verbrauchsartikel",
   "h": "Vorratsdeals: Verbrauchsartikel stark reduziert",
-  "re": "Waschmittel|Spülmaschinen|Geschirrspül|Weichspüler|Spülmittel|Reiniger|Toilettenpapier|Küchenrolle|Taschentücher|Müllbeutel|Rasierklingen|Aufsteckbürste|Zahnpasta|Duschgel|Shampoo|Deo|Sonnencreme|Batterien|Druckerpatrone|Tintenpatrone|Toner|Kopierpapier|Filterkartusche|Gefrierbeutel|Backpapier|Kaffeebohnen|Kaffeekapseln|Windeln|Feuchttücher|Katzenstreu|Scheibenreiniger",
+  "re": "Waschmittel|Spülmaschinentabs|Geschirrspültabs|Weichspüler|Spülmittel|Allzweckreiniger|Glasreiniger|Toilettenpapier|Küchenrolle|Taschentücher|Müllbeutel|Müllsäcke|Rasierklingen|Ersatzklingen|Aufsteckbürsten|Zahnpasta|Duschgel|Shampoo|\\bDeo|Sonnencreme|Batterien AA|Druckerpatrone|Tintenpatrone|Kopierpapier|Filter-?[Kk]artusche|Gefrierbeutel|Backpapier|Kaffeebohnen|Kaffeekapseln|Windeln|Feuchttücher|Katzenstreu|Scheibenreiniger",
   "group": "haushalt",
   "intro": "Dinge, die man sowieso regelmäßig kauft – Waschmittel, Spülmaschinentabs, Rasierklingen, Batterien, Kaffee und mehr – mit starkem, geprüftem Rabatt. Ideal zum Vorrat-Anlegen.",
   "tips": [
