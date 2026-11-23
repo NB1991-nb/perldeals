@@ -3,6 +3,25 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "pampers-baby-dry-pants-gr5-180",
+      "asin": "B0GHXR964K",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 38.51,
+      "was": 55.02,
+      "title": {
+        "de": "Pampers Baby-Dry Pants Größe 5, 180 Windeln",
+        "en": "Pampers Baby-Dry Pants size 5, 180 nappies"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T21:30:00+01:00",
+      "checked": "2026-11-23T21:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "pampers-baby-dry-pants-gr6-176",
       "asin": "B0GHXDLVH6",
       "brand": "Pampers",
