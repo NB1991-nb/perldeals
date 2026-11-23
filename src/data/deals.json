@@ -3,6 +3,44 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "pampers-baby-dry-pants-gr6-176",
+      "asin": "B0GHXDLVH6",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 49.99,
+      "was": 69.99,
+      "title": {
+        "de": "Pampers Baby-Dry Pants Größe 6, 176 Windeln",
+        "en": "Pampers Baby-Dry Pants size 6, 176 nappies"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T20:30:00+01:00",
+      "checked": "2026-11-23T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lenovo-l27-41-monitor",
+      "asin": "B0FHKY7ZKB",
+      "brand": "Lenovo",
+      "cat": "computer",
+      "now": 79,
+      "was": 119,
+      "title": {
+        "de": "Lenovo L27-41 27-Zoll-Monitor (Full HD, 100 Hz, IPS)",
+        "en": "Lenovo L27-41 27-inch monitor (Full HD, 100 Hz, IPS)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T20:30:00+01:00",
+      "checked": "2026-11-23T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "rowenta-x-pert-6-60-essential",
       "asin": "B09C6J3Z9F",
       "brand": "Rowenta",
