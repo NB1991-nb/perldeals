@@ -3,6 +3,120 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "hot-wheels-city-t-rex-garage",
+      "asin": "B0G43R2F1C",
+      "brand": "Hot Wheels",
+      "cat": "toys",
+      "now": 78.99,
+      "was": 154.99,
+      "title": {
+        "de": "Hot Wheels City Ultimative T-Rex Garage mit 2 Autos",
+        "en": "Hot Wheels City Ultimate T-Rex Garage with 2 cars"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-kindle-paperwhite-kids-2024",
+      "asin": "B0CFPBQXGP",
+      "brand": "Amazon",
+      "cat": "computer",
+      "now": 144.99,
+      "was": 234.99,
+      "title": {
+        "de": "Amazon Kindle Paperwhite Kids 16 GB (Version 2024)",
+        "en": "Amazon Kindle Paperwhite Kids 16 GB (2024)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "logitech-mk270-set",
+      "asin": "B00BCE30RS",
+      "brand": "Logitech",
+      "cat": "computer",
+      "now": 17.09,
+      "was": 29.99,
+      "title": {
+        "de": "Logitech MK270 kabelloses Tastatur-Maus-Set",
+        "en": "Logitech MK270 wireless keyboard and mouse combo"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "bosch-multitalent-3-mcm3631m",
+      "asin": "B0HF8SMV7T",
+      "brand": "Bosch",
+      "cat": "kitchen",
+      "now": 79,
+      "was": 139.99,
+      "title": {
+        "de": "Bosch MultiTalent 3 MCM3631M Küchenmaschine, 800 W",
+        "en": "Bosch MultiTalent 3 MCM3631M food processor, 800 W"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-show-5-3gen",
+      "asin": "B09B2S8WKD",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 64.99,
+      "was": 119.99,
+      "title": {
+        "de": "Amazon Echo Show 5 (3. Generation), kompaktes Smart Display",
+        "en": "Amazon Echo Show 5 (3rd gen), compact smart display"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-echo-dot-5-2022",
+      "asin": "B09B8RF4PY",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 34.99,
+      "was": 89.99,
+      "title": {
+        "de": "Amazon Echo Dot (5. Generation, 2022), smarter Lautsprecher mit Alexa",
+        "en": "Amazon Echo Dot (5th gen, 2022), smart speaker with Alexa"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 23.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 23 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-23T15:35:00+01:00",
+      "checked": "2026-11-23T15:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "zewa-wisch-weg-sparblatt-mega-pack",
       "asin": "B086LV68QQ",
       "brand": "Zewa",
