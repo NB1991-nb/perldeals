@@ -2150,5 +2150,95 @@
    "Nur so viel bevorraten, wie vor dem Mindesthaltbarkeitsdatum verbraucht wird.",
    "Lebensmittel nehmen wir nur auf, wenn sie vegan sind."
   ]
+ },
+ {
+  "slug": "echo-alexa",
+  "kw": "Echo Angebote",
+  "h": "Amazon Echo & Alexa im Angebot",
+  "re": "\\bEcho (Dot|Show|Spot|Pop|Studio|Hub)|\\bEcho\\b.*Alexa",
+  "cat": "smarthome",
+  "group": "smarthome",
+  "intro": "Echo Dot, Echo Show, Echo Spot und andere Alexa-Geräte mit geprüftem Rabatt. Amazon senkt die Preise seiner eigenen Geräte regelmäßig stark.",
+  "tips": [
+   "Echo-Geräte sind zu Aktionen wie Black Friday und Prime Day oft 40–60 % günstiger.",
+   "Echo Show hat ein Display für Videoanrufe, Rezepte und Kameras, Echo Dot ist der günstige Einstieg.",
+   "Für Smart Home ohne Hub reicht meist ein Echo mit Matter-Unterstützung.",
+   "Ältere Generationen sind oft besonders stark reduziert, bekommen aber weiter Updates."
+  ]
+ },
+ {
+  "slug": "kindle",
+  "kw": "Kindle Angebote",
+  "h": "Kindle im Angebot: E-Reader von Amazon",
+  "re": "Kindle",
+  "cat": "computer",
+  "group": "computer",
+  "intro": "Kindle, Kindle Paperwhite, Kindle Kids, Colorsoft und Scribe mit geprüftem Rabatt.",
+  "tips": [
+   "Der Paperwhite ist wasserdicht und hat eine warme Beleuchtung, das Einstiegsmodell nicht.",
+   "Kids-Modelle haben 2 Jahre Sorglos-Garantie und eine Hülle dabei.",
+   "Die Version „mit Werbung“ ist günstiger, die Werbung lässt sich später gegen Gebühr entfernen.",
+   "Kindle-Preise sinken zu Prime Day und Black Friday am stärksten."
+  ]
+ },
+ {
+  "slug": "fire-tv-stick",
+  "kw": "Fire TV Stick Angebote",
+  "h": "Fire TV Stick & Fire TV im Angebot",
+  "re": "Fire TV",
+  "cat": "tv",
+  "group": "tv",
+  "intro": "Fire TV Stick, Fire TV Cube, Fire-TV-Fernseher und Soundbars mit geprüftem Rabatt.",
+  "tips": [
+   "Für 4K-Fernseher lohnt der Fire TV Stick 4K bzw. 4K Max, für ältere HD-Fernseher reicht der einfache Stick.",
+   "Wi-Fi 6 hilft bei schwachem WLAN im Wohnzimmer.",
+   "Fire-TV-Sticks sind zu Aktionstagen oft um die Hälfte reduziert.",
+   "Ein USB-Netzteil statt des TV-USB-Ports vermeidet Neustarts."
+  ]
+ },
+ {
+  "slug": "lego-angebote",
+  "kw": "LEGO Angebote",
+  "h": "LEGO-Angebote: alle reduzierten Sets",
+  "re": "\\bLEGO\\b",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "Alle LEGO-Sets mit geprüftem Rabatt: Star Wars, Technic, City, Creator, Speed Champions und mehr.",
+  "tips": [
+   "Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP: LEGO ist oft 20–40 % unter UVP zu haben.",
+   "Sets kurz vor dem Auslaufen (EOL) werden später oft teurer.",
+   "Bei Amazon, Alternate und OTTO gibt es regelmäßig Bestpreise.",
+   "Für Sammler: Karton unbeschädigt lassen, das erhöht den Wiederverkaufswert."
+  ]
+ },
+ {
+  "slug": "brettspiele",
+  "kw": "Brettspiele Angebote",
+  "h": "Brettspiele & Gesellschaftsspiele im Angebot",
+  "re": "Brettspiel|Gesellschaftsspiel|Familienspiel|(?<!Sammel)Kartenspiel|Kinderspiel|Catan|Karak",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "Brettspiele, Familienspiele und Kartenspiele von KOSMOS, Ravensburger, Hasbro und anderen mit geprüftem Rabatt.",
+  "tips": [
+   "Auf Spieleranzahl und Spieldauer achten, das steht auf jeder Schachtel.",
+   "Altersangaben sind Richtwerte, für jüngere Kinder gibt es oft eigene Junior-Versionen.",
+   "Erweiterungen nur kaufen, wenn das Grundspiel schon da ist.",
+   "Vor Weihnachten sind viele Spiele stark reduziert."
+  ]
+ },
+ {
+  "slug": "gaming-headset",
+  "kw": "Gaming Headset Angebote",
+  "h": "Gaming-Headsets im Angebot",
+  "re": "Gaming.?Headset|Quantum \\d|G733|G435|Arctis|HyperX Cloud|BlackShark",
+  "cat": "headphones",
+  "group": "audio",
+  "intro": "Gaming-Headsets von Logitech, JBL, SteelSeries, HyperX, Razer und anderen mit geprüftem Rabatt.",
+  "tips": [
+   "Kabellose Headsets mit 2,4-GHz-Dongle haben weniger Verzögerung als Bluetooth.",
+   "Ein abnehmbares Mikrofon ist praktisch, wenn du das Headset auch unterwegs nutzt.",
+   "Für PS5 und Switch auf Kompatibilität achten.",
+   "Ohrpolster aus Stoff sind bei langen Sessions angenehmer als Kunstleder."
+  ]
  }
 ]

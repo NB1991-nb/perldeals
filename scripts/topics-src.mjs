@@ -260,6 +260,24 @@ t("babyphone", "Babyphone", "Babyphone im Angebot", "Babyphone|Babyfon", { cat: 
   ["DECT-Geräte funken verschlüsselt und störungsarm, ohne WLAN.", "Reichweite und Akkulaufzeit der Elterneinheit vergleichen.", "Das Gerät mit Abstand zum Kinderbett aufstellen.", "Kamera-Babyphones mit App vorher auf Datenschutz prüfen."]);
 
 /* Preisgrenzen */
+t("echo-alexa", "Echo Angebote", "Amazon Echo & Alexa im Angebot", "\\bEcho (Dot|Show|Spot|Pop|Studio|Hub)|\\bEcho\\b.*Alexa", { cat: "smarthome", group: "smarthome" },
+  "Echo Dot, Echo Show, Echo Spot und andere Alexa-Geräte mit geprüftem Rabatt. Amazon senkt die Preise seiner eigenen Geräte regelmäßig stark.",
+  ["Echo-Geräte sind zu Aktionen wie Black Friday und Prime Day oft 40–60 % günstiger.", "Echo Show hat ein Display für Videoanrufe, Rezepte und Kameras, Echo Dot ist der günstige Einstieg.", "Für Smart Home ohne Hub reicht meist ein Echo mit Matter-Unterstützung.", "Ältere Generationen sind oft besonders stark reduziert, bekommen aber weiter Updates."]);
+t("kindle", "Kindle Angebote", "Kindle im Angebot: E-Reader von Amazon", "Kindle", { cat: "computer", group: "computer" },
+  "Kindle, Kindle Paperwhite, Kindle Kids, Colorsoft und Scribe mit geprüftem Rabatt.",
+  ["Der Paperwhite ist wasserdicht und hat eine warme Beleuchtung, das Einstiegsmodell nicht.", "Kids-Modelle haben 2 Jahre Sorglos-Garantie und eine Hülle dabei.", "Die Version „mit Werbung“ ist günstiger, die Werbung lässt sich später gegen Gebühr entfernen.", "Kindle-Preise sinken zu Prime Day und Black Friday am stärksten."]);
+t("fire-tv-stick", "Fire TV Stick Angebote", "Fire TV Stick & Fire TV im Angebot", "Fire TV", { cat: "tv", group: "tv" },
+  "Fire TV Stick, Fire TV Cube, Fire-TV-Fernseher und Soundbars mit geprüftem Rabatt.",
+  ["Für 4K-Fernseher lohnt der Fire TV Stick 4K bzw. 4K Max, für ältere HD-Fernseher reicht der einfache Stick.", "Wi-Fi 6 hilft bei schwachem WLAN im Wohnzimmer.", "Fire-TV-Sticks sind zu Aktionstagen oft um die Hälfte reduziert.", "Ein USB-Netzteil statt des TV-USB-Ports vermeidet Neustarts."]);
+t("lego-angebote", "LEGO Angebote", "LEGO-Angebote: alle reduzierten Sets", "\\bLEGO\\b", { cat: "toys", group: "spielzeug" },
+  "Alle LEGO-Sets mit geprüftem Rabatt: Star Wars, Technic, City, Creator, Speed Champions und mehr.",
+  ["Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP: LEGO ist oft 20–40 % unter UVP zu haben.", "Sets kurz vor dem Auslaufen (EOL) werden später oft teurer.", "Bei Amazon, Alternate und OTTO gibt es regelmäßig Bestpreise.", "Für Sammler: Karton unbeschädigt lassen, das erhöht den Wiederverkaufswert."]);
+t("brettspiele", "Brettspiele Angebote", "Brettspiele & Gesellschaftsspiele im Angebot", "Brettspiel|Gesellschaftsspiel|Familienspiel|(?<!Sammel)Kartenspiel|Kinderspiel|Catan|Karak", { cat: "toys", group: "spielzeug" },
+  "Brettspiele, Familienspiele und Kartenspiele von KOSMOS, Ravensburger, Hasbro und anderen mit geprüftem Rabatt.",
+  ["Auf Spieleranzahl und Spieldauer achten, das steht auf jeder Schachtel.", "Altersangaben sind Richtwerte, für jüngere Kinder gibt es oft eigene Junior-Versionen.", "Erweiterungen nur kaufen, wenn das Grundspiel schon da ist.", "Vor Weihnachten sind viele Spiele stark reduziert."]);
+t("gaming-headset", "Gaming Headset Angebote", "Gaming-Headsets im Angebot", "Gaming.?Headset|Quantum \\d|G733|G435|Arctis|HyperX Cloud|BlackShark", { cat: "headphones", group: "audio" },
+  "Gaming-Headsets von Logitech, JBL, SteelSeries, HyperX, Razer und anderen mit geprüftem Rabatt.",
+  ["Kabellose Headsets mit 2,4-GHz-Dongle haben weniger Verzögerung als Bluetooth.", "Ein abnehmbares Mikrofon ist praktisch, wenn du das Headset auch unterwegs nutzt.", "Für PS5 und Switch auf Kompatibilität achten.", "Ohrpolster aus Stoff sind bei langen Sessions angenehmer als Kunstleder."]);
 const P = (slug, kw, h, re, o, intro) => t(slug, kw, h, re, { ...o, price: true }, intro, ["Ein hoher Rabatt allein sagt wenig: Wir vergleichen mit dem Preisverlauf, nicht nur mit der UVP.", "Lieferkosten und Rückgaberecht des Shops beachten.", "Setz einen Preisalarm, wenn dein Wunschprodukt noch nicht günstig genug ist."]);
 P("deals-unter-10-euro", "Deals unter 10 Euro", "Deals unter 10 Euro", ".", { max: 10, group: "preis" }, "Kleine Preise, echte Rabatte: alle geprüften Deals bis 10 Euro auf einen Blick.");
 P("deals-unter-20-euro", "Deals unter 20 Euro", "Deals unter 20 Euro", ".", { max: 20, group: "preis" }, "Alle geprüften Deals bis 20 Euro, ideal für Mitbringsel und Wichtelgeschenke.");

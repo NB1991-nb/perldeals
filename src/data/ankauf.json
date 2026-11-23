@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-23",
  "pages": [
   {
    "slug": "pokemon-karten",
@@ -23,11 +23,33 @@
     "Versiegelte Ware: Folie von allen Seiten zeigen"
    ],
    "faq": [
-    ["Kauft ihr auch einzelne Pokémon-Karten an?", "Ja, besonders gesuchte Einzelkarten wie alte Holos, Karten der 1. Edition oder moderne Special Illustration Rares. Bei sehr günstigen Einzelkarten lohnt sich der Ankauf meist nur als Teil einer Sammlung."],
-    ["Kauft ihr japanische Pokémon-Karten?", "Ja, wir kaufen deutsche, englische und japanische Karten an. Gib die Sprache bei der Anfrage mit an."],
-    ["Kauft ihr Pokémon-Bulk?", "Ja, größere Mengen Häufige und Ungewöhnliche nehmen wir als Bulk an. Der Preis richtet sich nach Menge und Zusammensetzung."]
+    [
+     "Kauft ihr auch einzelne Pokémon-Karten an?",
+     "Ja, besonders gesuchte Einzelkarten wie alte Holos, Karten der 1. Edition oder moderne Special Illustration Rares. Bei sehr günstigen Einzelkarten lohnt sich der Ankauf meist nur als Teil einer Sammlung."
+    ],
+    [
+     "Kauft ihr japanische Pokémon-Karten?",
+     "Ja, wir kaufen deutsche, englische und japanische Karten an. Gib die Sprache bei der Anfrage mit an."
+    ],
+    [
+     "Kauft ihr Pokémon-Bulk?",
+     "Ja, größere Mengen Häufige und Ungewöhnliche nehmen wir als Bulk an. Der Preis richtet sich nach Menge und Zusammensetzung."
+    ]
    ],
-   "links": [["/wissen/pokemon-karten-wert-ermitteln/", "Pokémon-Karten Wert ermitteln"], ["/reseller/pokemon-haendler/sets-und-top-karten/", "Welche Sets und Karten wertvoll sind"], ["/reseller/pokemon-haendler/faelschungen-erkennen/", "Fälschungen erkennen"]]
+   "links": [
+    [
+     "/wissen/pokemon-karten-wert-ermitteln/",
+     "Pokémon-Karten Wert ermitteln"
+    ],
+    [
+     "/reseller/pokemon-haendler/sets-und-top-karten/",
+     "Welche Sets und Karten wertvoll sind"
+    ],
+    [
+     "/reseller/pokemon-haendler/faelschungen-erkennen/",
+     "Fälschungen erkennen"
+    ]
+   ]
   },
   {
    "slug": "yugioh-karten",
@@ -50,11 +72,29 @@
     "Wertvolle Karten einzeln fotografieren, Ordner seitenweise"
    ],
    "faq": [
-    ["Welche Yu-Gi-Oh-Karten sind wertvoll?", "Vor allem frühe Karten in 1. Auflage, seltene Druckvarianten wie Ghost oder Starlight Rare und gesuchte Turnierkarten. Der Zustand spielt eine große Rolle."],
-    ["Kauft ihr auch deutsche Yu-Gi-Oh-Karten?", "Ja, wir kaufen deutsche und englische Karten an."],
-    ["Lohnt sich der Verkauf einer alten Yu-Gi-Oh-Sammlung?", "Oft ja, denn in alten Sammlungen stecken manchmal einzelne gesuchte Karten. Schick uns Fotos, dann schauen wir sie uns kostenlos an."]
+    [
+     "Welche Yu-Gi-Oh-Karten sind wertvoll?",
+     "Vor allem frühe Karten in 1. Auflage, seltene Druckvarianten wie Ghost oder Starlight Rare und gesuchte Turnierkarten. Der Zustand spielt eine große Rolle."
+    ],
+    [
+     "Kauft ihr auch deutsche Yu-Gi-Oh-Karten?",
+     "Ja, wir kaufen deutsche und englische Karten an."
+    ],
+    [
+     "Lohnt sich der Verkauf einer alten Yu-Gi-Oh-Sammlung?",
+     "Oft ja, denn in alten Sammlungen stecken manchmal einzelne gesuchte Karten. Schick uns Fotos, dann schauen wir sie uns kostenlos an."
+    ]
    ],
-   "links": [["/wissen/pokemon-karten-verkaufen/", "Sammelkarten verkaufen: Wo bekommst du am meisten?"], ["/reseller/rechner/", "Reseller-Rechner: Gebühren und Gewinn berechnen"]]
+   "links": [
+    [
+     "/wissen/pokemon-karten-verkaufen/",
+     "Sammelkarten verkaufen: Wo bekommst du am meisten?"
+    ],
+    [
+     "/reseller/rechner/",
+     "Reseller-Rechner: Gebühren und Gewinn berechnen"
+    ]
+   ]
   },
   {
    "slug": "one-piece-karten",
@@ -76,10 +116,25 @@
     "Versiegelte Displays von allen Seiten zeigen"
    ],
    "faq": [
-    ["Kauft ihr japanische One-Piece-Karten?", "Ja, englische und japanische Karten kaufen wir an."],
-    ["Kauft ihr versiegelte One-Piece-Displays?", "Ja, wenn die Originalfolie unbeschädigt ist."]
+    [
+     "Kauft ihr japanische One-Piece-Karten?",
+     "Ja, englische und japanische Karten kaufen wir an."
+    ],
+    [
+     "Kauft ihr versiegelte One-Piece-Displays?",
+     "Ja, wenn die Originalfolie unbeschädigt ist."
+    ]
    ],
-   "links": [["/reseller/one-piece/", "One-Piece-Termine und Deals"], ["/reseller/one-piece-display-kaufen/", "One Piece Display kaufen"]]
+   "links": [
+    [
+     "/reseller/one-piece/",
+     "One-Piece-Termine und Deals"
+    ],
+    [
+     "/reseller/one-piece-display-kaufen/",
+     "One Piece Display kaufen"
+    ]
+   ]
   },
   {
    "slug": "retro-konsolen",
@@ -103,11 +158,33 @@
     "Gelbstichiges Gehäuse oder fehlende Klappen ehrlich angeben"
    ],
    "faq": [
-    ["Kauft ihr defekte Konsolen?", "Nein, wir kaufen nur funktionierende Geräte in gutem Zustand an."],
-    ["Lohnt sich die Originalverpackung?", "Ja, Konsolen und Spiele mit Originalverpackung und Anleitung erzielen oft deutlich höhere Preise als lose Geräte."],
-    ["Kauft ihr auch einzelne Controller?", "Original-Controller und Zubehör nehmen wir gern zusammen mit Konsolen oder Spielen an."]
+    [
+     "Kauft ihr defekte Konsolen?",
+     "Nein, wir kaufen nur funktionierende Geräte in gutem Zustand an."
+    ],
+    [
+     "Lohnt sich die Originalverpackung?",
+     "Ja, Konsolen und Spiele mit Originalverpackung und Anleitung erzielen oft deutlich höhere Preise als lose Geräte."
+    ],
+    [
+     "Kauft ihr auch einzelne Controller?",
+     "Original-Controller und Zubehör nehmen wir gern zusammen mit Konsolen oder Spielen an."
+    ]
    ],
-   "links": [["/reseller/konsolen-lexikon/","Konsolen-Lexikon: Erscheinungsdaten & Fakten aller Retro-Konsolen"],["/reseller/ankauf/videospiele/", "Videospiele verkaufen"], ["/reseller/rechner/", "Reseller-Rechner"]]
+   "links": [
+    [
+     "/reseller/konsolen-lexikon/",
+     "Konsolen-Lexikon: Erscheinungsdaten & Fakten aller Retro-Konsolen"
+    ],
+    [
+     "/reseller/ankauf/videospiele/",
+     "Videospiele verkaufen"
+    ],
+    [
+     "/reseller/rechner/",
+     "Reseller-Rechner"
+    ]
+   ]
   },
   {
    "slug": "videospiele",
@@ -129,10 +206,25 @@
     "Discs: Kratzer ehrlich angeben, Module: Etikettzustand zeigen"
    ],
    "faq": [
-    ["Welche alten Videospiele sind wertvoll?", "Gefragt sind vor allem bekannte Nintendo-Titel, seltene Auflagen und vollständige Spiele mit Originalverpackung und Anleitung. Lose Module bringen meist weniger."],
-    ["Kauft ihr aktuelle Spiele?", "Schwerpunkt sind Retro-Spiele und Sammlerstücke. Aktuelle Spiele nehmen wir eher als Teil einer größeren Sammlung an."]
+    [
+     "Welche alten Videospiele sind wertvoll?",
+     "Gefragt sind vor allem bekannte Nintendo-Titel, seltene Auflagen und vollständige Spiele mit Originalverpackung und Anleitung. Lose Module bringen meist weniger."
+    ],
+    [
+     "Kauft ihr aktuelle Spiele?",
+     "Schwerpunkt sind Retro-Spiele und Sammlerstücke. Aktuelle Spiele nehmen wir eher als Teil einer größeren Sammlung an."
+    ]
    ],
-   "links": [["/reseller/ankauf/retro-konsolen/", "Retro-Konsolen verkaufen"], ["/reseller/konsolen/", "Konsolen-Deals für Reseller"]]
+   "links": [
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Retro-Konsolen verkaufen"
+    ],
+    [
+     "/reseller/konsolen-lexikon/",
+     "Konsolen-Deals für Reseller"
+    ]
+   ]
   },
   {
    "slug": "lego",
@@ -154,10 +246,891 @@
     "Bei gebrauchten Sets angeben, ob sie vollständig sind"
    ],
    "faq": [
-    ["Kauft ihr gebrauchtes LEGO?", "Ja, vollständige Sets mit Anleitung und gut erhaltene Sammlungen. Am gefragtesten sind versiegelte und eingestellte Sets."],
-    ["Was sind EOL-Sets?", "End of Life: Sets, die LEGO nicht mehr produziert. Sie steigen oft im Wert. Eine Übersicht findest du in unserer LEGO-EOL-Liste."]
+    [
+     "Kauft ihr gebrauchtes LEGO?",
+     "Ja, vollständige Sets mit Anleitung und gut erhaltene Sammlungen. Am gefragtesten sind versiegelte und eingestellte Sets."
+    ],
+    [
+     "Was sind EOL-Sets?",
+     "End of Life: Sets, die LEGO nicht mehr produziert. Sie steigen oft im Wert. Eine Übersicht findest du in unserer LEGO-EOL-Liste."
+    ]
    ],
-   "links": [["/reseller/lego-eol/", "LEGO-Sets kurz vor EOL"], ["/reseller/", "LEGO-Deals und Aktionen für Reseller"]]
+   "links": [
+    [
+     "/reseller/lego-eol/",
+     "LEGO-Sets kurz vor EOL"
+    ],
+    [
+     "/reseller/",
+     "LEGO-Deals und Aktionen für Reseller"
+    ]
+   ]
+  },
+  {
+   "slug": "game-boy",
+   "what": "Game Boy",
+   "form": "Retro-Konsolen",
+   "title": "Game Boy verkaufen: Ankauf von Game Boy, Color, Advance & Spielen",
+   "h1": "Game Boy verkaufen: Wir kaufen Konsolen und Spiele",
+   "desc": "Game Boy Classic, Color, Advance und SP verkaufen, dazu Module wie Pokémon, Zelda und Tetris. Aktuelle eBay-Verkaufspreise als Richtwert, Fotos per WhatsApp, kostenloses Angebot.",
+   "lead": "Ob grauer Classic-Game-Boy aus den 90ern, Game Boy Color, Advance oder SP: Wir kaufen funktionierende Konsolen und Module an, einzeln oder als Sammlung.",
+   "intro": [
+    "Game-Boy-Spiele sind gefragt wie lange nicht. Besonders Pokémon-Editionen, Zelda und seltene Module bringen gutes Geld, während viele Sportspiele und Lizenztitel nur wenige Euro wert sind.",
+    "Wichtig für den Preis: Funktioniert die Konsole, ist das Display frei von Pixelfehlern, sind Batteriefach und Kontakte sauber? Bei Modulen zählt vor allem ein gut erhaltenes Etikett."
+   ],
+   "buy": [
+    "Game Boy Classic (DMG), Pocket, Light, Color, Advance und Advance SP",
+    "Original-Module, einzeln oder als Sammlung",
+    "Pokémon-Editionen (Rot, Blau, Gelb, Gold, Silber, Kristall, Rubin, Saphir, Smaragd, Feuerrot, Blattgrün)",
+    "Spiele mit Originalverpackung und Anleitung",
+    "Zubehör: Link-Kabel, Netzteile, Original-Taschen, Game Boy Camera und Printer"
+   ],
+   "werte": {
+    "title": "Was ist ein Game Boy heute wert?",
+    "col": "Konsole bzw. Spiel",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Game Boy Classic (DMG)",
+      "ca. 72–120 €"
+     ],
+     [
+      "Game Boy Color",
+      "ca. 63–129 €"
+     ],
+     [
+      "Game Boy Advance",
+      "ca. 64–106 €"
+     ],
+     [
+      "Game Boy Advance SP",
+      "ca. 72–110 €"
+     ],
+     [
+      "Pokémon Kristall-Edition (GBC)",
+      "ca. 73–90 €"
+     ],
+     [
+      "Pokémon Rote Edition",
+      "ca. 31–81 €"
+     ],
+     [
+      "Pokémon Gelbe Edition",
+      "ca. 28–37 €"
+     ],
+     [
+      "Zelda: Link's Awakening",
+      "ca. 29–44 €"
+     ],
+     [
+      "Super Mario Land 2",
+      "ca. 10–21 €"
+     ],
+     [
+      "Donkey Kong Land",
+      "ca. 10–15 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole einschalten und ein Foto vom laufenden Bild schicken",
+    "Bei Modulen Vorder- und Rückseite fotografieren, Etiketten gut erkennbar",
+    "Batteriefach öffnen und zeigen, ob es sauber ist",
+    "Bei Pokémon-Spielen kurz sagen, ob der Spielstand noch geht"
+   ],
+   "faq": [
+    [
+     "Kauft ihr auch nur einzelne Game-Boy-Spiele?",
+     "Ja, vor allem gesuchte Titel wie Pokémon oder Zelda. Günstige Einzelmodule kaufen wir am liebsten als Teil einer Sammlung."
+    ],
+    [
+     "Kauft ihr Game Boys mit Displayfehlern?",
+     "Nur mit Abschlag und nur, wenn die Konsole sonst funktioniert. Defekte Geräte ohne Bild kaufen wir nicht an."
+    ],
+    [
+     "Was ist mit leerer Speicherbatterie?",
+     "Bei alten Pokémon-Modulen ist eine leere Batterie normal. Das senkt den Preis etwas, das Modul kaufen wir trotzdem."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/konsolen-lexikon/",
+     "Konsolen-Lexikon mit Erscheinungsdaten"
+    ],
+    [
+     "/reseller/ankauf/pokemon-spiele/",
+     "Pokémon-Spiele verkaufen"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Alle Retro-Konsolen"
+    ]
+   ]
+  },
+  {
+   "slug": "pokemon-spiele",
+   "what": "Pokémon-Spiele",
+   "form": "Videospiele",
+   "title": "Pokémon-Spiele verkaufen: Wert von Rot, Gold, Smaragd & Co.",
+   "h1": "Pokémon-Spiele verkaufen: Was deine Editionen wert sind",
+   "desc": "Was sind Pokémon Rot, Gelb, Kristall, Smaragd, Feuerrot oder HeartGold wert? Aktuelle eBay-Verkaufspreise für alle Editionen von Game Boy bis DS, dazu kostenloser Ankauf per WhatsApp.",
+   "lead": "Pokémon-Spiele für Game Boy, Game Boy Advance und Nintendo DS sind heute viel mehr wert als damals im Laden. Hier siehst du aktuelle Verkaufspreise und kannst deine Spiele direkt an uns verkaufen.",
+   "intro": [
+    "Am meisten bringen derzeit Smaragd, Feuerrot und Blattgrün auf dem GBA, HeartGold und SoulSilver auf dem DS sowie Schwarz 2 und Weiß 2. Bei den ganz alten Editionen ist die Kristall-Edition am gefragtesten.",
+    "Achtung, es gibt viele Fälschungen: Echte Module haben ein Nintendo-Logo auf der Platine, ein sauber gedrucktes Etikett und bei GBA eine eingeprägte Nummer auf der Rückseite. Wir prüfen jedes Spiel, bevor wir es kaufen."
+   ],
+   "buy": [
+    "Game Boy und Game Boy Color: Rot, Blau, Gelb, Gold, Silber, Kristall, Pinball, Trading Card Game",
+    "Game Boy Advance: Rubin, Saphir, Smaragd, Feuerrot, Blattgrün, Mystery Dungeon",
+    "Nintendo DS: Diamant, Perl, Platin, HeartGold, SoulSilver, Schwarz, Weiß, Schwarz 2, Weiß 2",
+    "3DS und Switch: X, Y, Sonne, Mond, Schwert, Schild, Karmesin, Purpur und mehr",
+    "Spiele mit Originalverpackung, Anleitung und Pokéwalker"
+   ],
+   "werte": {
+    "title": "Pokémon-Spiele Wert: aktuelle Verkaufspreise",
+    "col": "Edition",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (deutsche Versionen, ohne Sammel- und Defektangebote; DS-Spiele meist mit Hülle), abgerufen am 23.11.2026. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Rote Edition (GB)",
+      "ca. 31–81 €"
+     ],
+     [
+      "Blaue Edition (GB)",
+      "ca. 25–36 €"
+     ],
+     [
+      "Gelbe Edition (GB)",
+      "ca. 28–37 €"
+     ],
+     [
+      "Goldene Edition (GBC)",
+      "ca. 31–40 €"
+     ],
+     [
+      "Silberne Edition (GBC)",
+      "ca. 34–45 €"
+     ],
+     [
+      "Kristall-Edition (GBC)",
+      "ca. 73–90 €"
+     ],
+     [
+      "Rubin-Edition (GBA)",
+      "ca. 45–60 €"
+     ],
+     [
+      "Saphir-Edition (GBA)",
+      "ca. 45–60 €"
+     ],
+     [
+      "Smaragd-Edition (GBA)",
+      "ca. 99–120 €"
+     ],
+     [
+      "Feuerrote Edition (GBA)",
+      "ca. 76–105 €"
+     ],
+     [
+      "Blattgrüne Edition (GBA)",
+      "ca. 79–98 €"
+     ],
+     [
+      "Diamant-Edition (DS)",
+      "ca. 26–35 €"
+     ],
+     [
+      "Perl-Edition (DS)",
+      "ca. 25–36 €"
+     ],
+     [
+      "Platin-Edition (DS)",
+      "ca. 55–69 €"
+     ],
+     [
+      "HeartGold (DS)",
+      "ca. 75–115 €"
+     ],
+     [
+      "SoulSilver (DS)",
+      "ca. 40–104 €"
+     ],
+     [
+      "Schwarze Edition (DS)",
+      "ca. 50–100 €"
+     ],
+     [
+      "Weiße Edition (DS)",
+      "ca. 50–90 €"
+     ],
+     [
+      "Schwarze Edition 2 (DS)",
+      "ca. 90–115 €"
+     ],
+     [
+      "Weiße Edition 2 (DS)",
+      "ca. 71–120 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Modul von vorn und hinten fotografieren, bei GBA auch die Platine durch den Schlitz, wenn möglich",
+    "Mit Hülle und Anleitung: alles zusammen fotografieren",
+    "Sprache angeben (deutsch, englisch, andere)",
+    "Mehrere Editionen zusammen anbieten lohnt sich meist"
+   ],
+   "faq": [
+    [
+     "Welches Pokémon-Spiel ist am meisten wert?",
+     "Bei den deutschen Modulen ohne Verpackung derzeit meist Smaragd, Schwarz 2, HeartGold und Feuerrot/Blattgrün. Komplett mit Verpackung sind ältere Editionen teils mehrere Hundert Euro wert."
+    ],
+    [
+     "Kauft ihr Pokémon-Spiele mit leerer Batterie?",
+     "Ja. Bei Gold, Silber und Kristall ist die Speicherbatterie oft leer. Das mindert den Preis etwas."
+    ],
+    [
+     "Woran erkenne ich ein gefälschtes Pokémon-Spiel?",
+     "Unscharfes oder glänzendes Etikett, fehlendes Nintendo-Logo auf der Platine, falsche Schrauben und ein zu leichtes Modul sind typische Hinweise. Schick uns im Zweifel Fotos."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/game-boy/",
+     "Game Boy verkaufen"
+    ],
+    [
+     "/reseller/ankauf/nintendo-ds-3ds/",
+     "Nintendo DS und 3DS verkaufen"
+    ],
+    [
+     "/reseller/ankauf/pokemon-karten/",
+     "Pokémon-Karten verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "nintendo-64",
+   "what": "Nintendo 64",
+   "form": "Retro-Konsolen",
+   "title": "Nintendo 64 verkaufen: Ankauf von N64 Konsole & Spielen",
+   "h1": "Nintendo 64 verkaufen: Konsole, Controller und Spiele",
+   "desc": "N64 verkaufen: Wir kaufen Nintendo 64 Konsolen, Controller, Expansion Pak und Spiele wie Mario Kart 64, Zelda, GoldenEye. Aktuelle eBay-Preise als Richtwert, kostenloses Angebot.",
+   "lead": "Die Nintendo 64 ist einer der beliebtesten Retro-Klassiker. Wir kaufen funktionierende Konsolen, Original-Controller und Module an, gern als komplettes Paket.",
+   "intro": [
+    "Ein N64-Paket mit Konsole, zwei Controllern und ein paar Klassikern bringt deutlich mehr als die Konsole allein. Am gefragtesten sind Zelda, Mario Kart 64, GoldenEye und seltene Titel wie Hydro Thunder.",
+    "Original-Controller mit straffem Analogstick sind mehr wert als ausgeleierte. Das Expansion Pak (rote Kappe) gehört bei einigen Spielen dazu und erhöht den Preis."
+   ],
+   "buy": [
+    "Nintendo 64 Konsolen, auch farbige Sondermodelle",
+    "Original-Controller, Rumble Pak, Memory Pak, Expansion Pak",
+    "Module, einzeln oder als Sammlung",
+    "Spiele mit Originalverpackung und Anleitung"
+   ],
+   "werte": {
+    "title": "Was sind N64 Konsole und Spiele wert?",
+    "col": "Konsole bzw. Spiel",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Nintendo 64 Konsole mit Controller",
+      "ca. 67–160 €"
+     ],
+     [
+      "Zelda: Ocarina of Time",
+      "ca. 34–50 €"
+     ],
+     [
+      "GoldenEye 007",
+      "ca. 30–43 €"
+     ],
+     [
+      "Mario Kart 64",
+      "ca. 28–35 €"
+     ],
+     [
+      "Super Mario 64",
+      "ca. 15–21 €"
+     ],
+     [
+      "Banjo-Kazooie",
+      "ca. 16–23 €"
+     ],
+     [
+      "Pokémon Stadium",
+      "ca. 15–30 €"
+     ],
+     [
+      "Hydro Thunder (PAL)",
+      "ca. 30–70 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole mit angeschlossenem Controller fotografieren, gern mit laufendem Spiel",
+    "Analogsticks kurz testen und angeben, ob sie straff sind",
+    "Expansion Pak oder Jumper Pak erwähnen",
+    "Module mit Etikett nach vorn fotografieren"
+   ],
+   "faq": [
+    [
+     "Kauft ihr auch einzelne N64-Spiele?",
+     "Ja, besonders gesuchte Titel. Günstige Sportspiele nehmen wir lieber als Teil einer Sammlung."
+    ],
+    [
+     "Ist eine N64 ohne Expansion Pak weniger wert?",
+     "Ein wenig. Ohne Jumper oder Expansion Pak startet die Konsole gar nicht, deshalb sollte eins davon dabei sein."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/konsolen-lexikon/nintendo-64/",
+     "Nintendo 64 im Konsolen-Lexikon"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Alle Retro-Konsolen"
+    ],
+    [
+     "/reseller/ankauf/videospiele/",
+     "Videospiele verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "super-nintendo",
+   "what": "Super Nintendo",
+   "form": "Retro-Konsolen",
+   "title": "Super Nintendo verkaufen: Ankauf von SNES, NES & Spielen",
+   "h1": "Super Nintendo verkaufen: SNES, NES und Spiele",
+   "desc": "SNES und NES verkaufen: Wir kaufen Super Nintendo Konsolen, Controller und Module wie Super Mario World, Zelda, Terranigma und Secret of Mana. eBay-Preise als Richtwert, Angebot per WhatsApp.",
+   "lead": "Super Nintendo und NES aus den 80ern und 90ern sind gesuchte Sammlerstücke. Wir kaufen Konsolen, Original-Controller und Module an, auch ganze Kisten vom Dachboden.",
+   "intro": [
+    "Besonders gefragt sind Rollenspiele wie Terranigma, Secret of Mana und Zelda: A Link to the Past sowie Super Mario Kart und Donkey Kong Country. Viele Sport- und Lizenzspiele bringen dagegen nur ein paar Euro.",
+    "Vergilbte Konsolen sind normal und kein Problem. Wichtig ist, dass die Konsole startet und die Controller-Tasten funktionieren."
+   ],
+   "buy": [
+    "Super Nintendo (SNES) und NES Konsolen",
+    "Original-Controller, Netzteile, Antennen- und AV-Kabel",
+    "Module, einzeln oder als Sammlung",
+    "Spiele mit Originalverpackung und Anleitung, auch Spieleberater"
+   ],
+   "werte": {
+    "title": "Was sind SNES und SNES-Spiele wert?",
+    "col": "Konsole bzw. Spiel",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Super Nintendo Konsole mit Controller",
+      "ca. 55–119 €"
+     ],
+     [
+      "NES Konsole mit Controller",
+      "ca. 64–120 €"
+     ],
+     [
+      "Terranigma",
+      "ca. 35–50 €"
+     ],
+     [
+      "Zelda: A Link to the Past",
+      "ca. 30–41 €"
+     ],
+     [
+      "Secret of Mana",
+      "ca. 24–35 €"
+     ],
+     [
+      "Super Mario Kart",
+      "ca. 24–35 €"
+     ],
+     [
+      "Donkey Kong Country",
+      "ca. 20–30 €"
+     ],
+     [
+      "Super Mario World",
+      "ca. 12–20 €"
+     ],
+     [
+      "Super Metroid",
+      "ca. 50–80 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole mit Controllern und Kabeln zusammen fotografieren",
+    "Module von vorn und hinten, Etiketten gut sichtbar",
+    "Bei Spielen mit Verpackung Ecken und Rückseite zeigen",
+    "Angeben, ob alles getestet ist"
+   ],
+   "faq": [
+    [
+     "Kauft ihr auch vergilbte SNES-Konsolen?",
+     "Ja. Vergilbung ist bei SNES normal und senkt den Preis kaum, solange die Konsole funktioniert."
+    ],
+    [
+     "Kauft ihr NES-Spiele?",
+     "Ja, Original-NES-Module in deutscher bzw. europäischer Version kaufen wir ebenfalls an."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/konsolen-lexikon/",
+     "Konsolen-Lexikon"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Alle Retro-Konsolen"
+    ],
+    [
+     "/reseller/ankauf/videospiele/",
+     "Videospiele verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "nintendo-switch",
+   "what": "Nintendo Switch",
+   "form": "Videospiele",
+   "title": "Nintendo Switch verkaufen: Ankauf von Konsole, OLED, Lite & Spielen",
+   "h1": "Nintendo Switch verkaufen: Konsole und Spiele",
+   "desc": "Switch, Switch OLED oder Switch Lite verkaufen, dazu Spiele wie Mario Kart, Zelda und Pokémon. Aktuelle eBay-Verkaufspreise als Richtwert, kostenloses Angebot per WhatsApp.",
+   "lead": "Du spielst nicht mehr oder bist auf die Switch 2 umgestiegen? Wir kaufen deine Nintendo Switch, Switch OLED oder Switch Lite samt Spielen und Zubehör an.",
+   "intro": [
+    "Eine Switch mit Dock, Joy-Cons und Netzteil bringt am meisten. Fehlt Zubehör oder driften die Joy-Cons, gibt es Abzüge.",
+    "Bitte vor dem Verkauf dein Nintendo-Konto von der Konsole trennen und die Konsole auf Werkseinstellungen zurücksetzen. Wir erklären dir gern, wie das geht."
+   ],
+   "buy": [
+    "Nintendo Switch (V1, V2), Switch OLED und Switch Lite",
+    "Switch 2",
+    "Joy-Cons, Pro Controller, Dock und Zubehör",
+    "Spiele als Modul, einzeln oder als Sammlung",
+    "Sondereditionen mit Originalverpackung"
+   ],
+   "werte": {
+    "title": "Was ist eine gebrauchte Switch wert?",
+    "col": "Konsole",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Nintendo Switch (V2) mit Joy-Cons und Dock",
+      "ca. 110–160 €"
+     ],
+     [
+      "Nintendo Switch OLED",
+      "ca. 139–219 €"
+     ],
+     [
+      "Nintendo Switch Lite",
+      "ca. 92–140 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole eingeschaltet fotografieren, gern mit Seriennummer auf der Unterseite",
+    "Angeben, ob Dock, Netzteil und Joy-Cons dabei sind",
+    "Joy-Con-Drift kurz testen und ehrlich angeben",
+    "Spiele-Module mit Hülle fotografieren"
+   ],
+   "faq": [
+    [
+     "Muss ich mein Nintendo-Konto vorher löschen?",
+     "Du solltest es von der Konsole trennen und die Konsole zurücksetzen. Dann sind deine Daten sicher und die Konsole kann weiterverkauft werden."
+    ],
+    [
+     "Kauft ihr gesperrte oder gebannte Konsolen?",
+     "Nein. Konsolen mit Online-Sperre oder veränderter Software kaufen wir nicht an."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/videospiele/",
+     "Videospiele verkaufen"
+    ],
+    [
+     "/reseller/ankauf/pokemon-spiele/",
+     "Pokémon-Spiele verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "playstation",
+   "what": "PlayStation",
+   "form": "Videospiele",
+   "title": "PlayStation verkaufen: Ankauf von PS1, PS2, PS4, PS5 & PSP",
+   "h1": "PlayStation verkaufen: Konsolen und Spiele",
+   "desc": "PS1, PS2, PS3, PS4, PS5 oder PSP verkaufen: Wir kaufen Konsolen, Controller und Spiele an. Aktuelle eBay-Preise als Richtwert, Fotos per WhatsApp, kostenloses Angebot.",
+   "lead": "Von der ersten PlayStation bis zur PS5: Wir kaufen funktionierende Sony-Konsolen, Original-Controller und Spiele an, gern als Paket.",
+   "intro": [
+    "Bei älteren Konsolen wie PS1, PS2 und PSP sind komplette Pakete mit Controllern und Spielen am meisten wert. Bei PS4 und PS5 zählen Zustand, Speichergröße und Zubehör.",
+    "Gesucht sind vor allem Original-Spiele für PS1 und PS2 in gutem Zustand, mit Anleitung und unzerkratzter Disc."
+   ],
+   "buy": [
+    "PlayStation 1, PS one, PlayStation 2 (Fat und Slim), PS3, PS4, PS5",
+    "PSP und PS Vita",
+    "Original-Controller und Memory Cards",
+    "Spiele mit Hülle und Anleitung, einzeln oder als Sammlung"
+   ],
+   "werte": {
+    "title": "Was sind ältere PlayStation-Konsolen wert?",
+    "col": "Konsole",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "PlayStation 1 mit Controller",
+      "ca. 45–85 €"
+     ],
+     [
+      "PlayStation 2 Slim",
+      "ca. 62–125 €"
+     ],
+     [
+      "PlayStation 4 Slim 500 GB",
+      "ca. 89–141 €"
+     ],
+     [
+      "PSP",
+      "ca. 60–150 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole eingeschaltet fotografieren, am besten mit Menü auf dem Bildschirm",
+    "Disc-Spiele mit Rückseite der Disc fotografieren, damit Kratzer sichtbar sind",
+    "Bei PS4/PS5 vorher das Konto abmelden und auf Werkseinstellungen zurücksetzen",
+    "Controller-Anzahl und Zustand angeben"
+   ],
+   "faq": [
+    [
+     "Kauft ihr PS2-Spiele ohne Anleitung?",
+     "Ja, mit etwas Abschlag. Am meisten bringen Spiele mit Hülle, Anleitung und gut erhaltener Disc."
+    ],
+    [
+     "Kauft ihr Konsolen mit Laufwerksfehler?",
+     "Nein, wir kaufen nur funktionierende Konsolen an."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/videospiele/",
+     "Videospiele verkaufen"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Retro-Konsolen verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "nintendo-ds-3ds",
+   "what": "Nintendo DS und 3DS",
+   "form": "Videospiele",
+   "title": "Nintendo DS & 3DS verkaufen: Ankauf von Konsolen & Spielen",
+   "h1": "Nintendo DS und 3DS verkaufen",
+   "desc": "DS Lite, DSi, 3DS, New 3DS XL und 2DS verkaufen, dazu Spiele wie Pokémon und Zelda. Ein New 3DS XL ist gebraucht oft 190–330 € wert. Aktuelle eBay-Preise, kostenloses Angebot.",
+   "lead": "Gerade der 3DS ist gebraucht deutlich teurer geworden, weil Nintendo ihn nicht mehr herstellt. Wir kaufen DS- und 3DS-Konsolen samt Spielen an.",
+   "intro": [
+    "Der New Nintendo 3DS XL gehört zu den wertvollsten gebrauchten Handhelds. Auch der normale 3DS bringt meist deutlich mehr als ein DS Lite.",
+    "Bei Spielen sind vor allem Pokémon-Editionen gesucht, dazu Zelda, Mario und seltene Titel. Lernspiele und Kinderspiele bringen dagegen meist nur wenige Euro."
+   ],
+   "buy": [
+    "DS, DS Lite, DSi, DSi XL",
+    "3DS, 3DS XL, 2DS, New 3DS, New 3DS XL, New 2DS XL",
+    "Spiele mit oder ohne Hülle",
+    "Ladekabel, Stylus, Original-Taschen"
+   ],
+   "werte": {
+    "title": "Was sind DS und 3DS heute wert?",
+    "col": "Konsole",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "New Nintendo 3DS XL",
+      "ca. 188–330 €"
+     ],
+     [
+      "Nintendo 3DS",
+      "ca. 132–217 €"
+     ],
+     [
+      "Nintendo DS Lite",
+      "ca. 35–128 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Beide Displays eingeschaltet fotografieren",
+    "Scharniere und Kratzer auf dem oberen Display zeigen",
+    "Angeben, ob Ladekabel und Stylus dabei sind",
+    "Bei 3DS: Speicherkarte drin lassen oder angeben, dass sie fehlt"
+   ],
+   "faq": [
+    [
+     "Warum ist der 3DS so teuer geworden?",
+     "Die Produktion ist eingestellt, viele Spiele gibt es nur dort, und Sammler suchen gut erhaltene Geräte. Deshalb sind die Preise gestiegen."
+    ],
+    [
+     "Kauft ihr DS mit kaputtem Scharnier?",
+     "Nur mit deutlichem Abschlag, wenn beide Displays funktionieren."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/pokemon-spiele/",
+     "Pokémon-Spiele verkaufen"
+    ],
+    [
+     "/reseller/ankauf/game-boy/",
+     "Game Boy verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "gamecube-wii",
+   "what": "GameCube und Wii",
+   "form": "Retro-Konsolen",
+   "title": "GameCube & Wii verkaufen: Ankauf von Konsolen & Spielen",
+   "h1": "GameCube und Wii verkaufen",
+   "desc": "Nintendo GameCube, Wii und Wii U verkaufen: Wir kaufen Konsolen, Original-Controller und Spiele an. GameCube-Spiele wie Zelda, Pokémon und Mario sind gesucht. Kostenloses Angebot per WhatsApp.",
+   "lead": "GameCube-Spiele gehören inzwischen zu den gefragtesten Retro-Spielen. Wir kaufen GameCube, Wii und Wii U samt Controllern und Spielen an.",
+   "intro": [
+    "Viele GameCube-Spiele sind heute mehr wert als zum Release, besonders Rollenspiele, Pokémon-Titel und Nintendo-Klassiker. Auch Original-Controller und Memory Cards sind gefragt.",
+    "Die Wii selbst ist günstig, aber Pakete mit Remotes, Nunchuks und Spielen wie Mario Kart lassen sich gut verkaufen."
+   ],
+   "buy": [
+    "GameCube in allen Farben, Game Boy Player",
+    "Wii, Wii mini, Wii U",
+    "Original-Controller, WaveBird, Memory Cards, Wii Remotes",
+    "Spiele mit Hülle und Anleitung"
+   ],
+   "werte": {
+    "title": "Was sind GameCube und Wii wert?",
+    "col": "Konsole",
+    "note": "Mittlere Hälfte der zuletzt verkauften eBay.de-Angebote (lose Module bzw. Konsolen ohne OVP, funktionsfähig, ohne Defekt- und Sammelangebote), abgerufen am 23.11.2026. Komplett mit Originalverpackung und Anleitung oft deutlich mehr. Richtwerte, keine Garantie.",
+    "rows": [
+     [
+      "Nintendo GameCube mit Controller",
+      "ca. 37–99 €"
+     ],
+     [
+      "Nintendo Wii",
+      "ca. 35–85 €"
+     ]
+    ]
+   },
+   "tips": [
+    "Konsole mit allen Kabeln und Controllern fotografieren",
+    "Discs von der Unterseite fotografieren",
+    "Angeben, ob Spiele mit Anleitung sind",
+    "Seltene Titel einzeln nennen"
+   ],
+   "faq": [
+    [
+     "Kauft ihr GameCube-Spiele ohne Anleitung?",
+     "Ja, mit etwas Abschlag. Am meisten bringen komplette Spiele mit Hülle, Anleitung und gut erhaltener Disc."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/konsolen-lexikon/",
+     "Konsolen-Lexikon"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Alle Retro-Konsolen"
+    ]
+   ]
+  },
+  {
+   "slug": "pokemon-sammlung",
+   "what": "Pokémon-Sammlung",
+   "form": "Pokémon-Karten",
+   "title": "Pokémon-Karten Sammlung verkaufen: Ordner, Kindheitssammlung, Nachlass",
+   "h1": "Pokémon-Sammlung verkaufen: Ordner, Kisten und Kindheitssammlungen",
+   "desc": "Alte Pokémon-Sammlung oder Ordner verkaufen: Wir kaufen Kindheitssammlungen, Karten-Kisten und Nachlässe komplett an, auch gemischt und mit Bulk. Fotos per WhatsApp, kostenloses Angebot.",
+   "lead": "Im Keller oder auf dem Dachboden steht noch der alte Pokémon-Ordner? Wir kaufen ganze Sammlungen an, auch wenn du nicht weißt, was drin ist.",
+   "intro": [
+    "In alten Sammlungen stecken oft einzelne wertvolle Karten: Holos aus Base Set, Dschungel und Fossil, Karten der 1. Edition oder seltene Promos. Der Rest ist meist Bulk, den wir trotzdem mitnehmen.",
+    "Du musst die Sammlung nicht vorher sortieren. Ein Foto pro Ordnerseite reicht uns für eine erste Einschätzung."
+   ],
+   "buy": [
+    "Ganze Ordner und Sammelalben",
+    "Kisten und Schuhkartons voller Karten",
+    "Gemischte Sammlungen mit Holos und Bulk",
+    "Nachlässe und Haushaltsauflösungen",
+    "Zusätzlich Booster, Displays und Zubehör"
+   ],
+   "tips": [
+    "Jede Ordnerseite einmal fotografieren, bei gutem Licht",
+    "Holos und Karten mit Stempel extra fotografieren",
+    "Ungefähre Anzahl der Karten angeben",
+    "Nicht aus dem Ordner reißen: lieber vorsichtig herausnehmen oder drin lassen"
+   ],
+   "faq": [
+    [
+     "Muss ich meine Sammlung vorher sortieren?",
+     "Nein. Schick uns einfach Fotos von den Ordnerseiten oder der Kiste. Wir schauen sie durch und machen dir ein Angebot für alles."
+    ],
+    [
+     "Kauft ihr auch beschädigte Karten?",
+     "In einer Sammlung ja, mit entsprechendem Abschlag. Stark beschädigte Einzelkarten sind meist kaum etwas wert."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/pokemon-karten/",
+     "Pokémon-Karten verkaufen"
+    ],
+    [
+     "/wissen/pokemon-karten-wert-ermitteln/",
+     "Pokémon-Karten Wert ermitteln"
+    ],
+    [
+     "/reseller/ankauf/dachbodenfund/",
+     "Dachbodenfund verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "pokemon-displays",
+   "what": "versiegelte Pokémon-Produkte",
+   "form": "Pokémon-Karten",
+   "title": "Pokémon Display & ETB verkaufen: Ankauf versiegelter Produkte",
+   "h1": "Pokémon-Displays und Boxen verkaufen",
+   "desc": "Versiegelte Pokémon-Displays, Elite-Trainer-Boxen, Booster-Bundles und Kollektionen verkaufen. Wir kaufen deutsche, englische und japanische Ware an. Fotos per WhatsApp, kostenloses Angebot.",
+   "lead": "Du hast Displays oder Elite-Trainer-Boxen gelagert und willst jetzt verkaufen? Wir kaufen versiegelte Pokémon-Produkte einzeln und in größeren Mengen an.",
+   "intro": [
+    "Bei versiegelter Ware zählt die Originalfolie. Beschädigte oder neu eingeschweißte Folie senkt den Wert stark, deshalb prüfen wir jedes Produkt genau.",
+    "Ältere, ausverkaufte Sets sind meist mehr wert als aktuelle. Bei größeren Mengen machen wir ein Gesamtangebot."
+   ],
+   "buy": [
+    "Booster-Displays (36er) in Deutsch, Englisch und Japanisch",
+    "Elite-Trainer-Boxen und Top-Trainer-Boxen",
+    "Booster-Bundles, Blister, Kollektionen und Tins",
+    "Ältere, ausverkaufte Sets und Sondereditionen",
+    "Größere Mengen und Lagerbestände"
+   ],
+   "tips": [
+    "Folie von allen Seiten fotografieren",
+    "Bei Displays die Unterseite mit Barcode zeigen",
+    "Sprache und Anzahl angeben",
+    "Lagerbestand als Liste schicken (Produkt, Sprache, Anzahl)"
+   ],
+   "faq": [
+    [
+     "Kauft ihr auch geöffnete Displays?",
+     "Nein, nur versiegelte Ware mit Originalfolie. Einzelne Booster aus geöffneten Displays kaufen wir nur in größeren Mengen."
+    ],
+    [
+     "Kauft ihr japanische Displays?",
+     "Ja, japanische Displays sind gefragt. Gib die Sprache bei der Anfrage mit an."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/pokemon-karten/",
+     "Pokémon-Karten verkaufen"
+    ],
+    [
+     "/reseller/pokemon-haendler/",
+     "Pokémon für Händler"
+    ]
+   ]
+  },
+  {
+   "slug": "dachbodenfund",
+   "what": "Dachbodenfund",
+   "form": "Sonstiges",
+   "title": "Dachbodenfund verkaufen: Konsolen, Spiele, Karten & LEGO aus Keller und Nachlass",
+   "h1": "Dachbodenfund verkaufen: Wir kaufen alte Konsolen, Spiele und Sammlungen",
+   "desc": "Alte Spielekonsolen, Videospiele, Pokémon-Karten oder LEGO beim Aufräumen, Umzug oder in einem Nachlass gefunden? Wir kaufen alles zusammen an. Fotos per WhatsApp, kostenloses Angebot.",
+   "lead": "Beim Aufräumen, Umzug oder einer Haushaltsauflösung tauchen oft alte Konsolen, Spiele und Sammlungen auf. Wir kaufen alles zusammen an, ohne dass du sortieren musst.",
+   "intro": [
+    "Viele unterschätzen alte Kinderzimmer-Sachen: Ein Game Boy mit Pokémon-Spiel, eine Nintendo 64 oder ein Ordner mit Pokémon-Karten können zusammen mehrere Hundert Euro wert sein.",
+    "Schick uns ein paar Übersichtsfotos und dazu Nahaufnahmen der Konsolen und Spiele. Wir sagen dir, was wertvoll ist, und machen ein Angebot für alles."
+   ],
+   "buy": [
+    "Spielekonsolen und Handhelds aller Generationen",
+    "Videospiele, Module und Discs",
+    "Pokémon-, Yu-Gi-Oh- und One-Piece-Karten",
+    "LEGO-Sets und Kisten mit losen Steinen",
+    "Kisten aus Nachlass, Umzug und Haushaltsauflösung"
+   ],
+   "tips": [
+    "Erst ein Übersichtsfoto von allem, dann Nahaufnahmen",
+    "Konsolen einschalten, wenn möglich",
+    "Nichts wegwerfen: auch Kabel, Hüllen und Anleitungen haben Wert",
+    "Bei großen Mengen gern eine kurze Liste schicken"
+   ],
+   "faq": [
+    [
+     "Kauft ihr auch gemischte Kisten?",
+     "Ja, gerade gemischte Kisten mit Konsolen, Spielen und Karten kaufen wir gern als Ganzes."
+    ],
+    [
+     "Holt ihr auch ab?",
+     "Im Raum Osnabrück ist eine persönliche Übergabe möglich. Sonst läuft der Ankauf über versicherten Versand."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/osnabrueck/",
+     "Ankauf in Osnabrück und Umgebung"
+    ],
+    [
+     "/reseller/ankauf/retro-konsolen/",
+     "Retro-Konsolen verkaufen"
+    ],
+    [
+     "/reseller/ankauf/pokemon-sammlung/",
+     "Pokémon-Sammlung verkaufen"
+    ]
+   ]
+  },
+  {
+   "slug": "osnabrueck",
+   "what": "Ankauf in Osnabrück",
+   "form": "Sonstiges",
+   "title": "Ankauf Osnabrück: Konsolen, Videospiele, Pokémon-Karten & LEGO verkaufen",
+   "h1": "Ankauf in Osnabrück und Umgebung: Konsolen, Spiele und Karten",
+   "desc": "Konsolen, Videospiele, Pokémon-Karten und LEGO in Osnabrück, Hagen a.T.W., Georgsmarienhütte, Bad Iburg, Melle und Umgebung verkaufen. Persönliche Übergabe möglich, kostenloses Angebot per WhatsApp.",
+   "lead": "Wir sitzen in Hagen am Teutoburger Wald bei Osnabrück. Aus der Region kannst du deine Sachen auch persönlich übergeben, ganz ohne Versand.",
+   "intro": [
+    "Aus Osnabrück, Hagen a.T.W., Georgsmarienhütte, Hasbergen, Bad Iburg, Lengerich, Melle und dem Osnabrücker Land ist eine persönliche Übergabe nach Absprache möglich.",
+    "Schick uns zuerst Fotos per WhatsApp. Passt unser Angebot, vereinbaren wir einen Termin für die Übergabe. Bezahlt wird per Überweisung."
+   ],
+   "buy": [
+    "Retro-Konsolen und Handhelds (Game Boy, N64, SNES, GameCube und mehr)",
+    "Videospiele für Nintendo, PlayStation, Xbox und Sega",
+    "Pokémon-, Yu-Gi-Oh- und One-Piece-Karten",
+    "Versiegelte Displays und Boxen",
+    "LEGO-Sets und Sammlungen"
+   ],
+   "tips": [
+    "Fotos vorab per WhatsApp schicken",
+    "Ort bzw. PLZ angeben",
+    "Bei größeren Mengen sagen, ob du eine Übergabe vor Ort wünschst"
+   ],
+   "faq": [
+    [
+     "Kann ich in Osnabrück persönlich verkaufen?",
+     "Ja, aus Osnabrück und Umgebung ist nach Absprache eine persönliche Übergabe möglich. Vorher bekommst du ein Angebot anhand deiner Fotos."
+    ],
+    [
+     "Kauft ihr auch außerhalb der Region?",
+     "Ja, deutschlandweit über versicherten Versand."
+    ]
+   ],
+   "links": [
+    [
+     "/reseller/ankauf/dachbodenfund/",
+     "Dachbodenfund verkaufen"
+    ],
+    [
+     "/reseller/karten-ankauf/",
+     "Alle Infos zum Ankauf"
+    ]
+   ]
   }
  ]
 }
