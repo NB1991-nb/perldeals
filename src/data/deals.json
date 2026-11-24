@@ -3,6 +3,120 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "pampers-premium-protection-gr7-156",
+      "asin": "B0GKV5RBSS",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 49.27,
+      "was": 69.99,
+      "title": {
+        "de": "Pampers Premium Protection Größe 7, 156 Windeln",
+        "en": "Pampers Premium Protection size 7, 156 nappies"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lg-27us50z-w-4k-monitor",
+      "asin": "B0GXZQH1G6",
+      "brand": "LG",
+      "cat": "computer",
+      "now": 154.99,
+      "was": 219,
+      "title": {
+        "de": "LG UltraFine 27US50Z-W 27-Zoll-4K-Monitor",
+        "en": "LG UltraFine 27US50Z-W 27-inch 4K monitor"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "tcl-s45he-soundbar",
+      "asin": "B0D2LMV6B3",
+      "brand": "TCL",
+      "cat": "tv",
+      "now": 69,
+      "was": 99,
+      "title": {
+        "de": "TCL S45HE Soundbar 2.0 mit Dolby Atmos",
+        "en": "TCL S45HE 2.0 soundbar with Dolby Atmos"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "gillette-labs-10-klingen",
+      "asin": "B0DTTMQVK4",
+      "brand": "Gillette",
+      "cat": "home",
+      "now": 28.03,
+      "was": 45.99,
+      "title": {
+        "de": "Gillette Labs Rasierklingen, 10 Ersatzklingen",
+        "en": "Gillette Labs razor blades, 10 refills"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "kosmos-anno-1800-brettspiel",
+      "asin": "B08BWCKYYQ",
+      "brand": "Kosmos",
+      "cat": "toys",
+      "now": 30.38,
+      "was": 49.99,
+      "title": {
+        "de": "KOSMOS Anno 1800 – Das Brettspiel",
+        "en": "KOSMOS Anno 1800 board game"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "remington-d1500-on-the-go",
+      "asin": "B01N39SZ87",
+      "brand": "Remington",
+      "cat": "home",
+      "now": 11.9,
+      "was": 37.99,
+      "title": {
+        "de": "Remington D1500 On The Go Reisehaartrockner (klappbar)",
+        "en": "Remington D1500 On The Go travel hair dryer (foldable)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T09:40:00+01:00",
+      "checked": "2026-11-24T09:40:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "corsair-hs80-rgb-wireless",
       "asin": "B09B836TTQ",
       "brand": "Corsair",
