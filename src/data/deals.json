@@ -3,6 +3,137 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "corsair-hs80-rgb-wireless",
+      "asin": "B09B836TTQ",
+      "brand": "Corsair",
+      "cat": "headphones",
+      "now": 79.99,
+      "was": 109.99,
+      "title": {
+        "de": "Corsair HS80 RGB Wireless Gaming-Headset",
+        "en": "Corsair HS80 RGB Wireless gaming headset"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "zewa-bewaehrt-48-rollen",
+      "asin": "B0B57J39DD",
+      "brand": "Zewa",
+      "cat": "home",
+      "now": 19.99,
+      "was": 30.6,
+      "title": {
+        "de": "Zewa bewährt Toilettenpapier, 48 Rollen",
+        "en": "Zewa toilet paper, 48 rolls"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00"
+    },
+    {
+      "id": "steelseries-rival-3-gen-2",
+      "asin": "B0F5QBSRDR",
+      "brand": "SteelSeries",
+      "cat": "computer",
+      "now": 24,
+      "was": 39.99,
+      "title": {
+        "de": "SteelSeries Rival 3 Gen 2 Gaming-Maus",
+        "en": "SteelSeries Rival 3 Gen 2 gaming mouse"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "samsung-gu85u7099h-85-zoll",
+      "asin": "B0GXZSX1JZ",
+      "brand": "Samsung",
+      "cat": "tv",
+      "now": 899,
+      "was": 1499,
+      "title": {
+        "de": "Samsung Crystal UHD U7099H 85 Zoll (4K, Smart TV)",
+        "en": "Samsung Crystal UHD U7099H 85-inch (4K, smart TV)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "canon-pixma-g650",
+      "asin": "B093QG1Y8C",
+      "brand": "Canon",
+      "cat": "computer",
+      "now": 199,
+      "was": 339,
+      "title": {
+        "de": "Canon PIXMA G650 Tintentank-Fotodrucker (A4, WLAN, Scanner)",
+        "en": "Canon PIXMA G650 ink tank photo printer (A4, Wi-Fi, scanner)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "ecovacs-deebot-t50-omni-gen3",
+      "asin": "B0GQT9CQ17",
+      "brand": "ECOVACS",
+      "cat": "home",
+      "now": 239,
+      "was": 449,
+      "title": {
+        "de": "ECOVACS DEEBOT T50 Omni Gen3 Saug- und Wischroboter",
+        "en": "ECOVACS DEEBOT T50 Omni Gen3 robot vacuum and mop"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00"
+    },
+    {
+      "id": "ravensburger-mycelia-27489",
+      "asin": "B0B6KR4BDC",
+      "brand": "Ravensburger",
+      "cat": "toys",
+      "now": 18.99,
+      "was": 39.99,
+      "title": {
+        "de": "Ravensburger Mycelia 27489 – Deckbuilding-Familienspiel",
+        "en": "Ravensburger Mycelia 27489 deck-building family game"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T07:35:00+01:00",
+      "checked": "2026-11-24T07:35:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "pampers-baby-dry-pants-gr5-180",
       "asin": "B0GHXR964K",
       "brand": "Pampers",
