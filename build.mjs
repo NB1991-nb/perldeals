@@ -1387,6 +1387,7 @@ function buildCoupon(lang, k, name){
     ${deals.length ? grid(deals.slice(0, 24), lang, "h2", de ? `Aktuelle ${name}-Angebote` : `Current ${name} deals`) : ""}
     <div class="wrap">
     ${SHOPS[k] ? `<p class="prose"><a class="more" href="${R.shop[lang](k)}">${de?`Alle ${deals.length} ${name}-Angebote`:`All ${deals.length} ${name} deals`}</a></p>` : ""}
+    ${(() => { if (!de) return ""; const ws = WISSEN.items.filter(w => w.slug.startsWith(k + "-")); return ws.length ? `<section class="section"><h2>Ratgeber zu ${esc(name)}</h2><ul class="prose">${ws.map(w => `<li><a href="/wissen/${w.slug}/">${esc(w.title)}</a></li>`).join("")}</ul></section>` : ""; })()}
     ${followBox(lang)}
     ${faqBlock(lang, faq)}
     <section class="section"><h2>${de?"Gutscheine anderer Shops":"Vouchers for other shops"}</h2><div class="chips">${others}</div></section>

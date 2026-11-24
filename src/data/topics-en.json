@@ -955,5 +955,71 @@
    "Set a price alert if the product you want isn't cheap enough yet."
   ],
   "title": "Deals over 50% Off in Germany: Checked Discounts"
+ },
+ "spielzeug-angebote": {
+  "kw": "toy deals",
+  "h": "Toy Deals: LEGO, Playmobil, Carrera & more",
+  "intro": "Toy deals on LEGO, Playmobil, Carrera, Hot Wheels, board games and more in Germany – checked discounts, great for birthdays and Christmas.",
+  "tips": [
+   "Popular sets often sell out before Christmas – buy early when the price is good.",
+   "Check the age rating, especially small parts for children under 3.",
+   "For race tracks and RC cars, check whether batteries are included.",
+   "Retired sets often get more expensive afterwards."
+  ]
+ },
+ "windeln-angebote": {
+  "kw": "diaper deals",
+  "h": "Diaper Deals: Pampers & Co.",
+  "intro": "Pampers diapers, pants and wipes in bulk packs with checked discounts. What counts is the price per diaper.",
+  "tips": [
+   "Always compare the price per diaper, not per pack.",
+   "Big packs only pay off if the size still fits for a few weeks.",
+   "Pants are handy once your child won't keep still during changing.",
+   "Amazon Subscribe & Save often adds a few percent off."
+  ]
+ },
+ "rasierklingen": {
+  "kw": "razor blade deals",
+  "h": "Razor Blade Deals: Gillette, OneBlade & more",
+  "intro": "Replacement blades from Gillette (Fusion5, Labs, Mach3) and Philips OneBlade with checked discounts – bulk packs are especially worth it.",
+  "tips": [
+   "Compare the price per blade – large packs are usually much cheaper.",
+   "Blades only fit their own system, e.g. Fusion5 blades on Fusion5 handles.",
+   "Store blades dry so they last longer.",
+   "Gillette starter packs with a handle often cost about the same as blades alone."
+  ]
+ },
+ "speicherkarte": {
+  "kw": "microSD card deals",
+  "h": "Memory Card Deals: microSD & SD",
+  "intro": "microSD and SD cards from SanDisk, Samsung and others with checked discounts – including microSD Express for Nintendo Switch 2.",
+  "tips": [
+   "Switch 2 needs microSD Express; regular microSD cards only work there for screenshots and videos.",
+   "For 4K video, look for U3 or V30.",
+   "For cameras and drones, write speed matters most.",
+   "Buy from known retailers – fake cards are a real problem."
+  ]
+ },
+ "powerbank": {
+  "kw": "power bank deals",
+  "h": "Power Bank Deals",
+  "intro": "Power banks from Anker and other brands with checked discounts – from small 10,000 mAh packs to laptop power banks.",
+  "tips": [
+   "For laptops, plan at least 65 W over USB-C.",
+   "10,000 mAh is usually enough for one or two phone charges.",
+   "Power banks up to 100 Wh are generally allowed in carry-on luggage – check your airline's rules.",
+   "Jump starter power banks for cars are their own category and also charge phones."
+  ]
+ },
+ "fernseher-43-zoll": {
+  "kw": "43 inch TV deals",
+  "h": "43-Inch TV Deals",
+  "intro": "43-inch TVs from TCL, Samsung, Amazon and others with checked discounts – ideal for bedrooms, kitchens or small living rooms.",
+  "tips": [
+   "At 43 inches, 4K pays off from about 1–1.5 m viewing distance.",
+   "Check the operating system (Google TV, Fire TV, Tizen) – it decides which apps you get.",
+   "For gaming look for HDMI 2.1 or 120 Hz – few 43-inch models have it.",
+   "Small TVs often sound thin – a soundbar helps."
+  ]
  }
 }

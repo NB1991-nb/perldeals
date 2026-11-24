@@ -2240,5 +2240,93 @@
    "Für PS5 und Switch auf Kompatibilität achten.",
    "Ohrpolster aus Stoff sind bei langen Sessions angenehmer als Kunstleder."
   ]
+ },
+ {
+  "slug": "spielzeug-angebote",
+  "kw": "Spielzeug Angebote",
+  "h": "Spielzeug im Angebot: LEGO, Playmobil, Carrera & mehr",
+  "re": "\\bLEGO\\b|Playmobil|PLAYMOBIL|Hot Wheels|Carrera|Spielzeug|Barbie|Nerf|Brettspiel|Kartenspiel|Puzzle",
+  "cat": "toys",
+  "group": "spielzeug",
+  "intro": "Spielzeug-Deals von LEGO, Playmobil, Carrera, Hot Wheels, Brettspielen und mehr – mit geprüftem Rabatt, ideal für Geburtstag und Weihnachten.",
+  "tips": [
+   "Beliebte Sets werden vor Weihnachten oft knapp – bei gutem Preis lieber früher zugreifen.",
+   "Altersangabe auf der Packung beachten, vor allem bei Kleinteilen für Kinder unter 3 Jahren.",
+   "Bei Rennbahnen und ferngesteuerten Autos prüfen, ob Batterien oder Akkus dabei sind.",
+   "Ältere Sets fallen oft aus dem Sortiment und werden danach teurer."
+  ]
+ },
+ {
+  "slug": "windeln-angebote",
+  "kw": "Windeln Angebot",
+  "h": "Windeln im Angebot: Pampers & Co.",
+  "re": "Pampers|Windel|Feuchttücher",
+  "group": "haushalt",
+  "intro": "Pampers-Windeln, Pants und Feuchttücher im Vorratspack mit geprüftem Rabatt. Der Preis pro Windel zählt.",
+  "tips": [
+   "Immer den Preis pro Windel vergleichen, nicht den Packungspreis.",
+   "Große Vorratspacks lohnen sich nur, wenn die Größe noch einige Wochen passt.",
+   "Pants sind praktisch, sobald das Kind beim Wickeln nicht mehr stillhält.",
+   "Bei Amazon gibt es mit Spar-Abo oft zusätzlich ein paar Prozent Rabatt."
+  ]
+ },
+ {
+  "slug": "rasierklingen",
+  "kw": "Rasierklingen Angebot",
+  "h": "Rasierklingen im Angebot: Gillette, OneBlade & mehr",
+  "re": "Rasierklinge|Ersatzklingen|Klingen",
+  "group": "haushalt",
+  "intro": "Ersatzklingen von Gillette (Fusion5, Labs, Mach3) und Philips OneBlade mit geprüftem Rabatt – Vorratspacks lohnen sich hier besonders.",
+  "tips": [
+   "Den Preis pro Klinge vergleichen – große Packs sind meist deutlich günstiger.",
+   "Klingen passen nur auf das passende System, z. B. Fusion5 auf Fusion5-Griffe.",
+   "Klingen trocken lagern, dann halten sie länger.",
+   "Bei Gillette gibt es öfter Starterpacks mit Griff zum Klingenpreis."
+  ]
+ },
+ {
+  "slug": "speicherkarte",
+  "kw": "microSD Karte Angebot",
+  "h": "Speicherkarten im Angebot: microSD & SD",
+  "re": "microSD|Micro ?SD|SD-Karte|Speicherkarte|SDXC",
+  "cat": "computer",
+  "group": "computer",
+  "intro": "microSD- und SD-Karten von SanDisk, Samsung und anderen mit geprüftem Rabatt – auch microSD Express für die Nintendo Switch 2.",
+  "tips": [
+   "Für die Switch 2 braucht es microSD Express, normale microSD-Karten funktionieren dort nur für Screenshots und Videos.",
+   "Für 4K-Video auf U3 bzw. V30 achten.",
+   "Für Kameras und Drohnen zählt vor allem die Schreibgeschwindigkeit.",
+   "Lieber bei bekannten Händlern kaufen, gefälschte Karten sind ein Problem."
+  ]
+ },
+ {
+  "slug": "powerbank",
+  "kw": "Powerbank Angebot",
+  "h": "Powerbanks im Angebot",
+  "re": "Powerbank|Power Bank|Starthilfe",
+  "cat": "phone",
+  "group": "phone",
+  "intro": "Powerbanks von Anker und anderen Marken mit geprüftem Rabatt – vom kleinen 10.000-mAh-Akku bis zur Laptop-Powerbank.",
+  "tips": [
+   "Für Laptops mindestens 65 W über USB-C einplanen.",
+   "10.000 mAh reichen meist für ein bis zwei Smartphone-Ladungen.",
+   "Im Flugzeug sind Powerbanks bis 100 Wh im Handgepäck in der Regel erlaubt – Airline-Regeln vorher prüfen.",
+   "Starthilfe-Powerbanks fürs Auto sind eine eigene Geräteklasse und laden auch Handys."
+  ]
+ },
+ {
+  "slug": "fernseher-43-zoll",
+  "kw": "Fernseher 43 Zoll Angebot",
+  "h": "43-Zoll-Fernseher im Angebot",
+  "re": "43 ?Zoll|43\"|43T6C",
+  "cat": "tv",
+  "group": "tv",
+  "intro": "43-Zoll-Fernseher von TCL, Samsung, Amazon und anderen mit geprüftem Rabatt – ideal für Schlafzimmer, Küche oder kleine Wohnzimmer.",
+  "tips": [
+   "Bei 43 Zoll lohnt sich 4K ab etwa 1 bis 1,5 m Sitzabstand.",
+   "Auf das Betriebssystem achten (Google TV, Fire TV, Tizen), davon hängen die Apps ab.",
+   "Für Gaming auf HDMI 2.1 bzw. 120 Hz achten – das haben bei 43 Zoll nur wenige Geräte.",
+   "Kleine Fernseher klingen oft dünn – eine Soundbar hilft."
+  ]
  }
 ]
