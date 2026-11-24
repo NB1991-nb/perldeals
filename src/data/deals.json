@@ -3,6 +3,101 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "pampers-premium-protection-gr5-186",
+      "asin": "B0GKV2ZDMR",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 50.5,
+      "was": 69.99,
+      "title": {
+        "de": "Pampers Premium Protection Größe 5, 186 Windeln",
+        "en": "Pampers Premium Protection size 5, 186 diapers"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T15:25:00+01:00",
+      "checked": "2026-11-24T15:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lego-71515-dreamzzz-tigerhai",
+      "asin": "B0FPXG554X",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 93.99,
+      "was": 139.99,
+      "title": {
+        "de": "LEGO DREAMZzz 71515 2-in-1 Tigerhai-Fahrzeug",
+        "en": "LEGO DREAMZzz 71515 2-in-1 Tiger Shark vehicle"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T15:25:00+01:00",
+      "checked": "2026-11-24T15:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "tcl-50t6c-50-zoll",
+      "asin": "B0DW9792RH",
+      "brand": "TCL",
+      "cat": "tv",
+      "now": 239,
+      "was": 299,
+      "title": {
+        "de": "TCL 50T6C 50-Zoll-QLED-Fernseher (4K, Fire TV)",
+        "en": "TCL 50T6C 50-inch QLED TV (4K, Fire TV)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T15:25:00+01:00",
+      "checked": "2026-11-24T15:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "sony-ht-s40r-soundbar-5-1",
+      "asin": "B08Z4H7L2L",
+      "brand": "Sony",
+      "cat": "speaker",
+      "now": 229,
+      "was": 349,
+      "title": {
+        "de": "Sony HT-S40R 5.1-Soundbar mit Subwoofer und kabellosen Rücklautsprechern",
+        "en": "Sony HT-S40R 5.1 soundbar with subwoofer and wireless rear speakers"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T15:25:00+01:00",
+      "checked": "2026-11-24T15:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "msi-forge-gm320-gaming-maus",
+      "asin": "B096Y3NQ57",
+      "brand": "MSI",
+      "cat": "computer",
+      "now": 8.99,
+      "was": 19.9,
+      "title": {
+        "de": "MSI Forge GM320 Gaming-Maus (12.800 DPI)",
+        "en": "MSI Forge GM320 gaming mouse (12,800 DPI)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T15:25:00+01:00",
+      "checked": "2026-11-24T15:25:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "carrera-boxengasse-doppelgarage",
       "asin": "B0002GTEW2",
       "brand": "Carrera",
