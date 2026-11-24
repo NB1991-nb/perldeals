@@ -2874,25 +2874,6 @@
       "validUntil": "2026-11-30"
     },
     {
-      "id": "amazon-echo-spot-2024",
-      "asin": "B0C2RSJHS6",
-      "brand": "Amazon",
-      "cat": "smarthome",
-      "now": 59.99,
-      "was": 119.99,
-      "title": {
-        "de": "Amazon Echo Spot (neueste Generation) smarter Wecker",
-        "en": "Amazon Echo Spot (latest generation) smart alarm clock"
-      },
-      "note": {
-        "de": "Amazon-Preis laut Amazon-API am 17.11.2026; Vergleichspreis = UVP laut Amazon. Verkauf durch Amazon.",
-        "en": "Amazon price via Amazon API on 17 Nov 2026; reference = Amazon list price. Sold by Amazon."
-      },
-      "added": "2026-11-17T08:40:00+01:00",
-      "checked": "2026-11-17T08:40:00+01:00",
-      "validUntil": "2026-11-30"
-    },
-    {
       "id": "amazon-fire-tv-stick-4k-max",
       "asin": "B0CW4HD359",
       "brand": "Amazon",
@@ -4593,25 +4574,6 @@
         "en": "Amazon price via Amazon API on 8 Nov 2026; idealo 3-month low was €99.99, mostly €109.99 in the last 30 days."
       },
       "validUntil": "2026-11-18",
-      "added": "2026-11-08T09:35:00+01:00",
-      "checked": "2026-11-08T09:35:00+01:00"
-    },
-    {
-      "id": "ecovacs-deebot-t50-omni-gen3",
-      "asin": "B0GQT56FRV",
-      "brand": "ECOVACS",
-      "cat": "home",
-      "now": 249,
-      "was": 349,
-      "title": {
-        "de": "ECOVACS DEEBOT T50 Omni Gen3 Saug- und Wischroboter (25.000 Pa)",
-        "en": "ECOVACS DEEBOT T50 Omni Gen3 robot vacuum and mop (25,000 Pa)"
-      },
-      "note": {
-        "de": "Amazon-Preis laut Amazon-API am 08.11.2026; laut idealo-Preisverlauf Tiefstpreis der letzten 3 Monate (vorher bis 349 €, zuletzt meist 269 €).",
-        "en": "Amazon price via Amazon API on 8 Nov 2026; lowest price in 3 months per idealo price history (previously up to €349, recently mostly €269)."
-      },
-      "validUntil": "2026-11-30",
       "added": "2026-11-08T09:35:00+01:00",
       "checked": "2026-11-08T09:35:00+01:00"
     },
