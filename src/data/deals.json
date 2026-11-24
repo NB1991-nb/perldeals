@@ -3,6 +3,63 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "lenovo-loq-24-10-gaming-monitor",
+      "asin": "B0H4HRYP1S",
+      "brand": "Lenovo",
+      "cat": "computer",
+      "now": 78.99,
+      "was": 109,
+      "title": {
+        "de": "Lenovo LOQ 24-10 23,8\" Full-HD-Gaming-Monitor (200 Hz)",
+        "en": "Lenovo LOQ 24-10 23.8\" Full HD gaming monitor (200 Hz)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T20:30:00+01:00",
+      "checked": "2026-11-24T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "corsair-k55-rgb-pro-tastatur",
+      "asin": "B08Y62LBR2",
+      "brand": "Corsair",
+      "cat": "computer",
+      "now": 44.99,
+      "was": 64.99,
+      "title": {
+        "de": "Corsair K55 RGB PRO Gaming-Tastatur (DE)",
+        "en": "Corsair K55 RGB PRO gaming keyboard (DE)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T20:30:00+01:00",
+      "checked": "2026-11-24T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "lego-60511-city-dampfzug",
+      "asin": "B0FPXGSKF7",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 55.99,
+      "was": 89.99,
+      "title": {
+        "de": "LEGO City 60511 Klassischer Dampfzug",
+        "en": "LEGO City 60511 Classic Steam Train"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T20:30:00+01:00",
+      "checked": "2026-11-24T20:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "lenovo-legion-27q-10-oled",
       "asin": "B0G529L1KN",
       "brand": "Lenovo",
