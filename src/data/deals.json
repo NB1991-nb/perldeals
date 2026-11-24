@@ -3,6 +3,25 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "carrera-boxengasse-doppelgarage",
+      "asin": "B0002GTEW2",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 12.89,
+      "was": 19.95,
+      "title": {
+        "de": "Carrera Boxengasse – Doppelgarage mit Brüstung (Rennbahn-Zubehör 1:32/1:24)",
+        "en": "Carrera pit lane double garage (slot car accessory 1:32/1:24)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-24T10:30:00+01:00",
+      "checked": "2026-11-24T10:30:00+01:00",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "pampers-premium-protection-gr7-156",
       "asin": "B0GKV5RBSS",
       "brand": "Pampers",
