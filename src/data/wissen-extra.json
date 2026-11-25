@@ -1685,6 +1685,199 @@
     "/reseller/ebay-shop/"
    ],
    "figures": []
+  },
+  {
+   "slug": "alternate-versandkosten",
+   "title": "ALTERNATE Versandkosten: Paket, Express und Sperrgut",
+   "desc": "Was kostet der Versand bei ALTERNATE? Paket 7,99 €, Express 16,98 €, Sperrgut 29,99–49,99 €, Übergröße 59,99 € – plus Abholung in Linden ohne Versandkosten.",
+   "lead": "Kurze Antwort: Bei ALTERNATE kostet der Standardversand für Pakete 7,99 €, Express 16,98 €. Sperrgut und Speditionsware liegen bei 29,99 bis 49,99 €, Übergröße bei 59,99 €. Bar-Nachnahme gibt es nicht. Wer in der Nähe wohnt, kann im ALTERNATE Store in Linden oder im Abhollager Pohlheim abholen.",
+   "sections": [
+    [
+     "Versandkosten in Deutschland",
+     [
+      "Paket Standard: 7,99 €.",
+      "Express: 16,98 € – Bestellung bzw. Zahlungseingang bis 16 Uhr, Lieferung am nächsten Werktag bis spätestens 18 Uhr.",
+      "Sperrgut/Speditionsware: 29,99 bis 49,99 €, Übergröße: 59,99 €.",
+      "Die genauen Kosten zeigt der Warenkorb."
+     ]
+    ],
+    [
+     "Große Geräte",
+     [
+      "Sperrgut und Speditionsware werden bis zur Bordsteinkante geliefert (Mo–Fr 8–17 Uhr).",
+      "DHL Komfortservice für 24,99 € extra: Terminabsprache und Lieferung an den Aufstellort.",
+      "Großgeräte-Express: Bestellung bis 15 Uhr, Lieferung am nächsten Tag."
+     ]
+    ],
+    [
+     "Selbst abholen",
+     [
+      "ALTERNATE Store 1, Philipp-Reis-Str. 2–3 in Linden: Mo–Fr 11–19 Uhr, Sa 10–16 Uhr.",
+      "Abhollager Pohlheim, Grüninger Weg 48: Mo–Fr 11–18 Uhr, Sa 10–16 Uhr.",
+      "Bei Abholung zahlst du keine Versandkosten."
+     ]
+    ],
+    [
+     "Gut zu wissen",
+     [
+      "Pakete kommen in der Regel Mo–Sa zwischen 8 und 17 Uhr.",
+      "Haben Artikel unterschiedliche Lieferzeiten, gilt für die gemeinsame Sendung die längste.",
+      "Keine Zahlung per Bar-Nachnahme."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet der Versand bei ALTERNATE?",
+     "Standard-Paket 7,99 €, Express 16,98 €, Sperrgut/Spedition 29,99–49,99 €, Übergröße 59,99 €."
+    ],
+    [
+     "Kann ich bei ALTERNATE selbst abholen?",
+     "Ja, im Store in Linden und im Abhollager Pohlheim."
+    ],
+    [
+     "Gibt es bei ALTERNATE Nachnahme?",
+     "Nein, Bar-Nachnahme ist laut ALTERNATE nicht möglich."
+    ]
+   ],
+   "sources": [
+    [
+     "ALTERNATE Hilfe: Abholung und Versand",
+     "https://www.alternate.de/HILFE/Versand-Lieferung"
+    ]
+   ],
+   "links": [
+    "/gutscheine/alternate/",
+    "/black-friday-alternate/",
+    "/wissen/alternate-zahlungsarten-ratenkauf/",
+    "/wissen/lieferung-zu-spaet-rechte/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "alternate-zahlungsarten-ratenkauf",
+   "title": "ALTERNATE Zahlungsarten: PayPal, Klarna, Finanzierung & Co.",
+   "desc": "Wie kann ich bei ALTERNATE bezahlen? Vorkasse, PayPal, Kreditkarte, Apple Pay, Klarna, Wero und Finanzierung über Consors Finanz ab 100 € – mit Limits und Bedingungen.",
+   "lead": "Kurze Antwort: ALTERNATE akzeptiert Vorkasse (Überweisung), PayPal (bis 15.000 €), Kreditkarte und Apple Pay (je bis 5.000 €), Klarna (bis 5.000 €) und Wero. Ratenkauf geht über Consors Finanz ab 100 € Bestellwert (bonitätsabhängig bis 15.000 €). Im Store in Linden zahlst du auch bar oder mit Karte.",
+   "sections": [
+    [
+     "Online-Zahlungsarten",
+     [
+      "Vorkasse per Überweisung: Versand erst nach Zahlungseingang (meist 1–2 Werktage plus 1 Bearbeitungstag); nicht für Outlet-Artikel und knappe Ware.",
+      "PayPal: bis 15.000 € inkl. Versand, ggf. mit Ratenzahlung über PayPal.",
+      "Kreditkarte (Amex, Visa, Mastercard) und Apple Pay: je bis 5.000 €.",
+      "Wero: Zahlung direkt vom Bankkonto per QR-Code, wenn deine Bank Wero unterstützt."
+     ]
+    ],
+    [
+     "Klarna",
+     [
+      "Sofortige Entscheidung nach Eingabe deiner Daten, bis 5.000 €.",
+      "Nur für lieferbare Artikel – nicht für Abholung in Linden und nicht für Geschenkgutscheine."
+     ]
+    ],
+    [
+     "Finanzierung (Ratenkauf)",
+     [
+      "Über Consors Finanz ab 100 € Bestellwert, Kredit bis 15.000 € je nach Bonität.",
+      "Voraussetzungen laut ALTERNATE: mindestens 18 Jahre, Wohnsitz in Deutschland, Girocard, Mindest-Nettoeinkommen 603 €.",
+      "Selbstständige brauchen mindestens 24 Monate Selbstständigkeit.",
+      "Vor jedem Ratenkauf Zinsen und Laufzeit genau prüfen."
+     ]
+    ],
+    [
+     "Im Store und für Firmen",
+     [
+      "Store Linden: bar bis 10.000 € (größere Beträge mit Kundenkonto), EC-Karte, kontaktlose Kreditkarte oder Gutschein.",
+      "Online-Bestellungen zur Abholung sind auf 3.000 € begrenzt.",
+      "Geschäftskunden: Kauf auf Rechnung nach Bonitätsprüfung, SEPA-Lastschrift und Leasing."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich bei ALTERNATE auf Raten kaufen?",
+     "Ja, über Consors Finanz ab 100 € oder ggf. über PayPal-Ratenzahlung."
+    ],
+    [
+     "Gibt es bei ALTERNATE Kauf auf Rechnung?",
+     "Für Privatkunden über Klarna; für Geschäftskunden nach Bonitätsprüfung direkt auf Rechnung."
+    ],
+    [
+     "Welche Limits gelten?",
+     "PayPal bis 15.000 €, Kreditkarte, Apple Pay und Klarna je bis 5.000 €."
+    ]
+   ],
+   "sources": [
+    [
+     "ALTERNATE Hilfe: Zahlungsarten",
+     "https://www.alternate.de/HILFE/Zahlungsarten"
+    ]
+   ],
+   "links": [
+    "/gutscheine/alternate/",
+    "/wissen/alternate-versandkosten/",
+    "/wissen/spaeter-bezahlen-klarna-risiken/",
+    "/black-friday-alternate/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "coolblue-umtausch",
+   "title": "Coolblue Umtausch: Produkt kostenlos gegen ein anderes tauschen",
+   "desc": "Bei Coolblue innerhalb von 30 Tagen kostenlos umtauschen: online anmelden, kostenlos per DHL zurückschicken oder ohne Termin im Store tauschen.",
+   "lead": "Kurze Antwort: Innerhalb von 30 Tagen nach Erhalt kannst du bei Coolblue ein Produkt kostenlos gegen ein anderes tauschen. Du meldest den Umtausch über das Online-Retourenformular an, bekommst Retourennummer und Versandetikett per Mail und gibst das Paket kostenlos in einem DHL-Paketshop ab – oder du tauschst ohne Termin in einem Coolblue Store.",
+   "sections": [
+    [
+     "Umtausch per Paket",
+     [
+      "Umtausch innerhalb von 30 Tagen über das Online-Retourenformular anmelden.",
+      "Du erhältst eine Bestätigungsmail mit Retourennummer und Versandetikett.",
+      "Rückversand über einen DHL-Paketshop ist kostenlos."
+     ]
+    ],
+    [
+     "Umtausch im Store",
+     [
+      "Im Coolblue Store geht der Umtausch ohne Termin.",
+      "Tipp: Das neue Produkt vorab bestellen und Abholung im Store wählen – meist am gleichen oder nächsten Tag abholbereit."
+     ]
+    ],
+    [
+     "Nach 30 Tagen",
+     [
+      "Nach Ablauf der 30 Tage wird ein defektes Produkt laut Coolblue repariert statt getauscht.",
+      "Für Rückgaben gegen Geld gelten die Coolblue-Rückgabebedingungen (Zustand, mögliche Wertminderung)."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Coolblue umtauschen?",
+     "30 Tage nach Erhalt."
+    ],
+    [
+     "Kostet der Umtausch etwas?",
+     "Nein, der Rückversand über einen DHL-Paketshop ist kostenlos."
+    ],
+    [
+     "Kann ich im Laden umtauschen?",
+     "Ja, im Coolblue Store ohne Termin."
+    ]
+   ],
+   "sources": [
+    [
+     "Coolblue: Rückgabe und Umtausch",
+     "https://www.coolblue.de/kundendienst/ruckgabe-und-umtausch"
+    ]
+   ],
+   "links": [
+    "/wissen/coolblue-rueckgabe/",
+    "/gutscheine/coolblue/",
+    "/black-friday-coolblue/",
+    "/wissen/umtausch-weihnachtsgeschenke/"
+   ],
+   "figures": []
   }
  ]
 }
