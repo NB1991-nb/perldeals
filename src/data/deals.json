@@ -3,6 +3,101 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "amazon-basics-werkzeugset-131-teilig",
+      "asin": "B07V4TFJC9",
+      "brand": "Amazon Basics",
+      "cat": "tools",
+      "now": 27.98,
+      "was": 37.32,
+      "title": {
+        "de": "Amazon Basics Handwerkzeug-Set, 131-teilig",
+        "en": "Amazon Basics household tool set, 131 pcs"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T10:30:00Z",
+      "checked": "2026-11-25T10:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "kyocera-ecosys-pa4000x",
+      "asin": "B0DDY9HDWP",
+      "brand": "Kyocera",
+      "cat": "computer",
+      "now": 155,
+      "was": 209.54,
+      "title": {
+        "de": "Kyocera Ecosys PA4000x Laserdrucker (S/W, Duplex)",
+        "en": "Kyocera Ecosys PA4000x laser printer (mono, duplex)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T10:30:00Z",
+      "checked": "2026-11-25T10:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "soundcore-p42i",
+      "asin": "B0GZYT981J",
+      "brand": "Soundcore",
+      "cat": "headphones",
+      "now": 59.99,
+      "was": 79.99,
+      "title": {
+        "de": "soundcore by Anker P42i In-Ear-Kopfhörer mit Noise Cancelling",
+        "en": "soundcore by Anker P42i ANC earbuds"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T10:30:00Z",
+      "checked": "2026-11-25T10:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-city-action-feuerwehrboot-aqua-scooter",
+      "asin": "B0CK1V4XZR",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 14.25,
+      "was": 29.99,
+      "title": {
+        "de": "PLAYMOBIL City Action Feuerwehrboot mit Aqua Scooter",
+        "en": "PLAYMOBIL City Action fire boat with aqua scooter"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T10:30:00Z",
+      "checked": "2026-11-25T10:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-animals-friends-geburtstagsparty",
+      "asin": "B0DYG2PQLZ",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 9.67,
+      "was": 29.99,
+      "title": {
+        "de": "PLAYMOBIL Animals & Friends Lustige Geburtstagsparty",
+        "en": "PLAYMOBIL Animals & Friends birthday party"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T10:30:00Z",
+      "checked": "2026-11-25T10:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "gillette-contourplus-10-klingen",
       "asin": "B0000WU094",
       "brand": "Gillette",
