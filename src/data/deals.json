@@ -3,6 +3,101 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "schmidt-spiele-spielesammlung-100",
+      "asin": "B0007Z2OQ6",
+      "brand": "Schmidt",
+      "cat": "toys",
+      "now": 13.99,
+      "was": 27.99,
+      "title": {
+        "de": "Schmidt Spiele 49147 Spielesammlung mit 100 Spielmöglichkeiten",
+        "en": "Schmidt Spiele 49147 game collection with 100 games"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T13:30:00Z",
+      "checked": "2026-11-25T13:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-fire-tv-soundbar-2-0",
+      "asin": "B0CWVZRMCX",
+      "brand": "Amazon",
+      "cat": "tv",
+      "now": 71.99,
+      "was": 139.99,
+      "title": {
+        "de": "Amazon Fire TV Soundbar (2.0, DTS Virtual:X, Dolby Audio)",
+        "en": "Amazon Fire TV Soundbar (2.0, DTS Virtual:X, Dolby Audio)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T13:30:00Z",
+      "checked": "2026-11-25T13:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "logitech-combo-touch-ipad-air-11",
+      "asin": "B0D429RB3M",
+      "brand": "Logitech",
+      "cat": "computer",
+      "now": 114.99,
+      "was": 229,
+      "title": {
+        "de": "Logitech Combo Touch Tastatur-Case für iPad Air 11 Zoll (M2/M3/M4)",
+        "en": "Logitech Combo Touch keyboard case for iPad Air 11-inch (M2/M3/M4)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T13:30:00Z",
+      "checked": "2026-11-25T13:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "endless-ocean-luminous-switch",
+      "asin": "B0CWP9V73C",
+      "brand": "Nintendo",
+      "cat": "toys",
+      "now": 18.4,
+      "was": 49.99,
+      "title": {
+        "de": "Endless Ocean Luminous (Nintendo Switch)",
+        "en": "Endless Ocean Luminous (Nintendo Switch)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T13:30:00Z",
+      "checked": "2026-11-25T13:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "soundcore-boom-3i",
+      "asin": "B0F6315R3J",
+      "brand": "Soundcore",
+      "cat": "speaker",
+      "now": 58.99,
+      "was": 129.99,
+      "title": {
+        "de": "soundcore by Anker Boom 3i Outdoor-Bluetooth-Lautsprecher (IP68, schwimmfähig)",
+        "en": "soundcore by Anker Boom 3i outdoor Bluetooth speaker (IP68, floats)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T13:30:00Z",
+      "checked": "2026-11-25T13:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "amazon-basics-werkzeugset-131-teilig",
       "asin": "B07V4TFJC9",
       "brand": "Amazon Basics",
