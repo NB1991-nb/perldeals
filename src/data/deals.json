@@ -3,6 +3,43 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "gillette-contourplus-10-klingen",
+      "asin": "B0000WU094",
+      "brand": "Gillette",
+      "cat": "home",
+      "now": 9.48,
+      "was": 12.25,
+      "title": {
+        "de": "Gillette ContourPlus Rasierklingen, 10 Ersatzklingen",
+        "en": "Gillette ContourPlus razor blades, 10 refills"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T09:30:00Z",
+      "checked": "2026-11-25T09:30:00Z"
+    },
+    {
+      "id": "logitech-g203-lightsync-gaming-maus",
+      "asin": "B07W6JN8N7",
+      "brand": "Logitech G",
+      "cat": "computer",
+      "now": 19.74,
+      "was": 39.99,
+      "title": {
+        "de": "Logitech G203 LIGHTSYNC Gaming-Maus (RGB, 6 Tasten)",
+        "en": "Logitech G203 LIGHTSYNC gaming mouse (RGB, 6 buttons)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T09:30:00Z",
+      "checked": "2026-11-25T09:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "playmobil-70985-mitnehm-puppenhaus",
       "asin": "B09KHF5YJ1",
       "brand": "PLAYMOBIL",
