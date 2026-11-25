@@ -3,6 +3,63 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "ravensburger-3d-puzzle-allianz-arena-licht",
+      "asin": "B0DSZZRSSB",
+      "brand": "Ravensburger",
+      "cat": "toys",
+      "now": 34.18,
+      "was": 69.99,
+      "title": {
+        "de": "Ravensburger 3D Puzzle Allianz Arena mit Licht (216 Teile)",
+        "en": "Ravensburger 3D puzzle Allianz Arena with light (216 pcs)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T07:30:00Z",
+      "checked": "2026-11-25T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "russell-hobbs-colours-plus-wasserkocher-1l-rot",
+      "asin": "B07ND8MYKY",
+      "brand": "Russell Hobbs",
+      "cat": "kitchen",
+      "now": 23.74,
+      "was": 41.25,
+      "title": {
+        "de": "Russell Hobbs Colours+ Wasserkocher 1 l, Rot",
+        "en": "Russell Hobbs Colours+ kettle 1 l, red"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T07:30:00Z",
+      "checked": "2026-11-25T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "braun-multigroom-aio3545-series-3",
+      "asin": "B0DQWHNRH6",
+      "brand": "Braun",
+      "cat": "home",
+      "now": 24.99,
+      "was": 44.99,
+      "title": {
+        "de": "Braun Multigroom All-in-One Series 3 AIO3545 (8-in-1 Trimmer)",
+        "en": "Braun Multigroom All-in-One Series 3 AIO3545 (8-in-1 trimmer)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 24.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 24 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T07:30:00Z",
+      "checked": "2026-11-25T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "lenovo-loq-24-10-gaming-monitor",
       "asin": "B0H4HRYP1S",
       "brand": "Lenovo",
