@@ -3,6 +3,82 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "ravensburger-labyrinth-chronicles",
+      "asin": "B0GHN74S5F",
+      "brand": "Ravensburger",
+      "cat": "toys",
+      "now": 90.19,
+      "was": 149,
+      "title": {
+        "de": "Ravensburger 25014 Labyrinth Chronicles – kooperatives Brettspiel",
+        "en": "Ravensburger 25014 Labyrinth Chronicles – cooperative board game"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T14:30:00Z",
+      "checked": "2026-11-25T14:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "hp-envy-6120",
+      "asin": "B0H6B938PQ",
+      "brand": "HP",
+      "cat": "computer",
+      "now": 57.84,
+      "was": 109.9,
+      "title": {
+        "de": "HP Envy 6120 Multifunktionsdrucker (Tinte, WLAN)",
+        "en": "HP Envy 6120 all-in-one printer (inkjet, Wi-Fi)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T14:30:00Z",
+      "checked": "2026-11-25T14:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "xiaomi-redmi-watch-6",
+      "asin": "B0GQL9JZS7",
+      "brand": "Xiaomi",
+      "cat": "watch",
+      "now": 42.9,
+      "was": 87.99,
+      "title": {
+        "de": "Xiaomi Redmi Watch 6 Smartwatch (bis 24 Tage Akku)",
+        "en": "Xiaomi Redmi Watch 6 smartwatch (up to 24 days battery)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T14:30:00Z",
+      "checked": "2026-11-25T14:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "playmobil-mylife-71611-badezimmer",
+      "asin": "B0D1Y1WBY3",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 11.96,
+      "was": 24.99,
+      "title": {
+        "de": "PLAYMOBIL myLife 71611 Badezimmer mit zwei Figuren",
+        "en": "PLAYMOBIL myLife 71611 bathroom with two figures"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 25.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 25 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-25T14:30:00Z",
+      "checked": "2026-11-25T14:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "schmidt-spiele-spielesammlung-100",
       "asin": "B0007Z2OQ6",
       "brand": "Schmidt",
