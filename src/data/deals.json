@@ -3,6 +3,82 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "hot-wheels-track-builder-deluxe",
+      "asin": "B07P5PQN7S",
+      "brand": "Hot Wheels",
+      "cat": "toys",
+      "now": 45.12,
+      "was": 58.99,
+      "title": {
+        "de": "Hot Wheels Track Builder Unlimited Deluxe Autorennbahn-Bauset",
+        "en": "Hot Wheels Track Builder Unlimited Deluxe track set"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T07:30:00Z",
+      "checked": "2026-11-26T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "pampers-sensitive-feuchttuecher-15x80",
+      "asin": "B07P7KJ1QS",
+      "brand": "Pampers",
+      "cat": "home",
+      "now": 16.42,
+      "was": 23.49,
+      "title": {
+        "de": "Pampers Sensitive Baby-Feuchttücher, 15 Packungen à 80 Tücher",
+        "en": "Pampers Sensitive baby wipes, 15 packs of 80"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T07:30:00Z",
+      "checked": "2026-11-26T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "outsmarted-quizshow-brettspiel",
+      "asin": "B0DC6TS51V",
+      "brand": "OUTSMARTED!",
+      "cat": "toys",
+      "now": 22.49,
+      "was": 39.99,
+      "title": {
+        "de": "Outsmarted! Interaktives Quizshow-Brettspiel (deutsche Ausgabe)",
+        "en": "Outsmarted! interactive quiz show board game (German edition)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T07:30:00Z",
+      "checked": "2026-11-26T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "hot-wheels-adventskalender-2026",
+      "asin": "B0G1TZTY5K",
+      "brand": "Hot Wheels",
+      "cat": "toys",
+      "now": 13.99,
+      "was": 29.99,
+      "title": {
+        "de": "Hot Wheels Adventskalender 2026 mit 10 Fahrzeugen",
+        "en": "Hot Wheels Advent Calendar 2026 with 10 vehicles"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T07:30:00Z",
+      "checked": "2026-11-26T07:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "anker-zolo-powerbank-20000-45w",
       "asin": "B0DSZKKJTK",
       "brand": "Anker",
