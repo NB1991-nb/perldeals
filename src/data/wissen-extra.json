@@ -3314,7 +3314,7 @@
   },
   {
    "slug": "weihnachten-rueckgabe-verlaengert-2026",
-   "title": "Verlängerte Rückgabe Weihnachten 2026: Amazon, OTTO, Douglas, MediaMarkt",
+   "title": "Verlängerte Rückgabe Weihnachten 2026: Amazon, OTTO, Douglas, Apple, MediaMarkt",
    "desc": "Am längsten: Amazon, OTTO und Douglas mit Rückgabe bis 31.01.2027. MediaMarkt verlängert Käufe vom 27.10. bis 01.12.2026 bis 31.12.2026. IKEA hat ohnehin 365 Tage.",
    "lead": "Kurze Antwort: Für Weihnachtsgeschenke 2026 hast du bei Amazon, OTTO und Douglas am längsten Zeit – jeweils bis 31.01.2027 (Amazon: Käufe vom 1.11. bis 25.12.; OTTO: OTTO-Artikel ab 01.11. bestellt). MediaMarkt verlängert nur für Käufe vom 27.10. bis 01.12.2026 bis 31.12.2026. Unschlagbar bleibt IKEA mit 365 Tagen Rückgaberecht das ganze Jahr.",
    "sections": [
@@ -3325,6 +3325,7 @@
       "OTTO: OTTO-Artikel, bestellt ab 01.11.2026 → bis 31.01.2027 (Marktplatz: 30 Tage ab Erhalt).",
       "Douglas: verlängerte Retourenfrist bis 31.01.2027.",
       "MediaMarkt/Saturn: Käufe 27.10.–01.12.2026 → bis 31.12.2026; danach 30 Tage ab Erhalt.",
+      "Apple: online gekauft, geliefert 6.11.–25.12.2026 → bis 8.1.2027 (nicht Ratenkauf).",
       "IKEA: immer 365 Tage."
      ]
     ],
@@ -3371,6 +3372,10 @@
     [
      "IKEA Deutschland: Return policy",
      "https://www.ikea.com/de/en/customer-service/returns-claims/return-policy"
+    ],
+    [
+     "Apple (DE): Rückgabe & Erstattung",
+     "https://www.apple.com/de/shop/help/returns_refund"
     ]
    ],
    "links": [
@@ -3378,7 +3383,8 @@
     "/wissen/mediamarkt-umtausch-weihnachten-2026/",
     "/wissen/douglas-ruecksendung/",
     "/wissen/otto-ruecksendung/",
-    "/wissen/rueckgabefrist-vergleich-shops/"
+    "/wissen/rueckgabefrist-vergleich-shops/",
+    "/wissen/apple-rueckgabe-weihnachten-2026/"
    ],
    "figures": []
   },
@@ -3468,6 +3474,1473 @@
     "/wissen/mediamarkt-rueckgabe/",
     "/wissen/douglas-ruecksendung/",
     "/wissen/thalia-ruecksendung/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ikea-lieferkosten",
+   "title": "IKEA Lieferkosten 2026: Paket, Bordstein, Spedition",
+   "desc": "IKEA-Pakete kosten 4,99 € (unter 16 kg) bzw. 19,99 € (16–30 kg). Bordsteinlieferung ab 59 €, Spedition in den Raum deiner Wahl ab 89 €. Mindestbestellwert 15 €.",
+   "lead": "Kurze Antwort: Bei IKEA Deutschland kostet eine Paketlieferung 4,99 € unter 16 kg und 19,99 € von 16 bis 30 kg (IKEA Family: 3,99 € bzw. 18,99 €). Größeres kommt per Bordsteinkanten-Lieferung für 59 € (Family 49 €) oder per Spedition in einen Raum deiner Wahl ab 89 €. Der Mindestbestellwert liegt bei 15 €. Sofas ab 500 € liefert IKEA versandkostenfrei.",
+   "sections": [
+    [
+     "Paket (ab 2 Werktagen)",
+     [
+      "Bis 60 × 60 × 120 cm.",
+      "Unter 16 kg: 4,99 € (Family/Business: 3,99 €).",
+      "16–30 kg: 19,99 € (Family/Business: 18,99 €)."
+     ]
+    ],
+    [
+     "Bordsteinkante",
+     [
+      "Standard ab 3 Werktagen: 59 € (Family 49 €).",
+      "Express 1–2 Werktage: 89 € (Family 79 €).",
+      "Max. 100 kg und 1 m³ pro Bestellung; Ware kommt nur bis zur Bordsteinkante."
+     ]
+    ],
+    [
+     "Spedition in einen Raum deiner Wahl",
+     [
+      "Bis 400 € Warenwert: 89 € (Family 79 €).",
+      "Bis 1.000 €: 99 €.",
+      "Ab 1.000 €: 159 €.",
+      "Express: 119 € bzw. 169 € ab 1.000 €."
+     ]
+    ],
+    [
+     "Sonderfälle",
+     [
+      "Sofas ab 500 € Warenwert: versandkostenfrei.",
+      "Inseln: pauschal 220 €.",
+      "Topfpflanzen und Lebensmittel nur zur Abholung."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein IKEA-Paket?",
+     "4,99 € unter 16 kg, 19,99 € von 16 bis 30 kg."
+    ],
+    [
+     "Was kostet die IKEA-Speditionslieferung?",
+     "In einen Raum deiner Wahl ab 89 € (bis 400 € Warenwert), bis zur Bordsteinkante 59 €."
+    ],
+    [
+     "Gibt es bei IKEA einen Mindestbestellwert?",
+     "Ja, 15 €."
+    ]
+   ],
+   "sources": [
+    [
+     "IKEA Deutschland: Lieferservice – Optionen und Preise",
+     "https://www.ikea.com/de/de/customer-service/services/delivery/"
+    ]
+   ],
+   "links": [
+    "/wissen/ikea-click-and-collect/",
+    "/wissen/ikea-rueckgabe/",
+    "/gutscheine/ikea/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ikea-click-and-collect",
+   "title": "IKEA Click & Collect: Ab wann ist die Abholung gratis?",
+   "desc": "IKEA Click & Collect im Einrichtungshaus ist ab 50 € Warenwert kostenlos, sonst 4,99 €. An einer Abholstation gratis ab 300 €, sonst 19 €. Ausweis mitbringen.",
+   "lead": "Kurze Antwort: Holst du eine Online-Bestellung im IKEA Einrichtungshaus ab, ist das ab 50 € Warenwert kostenlos, darunter kostet es 4,99 €. An einer IKEA Abholstation ist die Abholung ab 300 € gratis, sonst 19 €. Mindestbestellwert: 15 €. Mitbringen musst du die Bestellbestätigung und einen amtlichen Lichtbildausweis.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Einrichtungshaus: gratis ab 50 €, sonst 4,99 €.",
+      "Abholstation: gratis ab 300 €, sonst 19 €.",
+      "Mindestbestellwert 15 €."
+     ]
+    ],
+    [
+     "Ablauf",
+     [
+      "Warenkorb füllen, PLZ eingeben, Click & Collect wählen.",
+      "Abholort, Tag und Zeitfenster wählen.",
+      "E-Mail abwarten, dass die Ware bereitsteht."
+     ]
+    ],
+    [
+     "Abholen lassen",
+     [
+      "Andere Person braucht Bestellbestätigung, deine unterschriebene Vollmacht und ihren eigenen Ausweis.",
+      "Verpasst? Ein Werktag Nachfrist, danach kann IKEA zurücktreten und erstattet den vollen Preis."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist IKEA Click & Collect kostenlos?",
+     "Im Einrichtungshaus ab 50 € Warenwert, sonst 4,99 €."
+    ],
+    [
+     "Was brauche ich zur Abholung?",
+     "Bestellbestätigung und amtlichen Lichtbildausweis."
+    ],
+    [
+     "Was passiert, wenn ich nicht abhole?",
+     "Du bekommst eine Erinnerung und einen Werktag Nachfrist; danach kann IKEA vom Vertrag zurücktreten und erstattet den Kaufpreis."
+    ]
+   ],
+   "sources": [
+    [
+     "IKEA Deutschland: Click & Collect",
+     "https://www.ikea.com/de/de/customer-service/services/click-collect/"
+    ]
+   ],
+   "links": [
+    "/wissen/ikea-lieferkosten/",
+    "/wissen/ikea-rueckgabe/",
+    "/wissen/ikea-geschenkkarte-guthaben-abfragen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "galaxus-rueckgabe",
+   "title": "Galaxus Rückgabe: 30 Tage und kostenlos",
+   "desc": "Galaxus gibt 30 Tage Rückgaberecht ab Erhalt – für eigene und Händler-Produkte. Die Rücksendung ist kostenlos. LEGO und Sammelkarten nur ungeöffnet.",
+   "lead": "Kurze Antwort: Bei Galaxus hast du 30 Tage Rückgaberecht ab Erhalt der Ware – sowohl für Galaxus- als auch für Händlerprodukte. Die Rücksendung ist kostenlos: im Konto unter „Bestellungen“ auf „Rückgabe erfassen“ klicken und das Etikett aufkleben. Die Ware muss im Originalzustand sein; manche Produkte wie LEGO, Pokémon-Karten, Bücher oder Druckerpatronen nimmt Galaxus nur ungeöffnet zurück.",
+   "sections": [
+    [
+     "Die Regeln",
+     [
+      "30 Tage ab Erhalt, es zählt das Datum des Poststempels.",
+      "Kostenlos über „Bestellungen“ → „Rückgabe erfassen“.",
+      "Originalzustand, vollständig und mit unbeschädigter Originalverpackung."
+     ]
+    ],
+    [
+     "Nur ungeöffnet",
+     [
+      "Verbrauchsmaterial wie Toner, Filter, Tintenpatronen.",
+      "Bestimmte Hygieneartikel.",
+      "Versiegelte Bücher, DVDs, Software.",
+      "Sammelartikel wie LEGO oder Pokémon-Karten."
+     ]
+    ],
+    [
+     "Gar nicht zurück",
+     [
+      "Selbst beschädigte oder gesperrte Geräte (PIN/Cloud-Sperre).",
+      "Software-Lizenzen (ESD), Pflanzen, Lebensmittel, Drogerieartikel.",
+      "Angebote privater Verkäufer."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Galaxus zurückgeben?",
+     "30 Tage ab Erhalt der Ware."
+    ],
+    [
+     "Kostet die Rücksendung bei Galaxus etwas?",
+     "Nein, sie ist kostenlos."
+    ],
+    [
+     "Kann ich geöffnetes LEGO zurückgeben?",
+     "Nein, Sammelartikel wie LEGO oder Pokémon-Karten nur ungeöffnet."
+    ]
+   ],
+   "sources": [
+    [
+     "Galaxus: Rückgaberichtlinien",
+     "https://www.galaxus.de/de/guide/7"
+    ]
+   ],
+   "links": [
+    "/wissen/galaxus-versandkosten/",
+    "/gutscheine/galaxus/",
+    "/wissen/rueckgabefrist-vergleich-shops/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "galaxus-versandkosten",
+   "title": "Galaxus Versandkosten: Gratis ab 30 €",
+   "desc": "Galaxus liefert in Deutschland ab 30 € kostenlos, darunter pauschal 3 €. Bestellt bis Freitag 13 Uhr und auf Lager? Dann oft Samstagszustellung gratis.",
+   "lead": "Kurze Antwort: Galaxus verschickt in Deutschland ab 30 € Bestellwert kostenlos, darunter kostet der Versand pauschal 3 €. Bestellst du bis Freitag 13 Uhr Ware, die im Logistikzentrum liegt, kommt sie meist schon am Samstag – ohne Aufpreis. Paletten und Fracht über 31,5 kg liefert eine Spedition nach telefonischer Terminabsprache.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Ab 30 €: kostenlos.",
+      "Unter 30 €: pauschal 3 €."
+     ]
+    ],
+    [
+     "Lieferung",
+     [
+      "Samstagszustellung gratis bei Bestellung bis Fr 13 Uhr und Lagerware (kein Sperrgut).",
+      "Paletten/Fracht über 31,5 kg per Spedition mit Termin.",
+      "Händlerartikel meist bis zur Bordsteinkante.",
+      "Packstation möglich, wenn aus dem Galaxus-Lager und passend."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ab wann liefert Galaxus versandkostenfrei?",
+     "Ab 30 € Bestellwert."
+    ],
+    [
+     "Was kostet der Versand unter 30 €?",
+     "Pauschal 3 €."
+    ],
+    [
+     "Liefert Galaxus samstags?",
+     "Ja, bei Bestellung bis Freitag 13 Uhr und Lagerware meist kostenlos am Samstag."
+    ]
+   ],
+   "sources": [
+    [
+     "Galaxus: Lieferung",
+     "https://www.galaxus.de/de/guide/28"
+    ]
+   ],
+   "links": [
+    "/wissen/galaxus-rueckgabe/",
+    "/wissen/versandkostenfrei-ab-vergleich/",
+    "/gutscheine/galaxus/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "notebooksbilliger-versandkosten",
+   "title": "notebooksbilliger Versandkosten: 5,99 € bis 35,99 €",
+   "desc": "notebooksbilliger.de berechnet 5,99 € Standardversand (bis 249 €), darüber 8,99 €. UPS/Express 11,99–14,99 €, Großgeräte per Spedition 35,99 €. Keine Packstation.",
+   "lead": "Kurze Antwort: Bei notebooksbilliger.de gibt es keine Gratisversand-Grenze. Standard kostet 5,99 € bis 249 € Warenwert und 8,99 € darüber. DHL GoGreen liegt bei 6,49 € bzw. 9,99 €, größere Pakete und Express per UPS bei 11,99 € bzw. 14,99 €. Großgeräte kommen für 35,99 € per Spedition bis zur Bordsteinkante. An Packstationen und Postfilialen liefert nbb derzeit nicht.",
+   "sections": [
+    [
+     "Versandkosten Deutschland",
+     [
+      "Standard: 5,99 € bis 249 €, 8,99 € ab 249,01 €.",
+      "DHL GoGreen: 6,49 € / 9,99 € (nicht bei allen Zahlarten).",
+      "UPS, große Pakete/Express: 11,99 € / 14,99 €.",
+      "Spedition Großgeräte: 35,99 € bis Bordsteinkante, Mo–Fr 8–18 Uhr."
+     ]
+    ],
+    [
+     "Einschränkungen",
+     [
+      "Keine Lieferung an Packstation oder Postfiliale.",
+      "Express nur je nach Bestellzeit und Adresse."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Gibt es bei notebooksbilliger Gratisversand?",
+     "Laut Hilfeseite nicht – jede Versandart kostet etwas."
+    ],
+    [
+     "Was kostet Standardversand?",
+     "5,99 € bis 249 € Warenwert, darüber 8,99 €."
+    ],
+    [
+     "Liefert nbb an eine Packstation?",
+     "Nein, derzeit nicht."
+    ]
+   ],
+   "sources": [
+    [
+     "notebooksbilliger.de Hilfe: Versand innerhalb Deutschlands",
+     "https://service.notebooksbilliger.de/help/de-de/2-lieferzeiten-versandkosten/3-versand-innerhalb-deutschlands"
+    ]
+   ],
+   "links": [
+    "/wissen/notebooksbilliger-ruecksendung/",
+    "/gutscheine/notebooksbilliger/",
+    "/wissen/technik-shops-versandkosten-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "notebooksbilliger-ruecksendung",
+   "title": "notebooksbilliger Rücksendung: Wer zahlt das Porto?",
+   "desc": "Bei Widerruf innerhalb von 14 Tagen trägt notebooksbilliger.de die Rücksendekosten. Nach dem Online-Widerrufsformular bekommst du einen QR-Code für den kostenlosen Versand.",
+   "lead": "Kurze Antwort: Bei notebooksbilliger.de hast du das gesetzliche Widerrufsrecht von 14 Tagen. Die Rücksendekosten trägt nbb: Du meldest den Widerruf über das Online-Formular und bekommst einen QR-Code, mit dem du kostenlos zurückschickst. Auch bei Reklamationen zahlt nbb das Porto – außer bei selbst verursachten Schäden.",
+   "sections": [
+    [
+     "Ablauf",
+     [
+      "Online-Widerrufsformular ausfüllen.",
+      "QR-Code erhalten und Paket kostenlos abgeben."
+     ]
+    ],
+    [
+     "Fristen und Kosten",
+     [
+      "14 Tage Widerrufsrecht.",
+      "Rücksendekosten trägt notebooksbilliger.de – auch bei Reklamationen (außer selbst verursachte Schäden)."
+     ]
+    ],
+    [
+     "Im Vergleich",
+     [
+      "MediaMarkt und Galaxus geben 30 Tage, nbb nennt 14 Tage – wer unsicher ist, kauft Technik lieber dort."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Muss ich bei notebooksbilliger die Rücksendung bezahlen?",
+     "Nein, die Rücksendekosten trägt nbb."
+    ],
+    [
+     "Wie lange kann ich widerrufen?",
+     "14 Tage."
+    ],
+    [
+     "Wie bekomme ich das Rücksendeetikett?",
+     "Nach dem Online-Widerrufsformular erhältst du einen QR-Code."
+    ]
+   ],
+   "sources": [
+    [
+     "notebooksbilliger.de Hilfe: Muss ich die Rücksendekosten bei einem Widerruf selber tragen?",
+     "https://service.notebooksbilliger.de/help/de-de/21-widerruf-ruckgabe/75-muss-ich-die-rucksendekosten-bei-einem-widerruf-selber-tragen"
+    ]
+   ],
+   "links": [
+    "/wissen/notebooksbilliger-versandkosten/",
+    "/wissen/mediamarkt-rueckgabe/",
+    "/gutscheine/notebooksbilliger/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "aboutyou-ruecksendung",
+   "title": "ABOUT YOU Rücksendung: 30 Tage Rückgaberecht",
+   "desc": "ABOUT YOU wirbt mit kostenlosem Versand und Rückversand und 30 Tagen Rückgaberecht. Der Versand ist ab 34,90 € gratis, sonst 4,90 € Versand- und Servicekosten.",
+   "lead": "Kurze Antwort: ABOUT YOU gewährt ein 30-tägiges Rückgaberecht und wirbt mit kostenlosem Versand und Rückversand. Für den Hinversand gilt: kostenlos ab 34,90 €, darunter 4,90 € Versand- und Servicekosten.",
+   "sections": [
+    [
+     "Die Eckdaten",
+     [
+      "30 Tage Rückgaberecht.",
+      "Rückversand laut Hilfe kostenlos.",
+      "Versand gratis ab 34,90 €, sonst 4,90 €."
+     ]
+    ],
+    [
+     "Im Vergleich",
+     [
+      "Gleiche Gratisgrenze (34,90 €) und gleiche 30 Tage wie Zalando."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei ABOUT YOU zurückschicken?",
+     "30 Tage."
+    ],
+    [
+     "Kostet die Rücksendung bei ABOUT YOU etwas?",
+     "ABOUT YOU wirbt mit kostenlosem Rückversand."
+    ],
+    [
+     "Ab wann ist der Versand gratis?",
+     "Ab 34,90 €, sonst 4,90 €."
+    ]
+   ],
+   "sources": [
+    [
+     "ABOUT YOU Hilfe: Muss ich für den Rückversand bezahlen?",
+     "https://www.aboutyou.de/h/ruecksendung-erstattung/q-360014777340"
+    ]
+   ],
+   "links": [
+    "/wissen/zalando-ruecksendung/",
+    "/wissen/zalando-vs-aboutyou/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "zalando-vs-aboutyou",
+   "title": "Zalando vs. ABOUT YOU: Wo bestellst du Mode besser?",
+   "desc": "Unentschieden bei den Eckdaten: beide 30 Tage Rückgabe, beide gratis ab 34,90 € (sonst 4,90 €). Zalando punktet mit Express-Geld-zurück und kostenlosen Partner-Retouren.",
+   "lead": "Kurze Antwort: Bei den Grundregeln liegen Zalando und ABOUT YOU gleichauf – beide geben 30 Tage Rückgaberecht und liefern ab 34,90 € gratis, darunter für 4,90 €. Zalando hat die Nase vorn bei den Extras: Kommt die Express-Lieferung zu spät, gibt es die Versandkosten zurück, und Artikel von Partnern gehen innerhalb Deutschlands kostenlos mit dem Zalando-Label zurück. Sieger: Zalando, knapp.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "Rückgabefrist: beide 30 Tage.",
+      "Gratisversand: beide ab 34,90 €, sonst 4,90 €.",
+      "Express: Zalando innerhalb 2 Werktagen, Versandkosten zurück bei Verspätung.",
+      "Partner-Retouren: Zalando kostenlos mit Zalando-Label (Deutschland)."
+     ]
+    ],
+    [
+     "Fazit",
+     [
+      "Preise vergleichen lohnt sich – bei identischen Regeln entscheidet der Artikelpreis.",
+      "Sieger bei den Service-Regeln: Zalando."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wer hat die längere Rückgabefrist – Zalando oder ABOUT YOU?",
+     "Beide 30 Tage."
+    ],
+    [
+     "Ab wann ist der Versand gratis?",
+     "Bei beiden ab 34,90 €."
+    ],
+    [
+     "Was spricht für Zalando?",
+     "Express mit Geld-zurück bei Verspätung und kostenlose Partner-Retouren."
+    ]
+   ],
+   "sources": [
+    [
+     "Zalando: AGB (Stand 18.05.2026)",
+     "https://zalando.de/zalando-terms/"
+    ],
+    [
+     "ABOUT YOU Hilfe: Muss ich für den Rückversand bezahlen?",
+     "https://www.aboutyou.de/h/ruecksendung-erstattung/q-360014777340"
+    ]
+   ],
+   "links": [
+    "/wissen/zalando-ruecksendung/",
+    "/wissen/aboutyou-ruecksendung/",
+    "/wissen/zalando-versandkosten/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "technik-shops-versandkosten-vergleich",
+   "title": "Technik-Shops im Versand-Vergleich: Galaxus, ALTERNATE, notebooksbilliger",
+   "desc": "Klarer Sieger: Galaxus – gratis ab 30 €, sonst 3 €. ALTERNATE kostet 7,99 €, notebooksbilliger 5,99 € (über 249 €: 8,99 €), beide ohne Gratisgrenze.",
+   "lead": "Kurze Antwort: Galaxus gewinnt deutlich: Ab 30 € ist der Versand gratis, darunter kostet er nur 3 €. Bei ALTERNATE zahlst du für ein Paket 7,99 €, bei notebooksbilliger.de 5,99 € bis 249 € und 8,99 € darüber – eine Gratisgrenze nennen beide nicht. Auch bei der Rückgabe liegt Galaxus mit 30 Tagen vor notebooksbilliger (14 Tage).",
+   "sections": [
+    [
+     "Paketversand",
+     [
+      "Galaxus: gratis ab 30 €, sonst 3 €.",
+      "notebooksbilliger: 5,99 € (bis 249 €) bzw. 8,99 €.",
+      "ALTERNATE: 7,99 €, Express 16,98 €."
+     ]
+    ],
+    [
+     "Sperrgut / Spedition",
+     [
+      "Galaxus: Spedition mit Termin für Fracht über 31,5 kg.",
+      "notebooksbilliger: 35,99 € bis Bordsteinkante.",
+      "ALTERNATE: 29,99 bis 49,99 €, Übergröße 59,99 €."
+     ]
+    ],
+    [
+     "Rückgabe",
+     [
+      "Galaxus: 30 Tage kostenlos.",
+      "notebooksbilliger: 14 Tage, Rücksendekosten trägt nbb.",
+      "MediaMarkt zum Vergleich: 30 Tage, kostenlos."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Technik-Shop hat die günstigsten Versandkosten?",
+     "Galaxus: ab 30 € gratis, sonst 3 €."
+    ],
+    [
+     "Was kostet der Versand bei ALTERNATE?",
+     "7,99 € für ein Paket."
+    ],
+    [
+     "Hat notebooksbilliger Gratisversand?",
+     "Laut Hilfe nicht."
+    ]
+   ],
+   "sources": [
+    [
+     "Galaxus: Lieferung",
+     "https://www.galaxus.de/de/guide/28"
+    ],
+    [
+     "Galaxus: Rückgaberichtlinien",
+     "https://www.galaxus.de/de/guide/7"
+    ],
+    [
+     "notebooksbilliger.de Hilfe: Versand innerhalb Deutschlands",
+     "https://service.notebooksbilliger.de/help/de-de/2-lieferzeiten-versandkosten/3-versand-innerhalb-deutschlands"
+    ],
+    [
+     "notebooksbilliger.de Hilfe: Muss ich die Rücksendekosten bei einem Widerruf selber tragen?",
+     "https://service.notebooksbilliger.de/help/de-de/21-widerruf-ruckgabe/75-muss-ich-die-rucksendekosten-bei-einem-widerruf-selber-tragen"
+    ],
+    [
+     "ALTERNATE Hilfe: Abholung und Versand",
+     "https://www.alternate.de/HILFE/Versand-Lieferung"
+    ],
+    [
+     "MediaMarkt: Rückgabe & Rücksendung",
+     "https://www.mediamarkt.de/de/service/umtausch-rueckgabe"
+    ]
+   ],
+   "links": [
+    "/wissen/galaxus-versandkosten/",
+    "/wissen/notebooksbilliger-versandkosten/",
+    "/wissen/alternate-versandkosten/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "lidl-versandkosten",
+   "title": "Lidl Onlineshop Versandkosten: 5,95 € pro Bestellung",
+   "desc": "Im Lidl-Onlineshop zahlst du pauschal 5,95 € pro Bestellung, sperrige Artikel kosten einen Zuschlag. Versandkosten sparen: Coupons in der Lidl Plus App. Rücksendung immer gratis.",
+   "lead": "Kurze Antwort: Lidl berechnet im Onlineshop eine Versandpauschale von 5,95 € pro Bestellung – unabhängig vom Bestellwert. Für sperrige Artikel kommt ein Lieferzuschlag dazu, der am Artikel steht. Sparen kannst du mit Coupons aus der Lidl Plus App, die die Pauschale streichen. Die Rücksendung ist immer kostenlos.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Pauschale: 5,95 € pro Bestellung.",
+      "Sperrgut: zusätzlicher Lieferzuschlag (am Artikel angezeigt)."
+     ]
+    ],
+    [
+     "Versandkosten sparen",
+     [
+      "In der Lidl Plus App gibt es oft Coupons für versandkostenfreie Lieferung.",
+      "Achtung: Fällt der Coupon-Mindestbestellwert durch eine Retoure weg, kann Lidl die 5,95 € nachträglich berechnen."
+     ]
+    ],
+    [
+     "Rücksendung",
+     [
+      "Immer gratis – Label im Kundenkonto oder über den Link in der Rechnungs-E-Mail."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet der Versand bei Lidl online?",
+     "5,95 € pauschal pro Bestellung."
+    ],
+    [
+     "Gibt es bei Lidl Gratisversand ab einem Bestellwert?",
+     "Laut Kundenservice nicht – sparen kannst du nur mit Lidl-Plus-Coupons."
+    ],
+    [
+     "Ist die Rücksendung bei Lidl kostenlos?",
+     "Ja, immer."
+    ]
+   ],
+   "sources": [
+    [
+     "Lidl-Kundenservice: Welche Versandkosten fallen an?",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-ecommerce-Delivery-Welche-Versandkosten-fallen-an"
+    ],
+    [
+     "Lidl-Kundenservice: Kann ich meinen Artikel umtauschen?",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Kann-ich-meinen-Artikel-umtauschen"
+    ]
+   ],
+   "links": [
+    "/wissen/lidl-ruecksendung/",
+    "/wissen/lidl-geschenkkarte-guthaben-pruefen/",
+    "/wissen/versandkostenfrei-ab-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "lidl-ruecksendung",
+   "title": "Lidl Rückgabe: 30 Tage online und in der Filiale",
+   "desc": "Online-Bestellungen kannst du bei Lidl 30 Tage lang kostenlos zurückschicken. In der Filiale gekaufte Artikel gehen mit Kassenbon 30 Tage zurück, Lebensmittel sogar unbegrenzt ohne Bon.",
+   "lead": "Kurze Antwort: Für Online-Käufe gibt dir Lidl 30 Tage Zeit, die Rücksendung ist kostenlos und der Kaufbetrag wird direkt nach Eingang im Retourenlager erstattet. In der Filiale gekaufte Artikel kannst du innerhalb von 30 Tagen mit Kassenbon in jeder der über 3.270 Filialen zurückgeben. Lebensmittel nimmt Lidl sogar zeitlich unbegrenzt und ohne Kassenbon zurück.",
+   "sections": [
+    [
+     "Online gekauft",
+     [
+      "30 Tage zum Ausprobieren (abweichende Bedingungen stehen ggf. in der Artikelbeschreibung).",
+      "Rücksendung kostenlos: Label im Kundenkonto, Gäste über Rechnung oder Zustellbestätigung.",
+      "Speditionsartikel: Der Spediteur bringt das Label zur Abholung mit.",
+      "Kein direkter Umtausch – einfach neu bestellen und Erstes zurückschicken."
+     ]
+    ],
+    [
+     "In der Filiale gekauft",
+     [
+      "Non-Food: 30 Tage mit Kassenbon, Geld sofort zurück – in jeder Filiale.",
+      "Lebensmittel: ohne Kassenbon, zeitlich unbegrenzt, egal aus welchem Grund.",
+      "Ausgeschlossen: Prepaid-Bons, Gutschein- und Geschenkkarten."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Lidl zurückgeben?",
+     "30 Tage – online wie in der Filiale. Lebensmittel aus der Filiale sogar unbegrenzt."
+    ],
+    [
+     "Brauche ich bei Lidl einen Kassenbon?",
+     "Für Non-Food ja; Lebensmittel nimmt Lidl auch ohne Bon zurück."
+    ],
+    [
+     "Kann ich bei Lidl online umtauschen?",
+     "Nicht direkt – neu bestellen und den ersten Artikel kostenlos zurückschicken."
+    ]
+   ],
+   "sources": [
+    [
+     "Lidl-Kundenservice: Kann ich meinen Artikel umtauschen?",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Kann-ich-meinen-Artikel-umtauschen"
+    ],
+    [
+     "Lidl-Kundenservice: Ist die Rücksendung für mich kostenlos?",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Ist-die-R%C3%BCcksendung-f%C3%BCr-mich-kostenlos"
+    ]
+   ],
+   "links": [
+    "/wissen/lidl-versandkosten/",
+    "/wissen/rueckgabe-ohne-kassenbon/",
+    "/wissen/rueckgabefrist-vergleich-shops/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "obi-rueckgabe",
+   "title": "OBI Rückgabe: 30 Tage für Online-Bestellungen",
+   "desc": "Bei OBI kannst du online gekaufte Ware 30 Tage nach Erhalt widerrufen, OBI trägt die Rücksendekosten. Rückgabe auch im Markt – Geld zurück gibt's dort aber nicht sofort.",
+   "lead": "Kurze Antwort: OBI gewährt für Online-Bestellungen 30 Tage ab Erhalt der Ware – mehr als die gesetzlichen 14 Tage. Für Ware, die OBI selbst verkauft, trägt OBI die Rücksendekosten; du meldest die Retoure unter „Einkäufe & Retouren“ im Kundenkonto an. Du kannst Online-Ware auch im OBI Markt abgeben, eine Rückzahlung oder ein Umtausch direkt im Markt ist aber derzeit nicht möglich – erstattet wird über die ursprüngliche Zahlungsart.",
+   "sections": [
+    [
+     "Frist und Kosten",
+     [
+      "30 Tage ab Erhalt (zusätzlich zum 14-tägigen Widerruf).",
+      "OBI-Ware: Rücksendekosten trägt OBI.",
+      "Marktplatz-Artikel: Regeln des jeweiligen Verkäufers.",
+      "Ausgenommen: Zuschnitt, Sonderanfertigung, Meterware."
+     ]
+    ],
+    [
+     "Paket zurückschicken",
+     [
+      "Retoure im Kundenkonto unter „Einkäufe & Retouren“ anmelden (Gäste: Link in der Versandbestätigung).",
+      "Hermes-Grenze: längste + kürzeste Seite max. 120 cm, max. 25 kg.",
+      "Benzingeräte: Kraftstoff vollständig ablassen, Originalkarton nutzen.",
+      "Bei Klarna-Zahlung die Retoure auch bei Klarna melden."
+     ]
+    ],
+    [
+     "Speditionsware und Markt",
+     [
+      "Spedition holt ab – transportsicher verpackt, frei Bordsteinkante.",
+      "Im Markt: mit Bestellnummer, Formular wird gemeinsam ausgefüllt; dauert länger, keine Sofort-Erstattung.",
+      "Marktplatz-Artikel nicht im Markt."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei OBI zurückgeben?",
+     "30 Tage ab Erhalt der Online-Bestellung."
+    ],
+    [
+     "Muss ich die OBI-Rücksendung bezahlen?",
+     "Nein, bei OBI-Ware trägt OBI die Kosten."
+    ],
+    [
+     "Bekomme ich im OBI Markt sofort mein Geld zurück?",
+     "Nein, derzeit ist eine Rückzahlung direkt im Markt nicht möglich."
+    ]
+   ],
+   "sources": [
+    [
+     "OBI: Rückgabe bei OBI",
+     "https://www.obi.de/info/rueckgabe"
+    ]
+   ],
+   "links": [
+    "/wissen/obi-versandkosten/",
+    "/gutscheine/obi/",
+    "/wissen/rueckgabefrist-vergleich-shops/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "obi-versandkosten",
+   "title": "OBI Versandkosten und Reservieren & Abholen",
+   "desc": "OBI-Pakete kosten 4,95 € bis 19,95 €, Spedition ab 29,95 €. Versandfrei ab 60 €, wenn alles Paketware zu 4,95 € ist. Reservieren & Abholen ist gratis, meist in 2 Stunden.",
+   "lead": "Kurze Antwort: Bei OBI kostet ein Paket je nach Gewicht 4,95 € bis 19,95 €, Speditionsware ab 29,95 € (bis zur Bordsteinkante). Versandfrei wird es ab 60 € Warenkorbwert – aber nur, wenn alle Artikel Paketware mit 4,95 € Versand sind. Kostenlos und schnell ist „Reservieren & Abholen“: meist innerhalb von 2 Stunden, bezahlt wird im Markt.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Paket: 4,95 € bis 19,95 € nach Gewicht.",
+      "Spedition: ab 29,95 €, nur bis Bordsteinkante.",
+      "Gratis ab 60 €, wenn alle Artikel als 4,95-€-Paket kommen.",
+      "Mehrere Artikel: pro Adresse und Verkäufer nur der höchste Versandsatz."
+     ]
+    ],
+    [
+     "Reservieren & Abholen",
+     [
+      "Kostenlos.",
+      "Abholung meist innerhalb von 2 Stunden.",
+      "Bezahlung im Markt."
+     ]
+    ],
+    [
+     "Marktplatz",
+     [
+      "Externe Verkäufer legen eigene Versandkosten fest."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ab wann liefert OBI versandkostenfrei?",
+     "Ab 60 € – wenn alle Artikel Paketware mit 4,95 € Versand sind."
+    ],
+    [
+     "Was kostet die OBI-Spedition?",
+     "Ab 29,95 €."
+    ],
+    [
+     "Ist Reservieren & Abholen bei OBI kostenlos?",
+     "Ja, und meist in 2 Stunden möglich."
+    ]
+   ],
+   "sources": [
+    [
+     "OBI: Lieferung bei OBI",
+     "https://www.obi.de/info/lieferung"
+    ]
+   ],
+   "links": [
+    "/wissen/obi-rueckgabe/",
+    "/gutscheine/obi/",
+    "/wissen/click-and-collect-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "click-and-collect-vergleich",
+   "title": "Click & Collect im Vergleich: Wo kannst du am schnellsten gratis abholen?",
+   "desc": "Sieger: dm und OBI – beide kostenlos und in rund 2 Stunden. Thalia schafft 120 Minuten bei Bestand, Douglas ist gratis, IKEA erst ab 50 € kostenlos.",
+   "lead": "Kurze Antwort: Am schnellsten und günstigsten holst du bei dm (Express-Abholung ab 2 Stunden, mit dm-Konto gratis) und OBI (Reservieren & Abholen, kostenlos, meist in 2 Stunden) ab. Thalia stellt vorrätige Artikel in 120 Minuten bereit, Douglas Click & Collect ist ebenfalls gratis. IKEA verlangt im Einrichtungshaus 4,99 €, erst ab 50 € ist es kostenlos.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "dm: ab 2 Stunden, mit Konto 0 € (sonst 2,95 €).",
+      "OBI: meist in 2 Stunden, kostenlos, Zahlung im Markt.",
+      "Thalia: 120 Minuten bei Bestand.",
+      "Douglas: kostenlos.",
+      "IKEA: gratis ab 50 €, sonst 4,99 €; Abholstation gratis ab 300 €, sonst 19 €."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "dm und OBI: schnell und gratis. Bei OBI musst du nicht einmal online bezahlen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wo ist Click & Collect am schnellsten?",
+     "Bei dm und OBI in etwa 2 Stunden."
+    ],
+    [
+     "Ist IKEA Click & Collect kostenlos?",
+     "Erst ab 50 € Warenwert, sonst 4,99 €."
+    ],
+    [
+     "Kostet Douglas Click & Collect etwas?",
+     "Nein."
+    ]
+   ],
+   "sources": [
+    [
+     "dm: Lieferung & Versand",
+     "https://www.dm.de/services/onlineshop/lieferung-und-versand"
+    ],
+    [
+     "OBI: Lieferung bei OBI",
+     "https://www.obi.de/info/lieferung"
+    ],
+    [
+     "Thalia Hilfe: Versand & Lieferung",
+     "https://www.thalia.de/hilfe/kaufprozess/versand-lieferung"
+    ],
+    [
+     "Douglas Hilfe: Lieferoptionen und Versandkosten",
+     "https://www.douglas.de/de/cp/helpv2whichdeliveryoptionsarethere/help-which-delivery-options-are-there"
+    ],
+    [
+     "IKEA Deutschland: Click & Collect",
+     "https://www.ikea.com/de/de/customer-service/services/click-collect/"
+    ]
+   ],
+   "links": [
+    "/wissen/dm-express-abholung/",
+    "/wissen/obi-versandkosten/",
+    "/wissen/thalia-click-and-collect/",
+    "/wissen/ikea-click-and-collect/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "rueckgabe-ohne-kassenbon",
+   "title": "Rückgabe ohne Kassenbon: Wo geht das?",
+   "desc": "Am kulantesten: Lidl nimmt Lebensmittel ohne Kassenbon und zeitlich unbegrenzt zurück. Bei dm entscheidet ohne Beleg der Markt aus Kulanz. Sonst gilt: Beleg aufheben.",
+   "lead": "Kurze Antwort: Ein gesetzliches Recht auf Rückgabe ohne Kassenbon gibt es im Laden nicht. Am kulantesten ist Lidl: Lebensmittel kannst du dort ohne Bon, zeitlich unbegrenzt und ohne Grund zurückgeben. Bei dm entscheidet das Team im Markt ohne Beleg aus Kulanz – erstattet wird dann ggf. zum aktuellen Verkaufspreis. MediaMarkt verlangt für die Rückgabe im Markt einen Kaufnachweis, Rossmann bittet, den Kassenbon aufzubewahren.",
+   "sections": [
+    [
+     "Shops im Überblick",
+     [
+      "Lidl: Lebensmittel ohne Bon unbegrenzt; Non-Food 30 Tage mit Bon.",
+      "dm: mit Bon auch angebrochene Ware; ohne Bon Kulanz des Marktes.",
+      "MediaMarkt/Saturn: Kaufnachweis (Lieferschein oder Rechnung) nötig.",
+      "Rossmann: Kassenbon als Kaufnachweis aufbewahren."
+     ]
+    ],
+    [
+     "Tipps",
+     [
+      "Digitale Kassenbons nutzen (z. B. dm eBon) – dann ist der Beleg nie weg."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich ohne Kassenbon zurückgeben?",
+     "Nur aus Kulanz; Lidl nimmt Lebensmittel aber grundsätzlich ohne Bon zurück."
+    ],
+    [
+     "Nimmt dm Ware ohne Kassenbon zurück?",
+     "Das entscheidet das Team im Markt aus Kulanz."
+    ],
+    [
+     "Brauche ich bei MediaMarkt einen Beleg?",
+     "Ja, Lieferschein oder Rechnung für die Rückgabe im Markt."
+    ]
+   ],
+   "sources": [
+    [
+     "Lidl-Kundenservice: Kann ich meinen Artikel umtauschen?",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Kann-ich-meinen-Artikel-umtauschen"
+    ],
+    [
+     "dm: Rückgabe & Erstattung",
+     "https://www.dm.de/services/onlineshop/rueckgabe-erstattung-3627626"
+    ],
+    [
+     "MediaMarkt: Verlängertes Umtauschrecht",
+     "https://www.mediamarkt.de/de/campaign/verlaengertes-umtauschrecht"
+    ],
+    [
+     "ROSSMANN: Rücknahmegarantie",
+     "https://www.rossmann.de/de/service-und-hilfe/ruecknahmegarantie"
+    ]
+   ],
+   "links": [
+    "/wissen/lidl-ruecksendung/",
+    "/wissen/dm-ruecksendung/",
+    "/wissen/geschenke-umtauschen-rechte/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kaufland-ruecksendung",
+   "title": "Kaufland.de Rücksendung: Wann ist sie kostenlos?",
+   "desc": "Auf Kaufland.de hast du 14 Tage Widerrufsrecht. Kostet ein Artikel mehr als 40 €, zahlt der Verkäufer die Rücksendung; bis 40 € meist du. Nicht nach Neckarsulm schicken!",
+   "lead": "Kurze Antwort: Auf dem Kaufland-Online-Marktplatz kannst du innerhalb von 14 Tagen nach Erhalt ohne Grund widerrufen – manche Verkäufer geben länger. Ob die Rücksendung kostenlos ist, hängt vom Preis ab: Ab 40,01 € (ohne Versand) übernimmt der Verkäufer die Kosten, bis 40,00 € zahlst du sie in der Regel selbst. Du startest die Retoure im Kundenkonto unter der Bestellung mit „Artikel zurücksenden“ und schickst an die Adresse, die dir der Verkäufer nennt – nicht an Kaufland in Neckarsulm.",
+   "sections": [
+    [
+     "Frist",
+     [
+      "14 Tage nach Erhalt (gesetzlich); Verkäufer können mehr geben.",
+      "Firmenkunden haben kein Widerrufsrecht."
+     ]
+    ],
+    [
+     "Kosten",
+     [
+      "Artikelpreis ab 40,01 €: Verkäufer zahlt die Rücksendung.",
+      "Bis 40,00 €: in der Regel du – manche Verkäufer bieten trotzdem Gratis-Retouren (steht auf der Produktseite)."
+     ]
+    ],
+    [
+     "Ablauf",
+     [
+      "Bestellung im Kundenkonto öffnen → „Artikel zurücksenden“ → Etikett laden oder anfragen.",
+      "Fehlt die Option: „Kundenservice nutzen“.",
+      "Speditionsware: Termin mit der Spedition, Abholung frei Bordsteinkante."
+     ]
+    ],
+    [
+     "Erstattung",
+     [
+      "Wenige Werktage nach Eingang, meist automatisch über die ursprüngliche Zahlungsart.",
+      "Kreditkarte: ggf. erst mit der Monatsabrechnung."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Kaufland.de zurückgeben?",
+     "14 Tage nach Erhalt, sofern der Verkäufer nicht länger gewährt."
+    ],
+    [
+     "Wer zahlt die Rücksendung bei Kaufland.de?",
+     "Ab 40,01 € Artikelpreis der Verkäufer, darunter in der Regel du."
+    ],
+    [
+     "Wohin schicke ich die Retoure?",
+     "An die Adresse des Verkäufers oder Kundenservice – nicht an Kaufland in Neckarsulm."
+    ]
+   ],
+   "sources": [
+    [
+     "Kaufland.de Hilfe: Widerruf & Retoure",
+     "https://www.kaufland.de/help/marketplace/widerruf-und-retoure/"
+    ]
+   ],
+   "links": [
+    "/wissen/kaufland-versandkosten/",
+    "/gutscheine/kaufland/",
+    "/wissen/widerrufsrecht-online-kauf/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kaufland-versandkosten",
+   "title": "Kaufland.de Versandkosten und Lieferung",
+   "desc": "Auf Kaufland.de legt jeder Verkäufer die Versandkosten selbst fest – sie stehen unter dem Preis. Express gibt es nicht; Packstation und DHL Paketshop sind bei ausgewählten Artikeln möglich.",
+   "lead": "Kurze Antwort: Kaufland.de ist ein Marktplatz, deshalb legen die Verkäufer die Versandkosten selbst fest. Du siehst sie auf der Produktseite unter dem Preis und noch einmal aufgeschlüsselt in der Bestellübersicht. Expressversand gibt es derzeit nicht. Ausgewählte Artikel kannst du an eine DHL Packstation oder einen DHL Paketshop liefern lassen.",
+   "sections": [
+    [
+     "Versandkosten",
+     [
+      "Vom Verkäufer festgelegt – unter dem Preis und in der Bestellübersicht."
+     ]
+    ],
+    [
+     "Lieferung",
+     [
+      "Kein Expressversand.",
+      "Packstation/DHL Paketshop bei ausgewählten Artikeln (Option „An eine Abholstation“, DHL-Postnummer nötig).",
+      "Speditionsware frei Bordsteinkante nach Terminabsprache, je nach Händler auch bis in die Wohnung.",
+      "Artikel mit Verkäufer „Kaufland“ nur innerhalb Deutschlands."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet der Versand bei Kaufland.de?",
+     "Das legt jeder Verkäufer selbst fest; die Kosten stehen unter dem Preis."
+    ],
+    [
+     "Gibt es bei Kaufland.de Expressversand?",
+     "Nein, derzeit nicht."
+    ],
+    [
+     "Kann ich an eine Packstation liefern lassen?",
+     "Bei ausgewählten Artikeln ja, mit DHL-Postnummer."
+    ]
+   ],
+   "sources": [
+    [
+     "Kaufland.de Hilfe: Versand & Lieferung",
+     "https://www.kaufland.de/help/marketplace/versand-und-lieferung/"
+    ]
+   ],
+   "links": [
+    "/wissen/kaufland-ruecksendung/",
+    "/gutscheine/kaufland/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "altgeraet-ruecknahme-online-kauf",
+   "title": "Altgerät kostenlos zurückgeben beim Online-Kauf – so geht's bei Kaufland.de",
+   "desc": "Kaufst du ein Elektrogerät, darfst du ein gleichartiges Altgerät kostenlos zurückgeben. Bei Kaufland.de setzt du dafür im Warenkorb den Haken „Kostenlose Altgerätrücknahme“.",
+   "lead": "Kurze Antwort: Beim Kauf eines Elektrogeräts hast du Anspruch darauf, ein Altgerät der gleichen Art kostenlos zurückzugeben. Bei Kaufland.de setzt du dafür vor dem Abschluss der Bestellung den Haken „Kostenlose Altgerätrücknahme“ unter dem Produkt. Danach öffnet sich im Kundenkonto eine Anfrage; je nach Größe bekommst du ein Versandetikett oder eine Spedition holt ab.",
+   "sections": [
+    [
+     "Ablauf bei Kaufland.de",
+     [
+      "Elektrogerät in den Warenkorb legen.",
+      "In der Übersicht den Haken „Kostenlose Altgerätrücknahme“ beim Produkt setzen.",
+      "Kauf abschließen – im Kundenkonto öffnet sich automatisch eine Anfrage.",
+      "Etikett oder Speditionsabholung je nach Gerätegröße."
+     ]
+    ],
+    [
+     "Gut zu wissen",
+     [
+      "Gilt für ein Altgerät der gleichen Art.",
+      "Persönliche Daten vorher löschen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich beim Online-Kauf mein altes Gerät zurückgeben?",
+     "Ja, ein gleichartiges Altgerät kostenlos – bei Kaufland.de per Haken im Warenkorb."
+    ],
+    [
+     "Wie kommt das Altgerät zum Händler?",
+     "Per Versandetikett oder Speditionsabholung, je nach Größe."
+    ]
+   ],
+   "sources": [
+    [
+     "Kaufland.de Hilfe: Widerruf & Retoure",
+     "https://www.kaufland.de/help/marketplace/widerruf-und-retoure/"
+    ]
+   ],
+   "links": [
+    "/wissen/elektrogeraete-entsorgen/",
+    "/wissen/kaufland-ruecksendung/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ebay-kaeuferschutz",
+   "title": "eBay-Käuferschutz: Was ist abgedeckt und welche Fristen gelten?",
+   "desc": "Der eBay-Käuferschutz greift, wenn ein Artikel nicht ankommt oder deutlich von der Beschreibung abweicht. Melden spätestens 30 Tage nach dem Liefertermin; Überweisung außerhalb von eBay ist nicht geschützt.",
+   "lead": "Kurze Antwort: Der eBay-Käuferschutz hilft, wenn dein Artikel nicht ankommt, erheblich von der Beschreibung abweicht oder defekt ist. Du meldest das Problem spätestens 30 Kalendertage nach dem (Ca.-)Lieferdatum; antwortet der Verkäufer nicht binnen 3 Werktagen oder gibt es keine Lösung, schaltest du eBay ein. Du bekommst Kaufpreis und ursprüngliche Versandkosten zurück. Geschützt sind nur Zahlungen über eBay – wer außerhalb per Überweisung zahlt, verliert den Schutz.",
+   "sections": [
+    [
+     "Abgedeckt",
+     [
+      "Artikel nicht erhalten.",
+      "Artikel erheblich anders als beschrieben oder defekt.",
+      "Verkäufer hält seine eigenen Rücknahmebedingungen nicht ein."
+     ]
+    ],
+    [
+     "Fristen",
+     [
+      "Nicht erhalten: frühestens nach dem Ca.-Lieferdatum, spätestens 30 Kalendertage danach melden.",
+      "Nicht wie beschrieben: spätestens 30 Tage nach Lieferung (oder länger, wenn der Verkäufer mehr Rückgabezeit gibt).",
+      "Verkäufer hat 3 Werktage zum Antworten; eBay einschalten bis spätestens 21 Werktage nach der Meldung.",
+      "Einspruch gegen eine Entscheidung: 45 Kalendertage."
+     ]
+    ],
+    [
+     "Nicht abgedeckt",
+     [
+      "Fahrzeuge (Autos, Wohnmobile, Motorräder, Boote), Immobilien, Dienstleistungen, Gutscheine, digitale Artikel.",
+      "Selbst abgeholte Artikel bei Meldung „nicht erhalten“.",
+      "Zahlung außerhalb von eBay, z. B. per Überweisung.",
+      "Wer parallel eine Rückbuchung beim Zahlungsdienst startet, verliert den eBay-Schutz."
+     ]
+    ],
+    [
+     "Geschützte Zahlarten",
+     [
+      "Kreditkarte, PayPal, Apple Pay, Google Pay, eBay-Guthaben, Klarna, Lastschrift."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange gilt der eBay-Käuferschutz?",
+     "Du musst das Problem spätestens 30 Kalendertage nach dem Lieferdatum melden."
+    ],
+    [
+     "Bekomme ich auch die Versandkosten zurück?",
+     "Ja, die ursprünglichen Versandkosten; eigene Rücksendekosten in der Regel nicht."
+    ],
+    [
+     "Bin ich bei Überweisung geschützt?",
+     "Nein, nur bei Zahlung über eBay."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Grundsatz zum eBay-Käuferschutz",
+     "https://www.ebay.de/help/policies/ebay-money-back-guarantee-policy/grundsatz-zum-ebaykuferschutz?id=4210"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-vs-paypal-kaeuferschutz/",
+    "/wissen/paypal-kaeuferschutz/",
+    "/wissen/kleinanzeigen-betrug-erkennen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "paypal-kaeuferschutz",
+   "title": "PayPal-Käuferschutz: 180 Tage Zeit – aber nicht bei Freunde & Familie",
+   "desc": "Mit dem PayPal-Käuferschutz kannst du binnen 180 Tagen nach Zahlung einen Konflikt eröffnen, wenn Ware nicht kommt oder deutlich abweicht. Nicht geschützt: Freunde & Familie, Fahrzeuge, Abholung.",
+   "lead": "Kurze Antwort: Der PayPal-Käuferschutz greift, wenn ein Artikel nicht ankommt oder deutlich von der Beschreibung abweicht. Du eröffnest den Konflikt innerhalb von 180 Tagen nach der Zahlung und musst ihn binnen 20 Tagen zum Antrag hochstufen, wenn du dich mit dem Verkäufer nicht einigst. Erstattet werden Kaufpreis und ursprüngliche Versandkosten, Rücksendekosten nicht. Kein Schutz bei „Freunde & Familie“-Zahlungen, Fahrzeugen, Immobilien und persönlich abgeholter Ware.",
+   "sections": [
+    [
+     "Fristen",
+     [
+      "Konflikt: innerhalb von 180 Tagen nach Zahlung.",
+      "Antrag: innerhalb von 20 Tagen nach Konflikteröffnung, sonst schließt der Konflikt.",
+      "PayPal kann verlangen, mindestens sieben Tage zu warten."
+     ]
+    ],
+    [
+     "Abgedeckt",
+     [
+      "Artikel nicht erhalten (außer Verkäufer weist Zustellung nach).",
+      "Deutlich anders als beschrieben: anderer Artikel, Fälschung, Transportschaden, fehlende Teile, anderer Zustand."
+     ]
+    ],
+    [
+     "Nicht abgedeckt",
+     [
+      "„Freunde & Familie“ und andere persönliche Zahlungen.",
+      "Immobilien und Fahrzeuge (Fahrräder und Hoverboards sind aber geschützt).",
+      "Geschenkkarten, Gold, Finanzprodukte, Glücksspiel, Crowdfunding, Waren zum Wiederverkauf.",
+      "Persönlich abgeholte Artikel – außer bei Zahlung per PayPal-QR-Code."
+     ]
+    ],
+    [
+     "Kosten",
+     [
+      "Kaufpreis und ursprüngliche Versandkosten zurück.",
+      "Rücksendekosten trägst du selbst."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange habe ich PayPal-Käuferschutz?",
+     "180 Tage ab Zahlung, um einen Konflikt zu eröffnen."
+    ],
+    [
+     "Gilt Käuferschutz bei Freunde & Familie?",
+     "Nein."
+    ],
+    [
+     "Zahlt PayPal die Rücksendung?",
+     "Nein, Rücksendekosten werden nicht erstattet."
+    ]
+   ],
+   "sources": [
+    [
+     "PayPal: PayPal-Käuferschutz (Nutzungsbedingungen)",
+     "https://www.paypal.com/de/legalhub/paypal/buyer-protection"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-vs-paypal-kaeuferschutz/",
+    "/wissen/kleinanzeigen-betrug-erkennen/",
+    "/wissen/fake-shop-erkennen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ebay-vs-paypal-kaeuferschutz",
+   "title": "eBay- vs. PayPal-Käuferschutz: Welcher schützt dich besser?",
+   "desc": "Sieger bei der Frist: PayPal mit 180 Tagen ab Zahlung, eBay gibt 30 Tage ab Lieferung. Beide erstatten Kaufpreis plus Versand. Wichtig: nicht beide gleichzeitig nutzen.",
+   "lead": "Kurze Antwort: Bei der Frist gewinnt PayPal klar: 180 Tage ab Zahlung, während du beim eBay-Käuferschutz spätestens 30 Tage nach dem Lieferdatum melden musst. Beide erstatten Kaufpreis und ursprüngliche Versandkosten, keine eigenen Rücksendekosten, und beide schließen Fahrzeuge aus. Bei eBay-Käufen gilt: Startest du parallel einen Fall bei PayPal oder der Bank, verlierst du den eBay-Schutz.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "Frist: PayPal 180 Tage ab Zahlung – eBay 30 Tage ab Lieferdatum.",
+      "Erstattung: beide Kaufpreis + ursprünglicher Versand.",
+      "Rücksendekosten: bei PayPal nie erstattet; bei eBay trägt sie bei „nicht wie beschrieben“ meist der Verkäufer.",
+      "Fahrzeuge: bei beiden ausgeschlossen.",
+      "Abholung: eBay deckt Nichtankunft bei Abholung nicht; PayPal nur bei Zahlung per QR-Code."
+     ]
+    ],
+    [
+     "Wann was nutzen",
+     [
+      "eBay-Kauf mit Problem: zuerst den eBay-Käuferschutz – nicht zusätzlich PayPal oder die Bank.",
+      "Shop außerhalb eBay mit PayPal bezahlt: PayPal-Käuferschutz.",
+      "Nie „Freunde & Familie“ an Fremde – dort gibt es keinen Schutz."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "PayPal – wegen der deutlich längeren Frist. Bei „nicht wie beschrieben“ auf eBay ist der eBay-Schutz günstiger, weil meist der Verkäufer die Rücksendung zahlt."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Käuferschutz hat die längere Frist?",
+     "PayPal: 180 Tage ab Zahlung; eBay: 30 Tage ab Lieferung."
+    ],
+    [
+     "Kann ich bei eBay beide nutzen?",
+     "Nein – wer parallel bei PayPal oder der Bank reklamiert, verliert den eBay-Schutz."
+    ],
+    [
+     "Wer zahlt die Rücksendung?",
+     "Bei PayPal du; bei eBay bei Abweichung von der Beschreibung meist der Verkäufer."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Grundsatz zum eBay-Käuferschutz",
+     "https://www.ebay.de/help/policies/ebay-money-back-guarantee-policy/grundsatz-zum-ebaykuferschutz?id=4210"
+    ],
+    [
+     "PayPal: PayPal-Käuferschutz (Nutzungsbedingungen)",
+     "https://www.paypal.com/de/legalhub/paypal/buyer-protection"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-kaeuferschutz/",
+    "/wissen/paypal-kaeuferschutz/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "apple-rueckgabe",
+   "title": "Apple Rückgabe: 14 Tage, kostenlose Abholung, Store-Umtausch",
+   "desc": "Bei Apple Deutschland gibst du Hardware binnen 14 Tagen nach Lieferung zurück; Apple trägt beim Widerruf die Rücksendekosten. Store-Käufe tauschst du in jedem Apple Store im Land.",
+   "lead": "Kurze Antwort: Bei Apple kannst du Hardware innerhalb von 14 Kalendertagen nach Lieferung zurückgeben, Software nur versiegelt. Du startest die Rückgabe über die Self-Service-Website, Apple vergibt eine RMA-Nummer und lässt das Paket abholen; beim Widerruf trägt Apple die Rücksendekosten (außer Express-Aufpreise). Im Store gekaufte Produkte tauschst du in jedem Apple Store im selben Land.",
+   "sections": [
+    [
+     "Fristen",
+     [
+      "Hardware: 14 Kalendertage ab Lieferung.",
+      "Software: nur versiegelt.",
+      "Weihnachten 2026: Online-Käufe, geliefert 6.11.–25.12.2026, bis 8.1.2027 (nicht Ratenkauf)."
+     ]
+    ],
+    [
+     "Ablauf",
+     [
+      "Self-Service-Website oder Apple kontaktieren.",
+      "Bestellnummer, Abholadresse, Telefon und Wunschtermin angeben.",
+      "RMA-Nummer gut sichtbar auf das Paket schreiben."
+     ]
+    ],
+    [
+     "Erstattung",
+     [
+      "Nach Eingang im Apple-Lager; die Bank braucht ggf. 5–7 Tage.",
+      "Kreditkarte: Überweisung an die Bank binnen 5 Werktagen.",
+      "Mit Apple Gift Card bezahlt: Erstattung als Gift Card per E-Mail."
+     ]
+    ],
+    [
+     "Ausnahmen",
+     [
+      "Maßanfertigungen und individuell konfigurierte Macs (Store-Umtausch evtl. nicht möglich).",
+      "Entsiegelte Audio-, Video- oder Softwareprodukte."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Apple zurückgeben?",
+     "14 Kalendertage ab Lieferung."
+    ],
+    [
+     "Muss ich die Rücksendung zu Apple bezahlen?",
+     "Beim Widerruf trägt Apple die Kosten – außer Express-Aufpreise."
+    ],
+    [
+     "Kann ich online Gekauftes im Apple Store zurückgeben?",
+     "Nur wenn es beschädigt oder defekt ankam; sonst über die Self-Service-Website."
+    ]
+   ],
+   "sources": [
+    [
+     "Apple (DE): Rückgabe & Erstattung – Einkaufshilfe",
+     "https://www.apple.com/de/shop/help/returns_refund"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-rueckgabe-weihnachten-2026/",
+    "/wissen/apple-preisanpassung/",
+    "/wissen/rueckgabefrist-vergleich-shops/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "apple-rueckgabe-weihnachten-2026",
+   "title": "Apple Rückgabe Weihnachten 2026: bis 8. Januar 2027",
+   "desc": "Online bei Apple gekaufte Produkte, die zwischen 6. November und 25. Dezember 2026 geliefert werden, kannst du bis 8. Januar 2027 zurückgeben. Ratenkäufe sind ausgenommen.",
+   "lead": "Kurze Antwort: Apple verlängert die Rückgabe für Weihnachten 2026: Qualifizierte Käufe im Online Store, die zwischen dem 6. November und dem 25. Dezember 2026 geliefert werden, kannst du bis 8. Januar 2027 zurückgeben. Ausgenommen sind Ratenkäufe. Was nach dem 25. Dezember geliefert wird, folgt der normalen 14-Tage-Regel.",
+   "sections": [
+    [
+     "Die Regel",
+     [
+      "Lieferung zwischen 6.11. und 25.12.2026.",
+      "Rückgabe bis 8.1.2027.",
+      "Nicht für Ratenkäufe."
+     ]
+    ],
+    [
+     "Im Vergleich",
+     [
+      "Amazon, OTTO und Douglas: bis 31.01.2027 – also gut drei Wochen länger.",
+      "MediaMarkt: Käufe 27.10.–01.12. bis 31.12.2026."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Bis wann kann ich Apple-Weihnachtsgeschenke zurückgeben?",
+     "Bei Lieferung zwischen 6.11. und 25.12.2026 bis 8.1.2027."
+    ],
+    [
+     "Gilt das auch für Ratenkauf?",
+     "Nein."
+    ]
+   ],
+   "sources": [
+    [
+     "Apple (DE): Rückgabe & Erstattung – Einkaufshilfe",
+     "https://www.apple.com/de/shop/help/returns_refund"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-rueckgabe/",
+    "/wissen/weihnachten-rueckgabe-verlaengert-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "apple-preisanpassung",
+   "title": "Apple Preis gesenkt nach dem Kauf? Differenz zurückholen",
+   "desc": "Senkt Apple den Preis innerhalb von 14 Tagen nach Erhalt, kannst du telefonisch die Differenz anfordern. Zeitlich begrenzte Aktionsrabatte sind ausgenommen.",
+   "lead": "Kurze Antwort: Reduziert Apple den Preis eines Produkts, kannst du innerhalb von 14 Tagen nach Erhalt telefonisch die Erstattung der Differenz verlangen. Zeitlich begrenzte Werbeaktionen zählen nicht.",
+   "sections": [
+    [
+     "So geht's",
+     [
+      "Preissenkung im Apple Online Store prüfen.",
+      "Innerhalb von 14 Tagen nach Erhalt bei Apple anrufen und die Differenz anfordern."
+     ]
+    ],
+    [
+     "Nicht abgedeckt",
+     [
+      "Temporäre Aktionsrabatte."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Erstattet Apple die Differenz bei Preissenkung?",
+     "Ja, auf telefonische Anfrage innerhalb von 14 Tagen nach Erhalt – nicht bei temporären Aktionen."
+    ]
+   ],
+   "sources": [
+    [
+     "Apple (DE): Rückgabe & Erstattung – Einkaufshilfe",
+     "https://www.apple.com/de/shop/help/returns_refund"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-rueckgabe/",
+    "/wissen/preis-gesunken-nach-kauf/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "klarna-retoure-melden",
+   "title": "Klarna Retoure melden: So pausierst du die Rechnung",
+   "desc": "Meldest du eine Retoure in der Klarna-App, pausiert Klarna die Rechnung, bis der Shop sie erfasst. Hat der Shop nach 21 Tagen nichts gebucht, wende dich an Klarna.",
+   "lead": "Kurze Antwort: Schickst du etwas zurück, das du mit Klarna bezahlt hast, meldest du die Retoure in der Klarna-App – mit Sendungsnummer und Versanddatum. Klarna pausiert dann deine Rechnung, damit der Shop die Retoure erfassen kann; danach bekommst du die angepassten Zahlungsinfos per E-Mail. Hat der Shop die Retoure nach 21 Tagen noch nicht korrekt gebucht, wende dich an Klarna.",
+   "sections": [
+    [
+     "Schritt für Schritt",
+     [
+      "Retoure in der Klarna-App anlegen, Sendungsnummer und Versanddatum eintragen.",
+      "E-Mail mit aktualisierten Zahlungsinfos abwarten.",
+      "Nach 21 Tagen ohne korrekte Buchung: Klarna kontaktieren."
+     ]
+    ],
+    [
+     "Bei Streit",
+     [
+      "Entscheidung für dich: Klarna passt den Plan an und erstattet Zuviel.",
+      "Für den Shop: Zahlungen bleiben, Termine verschieben sich."
+     ]
+    ],
+    [
+     "Tipp",
+     [
+      "Manche Shops (z. B. OBI) bitten ausdrücklich, die Retoure auch bei Klarna zu melden."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Muss ich eine Retoure bei Klarna melden?",
+     "Empfohlen – dann pausiert Klarna die Rechnung bis zur Buchung durch den Shop."
+    ],
+    [
+     "Was, wenn der Shop die Retoure nicht bucht?",
+     "Nach 21 Tagen an Klarna wenden."
+    ]
+   ],
+   "sources": [
+    [
+     "Klarna: Was passiert, wenn ich eine Retoure anmelde?",
+     "https://www.klarna.com/de/kundenservice/was-passiert-wenn-ich-eine-retoure-anmelde/"
+    ],
+    [
+     "OBI: Rückgabe bei OBI",
+     "https://www.obi.de/info/rueckgabe"
+    ]
+   ],
+   "links": [
+    "/wissen/klarna-rechnung-zahlungsziel/",
+    "/wissen/spaeter-bezahlen-klarna-risiken/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "klarna-rechnung-zahlungsziel",
+   "title": "Klarna Rechnung: Wie lange habe ich Zeit zum Bezahlen?",
+   "desc": "Beim Kauf auf Rechnung mit Klarna hast du in der Regel 30 Tage ab Rechnungsdatum. Bei Problemen pausiert „Problem melden“ in der App die Rechnung.",
+   "lead": "Kurze Antwort: Beim Kauf auf Rechnung mit Klarna hast du in der Regel 30 Tage ab Rechnungsdatum Zeit, zu bezahlen. Die Rechnung kommt je nach Shop per E-Mail, Post oder mit der Ware und ist immer in der Klarna-App einsehbar. Gibt es Ärger mit der Ware, pausiert „Problem melden“ in der App die Rechnung.",
+   "sections": [
+    [
+     "Fakten",
+     [
+      "Zahlungsziel: in der Regel 30 Tage ab Rechnungsdatum.",
+      "Rechnung: per E-Mail, Post oder im Paket – alle in der App.",
+      "Klarna empfiehlt, in der App zu zahlen, um Fehlüberweisungen zu vermeiden."
+     ]
+    ],
+    [
+     "Bei Problemen",
+     [
+      "„Problem melden“ pausiert die Rechnung, bis du es mit dem Shop geklärt hast.",
+      "Retouren in der App melden."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange ist das Zahlungsziel bei Klarna Rechnung?",
+     "In der Regel 30 Tage ab Rechnungsdatum."
+    ],
+    [
+     "Wo finde ich meine Klarna-Rechnung?",
+     "In der Klarna-App."
+    ]
+   ],
+   "sources": [
+    [
+     "Klarna: Wie funktioniert der Kauf auf Rechnung mit Klarna?",
+     "https://www.klarna.com/de/kundenservice/wie-funktioniert-der-kauf-auf-rechnung-mit-klarna/"
+    ]
+   ],
+   "links": [
+    "/wissen/klarna-retoure-melden/",
+    "/wissen/spaeter-bezahlen-klarna-risiken/"
    ],
    "figures": []
   }
