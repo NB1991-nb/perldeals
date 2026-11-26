@@ -4226,12 +4226,13 @@
   {
    "slug": "click-and-collect-vergleich",
    "title": "Click & Collect im Vergleich: Wo kannst du am schnellsten gratis abholen?",
-   "desc": "Sieger: dm und OBI – beide kostenlos und in rund 2 Stunden. Thalia schafft 120 Minuten bei Bestand, Douglas ist gratis, IKEA erst ab 50 € kostenlos.",
-   "lead": "Kurze Antwort: Am schnellsten und günstigsten holst du bei dm (Express-Abholung ab 2 Stunden, mit dm-Konto gratis) und OBI (Reservieren & Abholen, kostenlos, meist in 2 Stunden) ab. Thalia stellt vorrätige Artikel in 120 Minuten bereit, Douglas Click & Collect ist ebenfalls gratis. IKEA verlangt im Einrichtungshaus 4,99 €, erst ab 50 € ist es kostenlos.",
+   "desc": "Sieger: MediaMarkt – Express-Abholung in 30 Minuten, kostenlos. Danach dm und OBI (je ca. 2 Stunden, gratis), Thalia 120 Minuten; IKEA erst ab 50 € kostenlos.",
+   "lead": "Kurze Antwort: Am schnellsten holst du bei MediaMarkt ab: Artikel mit „Bereit zur Marktabholung“ liegen 30 Minuten nach der Bestellbestätigung bereit, Click & Collect ist kostenlos. Danach folgen dm (Express-Abholung ab 2 Stunden, mit dm-Konto gratis) und OBI (Reservieren & Abholen, kostenlos, meist in 2 Stunden). Thalia stellt vorrätige Artikel in 120 Minuten bereit, Douglas Click & Collect ist gratis. IKEA verlangt im Einrichtungshaus 4,99 €, erst ab 50 € ist es kostenlos.",
    "sections": [
     [
      "Vergleich",
      [
+      "MediaMarkt: 30 Minuten (Express-Abholung), kostenlos.",
       "dm: ab 2 Stunden, mit Konto 0 € (sonst 2,95 €).",
       "OBI: meist in 2 Stunden, kostenlos, Zahlung im Markt.",
       "Thalia: 120 Minuten bei Bestand.",
@@ -4242,14 +4243,14 @@
     [
      "Sieger",
      [
-      "dm und OBI: schnell und gratis. Bei OBI musst du nicht einmal online bezahlen."
+      "MediaMarkt – mit 30 Minuten klar am schnellsten und kostenlos. Danach dm und OBI."
      ]
     ]
    ],
    "faq": [
     [
      "Wo ist Click & Collect am schnellsten?",
-     "Bei dm und OBI in etwa 2 Stunden."
+     "Bei MediaMarkt: Express-Abholung in 30 Minuten."
     ],
     [
      "Ist IKEA Click & Collect kostenlos?",
@@ -4261,6 +4262,10 @@
     ]
    ],
    "sources": [
+    [
+     "MediaMarkt: Standard-Lieferung und Versand",
+     "https://www.mediamarkt.de/de/service/lieferung/standardlieferung"
+    ],
     [
      "dm: Lieferung & Versand",
      "https://www.dm.de/services/onlineshop/lieferung-und-versand"
@@ -4286,7 +4291,8 @@
     "/wissen/dm-express-abholung/",
     "/wissen/obi-versandkosten/",
     "/wissen/thalia-click-and-collect/",
-    "/wissen/ikea-click-and-collect/"
+    "/wissen/ikea-click-and-collect/",
+    "/wissen/mediamarkt-versandkosten/"
    ],
    "figures": []
   },
@@ -6777,6 +6783,343 @@
     "/wissen/zalando-gutschein-regeln/",
     "/wissen/thalia-geschenkkarte-guthaben/",
     "/wissen/rossmann-geschenkkarte/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "vinted-gebuehr",
+   "title": "Vinted-Gebühr: Was zahlst du als Käufer?",
+   "desc": "Vinted berechnet Käufern eine Pflicht-Plattformgebühr – in der Regel 5 % des Artikelpreises plus 0,70 €. Sie steht schon im Katalog im Gesamtpreis.",
+   "lead": "Kurze Antwort: Bei jeder Bestellung über Vinted zahlst du als Käufer die Vinted-Gebühr. Sie besteht laut Vinted in der Regel aus 5 % des Artikel- oder Paketpreises plus 0,70 € fest und wird schon in der Preisübersicht jedes Angebots angezeigt. Dafür greifen u. a. die Erstattungsrichtlinien, wenn ein Artikel von einem Privatverkäufer verloren geht, beschädigt ankommt oder deutlich anders als beschrieben ist.",
+   "sections": [
+    [
+     "Berechnung",
+     [
+      "In der Regel 5 % + 0,70 €.",
+      "Abhängig von Artikeleigenschaften, Bestellwert und ob Einzelartikel oder Paket.",
+      "Beispiel 20-€-Artikel: 1,00 € + 0,70 € = 1,70 €."
+     ]
+    ],
+    [
+     "Wofür",
+     [
+      "Erstattung bei Verlust, Beschädigung oder deutlicher Abweichung (bei Privatverkäufern).",
+      "Mitgliedersupport und Plattformbetrieb."
+     ]
+    ],
+    [
+     "Spar-Tipp",
+     [
+      "Mehrere Artikel eines Verkäufers als Paket kaufen – die Gebühr wird dann auf das ganze Paket berechnet."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie hoch ist die Vinted-Gebühr?",
+     "In der Regel 5 % des Preises plus 0,70 €."
+    ],
+    [
+     "Wer zahlt die Vinted-Gebühr?",
+     "Der Käufer, beim Checkout."
+    ]
+   ],
+   "sources": [
+    [
+     "Vinted Hilfe-Center: Vinted-Gebühr",
+     "https://www.vinted.de/help/342-kauferschutz-gebuhren-auf-vinted"
+    ]
+   ],
+   "links": [
+    "/wissen/vinted-vs-kleinanzeigen-gebuehr/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "vinted-vs-kleinanzeigen-gebuehr",
+   "title": "Vinted vs. Kleinanzeigen: Wo zahlst du weniger Käufergebühr?",
+   "desc": "Sieger: Kleinanzeigen. „Sicher bezahlen“ kostet 0,50 € + 4,5 %, Vinted in der Regel 0,70 € + 5 %. Bei 50 € zahlst du 2,75 € statt 3,20 €.",
+   "lead": "Kurze Antwort: Kleinanzeigen ist günstiger. Für „Sicher bezahlen“ fallen 0,50 € plus 4,5 % des Kaufpreises an, bei Vinted in der Regel 0,70 € plus 5 %. Bei einem 50-€-Artikel sind das 2,75 € gegenüber 3,20 €, bei 100 € 5,00 € gegenüber 5,70 €. Kleinanzeigen-Schutz gilt aber nur beim Versand innerhalb Deutschlands.",
+   "sections": [
+    [
+     "Rechenbeispiele",
+     [
+      "10 €: Kleinanzeigen 0,95 € – Vinted 1,20 €.",
+      "50 €: Kleinanzeigen 2,75 € – Vinted 3,20 €.",
+      "100 €: Kleinanzeigen 5,00 € – Vinted 5,70 €."
+     ]
+    ],
+    [
+     "Schutz",
+     [
+      "Kleinanzeigen: Treuhand über Adyen bis zur Erhaltsbestätigung, nur Versand in DE.",
+      "Vinted: Erstattung bei Verlust, Schaden oder deutlicher Abweichung von Privatverkäufern."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "Kleinanzeigen – bei jedem Preis günstiger."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist Vinted oder Kleinanzeigen günstiger für Käufer?",
+     "Kleinanzeigen: 0,50 € + 4,5 % statt 0,70 € + 5 %."
+    ]
+   ],
+   "sources": [
+    [
+     "Vinted Hilfe-Center: Vinted-Gebühr",
+     "https://www.vinted.de/help/342-kauferschutz-gebuhren-auf-vinted"
+    ],
+    [
+     "Kleinanzeigen Hilfe: Was ist „Sicher bezahlen“?",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17211553583388-Was-ist-Sicher-bezahlen-wie-funktioniert-der-K%C3%A4uferschutz"
+    ]
+   ],
+   "links": [
+    "/wissen/vinted-gebuehr/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/",
+    "/wissen/ebay-vs-kleinanzeigen-verkaufen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "dpd-paketpreise-2026",
+   "title": "DPD Paketpreise: Shop2Shop ab 3,59 €",
+   "desc": "DPD rechnet nach Größe (längste + kürzeste Seite): Shop2Shop XS 3,59 €, S 4,09 €, M 5,78 €, L 10,79 €. Zur Haustür (Classic, Abgabe im Shop) ab 5,15 €.",
+   "lead": "Kurze Antwort: DPD berechnet Pakete nach der Summe aus längster und kürzester Seite. Am günstigsten ist Shop2Shop (vom Paketshop in einen Paketshop): XS bis 35 cm 3,59 €, S bis 50 cm 4,09 €, M bis 70 cm 5,78 €, L bis 90 cm 10,79 €. Mit Zustellung an die Haustür (Classic, Abgabe im Paketshop) kostet es 5,15 €, 5,45 €, 6,95 € bzw. 10,95 €; XL bis 300 cm Gurtmaß 18,69 €.",
+   "sections": [
+    [
+     "Shop2Shop",
+     [
+      "XS (bis 35 cm): 3,59 €.",
+      "S (bis 50 cm): 4,09 €.",
+      "M (bis 70 cm): 5,78 €.",
+      "L (bis 90 cm): 10,79 €."
+     ]
+    ],
+    [
+     "Classic (Haustür, Abgabe im Shop)",
+     [
+      "XS 5,15 € · S 5,45 € · M 6,95 € · L 10,95 € · XL 18,69 €.",
+      "Mit Abholung bei dir: ab 8,29 €."
+     ]
+    ],
+    [
+     "Grenzen",
+     [
+      "Paketshop-Abgabe: max. 20 kg, längste Seite 100 cm, Gurtmaß 250 cm.",
+      "Abholung: max. 31,5 kg, 175 cm, Gurtmaß 300 cm.",
+      "Inselzuschlag 15 €."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein DPD-Paket?",
+     "Shop2Shop ab 3,59 €, zur Haustür ab 5,15 €."
+    ],
+    [
+     "Wie schwer darf ein DPD-Paket sein?",
+     "Bei Abgabe im Paketshop bis 20 kg, bei Abholung bis 31,5 kg."
+    ]
+   ],
+   "sources": [
+    [
+     "DPD: Päckchen-Preise & Versandkosten Pakete",
+     "https://www.dpd.com/de/de/versenden/preise/"
+    ]
+   ],
+   "links": [
+    "/wissen/guenstigster-paketdienst-2026/",
+    "/wissen/dhl-paketpreise-2026/",
+    "/wissen/hermes-paketpreise-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "guenstigster-paketdienst-2026",
+   "title": "Günstigster Paketdienst 2026: DHL, Hermes oder DPD?",
+   "desc": "Kleine Sendungen: DPD Shop2Shop XS für 3,59 € gewinnt vor Hermes (3,99 €) und DHL (4,19 €). Große, schwere Pakete: Hermes L für 9,90 €. DHL ist bei Paketen am teuersten.",
+   "lead": "Kurze Antwort: Für kleine Sendungen ist DPD Shop2Shop am günstigsten (XS bis 35 cm: 3,59 €), knapp vor dem Hermes-Päckchen (3,99 €) und dem DHL-Päckchen S (4,19 €, ohne Tracking). Für große und schwere Pakete gewinnt Hermes: Größe L bis 120 cm und 25 kg kostet 9,90 € (PaketShop) – bei DHL zahlst du für 20 kg 18,99 €. Zur Haustür sind Hermes (ab 5,19 € online) und DPD Classic (ab 5,15 €) gleichauf.",
+   "sections": [
+    [
+     "Klein (Päckchen)",
+     [
+      "DPD Shop2Shop XS: 3,59 €.",
+      "Hermes Päckchen (PaketShop): 3,99 €.",
+      "DHL Päckchen S: 4,19 € (ohne Tracking)."
+     ]
+    ],
+    [
+     "Mittel",
+     [
+      "DPD Shop2Shop M (bis 70 cm): 5,78 €.",
+      "Hermes M (bis 80 cm, PaketShop): 5,90 €.",
+      "DHL Paket 5 kg: 7,69 €."
+     ]
+    ],
+    [
+     "Groß und schwer",
+     [
+      "Hermes L (bis 120 cm, 25 kg): 9,90 € / 10,99 € Haustür.",
+      "DPD Shop2Shop L (bis 90 cm, 20 kg): 10,79 €.",
+      "DHL 20 kg: 18,99 € · 31,5 kg: 23,99 €."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "Klein: DPD. Groß/schwer: Hermes."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Welcher Paketdienst ist am günstigsten?",
+     "Klein DPD Shop2Shop (3,59 €), groß Hermes L (9,90 €)."
+    ],
+    [
+     "Ist DHL teurer als Hermes?",
+     "Ja, vor allem bei schweren Paketen."
+    ]
+   ],
+   "sources": [
+    [
+     "DPD: Päckchen-Preise & Versandkosten Pakete",
+     "https://www.dpd.com/de/de/versenden/preise/"
+    ],
+    [
+     "Hermes: Päckchen- und Paketpreise",
+     "https://www.myhermes.de/preise/paeckchen-paket"
+    ],
+    [
+     "DHL: Preise national",
+     "https://www.dhl.de/de/privatkunden/pakete-versenden/deutschlandweit-versenden/preise-national.html"
+    ]
+   ],
+   "links": [
+    "/wissen/dpd-paketpreise-2026/",
+    "/wissen/dhl-vs-hermes-paket/",
+    "/wissen/hermes-paketpreise-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "mediamarkt-versandkosten",
+   "title": "MediaMarkt Versandkosten: Gratis ab 69 €",
+   "desc": "MediaMarkt verschickt ab 69 € kostenlos, darunter kostet der Standardversand 4,99 €. Click & Collect ist gratis, Express-Abholung in 30 Minuten möglich.",
+   "lead": "Kurze Antwort: Bei MediaMarkt ist der Standardversand ab 69 € Warenwert kostenlos, darunter zahlst du 4,99 € – egal wie viele Paketartikel in der Bestellung sind. FSK/USK-18-Artikel kommen separat und kosten einmalig zusätzlich 4,99 €. Die Abholung im Markt (Click & Collect) ist kostenlos; als „Bereit zur Marktabholung“ markierte Artikel liegen schon 30 Minuten nach der Bestellbestätigung bereit.",
+   "sections": [
+    [
+     "Versand",
+     [
+      "Ab 69 €: kostenlos.",
+      "Unter 69 €: 4,99 € einmalig pro Bestellung.",
+      "FSK/USK-18-Artikel: separat, +4,99 €.",
+      "Versandpartner: DHL, Hermes, DPD."
+     ]
+    ],
+    [
+     "Abholung",
+     [
+      "Click & Collect: kostenlos.",
+      "Express-Abholung: Bereitstellung in 30 Minuten bei Artikeln „Bereit zur Marktabholung“.",
+      "Letzte Bestellung eine Stunde vor Ladenschluss."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ab wann liefert MediaMarkt versandkostenfrei?",
+     "Ab 69 € Warenwert."
+    ],
+    [
+     "Was kostet der Versand unter 69 €?",
+     "4,99 €."
+    ],
+    [
+     "Wie schnell kann ich im Markt abholen?",
+     "Express-Abholung in 30 Minuten, wenn der Artikel im Markt bereitliegt."
+    ]
+   ],
+   "sources": [
+    [
+     "MediaMarkt: Standard-Lieferung und Versand",
+     "https://www.mediamarkt.de/de/service/lieferung/standardlieferung"
+    ]
+   ],
+   "links": [
+    "/wissen/mediamarkt-rueckgabe/",
+    "/wissen/click-and-collect-vergleich/",
+    "/gutscheine/mediamarkt/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "amazon-prime-student-2026",
+   "title": "Amazon Prime Student 2026: Kosten, Gratiszeit, wer darf?",
+   "desc": "Prime Student kostet nach 6 Gratismonaten 4,49 €/Monat oder 44,90 €/Jahr – halber Preis. Berechtigt: Studierende, Azubis und alle 18- bis 24-Jährigen; bis zu 4 Jahre.",
+   "lead": "Kurze Antwort: Amazon Prime Student ist sechs Monate kostenlos und kostet danach 4,49 € im Monat oder 44,90 € im Jahr – die Hälfte des normalen Prime-Preises. Berechtigt sind Studierende, Auszubildende und alle 18- bis 24-Jährigen (ohne Studiennachweis). Der Rabatt gilt bis zu vier Jahre bzw. bis zum Ende von Studium oder Ausbildung, für 18- bis 24-Jährige bis zum 25. Geburtstag.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "6 Monate gratis (einmal pro Konto).",
+      "Danach 4,49 €/Monat oder 44,90 €/Jahr.",
+      "Ersparnis zu Prime (89,90 €/Jahr): rund 45 € pro Jahr."
+     ]
+    ],
+    [
+     "Berechtigt",
+     [
+      "Studierende (Hochschul-Mail aus DE/AT).",
+      "Azubis (z. B. AzubiCard, Schulbestätigung).",
+      "18- bis 24-Jährige – kein Studiennachweis nötig."
+     ]
+    ],
+    [
+     "Leistungen",
+     [
+      "Wie normales Prime: Versand, Prime Video, Music, Reading, Gaming.",
+      "Nicht dabei: Teilen im Haushalt (Amazon Family)."
+     ]
+    ],
+    [
+     "Wechsel",
+     [
+      "Bestehendes Prime kann ohne Kündigung umgestellt werden, die Differenz wird erstattet."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet Prime Student?",
+     "Nach 6 Gratismonaten 4,49 € im Monat oder 44,90 € im Jahr."
+    ],
+    [
+     "Wer bekommt Prime Student?",
+     "Studierende, Azubis und alle 18- bis 24-Jährigen."
+    ],
+    [
+     "Wie lange gilt Prime Student?",
+     "Bis zu vier Jahre bzw. bis zum 25. Geburtstag."
+    ]
+   ],
+   "sources": [
+    [
+     "MonsterDealz Magazin: Amazon Prime Student 2026 (Stand August 2026)",
+     "https://www.monsterdealz.de/magazin/amazon-prime-student"
+    ]
+   ],
+   "links": [
+    "/wissen/amazon-prime-kosten/",
+    "/wissen/studentenrabatt-uebersicht/",
+    "/wissen/streaming-abo-vergleich-2026/"
    ],
    "figures": []
   }
