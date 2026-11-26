@@ -3,6 +3,154 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "anker-zolo-powerbank-20000-45w",
+      "asin": "B0DSZKKJTK",
+      "brand": "Anker",
+      "cat": "phone",
+      "now": 28.49,
+      "was": 39.99,
+      "title": {
+        "de": "Anker Zolo Powerbank 20.000 mAh 45 W mit 2 integrierten USB-C-Kabeln",
+        "en": "Anker Zolo power bank 20,000 mAh 45 W with 2 built-in USB-C cables"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "einhell-pxc-akku-18v-4ah",
+      "asin": "B01AB2KSYE",
+      "brand": "Einhell",
+      "cat": "tools",
+      "now": 30.99,
+      "was": 45.95,
+      "title": {
+        "de": "Einhell Power X-Change PXC Akku 18 V 4,0 Ah",
+        "en": "Einhell Power X-Change PXC battery 18 V 4.0 Ah"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z",
+      "validUntil": "2026-11-27"
+    },
+    {
+      "id": "lego-43298-disney-princess-adventskalender-2026",
+      "asin": "B0GGSM57DD",
+      "brand": "LEGO",
+      "cat": "toys",
+      "now": 22.99,
+      "was": 34.99,
+      "title": {
+        "de": "LEGO Disney Princess Adventskalender 2026 (43298)",
+        "en": "LEGO Disney Princess Advent Calendar 2026 (43298)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z"
+    },
+    {
+      "id": "franzis-bibi-blocksberg-adventskalender",
+      "asin": "B0GXW38MF6",
+      "brand": "Franzis",
+      "cat": "toys",
+      "now": 19.99,
+      "was": 34.95,
+      "title": {
+        "de": "FRANZIS 67266 Bibi Blocksberg Adventskalender",
+        "en": "FRANZIS 67266 Bibi Blocksberg Advent calendar"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z"
+    },
+    {
+      "id": "playmobil-mylife-71509-tiny-haus",
+      "asin": "B0CK2GDJ92",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 44.46,
+      "was": 79.99,
+      "title": {
+        "de": "PLAYMOBIL myLife 71509 Tiny Haus, vielfältig eingerichtet",
+        "en": "PLAYMOBIL myLife 71509 Tiny House, fully furnished"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z"
+    },
+    {
+      "id": "playmobil-mylife-71609-schlafzimmer",
+      "asin": "B0D1XZPTQD",
+      "brand": "PLAYMOBIL",
+      "cat": "toys",
+      "now": 13.99,
+      "was": 24.99,
+      "title": {
+        "de": "PLAYMOBIL myLife 71609 Schlafzimmer mit Babyspielecke",
+        "en": "PLAYMOBIL myLife 71609 bedroom with baby play corner"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z"
+    },
+    {
+      "id": "control-ultimate-edition-ps5",
+      "asin": "B0H1N6PGYM",
+      "brand": "U & I Entertainment Limited",
+      "cat": "toys",
+      "now": 14.99,
+      "was": 29.99,
+      "title": {
+        "de": "Control Ultimate Edition (PS5)",
+        "en": "Control Ultimate Edition (PS5)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z",
+      "validUntil": "2026-12-03"
+    },
+    {
+      "id": "amazon-echo-show-8-ring-battery-doorbell-bundle",
+      "asin": "B0GX78HHRM",
+      "brand": "Amazon",
+      "cat": "smarthome",
+      "now": 139.99,
+      "was": 319.98,
+      "title": {
+        "de": "Amazon Echo Show 8 (neueste Gen.) + Ring Akku-Videotürklingel im Bundle",
+        "en": "Amazon Echo Show 8 (latest gen) + Ring Battery Video Doorbell bundle"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T06:30:00Z",
+      "checked": "2026-11-26T06:30:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "kaercher-hd-6-13-cx-plus",
       "asin": "B072KHBZ4J",
       "brand": "KÄRCHER",
