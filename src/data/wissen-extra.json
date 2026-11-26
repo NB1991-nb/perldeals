@@ -4943,6 +4943,829 @@
     "/wissen/spaeter-bezahlen-klarna-risiken/"
    ],
    "figures": []
+  },
+  {
+   "slug": "temu-rueckgabe",
+   "title": "Temu Rückgabe: 90 Tage, erste Rücksendung gratis",
+   "desc": "Temu gibt freiwillig 90 Tage Rückgabe ab Kauf (bei manchen Elektrogeräten 45 oder 60 Tage). Die erste Rücksendung pro Bestellung ist kostenlos, jede weitere zahlst du selbst.",
+   "lead": "Kurze Antwort: Bei Temu hast du ein freiwilliges Rückgabefenster von 90 Tagen ab Kauf; bei bestimmten Elektro- und Großgeräten können es je nach Verkäufer 45 oder 60 Tage sein (steht auf der Produktseite). Die erste Rücksendung pro Bestellung ist kostenlos, für die zweite und jede weitere aus derselben Bestellung zahlst du die Versandkosten. Daneben gilt das gesetzliche Widerrufsrecht von 14 Tagen nach Erhalt.",
+   "sections": [
+    [
+     "Fristen",
+     [
+      "Freiwillig: 90 Tage ab Kauf (manche Elektrogeräte 45/60 Tage).",
+      "Gesetzlich: 14 Tage Widerruf ab Erhalt."
+     ]
+    ],
+    [
+     "Kosten",
+     [
+      "Erste Rücksendung pro Bestellung: kostenlos.",
+      "Jede weitere aus derselben Bestellung: Versandkosten trägst du.",
+      "Freiwillige Rückgabe: ursprüngliche Versandkosten werden nicht erstattet; beim Widerruf schon (außer Express-Aufpreis)."
+     ]
+    ],
+    [
+     "Tipp",
+     [
+      "Alles, was zurück soll, in eine Rücksendung packen – nur die erste ist gratis."
+     ]
+    ],
+    [
+     "Ausnahmen",
+     [
+      "Entsiegelte Hygieneartikel, entsiegelte Audio/Video/Software.",
+      "Personalisierte Ware, schnell Verderbliches.",
+      "Bei Gebrauchsspuren oder fehlendem Zubehör kürzt Temu die Erstattung."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich bei Temu zurückgeben?",
+     "Freiwillig 90 Tage ab Kauf, bei manchen Elektrogeräten 45 oder 60 Tage."
+    ],
+    [
+     "Ist die Rücksendung bei Temu kostenlos?",
+     "Die erste pro Bestellung ja, weitere nicht."
+    ],
+    [
+     "Wie bekomme ich mein Geld zurück?",
+     "Über das ursprüngliche Zahlungsmittel."
+    ]
+   ],
+   "sources": [
+    [
+     "Temu: Rückgabe- und Erstattungsrichtlinie (Stand 18.06.2026)",
+     "https://www.temu.com/de/return-and-refund-policy.html"
+    ]
+   ],
+   "links": [
+    "/wissen/zoll-china-bestellung/",
+    "/wissen/mode-ruecksendung-vergleich/",
+    "/wissen/fake-shop-erkennen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "hm-ruecksendung",
+   "title": "H&M Rücksendung: 2,99 € Gebühr, 30 Tage Frist",
+   "desc": "H&M berechnet für jede Online-Rücksendung 2,99 €, die von der Erstattung abgezogen werden. Vollpreisware geht 30 Tage zurück, Sale-Artikel nur 14 Tage.",
+   "lead": "Kurze Antwort: Bei H&M Deutschland kostet jede Rücksendung 2,99 € pro Marke – der Betrag wird von der Erstattung abgezogen, sofern im Shop nichts anderes steht. Vollpreisartikel kannst du innerhalb von 30 Tagen nach Erhalt zurückschicken, Sale- und Letzte-Chance-Artikel nur innerhalb von 14 Tagen. Etiketten müssen dran sein.",
+   "sections": [
+    [
+     "Fristen",
+     [
+      "Vollpreis: 30 Tage nach Erhalt.",
+      "Sale/Letzte Chance: 14 Tage.",
+      "Artikel in gutem Zustand, Etiketten nicht entfernt."
+     ]
+    ],
+    [
+     "Kosten",
+     [
+      "2,99 € pro Rücksendemarke, abgezogen von der Erstattung.",
+      "Teilrückgabe: Versandkosten werden nicht erstattet.",
+      "Komplette Bestellung zurück: Versandkosten zurück, aber nicht Sperrgut- und Express-Zuschläge."
+     ]
+    ],
+    [
+     "Erstattung",
+     [
+      "Immer über die beim Kauf genutzte Zahlungsmethode."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist die Rücksendung bei H&M kostenlos?",
+     "Nein, online fallen 2,99 € pro Rücksendung an."
+    ],
+    [
+     "Wie lange kann ich bei H&M zurückgeben?",
+     "30 Tage, Sale-Artikel nur 14 Tage."
+    ]
+   ],
+   "sources": [
+    [
+     "H&M Deutschland: Rücksendung",
+     "https://www2.hm.com/de_de/customer-service/returns.html"
+    ]
+   ],
+   "links": [
+    "/wissen/mode-ruecksendung-vergleich/",
+    "/wissen/zalando-ruecksendung/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "mode-ruecksendung-vergleich",
+   "title": "Mode-Shops im Retouren-Vergleich: Zalando, ABOUT YOU, H&M, Temu",
+   "desc": "Sieger: Zalando – 30 Tage und kostenlos ohne Haken (gleichauf mit ABOUT YOU). H&M nimmt 2,99 € pro Rücksendung, Temu hat 90 Tage, aber nur die erste Rücksendung ist gratis.",
+   "lead": "Kurze Antwort: Am besten zurückschicken kannst du bei Zalando: 30 Tage, kostenlos mit Zalando-Label, sogar Partnerartikel. ABOUT YOU bietet die gleichen 30 Tage mit kostenlosem Rückversand. H&M zieht 2,99 € pro Rücksendung ab, Sale-Ware nur 14 Tage. Temu hat mit 90 Tagen die längste Frist, aber nur die erste Rücksendung je Bestellung ist kostenlos.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "Zalando: 30 Tage, kostenlos (auch Partnerartikel in DE).",
+      "ABOUT YOU: 30 Tage, kostenloser Rückversand.",
+      "H&M: 30 Tage (Sale 14), 2,99 € Gebühr.",
+      "Temu: 90 Tage, erste Rücksendung gratis, weitere kostenpflichtig."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "Zalando – kostenlos ohne Bedingungen und mit den meisten Extras. Längste Frist: Temu."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wo ist die Rücksendung bei Mode am günstigsten?",
+     "Bei Zalando und ABOUT YOU – kostenlos."
+    ],
+    [
+     "Kostet H&M Rücksendung Geld?",
+     "Ja, 2,99 €."
+    ],
+    [
+     "Wer hat die längste Rückgabefrist?",
+     "Temu mit 90 Tagen."
+    ]
+   ],
+   "sources": [
+    [
+     "Zalando: AGB (Stand 18.05.2026)",
+     "https://zalando.de/zalando-terms/"
+    ],
+    [
+     "ABOUT YOU Hilfe: Muss ich für den Rückversand bezahlen?",
+     "https://www.aboutyou.de/h/ruecksendung-erstattung/q-360014777340"
+    ],
+    [
+     "H&M Deutschland: Rücksendung",
+     "https://www2.hm.com/de_de/customer-service/returns.html"
+    ],
+    [
+     "Temu: Rückgabe- und Erstattungsrichtlinie (Stand 18.06.2026)",
+     "https://www.temu.com/de/return-and-refund-policy.html"
+    ]
+   ],
+   "links": [
+    "/wissen/zalando-ruecksendung/",
+    "/wissen/aboutyou-ruecksendung/",
+    "/wissen/hm-ruecksendung/",
+    "/wissen/temu-rueckgabe/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "otto-zahlungsarten",
+   "title": "OTTO Zahlungsarten: Rechnung, Raten, Zahlpause, PayPal",
+   "desc": "Bei OTTO zahlst du per Rechnung (30 Tage), in 3 bis 48 Raten, mit Zahlpause bis 100 Tage, per Lastschrift, PayPal, Karte oder Vorkasse. Rechnung, Raten und Zahlpause brauchen eine Bonitätsprüfung.",
+   "lead": "Kurze Antwort: OTTO bietet Rechnung (Überweisung binnen 30 Tagen nach Erhalt), Ratenzahlung in 3 bis 48 Monatsraten, eine Zahlpause von bis zu 100 Tagen, SEPA-Lastschrift, PayPal, Kredit-/Debitkarte und Vorkasse. Für Rechnung, Raten und Zahlpause prüft OTTO deine Bonität; bei Raten und Zahlpause kann je nach Modell ein Aufschlag anfallen.",
+   "sections": [
+    [
+     "Zahlungsarten",
+     [
+      "Rechnung: 30 Tage nach Erhalt, Bonitätsprüfung.",
+      "Raten: 3 bis 48 Monatsraten, Bonitätsprüfung, ggf. Aufschlag.",
+      "Zahlpause: bis 100 Tage später zahlen, Bonitätsprüfung, ggf. Aufschlag.",
+      "SEPA-Lastschrift: meist 30 Tage nach Rechnungsdatum abgebucht.",
+      "PayPal und Karte: sofort, mit 3-D-Secure.",
+      "Vorkasse: Versand nach Zahlungseingang."
+     ]
+    ],
+    [
+     "Retouren",
+     [
+      "Erstattung über das ursprüngliche Zahlungsmittel."
+     ]
+    ],
+    [
+     "Abwicklung",
+     [
+      "Die meisten Zahlungen laufen über OTTO Payments."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich bei OTTO auf Rechnung kaufen?",
+     "Ja, mit 30 Tagen Zahlungsziel nach Bonitätsprüfung."
+    ],
+    [
+     "Wie viele Raten gehen bei OTTO?",
+     "3 bis 48 Monatsraten."
+    ],
+    [
+     "Was ist die OTTO Zahlpause?",
+     "Du verschiebst den Zahltermin um bis zu 100 Tage; je nach Modell mit Aufschlag."
+    ]
+   ],
+   "sources": [
+    [
+     "OTTO: Bezahlen bei OTTO – flexibel, sicher und transparent (Juni 2026)",
+     "https://www.otto.de/unternehmen/de/kundenfokus/bezahlen-bei-otto-flexibel-sicher-und-transparent"
+    ]
+   ],
+   "links": [
+    "/wissen/otto-versandkosten/",
+    "/wissen/otto-ruecksendung/",
+    "/wissen/spaeter-bezahlen-klarna-risiken/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "samsung-shop-rueckgabe",
+   "title": "Samsung Shop Rückgabe: 14 Tage Widerruf – Porto meist selbst",
+   "desc": "Im Samsung Online Shop widerrufst du binnen 14 Tagen und hast dann 14 Tage zum Zurückschicken. Die Rücksendekosten übernimmt Samsung nur in Ausnahmefällen. Erstattung meist in 7 Arbeitstagen.",
+   "lead": "Kurze Antwort: Beim Samsung Online Shop hast du 14 Tage Widerrufsrecht ohne Grund und danach weitere 14 Tage, um die Ware zurückzuschicken. Den Widerruf startest du unter „Mein Konto“ → „Meine Bestellungen“ → „Widerruf“. Die Rücksendekosten übernimmt Samsung laut FAQ nur in Ausnahmefällen, etwa bei Schäden oder Falschlieferung. Erstattet wird meist binnen 7 Arbeitstagen nach Eingang im Lager.",
+   "sections": [
+    [
+     "Ablauf",
+     [
+      "Bestellung unter „Meine Bestellungen“ wählen → „Widerruf“.",
+      "Produkt und Grund wählen → „Widerruf bestätigen“.",
+      "Rücksendeetikett per E-Mail – höchstens 20 Tage gültig."
+     ]
+    ],
+    [
+     "Kosten",
+     [
+      "Samsung zahlt die Rücksendung nur in Ausnahmefällen (beschädigt, falscher Artikel, unvollständig)."
+     ]
+    ],
+    [
+     "Achtung",
+     [
+      "Bundles und Gratis-Zugaben müssen komplett zurück, sonst wird der Preis abgezogen.",
+      "Gravierte oder geöffnete Hygieneartikel (z. B. Headsets) sind ausgeschlossen."
+     ]
+    ],
+    [
+     "Extras",
+     [
+      "Preisangleichung nach Ermessen, wenn der Kauf max. 7 Tage zurückliegt."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie lange kann ich beim Samsung Shop zurückgeben?",
+     "14 Tage Widerruf, dann 14 Tage zum Zurücksenden."
+    ],
+    [
+     "Ist die Rücksendung kostenlos?",
+     "Nur in Ausnahmefällen wie Schäden oder Falschlieferung."
+    ],
+    [
+     "Wann kommt das Geld zurück?",
+     "Meist binnen 7 Arbeitstagen nach Eingang, plus Bankdauer."
+    ]
+   ],
+   "sources": [
+    [
+     "Samsung Shop: Stornierung & Rücksendung – FAQ",
+     "https://www.samsung.com/de/shop-faq/returns-and-cancellations/"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-vs-samsung-shop-rueckgabe/",
+    "/wissen/widerrufsrecht-online-kauf/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "apple-vs-samsung-shop-rueckgabe",
+   "title": "Apple vs. Samsung Shop: Wo ist die Rückgabe besser?",
+   "desc": "Sieger: Apple. Beide geben 14 Tage, aber Apple trägt beim Widerruf die Rücksendekosten und holt ab; Samsung zahlt das Porto nur in Ausnahmefällen. Apple verlängert zu Weihnachten bis 8.1.2027.",
+   "lead": "Kurze Antwort: Apple gewinnt. Beide Hersteller-Shops geben 14 Tage, doch Apple trägt beim Widerruf die Rücksendekosten und lässt abholen, während Samsung das Porto laut FAQ nur in Ausnahmefällen übernimmt. Dazu verlängert Apple für Weihnachten 2026 bis 8. Januar 2027. Beide bieten eine Form der Preisanpassung: Apple binnen 14 Tagen, Samsung nach Ermessen binnen 7 Tagen.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "Frist: Apple 14 Tage ab Lieferung – Samsung 14 Tage Widerruf + 14 Tage Rückversand.",
+      "Porto: Apple trägt es beim Widerruf – Samsung nur in Ausnahmefällen.",
+      "Weihnachten: Apple bis 8.1.2027 – Samsung keine Verlängerung genannt.",
+      "Preisanpassung: Apple 14 Tage – Samsung nach Ermessen 7 Tage."
+     ]
+    ],
+    [
+     "Alternative",
+     [
+      "Wer länger testen will: Händler wie MediaMarkt geben 30 Tage und tragen die Rücksendekosten."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wo ist die Rückgabe besser – Apple oder Samsung?",
+     "Bei Apple, weil Apple beim Widerruf die Rücksendekosten trägt."
+    ],
+    [
+     "Bietet Samsung Preisanpassung?",
+     "Nach Ermessen, wenn der Kauf max. 7 Tage zurückliegt."
+    ]
+   ],
+   "sources": [
+    [
+     "Apple (DE): Rückgabe & Erstattung",
+     "https://www.apple.com/de/shop/help/returns_refund"
+    ],
+    [
+     "Samsung Shop: Stornierung & Rücksendung – FAQ",
+     "https://www.samsung.com/de/shop-faq/returns-and-cancellations/"
+    ],
+    [
+     "MediaMarkt: Rückgabe & Rücksendung",
+     "https://www.mediamarkt.de/de/service/umtausch-rueckgabe"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-rueckgabe/",
+    "/wissen/samsung-shop-rueckgabe/",
+    "/wissen/mediamarkt-rueckgabe/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "coolblue-versandkosten",
+   "title": "Coolblue Lieferung: Kleines gratis, Großgeräte ab 39 €",
+   "desc": "Kleine Pakete liefert Coolblue per DHL kostenlos. Großgeräte kommen per CoolblueLiefert ab 39 € im 4-Stunden-Fenster – aber nur in ausgewählten Regionen. Abholung im Store am selben Tag möglich.",
+   "lead": "Kurze Antwort: Bei Coolblue ist die DHL-Lieferung kleiner Artikel kostenlos. Große Geräte wie Waschmaschinen, Kühlschränke oder große TVs liefert CoolblueLiefert ab 39 € in einem Vormittags- oder Nachmittagsfenster – allerdings nur in bestimmten Regionen (u. a. Rhein-Ruhr, Frankfurt, Hannover, Stuttgart, Nürnberg, Hamburg, Berlin). Ist ein Artikel im Store vorrätig, kannst du ihn noch am selben Tag abholen.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Kleine Artikel per DHL: kostenlos.",
+      "Großgeräte (CoolblueLiefert): ab 39 € für Vormittag (7:30–12) oder Nachmittag (12–17)."
+     ]
+    ],
+    [
+     "Lieferzeit",
+     [
+      "Je nach Region Bestellung bis 13, 15, 17 oder 23:59 Uhr für Lieferung am nächsten oder übernächsten Tag.",
+      "Keine Lieferung an Sonn- und Feiertagen.",
+      "DHL-Pakete sechs Tage die Woche, 90-Minuten-Fenster per E-Mail."
+     ]
+    ],
+    [
+     "Abholung und Altgerät",
+     [
+      "DHL-Abholpunkt: 7 Tage Zeit zum Abholen.",
+      "Store: „Im Store abholen“ – am selben Tag möglich, wenn vorrätig.",
+      "Altgerät kostenlos im Store, an Sammelstellen oder bei DHL abgeben."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist der Versand bei Coolblue kostenlos?",
+     "Für kleine Artikel per DHL ja."
+    ],
+    [
+     "Was kostet die Lieferung großer Geräte?",
+     "Ab 39 € mit CoolblueLiefert."
+    ],
+    [
+     "Liefert Coolblue überall Großgeräte?",
+     "Nein, nur in ausgewählten Regionen."
+    ]
+   ],
+   "sources": [
+    [
+     "Coolblue Kundendienst: Liefer- und Abholoptionen",
+     "https://www.coolblue.de/kundendienst/liefer-und-abholmoeglichkeiten"
+    ]
+   ],
+   "links": [
+    "/wissen/coolblue-rueckgabe/",
+    "/wissen/coolblue-umtausch/",
+    "/gutscheine/coolblue/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "dhl-paketpreise-2026",
+   "title": "DHL Paketpreise 2026: Päckchen ab 4,19 €, Paket ab 6,19 €",
+   "desc": "DHL Päckchen S kostet 4,19 €, M 5,19 €. Pakete: 2 kg 6,19 € (nur online), 5 kg 7,69 €, 10 kg 10,49 €, 20 kg 18,99 €, 31,5 kg 23,99 €. Ab 1.1.2027 gelten neue Preise.",
+   "lead": "Kurze Antwort: Bei DHL kostet national das Päckchen S (bis 2 kg, 35 × 25 × 10 cm) 4,19 € und das Päckchen M (60 × 30 × 15 cm) 5,19 € – beide ohne Sendungsverfolgung und Haftung. Pakete mit Tracking und Haftung kosten 6,19 € (2 kg, nur online), 7,69 € (5 kg), 10,49 € (10 kg), 18,99 € (20 kg) und 23,99 € (31,5 kg). DHL kündigt für den 1. Januar 2027 neue Preise an.",
+   "sections": [
+    [
+     "Päckchen",
+     [
+      "S: bis 2 kg, 35 × 25 × 10 cm – 4,19 €.",
+      "M: bis 2 kg, 60 × 30 × 15 cm – 5,19 €.",
+      "Keine Sendungsverfolgung, keine Haftung."
+     ]
+    ],
+    [
+     "Pakete",
+     [
+      "2 kg (60 × 30 × 15 cm): 6,19 € – nur online.",
+      "5 kg: 7,69 €.",
+      "10 kg: 10,49 €.",
+      "20 kg: 18,99 €.",
+      "31,5 kg: 23,99 €.",
+      "Bis 120 × 60 × 60 cm, Gurtmaß max. 300 cm."
+     ]
+    ],
+    [
+     "Gut zu wissen",
+     [
+      "Pakete enthalten Sendungsverfolgung und Haftung.",
+      "Ab 01.01.2027 gelten laut DHL neue Preise für Brief, Päckchen und Paket."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein DHL-Paket 2026?",
+     "Ab 6,19 € (2 kg, online), 5 kg 7,69 €, 10 kg 10,49 €."
+    ],
+    [
+     "Was kostet ein DHL-Päckchen?",
+     "S 4,19 €, M 5,19 €."
+    ],
+    [
+     "Hat ein Päckchen Sendungsverfolgung?",
+     "Nein, nur Pakete."
+    ]
+   ],
+   "sources": [
+    [
+     "DHL: Preise und Produkte für Ihren nationalen Versand",
+     "https://www.dhl.de/de/privatkunden/pakete-versenden/deutschlandweit-versenden/preise-national.html"
+    ]
+   ],
+   "links": [
+    "/wissen/hermes-paketpreise-2026/",
+    "/wissen/dhl-vs-hermes-paket/",
+    "/wissen/sammelkarten-versenden/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "hermes-paketpreise-2026",
+   "title": "Hermes Paketpreise 2026: Päckchen ab 3,99 €",
+   "desc": "Hermes rechnet nach Größe, nicht Gewicht: Päckchen 3,99 €, S 4,89 €, M 5,90 €, L 9,90 € (PaketShop-zu-PaketShop). Haustür-Zustellung online ab 5,19 €. Bis 25 kg.",
+   "lead": "Kurze Antwort: Hermes berechnet den Preis nach der Summe aus längster und kürzester Seite – nicht nach Gewicht (bis 25 kg). Am günstigsten ist die Zustellung in einen PaketShop: Päckchen 3,99 €, S 4,89 €, M 5,90 €, L 9,90 €. Bis zur Haustür kostet es online 5,19 € (Päckchen), 5,79 € (S), 6,99 € (M) und 10,99 € (L). XL und XXL gibt es nur mit Abholung für 28,99 € bzw. 33,99 €.",
+   "sections": [
+    [
+     "Größen",
+     [
+      "Päckchen: bis 37 cm (längste + kürzeste Seite), Haftung bis 50 €.",
+      "S: bis 50 cm · M: bis 80 cm · L: bis 120 cm – je bis 25 kg, Haftung bis 500 €.",
+      "XL: bis 150 cm, 31,5 kg · XXL: bis 200 cm."
+     ]
+    ],
+    [
+     "Preise",
+     [
+      "PaketShop-Zustellung: Päckchen 3,99 €, S 4,89 €, M 5,90 €, L 9,90 €.",
+      "Haustür, online gekauft: 5,19 € / 5,79 € / 6,99 € / 10,99 €.",
+      "Haustür, im PaketShop gekauft: 5,25 € / 6,79 € / 7,95 € / 11,95 €.",
+      "Abholung an der Haustür: S 10,79 €, M 11,99 €, L 15,99 €, XL 28,99 €, XXL 33,99 €."
+     ]
+    ],
+    [
+     "Zuschläge",
+     [
+      "Sperrgut (nicht quaderförmig): +19,95 €.",
+      "Empfänger hat bei PaketShop-Zustellung 7 Werktage Zeit."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein Hermes-Päckchen?",
+     "3,99 € in den PaketShop, 5,19 € online bis zur Haustür."
+    ],
+    [
+     "Wonach richtet sich der Hermes-Preis?",
+     "Nach den Maßen (längste + kürzeste Seite), nicht nach dem Gewicht."
+    ],
+    [
+     "Wie schwer darf ein Hermes-Paket sein?",
+     "Bis 25 kg, XL/XXL bis 31,5 kg."
+    ]
+   ],
+   "sources": [
+    [
+     "Hermes: Päckchen- und Paketpreise",
+     "https://www.myhermes.de/preise/paeckchen-paket"
+    ]
+   ],
+   "links": [
+    "/wissen/dhl-paketpreise-2026/",
+    "/wissen/dhl-vs-hermes-paket/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "dhl-vs-hermes-paket",
+   "title": "DHL oder Hermes: Wer ist günstiger?",
+   "desc": "Für schwere Pakete gewinnt Hermes klar: 15 kg in Größe L kosten 9,90–10,99 €, bei DHL 18,99 €. Leichte Sendungen bis 2 kg sind bei Hermes ebenfalls etwas günstiger.",
+   "lead": "Kurze Antwort: Hermes ist in fast allen Fällen günstiger – am deutlichsten bei schweren Paketen, weil Hermes nach Größe statt Gewicht abrechnet. Ein 15-kg-Paket bis 120 cm (längste + kürzeste Seite) kostet bei Hermes 9,90 € (PaketShop) bzw. 10,99 € (Haustür, online), bei DHL als 20-kg-Paket 18,99 €. Für kleine Sendungen: Hermes Päckchen 3,99 € gegen DHL Päckchen S 4,19 €. DHL punktet mit dichterem Filialnetz und Päckchen-Maßen bis 60 cm.",
+   "sections": [
+    [
+     "Preisbeispiele",
+     [
+      "Kleines Päckchen: Hermes 3,99 € (PaketShop) – DHL 4,19 € (Päckchen S, ohne Tracking).",
+      "Paket bis 2 kg mit Tracking: Hermes S 4,89 € (PaketShop) / 5,79 € (Haustür) – DHL 6,19 €.",
+      "Paket 5 kg mittel: Hermes M 5,90 € / 6,99 € – DHL 7,69 €.",
+      "Schwer (15 kg, Größe L): Hermes 9,90 € / 10,99 € – DHL 18,99 €."
+     ]
+    ],
+    [
+     "Wann DHL?",
+     [
+      "Päckchen ohne Tracking reichen dir und das Teil ist länger (Päckchen M bis 60 cm Länge).",
+      "Du willst 31,5 kg als Standardpaket verschicken (23,99 €) – bei Hermes nur XL mit Abholung (28,99 €)."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "Hermes – besonders bei schweren, kompakten Paketen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist Hermes oder DHL günstiger?",
+     "Meist Hermes – vor allem bei schweren Paketen."
+    ],
+    [
+     "Was kostet ein 20-kg-Paket?",
+     "DHL 18,99 €; Hermes je nach Größe, z. B. L 9,90 € in den PaketShop."
+    ]
+   ],
+   "sources": [
+    [
+     "DHL: Preise und Produkte für Ihren nationalen Versand",
+     "https://www.dhl.de/de/privatkunden/pakete-versenden/deutschlandweit-versenden/preise-national.html"
+    ],
+    [
+     "Hermes: Päckchen- und Paketpreise",
+     "https://www.myhermes.de/preise/paeckchen-paket"
+    ]
+   ],
+   "links": [
+    "/wissen/dhl-paketpreise-2026/",
+    "/wissen/hermes-paketpreise-2026/",
+    "/wissen/sammelkarten-versenden/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "briefporto-2026",
+   "title": "Briefporto 2026: Was kostet ein Brief?",
+   "desc": "Standardbrief und Postkarte kosten 2026 je 0,95 €, Kompaktbrief 1,10 €, Großbrief 1,80 €, Maxibrief 2,90 €. Einschreiben Einwurf +2,35 €, Warensendung bis 1 kg 2,70 €.",
+   "lead": "Kurze Antwort: Ein Standardbrief bis 20 g kostet bei der Deutschen Post 0,95 €, ebenso eine Postkarte. Kompaktbrief bis 50 g: 1,10 €, Großbrief bis 500 g: 1,80 €, Maxibrief bis 1.000 g: 2,90 €. Für ein Einschreiben Einwurf kommen 2,35 € dazu, für ein persönliches Einschreiben 2,65 €. Eine Warensendung bis 1.000 g kostet 2,70 €.",
+   "sections": [
+    [
+     "Briefe",
+     [
+      "Standardbrief: 0,95 € – bis 20 g, max. 23,5 × 12,5 × 0,5 cm.",
+      "Kompaktbrief: 1,10 € – bis 50 g, bis 1 cm hoch.",
+      "Großbrief: 1,80 € – bis 500 g, 35,3 × 25 × 2 cm.",
+      "Maxibrief: 2,90 € – bis 1.000 g, bis 5 cm hoch.",
+      "Postkarte: 0,95 €."
+     ]
+    ],
+    [
+     "Zusatzleistungen",
+     [
+      "Einschreiben Einwurf: +2,35 €.",
+      "Einschreiben (persönlich): +2,65 €.",
+      "Rückschein: +4,85 €.",
+      "Einschreiben Wert: +4,45 € (nur in der Filiale)."
+     ]
+    ],
+    [
+     "Warensendung",
+     [
+      "Bis 1.000 g: 2,70 €.",
+      "Gewichtszuschlag bis 2.000 g: +0,85 €."
+     ]
+    ],
+    [
+     "Laufzeit",
+     [
+      "Briefe meist am zweiten Werktag, Einschreiben meist am nächsten Werktag."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein Brief 2026?",
+     "0,95 € für den Standardbrief bis 20 g."
+    ],
+    [
+     "Was kostet ein Einschreiben?",
+     "Porto plus 2,35 € (Einwurf) bzw. 2,65 € (persönlich)."
+    ],
+    [
+     "Was kostet eine Warensendung?",
+     "2,70 € bis 1.000 g."
+    ]
+   ],
+   "sources": [
+    [
+     "Deutsche Post: Porto für Briefe in Deutschland",
+     "https://www.deutschepost.de/de/b/briefe-in-deutschland.html"
+    ]
+   ],
+   "links": [
+    "/wissen/dhl-paketpreise-2026/",
+    "/wissen/sammelkarten-versenden/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kleinanzeigen-sicher-bezahlen-gebuehr",
+   "title": "Kleinanzeigen „Sicher bezahlen“: Gebühr und Käuferschutz",
+   "desc": "„Sicher bezahlen“ bei Kleinanzeigen kostet eine Servicegebühr von 0,50 € plus 4,5 % des Kaufpreises. Dafür hält Adyen das Geld treuhänderisch, bis du den Erhalt bestätigst.",
+   "lead": "Kurze Antwort: Für „Sicher bezahlen“ bei Kleinanzeigen fällt eine Servicegebühr von 0,50 € plus 4,5 % des Kaufpreises an – zusätzlich zu Artikelpreis und Versand. Das Geld verwahrt der Zahlungsdienstleister Adyen treuhänderisch, bis du den Erhalt bestätigst. Der Käuferschutz greift, wenn nicht versendet wird, der Artikel stark abweicht, gefälscht oder unvollständig ist – nicht aber nach Freigabe der Zahlung oder bei Versand ins Ausland.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "Servicegebühr: 0,50 € + 4,5 % des Kaufpreises.",
+      "Beispiel: Artikel für 100 € → 5,00 € Gebühr."
+     ]
+    ],
+    [
+     "Abgedeckt",
+     [
+      "Artikel nicht versendet.",
+      "Stark abweichend, Fälschung, falsch oder unvollständig geliefert."
+     ]
+    ],
+    [
+     "Nicht abgedeckt",
+     [
+      "Zahlung bereits freigegeben.",
+      "Produkt eingebaut, repariert oder Teile entfernt.",
+      "Normale Gebrauchsspuren, minimale Abweichung.",
+      "Versand außerhalb Deutschlands, Ablageort/Nachbar gewählt.",
+      "Digitale oder verderbliche Waren."
+     ]
+    ],
+    [
+     "Erstattung",
+     [
+      "Nicht versendet: Artikelpreis zurück (bei Hermes-Label auch Versand).",
+      "Abweichend: Artikelpreis zurück, Rücksendekosten nicht."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet Sicher bezahlen bei Kleinanzeigen?",
+     "0,50 € plus 4,5 % des Kaufpreises."
+    ],
+    [
+     "Wann bekommt der Verkäufer das Geld?",
+     "Wenn du den Erhalt bestätigst oder Kleinanzeigen im Streitfall entschieden hat."
+    ],
+    [
+     "Bin ich bei Überweisung geschützt?",
+     "Nein, der Käuferschutz gilt nur mit „Sicher bezahlen“."
+    ]
+   ],
+   "sources": [
+    [
+     "Kleinanzeigen Hilfe: Was ist „Sicher bezahlen“ – wie funktioniert der Käuferschutz?",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17211553583388-Was-ist-Sicher-bezahlen-wie-funktioniert-der-K%C3%A4uferschutz"
+    ]
+   ],
+   "links": [
+    "/wissen/kleinanzeigen-betrug-erkennen/",
+    "/wissen/ebay-vs-kleinanzeigen-verkaufen/",
+    "/wissen/paypal-kaeuferschutz/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ebay-gebuehren-privat",
+   "title": "eBay Gebühren für Privatverkäufer 2026: In Deutschland kostenlos",
+   "desc": "Privat auf eBay.de in Deutschland zu verkaufen ist kostenlos: keine Verkaufsprovision, 320 Angebote pro Monat gratis, danach 0,50 €. Auslandsversand in Eigenregie kostet 5 %.",
+   "lead": "Kurze Antwort: Private Verkäufer zahlen auf eBay.de für Verkäufe innerhalb Deutschlands keine Verkaufsprovision. Pro Monat sind 320 Angebote gebührenfrei, jedes weitere kostet 0,50 €; dazu kommen 2.500 kostenlose Auktionen mit Startpreis bis 1 €. Kosten entstehen nur für Extras (z. B. Galerie Plus 0,75 €) und wenn du ins Ausland selbst verschickst (5 %).",
+   "sections": [
+    [
+     "Grundgebühren",
+     [
+      "Verkaufsprovision in Deutschland: 0 €.",
+      "320 Angebote/Monat gebührenfrei, danach 0,50 € je Angebot.",
+      "Zusätzlich 2.500 Auktionen/Monat gratis (Start max. 1 €, keine 1- oder 3-Tage-Auktionen).",
+      "Bis zu 24 Fotos kostenlos."
+     ]
+    ],
+    [
+     "Kostenpflichtige Extras",
+     [
+      "Galerie Plus: 0,75 €.",
+      "Untertitel, zweite Kategorie, private Bieterliste: je 0,50 €."
+     ]
+    ],
+    [
+     "Ausland",
+     [
+      "Mit eBay-Versand/internationalem Versand: keine Zusatzgebühr.",
+      "Eigener Auslandsversand: 5 %.",
+      "Währungsumrechnung: 3 %, ab 2. Dezember 2026 3,25 %."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kostet privat verkaufen auf eBay etwas?",
+     "In Deutschland nicht – keine Provision, 320 Angebote gratis pro Monat."
+    ],
+    [
+     "Was kostet ein Angebot über dem Kontingent?",
+     "0,50 €."
+    ],
+    [
+     "Wann fallen Gebühren an?",
+     "Bei Extras, eigenem Auslandsversand (5 %) und Währungsumrechnung."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Gebühren für private Verkäufer",
+     "https://www.ebay.de/help/selling/fees-credits-invoices/selling-fees?id=4822"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-vs-kleinanzeigen-verkaufen/",
+    "/wissen/sammlung-verkaufen/",
+    "/wissen/alte-konsole-verkaufen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ebay-vs-kleinanzeigen-verkaufen",
+   "title": "eBay oder Kleinanzeigen: Wo verkaufst du privat besser?",
+   "desc": "Sieger für Versandverkäufe: eBay – privat in Deutschland gebührenfrei und mit eBay-Käuferschutz. Bei Kleinanzeigen kostet „Sicher bezahlen“ den Käufer 0,50 € + 4,5 %; stark für Abholung.",
+   "lead": "Kurze Antwort: Für Verkäufe mit Versand gewinnt eBay: Privatverkäufer zahlen in Deutschland keine Provision, die ersten 320 Angebote im Monat sind gratis, und Käufer sind über den eBay-Käuferschutz abgesichert. Bei Kleinanzeigen kostet die geschützte Zahlung „Sicher bezahlen“ 0,50 € plus 4,5 % des Kaufpreises. Für große Dinge zur Abholung bleibt Kleinanzeigen die bessere Wahl.",
+   "sections": [
+    [
+     "Kosten",
+     [
+      "eBay privat: 0 € Provision in DE, 320 Angebote/Monat frei.",
+      "Kleinanzeigen „Sicher bezahlen“: 0,50 € + 4,5 % Servicegebühr."
+     ]
+    ],
+    [
+     "Käuferschutz",
+     [
+      "eBay: bei Zahlung über eBay, Meldung bis 30 Tage nach Lieferung.",
+      "Kleinanzeigen: nur mit „Sicher bezahlen“, nur Versand innerhalb Deutschlands."
+     ]
+    ],
+    [
+     "Faustregel",
+     [
+      "Versandfähige Sammlerware, Technik, Spiele: eBay.",
+      "Möbel, Fahrräder, Großes zur Abholung: Kleinanzeigen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist eBay oder Kleinanzeigen günstiger?",
+     "Für Privatverkäufer ist eBay in Deutschland gebührenfrei; bei Kleinanzeigen kostet „Sicher bezahlen“ 0,50 € + 4,5 %."
+    ],
+    [
+     "Wo bin ich als Käufer besser geschützt?",
+     "Bei eBay über den eBay-Käuferschutz; bei Kleinanzeigen nur mit „Sicher bezahlen“."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Gebühren für private Verkäufer",
+     "https://www.ebay.de/help/selling/fees-credits-invoices/selling-fees?id=4822"
+    ],
+    [
+     "Kleinanzeigen Hilfe: Was ist „Sicher bezahlen“ – wie funktioniert der Käuferschutz?",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17211553583388-Was-ist-Sicher-bezahlen-wie-funktioniert-der-K%C3%A4uferschutz"
+    ],
+    [
+     "eBay: Grundsatz zum eBay-Käuferschutz",
+     "https://www.ebay.de/help/policies/ebay-money-back-guarantee-policy/grundsatz-zum-ebaykuferschutz?id=4210"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-gebuehren-privat/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/",
+    "/wissen/ebay-kaeuferschutz/"
+   ],
+   "figures": []
   }
  ]
 }
