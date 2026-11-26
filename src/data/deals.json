@@ -3,6 +3,63 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "carrera-first-spidey-its-spidey-time",
+      "asin": "B0CVSFQXGR",
+      "brand": "Carrera",
+      "cat": "toys",
+      "now": 19.99,
+      "was": 27.99,
+      "title": {
+        "de": "Carrera FIRST Spidey „It's Spidey Time!“ Autorennbahn 2,4 m",
+        "en": "Carrera FIRST Spidey \"It's Spidey Time!\" race track 2.4 m"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T16:35:00Z",
+      "checked": "2026-11-26T16:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "hot-wheels-ultimate-garage-t-rex-gjl14",
+      "asin": "B07Y94W69D",
+      "brand": "Hot Wheels",
+      "cat": "toys",
+      "now": 72.99,
+      "was": 118.9,
+      "title": {
+        "de": "Hot Wheels Ultimate Garage mit Robo-T-Rex und 2 Autos (GJL14)",
+        "en": "Hot Wheels Ultimate Garage with robo T-Rex and 2 cars (GJL14)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T16:35:00Z",
+      "checked": "2026-11-26T16:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "acer-nitro-xv272uw2-27-wqhd-240hz",
+      "asin": "B0DM6CD8NG",
+      "brand": "Acer",
+      "cat": "computer",
+      "now": 159.9,
+      "was": 249.9,
+      "title": {
+        "de": "Acer Nitro XV272U W2 Gaming-Monitor 27 Zoll WQHD, 240 Hz",
+        "en": "Acer Nitro XV272U W2 gaming monitor 27 inch WQHD, 240 Hz"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T16:35:00Z",
+      "checked": "2026-11-26T16:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "kindle-paperwhite-kids-16gb-2024",
       "asin": "B0CFPHTP6Y",
       "brand": "Amazon",
