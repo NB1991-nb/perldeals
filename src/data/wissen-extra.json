@@ -6431,6 +6431,354 @@
     "/wissen/nintendo-switch-online-preise/"
    ],
    "figures": []
+  },
+  {
+   "slug": "dm-geschenkkarte-guthaben",
+   "title": "dm Geschenkkarte: Guthaben abfragen und einlösen",
+   "desc": "Das Guthaben der dm-Geschenkkarte fragst du online mit Kartennummer und Code oder im dm-Markt ab. Einlösbar auch in Teilbeträgen, online wie im Markt – nicht für dm-med-Produkte.",
+   "lead": "Kurze Antwort: Auf der dm-Geschenkkarten-Seite gibst du Kartennummer und Code ein und siehst sofort das Restguthaben – alternativ fragst du im dm-Markt nach. Du kannst die Karte in Teilbeträgen einlösen, aber nur für Produkte, die dm selbst verkauft, nicht für die Partner-Apotheke dm-med. Digitale Geschenkkarten gibt es online von 5 bis 200 €.",
+   "sections": [
+    [
+     "Guthaben prüfen",
+     [
+      "Online: dm-Geschenkkarten-Seite → Kartennummer und Code eingeben → „Wert abfragen“.",
+      "Oder direkt im dm-Markt."
+     ]
+    ],
+    [
+     "Einlösen",
+     [
+      "In Teilbeträgen möglich.",
+      "Nur für von dm verkaufte Produkte, nicht für dm-med."
+     ]
+    ],
+    [
+     "Kaufen",
+     [
+      "Digital online: 5 € bis 200 €, per E-Mail.",
+      "Im Markt: am Prepaid-Display mit Motiven."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie prüfe ich das Guthaben meiner dm-Geschenkkarte?",
+     "Online mit Kartennummer und Code oder im dm-Markt."
+    ],
+    [
+     "Kann ich die dm-Geschenkkarte online einlösen?",
+     "Ja, für Produkte von dm – nicht für dm-med."
+    ]
+   ],
+   "sources": [
+    [
+     "dm: Geschenkkarten",
+     "https://www.dm.de/services/services-im-markt/geschenkkarten-3480686"
+    ]
+   ],
+   "links": [
+    "/wissen/geschenkkarten-vergleich/",
+    "/wissen/dm-ruecksendung/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "douglas-gutscheinkarte-guthaben",
+   "title": "Douglas Gutscheinkarte: Guthaben abfragen",
+   "desc": "Das Guthaben deiner Douglas-Gutscheinkarte fragst du in der Douglas-Hilfe ab: 17-stellige Kartennummer (beginnt mit 6046550) und 4-stellige PIN eingeben.",
+   "lead": "Kurze Antwort: Auf der Douglas-Hilfeseite „Guthaben der Gutscheinkarte abfragen“ gibst du die 17-stellige Kartennummer ein, die mit 6046550 beginnt, dazu die 4-stellige PIN, und klickst auf „Guthaben abfragen“. Bei Problemen hilft der Kundenservice per Telefon oder unter service@douglas.de.",
+   "sections": [
+    [
+     "So geht's",
+     [
+      "Douglas-Hilfe „Guthaben abfragen“ öffnen.",
+      "Kartennummer (17 Zeichen, beginnt mit 6046550) eingeben.",
+      "4-stellige PIN eingeben → „Guthaben abfragen“."
+     ]
+    ],
+    [
+     "Hilfe",
+     [
+      "Kundenservice telefonisch oder per E-Mail an service@douglas.de (Antwort laut Douglas binnen 48 Stunden)."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie prüfe ich mein Douglas-Guthaben?",
+     "Online in der Douglas-Hilfe mit Kartennummer und PIN."
+    ],
+    [
+     "Wie sieht eine Douglas-Kartennummer aus?",
+     "17 Zeichen, beginnend mit 6046550."
+    ]
+   ],
+   "sources": [
+    [
+     "Douglas Hilfe: Wo kann ich mein Guthaben der Gutscheinkarte abfragen?",
+     "https://www.douglas.de/de/cp/helpv2wherecanicheckthebalanceofmygiftcard/help-where-can-i-check-the-balance-of-my-gift-card"
+    ]
+   ],
+   "links": [
+    "/wissen/geschenkkarten-vergleich/",
+    "/wissen/douglas-ruecksendung/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "thalia-geschenkkarte-guthaben",
+   "title": "Thalia Geschenkkarte: Guthaben abfragen und aufladen",
+   "desc": "Thalia-Guthaben fragst du auf thalia.de/geschenkkarte mit 17-stelliger Nummer und PIN ab. Die Plastikkarte ist wiederaufladbar – bis 250 € pro Aufladung.",
+   "lead": "Kurze Antwort: Das Guthaben einer Thalia-Geschenkkarte – haptisch oder digital – prüfst du auf thalia.de/geschenkkarte unter „Guthaben abfragen“ mit der 17-stelligen Kartennummer und der PIN. Die Plastikkarte lässt sich in deutschen Thalia-Filialen und bei teilnehmenden Partnern wieder aufladen, maximal 250 € pro Aufladung. Kaufgutscheine gelten laut Thalia in der Regel mindestens drei Jahre.",
+   "sections": [
+    [
+     "Guthaben prüfen",
+     [
+      "thalia.de/geschenkkarte → „Guthaben abfragen“.",
+      "17-stellige Nummer und PIN eingeben → „Abfragen“."
+     ]
+    ],
+    [
+     "Aufladen",
+     [
+      "Haptische Karte wiederaufladbar, max. 250 € pro Aufladung.",
+      "In allen deutschen Thalia-Filialen und bei teilnehmenden Unternehmen."
+     ]
+    ],
+    [
+     "Gültigkeit",
+     [
+      "Kaufgutscheine: in der Regel mindestens drei Jahre."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie prüfe ich mein Thalia-Guthaben?",
+     "Auf thalia.de/geschenkkarte mit Kartennummer und PIN."
+    ],
+    [
+     "Kann ich die Thalia-Karte aufladen?",
+     "Ja, die Plastikkarte – bis 250 € pro Aufladung."
+    ]
+   ],
+   "sources": [
+    [
+     "Thalia: Online-Hilfe zu Geschenkkarten & Gutscheinen",
+     "https://www.thalia.de/hilfe/kaufprozess/geschenkkarte-gutscheine"
+    ]
+   ],
+   "links": [
+    "/wissen/thalia-gutschein-regeln/",
+    "/wissen/geschenkkarten-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "thalia-gutschein-regeln",
+   "title": "Thalia Gutschein: Regeln für Aktions- und Prozentgutscheine",
+   "desc": "Bei Thalia gilt ein Aktions- oder Prozentgutschein pro Bestellung, oft auch nur einer pro Haushalt. Nicht auf Versand, nicht für Geschenkkarten, keine Barauszahlung.",
+   "lead": "Kurze Antwort: Bei Thalia kannst du pro Bestellung nur einen Aktions- oder Prozentgutschein einlösen, häufig auch nur einen pro Haushalt oder Person. Gutscheine gelten nur auf den Warenwert – nicht auf Versand oder Geschenkservice – und oft nur für bestimmte Sortimente wie nicht preisgebundene Ware. Aktionsgutscheine sind meist nur einige Monate gültig, Kaufgutscheine in der Regel mindestens drei Jahre.",
+   "sections": [
+    [
+     "Regeln",
+     [
+      "Ein Gutschein pro Bestellung, oft einer pro Haushalt/Person.",
+      "Nur auf den Warenwert, nicht auf Versand oder Geschenkservice.",
+      "Nicht für den Kauf von Geschenkgutscheinen, keine Barauszahlung.",
+      "Häufig nur für bestimmte Sortimente gültig (z. B. nicht preisgebundene Ware)."
+     ]
+    ],
+    [
+     "Gültigkeit",
+     [
+      "Aktionsgutscheine: meist einige Monate.",
+      "Kaufgutscheine: in der Regel mindestens drei Jahre."
+     ]
+    ],
+    [
+     "Achtung Buchpreisbindung",
+     [
+      "Wenn ein Prozentgutschein nur für nicht preisgebundene Ware gilt, wird er nur auf diese Artikel berechnet."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich bei Thalia zwei Gutscheine kombinieren?",
+     "Nein, pro Bestellung nur einer."
+    ],
+    [
+     "Gilt ein Thalia-Gutschein auf Bücher?",
+     "Oft nicht – viele Prozentgutscheine gelten nur für nicht preisgebundene Ware."
+    ]
+   ],
+   "sources": [
+    [
+     "Thalia: Online-Hilfe zu Geschenkkarten & Gutscheinen",
+     "https://www.thalia.de/hilfe/kaufprozess/geschenkkarte-gutscheine"
+    ]
+   ],
+   "links": [
+    "/wissen/thalia-geschenkkarte-guthaben/",
+    "/wissen/gutscheincode-einloesen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "apple-gift-card-guthaben",
+   "title": "Apple Gift Card: Guthaben prüfen",
+   "desc": "Das Guthaben einer Apple Gift Card prüfst du online auf der Apple-Seite „Guthaben deiner Gift Card anzeigen“. Eingelöstes Guthaben siehst du als Apple-Account-Guthaben.",
+   "lead": "Kurze Antwort: Apple verweist für die Guthabenabfrage auf die Seite „Das Guthaben deiner Gift Card anzeigen“ im Apple Store (secure.store.apple.com/shop/giftcard/balance). Hast du die Karte bereits eingelöst, steckt das Guthaben in deinem Apple Account und du prüfst es dort.",
+   "sections": [
+    [
+     "So geht's",
+     [
+      "Noch nicht eingelöst: Apple-Seite „Guthaben deiner Gift Card anzeigen“ aufrufen.",
+      "Bereits eingelöst: Apple-Account-Guthaben ansehen."
+     ]
+    ],
+    [
+     "Gut zu wissen",
+     [
+      "Rückerstattungen von Käufen mit Gift Card kommen als Apple Gift Card per E-Mail zurück."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie prüfe ich mein Apple-Gift-Card-Guthaben?",
+     "Über Apples Seite „Guthaben deiner Gift Card anzeigen“ oder im Apple Account, wenn eingelöst."
+    ]
+   ],
+   "sources": [
+    [
+     "Apple Support: Das Guthaben deiner Gift Card überprüfen",
+     "https://support.apple.com/de-de/108111"
+    ],
+    [
+     "Apple (DE): Rückgabe & Erstattung",
+     "https://www.apple.com/de/shop/help/returns_refund"
+    ]
+   ],
+   "links": [
+    "/wissen/apple-rueckgabe/",
+    "/wissen/geschenkkarten-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "rossmann-geschenkkarte",
+   "title": "ROSSMANN Geschenkkarte: Gültigkeit und wo einlösbar",
+   "desc": "Die ROSSMANN-Geschenkkarte gilt drei Jahre ab Kauf, lässt sich mit 5 bis 100 € beladen und nur in den Filialen einlösen – nicht auf rossmann.de. Aufladen geht nicht.",
+   "lead": "Kurze Antwort: Eine ROSSMANN-Geschenkkarte ist drei Jahre ab Kaufdatum gültig und kann mit 5 bis 100 € beladen werden. Einlösen kannst du sie nur in den ROSSMANN-Filialen in Deutschland, nicht im Onlineshop. Die Karte ist nicht wiederaufladbar und gilt nicht für Gutscheine oder Prepaid-Produkte.",
+   "sections": [
+    [
+     "Fakten",
+     [
+      "Gültigkeit: 3 Jahre ab Kauf.",
+      "Wert: 5 bis 100 €.",
+      "Einlösen: nur in ROSSMANN-Filialen, nicht auf rossmann.de.",
+      "Nicht aufladbar, nicht für Gutscheine/Prepaid."
+     ]
+    ],
+    [
+     "Kaufen",
+     [
+      "Im Markt oder online – online als PDF direkt nach Zahlung."
+     ]
+    ],
+    [
+     "Partnergutscheine",
+     [
+      "Amazon, IKEA, Wunschgutschein u. a. gibt es in der Filiale – einlösen beim Partner."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Kann ich die ROSSMANN-Geschenkkarte online einlösen?",
+     "Nein, nur in den Filialen."
+    ],
+    [
+     "Wie lange gilt die ROSSMANN-Geschenkkarte?",
+     "Drei Jahre ab Kaufdatum."
+    ]
+   ],
+   "sources": [
+    [
+     "ROSSMANN: Geschenkgutscheine",
+     "https://www.rossmann.de/de/service-und-hilfe/geschenkgutscheine"
+    ]
+   ],
+   "links": [
+    "/wissen/geschenkkarten-vergleich/",
+    "/wissen/rossmann-versandkosten/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "geschenkkarten-vergleich",
+   "title": "Geschenkkarten im Vergleich: Welche ist am flexibelsten?",
+   "desc": "Sieger: dm – online und im Markt einlösbar, Teilbeträge, Guthaben jederzeit online prüfbar, bis 200 €. Zalando gilt am längsten (5 Jahre), ROSSMANN nur in Filialen.",
+   "lead": "Kurze Antwort: Am flexibelsten ist die dm-Geschenkkarte: online und im Markt einlösbar, in Teilbeträgen, Guthaben jederzeit online abrufbar, digital von 5 bis 200 €. Am längsten gültig ist der Zalando-Geschenkgutschein mit fünf Jahren (max. 200 €). Thalia-Karten lassen sich bis 250 € wieder aufladen. Die ROSSMANN-Geschenkkarte gilt drei Jahre, aber nur in den Filialen.",
+   "sections": [
+    [
+     "Vergleich",
+     [
+      "dm: online + Markt, Teilbeträge, 5–200 € digital.",
+      "Zalando: 5 Jahre gültig, max. 200 €, keine Barauszahlung.",
+      "Thalia: wiederaufladbar bis 250 €, Kaufgutscheine meist mind. 3 Jahre.",
+      "ROSSMANN: 3 Jahre, 5–100 €, nur Filiale, nicht aufladbar.",
+      "Douglas: Guthaben online mit Nummer + PIN prüfbar."
+     ]
+    ],
+    [
+     "Sieger",
+     [
+      "Flexibilität: dm. Längste Gültigkeit: Zalando."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Welche Geschenkkarte ist am flexibelsten?",
+     "Die dm-Geschenkkarte – online und im Markt, auch in Teilbeträgen."
+    ],
+    [
+     "Welche Geschenkkarte gilt am längsten?",
+     "Der Zalando-Geschenkgutschein mit fünf Jahren."
+    ]
+   ],
+   "sources": [
+    [
+     "dm: Geschenkkarten",
+     "https://www.dm.de/services/services-im-markt/geschenkkarten-3480686"
+    ],
+    [
+     "Zalando: AGB (Stand 18.05.2026)",
+     "https://zalando.de/zalando-terms/"
+    ],
+    [
+     "Thalia: Online-Hilfe zu Geschenkkarten & Gutscheinen",
+     "https://www.thalia.de/hilfe/kaufprozess/geschenkkarte-gutscheine"
+    ],
+    [
+     "ROSSMANN: Geschenkgutscheine",
+     "https://www.rossmann.de/de/service-und-hilfe/geschenkgutscheine"
+    ],
+    [
+     "Douglas Hilfe: Wo kann ich mein Guthaben der Gutscheinkarte abfragen?",
+     "https://www.douglas.de/de/cp/helpv2wherecanicheckthebalanceofmygiftcard/help-where-can-i-check-the-balance-of-my-gift-card"
+    ]
+   ],
+   "links": [
+    "/wissen/dm-geschenkkarte-guthaben/",
+    "/wissen/zalando-gutschein-regeln/",
+    "/wissen/thalia-geschenkkarte-guthaben/",
+    "/wissen/rossmann-geschenkkarte/"
+   ],
+   "figures": []
   }
  ]
 }
