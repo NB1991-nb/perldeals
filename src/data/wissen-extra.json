@@ -7630,6 +7630,171 @@
     "/wissen/musik-streaming-vergleich-2026/"
    ],
    "figures": []
+  },
+  {
+   "slug": "ebay-artikel-zurueckgeben",
+   "title": "eBay Artikel zurückgeben: So geht's und wer zahlt den Rückversand",
+   "desc": "Unter „Mein eBay: Käufe“ startest du mit „Diesen Artikel zurückgeben“ die Rückgabe. Bei Mängeln zahlt meist der Verkäufer, bei Meinungsänderung meist du. Rücksendung binnen 10 Werktagen.",
+   "lead": "Kurze Antwort: Du öffnest bei eBay unter „Mein eBay: Käufe“ den Artikel und wählst „Diesen Artikel zurückgeben“, gibst den Grund an und lädst bei Schäden 1 bis 10 Fotos hoch. Ist der Artikel defekt, beschädigt oder falsch, übernimmt in der Regel der Verkäufer die Rücksendekosten; hast du nur deine Meinung geändert, zahlst meist du. Nach der Zusage schickst du innerhalb von 10 Werktagen mit Sendungsverfolgung zurück, die Erstattung kommt meist 3 Werktage nach Eingang.",
+   "sections": [
+    [
+     "Schritt für Schritt",
+     [
+      "„Mein eBay: Käufe“ → Artikel → „Diesen Artikel zurückgeben“.",
+      "Grund wählen, bei Schäden 1–10 Fotos hochladen.",
+      "Bei automatischer Zusage kommt direkt ein DHL- oder Hermes-Etikett."
+     ]
+    ],
+    [
+     "Fristen",
+     [
+      "Verkäufer antwortet innerhalb von 3 Werktagen.",
+      "Danach kannst du eBay einschalten – bis 21 Tage nach deiner Anfrage.",
+      "Rücksendung innerhalb von 10 Werktagen mit Sendungsverfolgung.",
+      "Erstattung meist innerhalb von 3 Werktagen nach Eingang."
+     ]
+    ],
+    [
+     "Wer zahlt den Rückversand?",
+     [
+      "Mangel, Schaden, falscher Artikel: in der Regel der Verkäufer.",
+      "Meinungsänderung: meist der Käufer – bezahltes Etikett wird von der Erstattung abgezogen.",
+      "Bei Gebrauchsspuren oder fehlenden Teilen kann der Verkäufer Wertverlust abziehen."
+     ]
+    ],
+    [
+     "Geld zurück",
+     [
+      "Auf die ursprüngliche Zahlungsart, meist nach 3–5 Werktagen verfügbar; bei Kreditkarte bis zu 30 Tage."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie gebe ich bei eBay etwas zurück?",
+     "Unter „Mein eBay: Käufe“ beim Artikel „Diesen Artikel zurückgeben“ wählen."
+    ],
+    [
+     "Wer zahlt bei eBay den Rückversand?",
+     "Bei Mängeln meist der Verkäufer, bei Meinungsänderung meist der Käufer."
+    ],
+    [
+     "Wie lange habe ich zum Zurückschicken?",
+     "10 Werktage nach Zusage, mit Sendungsverfolgung."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay Hilfe: Rückgabe eines Artikels gegen eine Rückerstattung",
+     "https://www.ebay.de/help/buying/returns-refunds/rckgabe-eines-artikels-gegen-eine-rckerstattung?id=4041"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-kaeuferschutz/",
+    "/wissen/ebay-artikel-nicht-erhalten/",
+    "/wissen/widerrufsrecht-online-kauf/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kleinanzeigen-versandkosten-wer-zahlt",
+   "title": "Kleinanzeigen: Wer zahlt die Versandkosten?",
+   "desc": "Bei Kleinanzeigen zahlt in der Regel der Käufer den Versand – Käufer und Verkäufer können aber frei etwas anderes vereinbaren. Kleinanzeigen empfiehlt „Sicher bezahlen“.",
+   "lead": "Kurze Antwort: Laut Kleinanzeigen-Hilfe trägt in der Regel der Käufer die Versandkosten. Verbindlich ist das aber nicht – wer zahlt, könnt ihr frei untereinander vereinbaren, weil Kleinanzeigen selbst nicht Vertragspartner ist. Für jeden Versand empfiehlt Kleinanzeigen „Sicher bezahlen“, das Käufer und Verkäufer absichert.",
+   "sections": [
+    [
+     "Die Regel",
+     [
+      "Üblich: Käufer zahlt Versand.",
+      "Abweichungen sind Absprachesache – am besten schriftlich im Chat.",
+      "Kleinanzeigen ist nicht Vertragspartner."
+     ]
+    ],
+    [
+     "Tipp",
+     [
+      "Mit „Sicher bezahlen“ sind Versandlabels direkt in der App möglich (DHL, Hermes).",
+      "Gebühr für Käufer: 0,50 € + 4,5 % des Kaufpreises."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wer zahlt bei Kleinanzeigen den Versand?",
+     "In der Regel der Käufer – ihr könnt es aber anders vereinbaren."
+    ]
+   ],
+   "sources": [
+    [
+     "Kleinanzeigen Hilfe: Wer trägt bei einem Verkauf die Versandkosten?",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17153295895068-Wer-tr%C3%A4gt-bei-einem-Verkauf-die-Versandkosten"
+    ],
+    [
+     "Kleinanzeigen Hilfe: Was ist „Sicher bezahlen“?",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17211553583388-Was-ist-Sicher-bezahlen-wie-funktioniert-der-K%C3%A4uferschutz"
+    ]
+   ],
+   "links": [
+    "/wissen/kleinanzeigen-versandfunktion/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "kleinanzeigen-versandfunktion",
+   "title": "Kleinanzeigen Versandfunktion: Label per QR-Code mit DHL oder Hermes",
+   "desc": "Mit der Kleinanzeigen-Versandfunktion wählt der Käufer DHL oder Hermes, zahlt per „Sicher bezahlen“ und der Verkäufer zeigt im Shop nur einen QR-Code. Geld kommt nach Bestätigung, spätestens nach 14 Tagen.",
+   "lead": "Kurze Antwort: Bei der Versandfunktion legt der Verkäufer in der Anzeige fest, welche Versandarten er anbietet – DHL Paket (S, M, L, XL) oder Hermes (Päckchen, S, M, L). Der Käufer wählt eine davon und bezahlt mit „Sicher bezahlen“. Danach ruft der Verkäufer in der App einen QR-Code ab und lässt ihn im Paketshop, an der Packstation oder beim Zusteller scannen – Ausdrucken ist nicht nötig. Das Geld bekommt der Verkäufer, sobald der Käufer den Erhalt bestätigt, spätestens nach 14 Tagen.",
+   "sections": [
+    [
+     "Ablauf",
+     [
+      "Verkäufer aktiviert Versand in der Anzeige und wählt Optionen.",
+      "Käufer wählt Versandart und zahlt mit „Sicher bezahlen“.",
+      "Verkäufer ruft den QR-Code in der App ab und gibt das Paket ab.",
+      "Beide bekommen automatische Status-Updates."
+     ]
+    ],
+    [
+     "Optionen",
+     [
+      "DHL Paket: S, M, L, XL.",
+      "Hermes: Päckchen, S-, M-, L-Paket."
+     ]
+    ],
+    [
+     "Auszahlung",
+     [
+      "Nach Erhaltsbestätigung durch den Käufer, spätestens nach 14 Tagen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Wie funktioniert der Versand über Kleinanzeigen?",
+     "Käufer zahlt mit „Sicher bezahlen“, Verkäufer zeigt im Paketshop einen QR-Code aus der App."
+    ],
+    [
+     "Welche Versanddienste gibt es bei Kleinanzeigen?",
+     "DHL und Hermes."
+    ],
+    [
+     "Wann bekommt der Verkäufer das Geld?",
+     "Nach der Erhaltsbestätigung, spätestens nach 14 Tagen."
+    ]
+   ],
+   "sources": [
+    [
+     "Kleinanzeigen: Einfach Versenden mit der Versandfunktion",
+     "https://themen.kleinanzeigen.de/einfach-versenden/"
+    ]
+   ],
+   "links": [
+    "/wissen/kleinanzeigen-versandkosten-wer-zahlt/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/",
+    "/wissen/guenstigster-paketdienst-2026/"
+   ],
+   "figures": []
   }
  ]
 }
