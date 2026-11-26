@@ -3,6 +3,63 @@
   "amazonTag": "boeketv-21",
   "deals": [
     {
+      "id": "kindle-paperwhite-kids-16gb-2024",
+      "asin": "B0CFPHTP6Y",
+      "brand": "Amazon",
+      "cat": "computer",
+      "now": 144.99,
+      "was": 234.99,
+      "title": {
+        "de": "Amazon Kindle Paperwhite Kids 16 GB (Version 2024)",
+        "en": "Amazon Kindle Paperwhite Kids 16 GB (2024)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T12:35:00Z",
+      "checked": "2026-11-26T12:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "tp-link-archer-ax18-wifi-6-router",
+      "asin": "B0CFYJSQ62",
+      "brand": "TP-Link",
+      "cat": "computer",
+      "now": 39.9,
+      "was": 59.9,
+      "title": {
+        "de": "TP-Link Archer AX18 Wi-Fi 6 WLAN-Router (AX1500, 4 Gigabit-Ports)",
+        "en": "TP-Link Archer AX18 Wi-Fi 6 router (AX1500, 4 gigabit ports)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T12:35:00Z",
+      "checked": "2026-11-26T12:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
+      "id": "amazon-ember-2-fire-tv-32-zoll",
+      "asin": "B0F75D5GTM",
+      "brand": "Amazon",
+      "cat": "tv",
+      "now": 144.99,
+      "was": 279.99,
+      "title": {
+        "de": "Amazon Ember 2-Serie mit Fire TV, 32 Zoll (neueste Generation)",
+        "en": "Amazon Ember 2-Series Fire TV, 32 inch (latest generation)"
+      },
+      "note": {
+        "de": "Amazon-Preis laut Amazon-API am 26.11.2026; Vergleichspreis = „Statt“-Preis laut Amazon. Verkauf durch Amazon.",
+        "en": "Amazon price via Amazon API on 26 Nov 2026; reference = Amazon \"was\" price. Sold by Amazon."
+      },
+      "added": "2026-11-26T12:35:00Z",
+      "checked": "2026-11-26T12:35:00Z",
+      "validUntil": "2026-11-30"
+    },
+    {
       "id": "hot-wheels-track-builder-deluxe",
       "asin": "B07P5PQN7S",
       "brand": "Hot Wheels",
