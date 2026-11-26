@@ -2461,39 +2461,59 @@
   },
   {
    "slug": "versandkostenfrei-ab-vergleich",
-   "title": "Versandkostenfrei ab: Amazon, OTTO, Zalando & ALTERNATE im Vergleich",
-   "desc": "Klarer Sieger: Zalando liefert schon ab 34,90 € gratis. Amazon ohne Prime ab 49 €, OTTO ab 59,95 € (UP Basic). ALTERNATE verlangt immer 7,99 €.",
-   "lead": "Kurze Antwort: Am frühesten gratis liefert Zalando – ab 34,90 € Bestellwert, darunter 4,90 €. Amazon verschickt ohne Prime ab 49 € kostenlos, OTTO mit dem kostenlosen UP Basic ab 59,95 €. Bei ALTERNATE kostet ein Paket grundsätzlich 7,99 €.",
+   "title": "Versandkostenfrei ab: 12 Shops im Vergleich",
+   "desc": "Klarer Sieger: Galaxus liefert schon ab 30 € gratis (sonst nur 3 €). Danach Zalando und ABOUT YOU (34,90 €), Amazon ohne Prime (49 €), dm (59 €), OTTO (59,95 €), MediaMarkt und Rossmann (69 €).",
+   "lead": "Kurze Antwort: Am frühesten gratis liefert Galaxus – ab 30 € Bestellwert, darunter kostet der Versand nur 3 €. Zalando und ABOUT YOU folgen mit 34,90 € (sonst 4,90 €), Amazon ohne Prime liefert ab 49 € gratis, dm mit Konto ab 59 €, OTTO mit UP Basic ab 59,95 €, MediaMarkt und Rossmann ab 69 €. Thalia verschickt jede Bestellung mit Buch kostenlos. Keinen Gratisversand haben ALTERNATE (7,99 €), notebooksbilliger (ab 5,99 €) und Lidl (5,95 €).",
    "sections": [
     [
      "Ranking: Gratisversand ab",
      [
-      "1. Zalando: 34,90 € (sonst 4,90 €).",
-      "2. Amazon ohne Prime: 49 € (sonst 2,99–3,99 €, Abholstation 1,99 €).",
-      "3. OTTO mit UP Basic: 59,95 € für OTTO-Artikel (sonst 4,95 €).",
-      "4. ALTERNATE: kein Gratisversand-Schwellenwert genannt, Paket 7,99 €."
+      "1. Galaxus: 30 € (sonst 3 €).",
+      "2. Zalando: 34,90 € (sonst 4,90 €).",
+      "2. ABOUT YOU: 34,90 € (sonst 4,90 €).",
+      "4. Amazon ohne Prime: 49 € (sonst 2,99–3,99 €).",
+      "5. dm mit Konto: 59 € (sonst 4,95 €).",
+      "6. OTTO mit UP Basic: 59,95 € (sonst 4,95 €).",
+      "7. OBI: 60 €, wenn alles 4,95-€-Paketware ist.",
+      "8. MediaMarkt: 69 € (sonst 4,99 €).",
+      "8. Rossmann: 69 € (sonst 4,95 €)."
+     ]
+    ],
+    [
+     "Sonderfälle",
+     [
+      "Thalia: mit mindestens einem Buch immer gratis, sonst ab über 30 €.",
+      "Coolblue: kleine Artikel per DHL immer gratis."
+     ]
+    ],
+    [
+     "Kein Gratisversand",
+     [
+      "ALTERNATE: 7,99 € pro Paket.",
+      "notebooksbilliger: ab 5,99 €.",
+      "Lidl: 5,95 € pauschal (Lidl-Plus-Coupons möglich)."
      ]
     ],
     [
      "Mit Abo",
      [
       "Amazon Prime: Gratisversand ohne Mindestwert für Prime-Artikel.",
-      "OTTO UP Plus: 9,90 € für 12 Monate, Paketversand von OTTO-Artikeln gratis."
+      "OTTO UP Plus: 9,90 € für 12 Monate."
      ]
     ]
    ],
    "faq": [
     [
      "Welcher Shop ist am frühesten versandkostenfrei?",
-     "Zalando ab 34,90 €."
+     "Galaxus ab 30 €."
     ],
     [
      "Ab wann liefert Amazon ohne Prime gratis?",
      "Ab 49 € Bestellwert."
     ],
     [
-     "Lohnt sich OTTO UP Plus?",
-     "Wer mehr als zwei Pakete im Jahr unter 59,95 € bei OTTO bestellt, spart mit 9,90 € bereits."
+     "Welche Shops haben immer Gratisversand?",
+     "Coolblue (kleine Artikel) und Thalia (Bestellungen mit Buch)."
     ]
    ],
    "sources": [
@@ -2512,13 +2532,57 @@
     [
      "ALTERNATE Hilfe: Abholung und Versand",
      "https://www.alternate.de/HILFE/Versand-Lieferung"
+    ],
+    [
+     "Galaxus: Lieferung",
+     "https://www.galaxus.de/de/guide/28"
+    ],
+    [
+     "ABOUT YOU Hilfe: Rückversand",
+     "https://www.aboutyou.de/h/ruecksendung-erstattung/q-360014777340"
+    ],
+    [
+     "dm: Lieferung & Versand",
+     "https://www.dm.de/services/onlineshop/lieferung-und-versand"
+    ],
+    [
+     "OBI: Lieferung",
+     "https://www.obi.de/info/lieferung"
+    ],
+    [
+     "MediaMarkt: Standard-Lieferung",
+     "https://www.mediamarkt.de/de/service/lieferung/standardlieferung"
+    ],
+    [
+     "ROSSMANN: Versandinformationen",
+     "https://www.rossmann.de/de/versandinformationen"
+    ],
+    [
+     "Thalia Hilfe: Versand & Lieferung",
+     "https://www.thalia.de/hilfe/kaufprozess/versand-lieferung"
+    ],
+    [
+     "Coolblue: Liefer- und Abholoptionen",
+     "https://www.coolblue.de/kundendienst/liefer-und-abholmoeglichkeiten"
+    ],
+    [
+     "notebooksbilliger Hilfe: Versand",
+     "https://service.notebooksbilliger.de/help/de-de/2-lieferzeiten-versandkosten/3-versand-innerhalb-deutschlands"
+    ],
+    [
+     "Lidl-Kundenservice: Versandkosten",
+     "https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-ecommerce-Delivery-Welche-Versandkosten-fallen-an"
     ]
    ],
    "links": [
     "/wissen/zalando-versandkosten/",
     "/wissen/amazon-versandkosten-ohne-prime/",
     "/wissen/otto-versandkosten/",
-    "/wissen/alternate-versandkosten/"
+    "/wissen/alternate-versandkosten/",
+    "/wissen/galaxus-versandkosten/",
+    "/wissen/dm-versandkosten/",
+    "/wissen/mediamarkt-versandkosten/",
+    "/wissen/thalia-versandkosten/"
    ],
    "figures": []
   },
@@ -7120,6 +7184,451 @@
     "/wissen/amazon-prime-kosten/",
     "/wissen/studentenrabatt-uebersicht/",
     "/wissen/streaming-abo-vergleich-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ebay-artikel-nicht-erhalten",
+   "title": "eBay-Artikel nicht erhalten: Was tun und bis wann?",
+   "desc": "Kommt dein eBay-Kauf nicht an, meldest du das frühestens nach dem spätesten Lieferdatum und spätestens 30 Tage danach. Der Verkäufer hat 3 Werktage, danach schaltest du eBay ein.",
+   "lead": "Kurze Antwort: Ist dein eBay-Artikel nach dem angegebenen Lieferdatum nicht da, meldest du „Artikel nicht erhalten“ in deinen Käufen – spätestens 30 Kalendertage nach dem (spätesten) Lieferdatum. Der Verkäufer hat 3 Werktage Zeit zu reagieren. Gibt es keine Lösung, kannst du eBay einschalten, spätestens 21 Werktage nach deiner Meldung. Du bekommst Kaufpreis und ursprüngliche Versandkosten zurück – sofern du über eBay bezahlt hast.",
+   "sections": [
+    [
+     "Schritt für Schritt",
+     [
+      "Lieferdatum abwarten.",
+      "In „Meine Käufe“ den Artikel wählen → „Artikel nicht erhalten“ melden.",
+      "3 Werktage auf den Verkäufer warten.",
+      "Keine Lösung? eBay einschalten (bis 21 Werktage nach Meldung)."
+     ]
+    ],
+    [
+     "Wann eBay ablehnt",
+     [
+      "Sendungsverfolgung zeigt „Zugestellt“ an deine Kaufadresse, rechtzeitig hochgeladen.",
+      "Du hast selbst abgeholt.",
+      "Verlust oder Diebstahl nach der Zustellung."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Bis wann kann ich „nicht erhalten“ melden?",
+     "Spätestens 30 Kalendertage nach dem Lieferdatum."
+    ],
+    [
+     "Wie lange hat der Verkäufer Zeit?",
+     "3 Werktage."
+    ]
+   ],
+   "sources": [
+    [
+     "eBay: Grundsatz zum eBay-Käuferschutz",
+     "https://www.ebay.de/help/policies/ebay-money-back-guarantee-policy/grundsatz-zum-ebaykuferschutz?id=4210"
+    ]
+   ],
+   "links": [
+    "/wissen/ebay-kaeuferschutz/",
+    "/wissen/paket-nicht-angekommen/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "paypal-freunde-und-familie-risiko",
+   "title": "PayPal „Freunde und Familie“: Warum kein Käuferschutz?",
+   "desc": "Zahlungen über PayPal „Freunde und Familie“ sind vom Käuferschutz ausgeschlossen. Wer so an Fremde zahlt, bekommt bei Betrug kein Geld über PayPal zurück.",
+   "lead": "Kurze Antwort: „Freunde und Familie“ ist bei PayPal für persönliche Zahlungen gedacht und ausdrücklich vom PayPal-Käuferschutz ausgeschlossen. Kommt die Ware nicht oder ist sie gefälscht, kannst du keinen Käuferschutz-Antrag stellen. Für Käufe – auch privat auf Kleinanzeigen – solltest du deshalb „Waren und Dienstleistungen“ bzw. die geschützten Zahlwege der Plattform nutzen.",
+   "sections": [
+    [
+     "Was gilt",
+     [
+      "„Freunde und Familie“ und andere persönliche Zahlungen: kein Käuferschutz.",
+      "Käuferschutz gibt es nur bei Zahlungen für Waren und Dienstleistungen.",
+      "Frist bei geschützten Zahlungen: 180 Tage ab Zahlung."
+     ]
+    ],
+    [
+     "Warnsignale",
+     [
+      "Verkäufer drängt auf „Freunde und Familie“, um Gebühren zu sparen.",
+      "Bitte um Zahlung an eine andere E-Mail als im Profil."
+     ]
+    ],
+    [
+     "Sicherer zahlen",
+     [
+      "PayPal „Waren und Dienstleistungen“.",
+      "Kleinanzeigen „Sicher bezahlen“ (0,50 € + 4,5 %).",
+      "Auf eBay nur über eBay bezahlen."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Gibt es bei PayPal Freunde und Familie Käuferschutz?",
+     "Nein, solche Zahlungen sind ausgeschlossen."
+    ],
+    [
+     "Wie zahle ich privat sicher?",
+     "Mit PayPal „Waren und Dienstleistungen“ oder dem Bezahlsystem der Plattform."
+    ]
+   ],
+   "sources": [
+    [
+     "PayPal: PayPal-Käuferschutz",
+     "https://www.paypal.com/de/legalhub/paypal/buyer-protection"
+    ],
+    [
+     "Kleinanzeigen Hilfe: Sicher bezahlen",
+     "https://hilfe.kleinanzeigen.de/hc/de/articles/17211553583388-Was-ist-Sicher-bezahlen-wie-funktioniert-der-K%C3%A4uferschutz"
+    ]
+   ],
+   "links": [
+    "/wissen/paypal-kaeuferschutz/",
+    "/wissen/kleinanzeigen-betrug-erkennen/",
+    "/wissen/kleinanzeigen-sicher-bezahlen-gebuehr/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "otto-up-plus-lohnt-sich",
+   "title": "OTTO UP Plus: Lohnt sich das für 9,90 €?",
+   "desc": "OTTO UP Plus kostet 9,90 € für 12 Monate und macht Paketlieferungen von OTTO-Artikeln ein Jahr lang gratis. Es rechnet sich ab dem dritten Paket unter 59,95 €.",
+   "lead": "Kurze Antwort: UP Plus kostet einmalig 9,90 € für 12 Monate und macht alle Paketlieferungen von Artikeln, die OTTO selbst verkauft, kostenlos. Ohne UP Plus kostet ein Paket 4,95 €, gratis wird es mit dem kostenlosen UP Basic erst ab 59,95 €. Bestellst du im Jahr mindestens drei Pakete unter 59,95 € bei OTTO, sparst du mit UP Plus. Spedition und Artikel anderer Verkäufer sind ausgenommen.",
+   "sections": [
+    [
+     "Rechnung",
+     [
+      "Ohne UP Plus: 4,95 € pro Paket unter 59,95 €.",
+      "Zwei Pakete: 9,90 € – gleichauf mit UP Plus.",
+      "Ab dem dritten Paket: UP Plus spart."
+     ]
+    ],
+    [
+     "Nicht enthalten",
+     [
+      "Speditionsware (39,95 €).",
+      "Artikel anderer Marktplatz-Verkäufer."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet OTTO UP Plus?",
+     "9,90 € für 12 Monate."
+    ],
+    [
+     "Ab wann lohnt sich UP Plus?",
+     "Ab drei Paketen unter 59,95 € im Jahr."
+    ]
+   ],
+   "sources": [
+    [
+     "OTTO: Lieferung & Versandkosten",
+     "https://www.otto.de/service/lieferung/"
+    ]
+   ],
+   "links": [
+    "/wissen/otto-versandkosten/",
+    "/wissen/otto-zahlungsarten/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "spotify-duo-oder-family",
+   "title": "Spotify Duo oder Family: Was lohnt sich?",
+   "desc": "Spotify Duo kostet 17,99 € für 2 Konten, Family 21,99 € für bis zu 6. Ab drei Personen ist Family klar günstiger – pro Kopf maximal 3,67 €.",
+   "lead": "Kurze Antwort: Für zwei Personen ist Spotify Duo mit 17,99 € die richtige Wahl (8,995 € pro Kopf). Ab drei Personen gewinnt Family: 21,99 € für bis zu sechs Konten, also 7,33 € pro Kopf bei drei und 3,67 € bei sechs Personen. Beide Abos setzen voraus, dass alle an derselben Adresse wohnen.",
+   "sections": [
+    [
+     "Pro Kopf",
+     [
+      "Duo (2): 9,00 € pro Person.",
+      "Family (3): 7,33 € · (4): 5,50 € · (6): 3,67 €.",
+      "Individual: 12,99 €."
+     ]
+    ],
+    [
+     "Bedingungen",
+     [
+      "Duo und Family: alle Mitglieder an derselben Adresse.",
+      "Hörbuch-Kontingent (12 Std./Monat) nur für den Hauptaccount."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Ist Spotify Duo oder Family günstiger?",
+     "Ab drei Personen Family, für zwei Duo."
+    ],
+    [
+     "Muss man bei Spotify Family zusammenwohnen?",
+     "Ja, alle an derselben Adresse."
+    ]
+   ],
+   "sources": [
+    [
+     "Spotify: Premium-Abos Deutschland",
+     "https://www.spotify.com/de/premium/"
+    ]
+   ],
+   "links": [
+    "/wissen/spotify-preise-2026/",
+    "/wissen/spotify-vs-apple-music/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "disney-plus-jahresabo-lohnt-sich",
+   "title": "Disney+ Jahresabo: Lohnt es sich?",
+   "desc": "Ja, wenn du mindestens 10 Monate schaust: Standard kostet 109,90 € im Jahr statt 131,88 € monatlich, Premium 159,90 € statt 191,88 €. Rund 17 % gespart.",
+   "lead": "Kurze Antwort: Das Disney+ Jahresabo lohnt sich, wenn du mindestens zehn Monate im Jahr schaust. Standard kostet 109,90 € statt 12 × 10,99 € = 131,88 € (21,98 € gespart), Premium 159,90 € statt 191,88 € (31,98 € gespart) – rund 17 %. Für das Abo mit Werbung gibt es kein Jahresabo.",
+   "sections": [
+    [
+     "Rechnung",
+     [
+      "Standard: 109,90 € vs. 131,88 € → 21,98 € gespart.",
+      "Premium: 159,90 € vs. 191,88 € → 31,98 € gespart.",
+      "Break-even: etwa 10 Monate."
+     ]
+    ],
+    [
+     "Nicht möglich",
+     [
+      "Kein Jahresabo für „Standard mit Werbung“ (6,99 €/Monat)."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Lohnt sich das Disney+ Jahresabo?",
+     "Ab etwa zehn Monaten Nutzung – du sparst rund 17 %."
+    ]
+   ],
+   "sources": [
+    [
+     "MonsterDealz Magazin: Disney Plus Kosten 2026",
+     "https://www.monsterdealz.de/magazin/disney-plus-kosten"
+    ]
+   ],
+   "links": [
+    "/wissen/disney-plus-preise-2026/",
+    "/wissen/netflix-vs-disney-plus/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "ps-plus-jahresabo-lohnt-sich",
+   "title": "PS Plus: Monatlich oder Jahresabo?",
+   "desc": "Das 12-Monats-Abo ist bei PS Plus deutlich günstiger: Essential 71,99 € statt 119,88 €, Extra 125,99 € statt 191,88 €, Premium 151,99 € statt 227,88 €.",
+   "lead": "Kurze Antwort: Spielst du länger als ein paar Monate, ist das PS-Plus-Jahresabo klar günstiger. Essential kostet 71,99 € statt 12 × 9,99 € = 119,88 €, Extra 125,99 € statt 191,88 €, Premium 151,99 € statt 227,88 €. Schon ab etwa acht Monaten Nutzung lohnt sich das Jahresabo.",
+   "sections": [
+    [
+     "Ersparnis pro Jahr",
+     [
+      "Essential: 47,89 €.",
+      "Extra: 65,89 €.",
+      "Premium: 75,89 €."
+     ]
+    ],
+    [
+     "Break-even",
+     [
+      "Essential: nach rund 7–8 Monaten.",
+      "Extra: nach rund 8 Monaten.",
+      "Premium: nach rund 8 Monaten."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Lohnt sich das PS-Plus-Jahresabo?",
+     "Ja, ab etwa acht Monaten Nutzung – Essential spart 47,89 € im Jahr."
+    ]
+   ],
+   "sources": [
+    [
+     "MonsterDealz Magazin: PlayStation Plus Kosten 2026",
+     "https://www.monsterdealz.de/magazin/playstation-plus-kosten"
+    ]
+   ],
+   "links": [
+    "/wissen/ps-plus-preise-2026/",
+    "/wissen/konsolen-abo-vergleich/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "einschreiben-einwurf-oder-persoenlich",
+   "title": "Einschreiben Einwurf oder persönlich: Was ist der Unterschied?",
+   "desc": "Einschreiben Einwurf kostet 2,35 € Aufpreis und wird in den Briefkasten geworfen; das persönliche Einschreiben (+2,65 €) wird gegen Unterschrift übergeben. Rückschein +4,85 €.",
+   "lead": "Kurze Antwort: Beim Einschreiben Einwurf (2,35 € plus Porto) wirft der Zusteller den Brief in den Briefkasten und dokumentiert das. Beim persönlichen Einschreiben (2,65 € plus Porto) wird der Brief nur gegen Unterschrift übergeben. Mit Rückschein (+4,85 €) bekommst du die Unterschrift des Empfängers zurück. Einschreiben werden meist am nächsten Werktag zugestellt.",
+   "sections": [
+    [
+     "Preise (zusätzlich zum Porto)",
+     [
+      "Einschreiben Einwurf: 2,35 €.",
+      "Einschreiben (persönlich): 2,65 €.",
+      "Rückschein: 4,85 €.",
+      "Einschreiben Wert: 4,45 € – Haftung bis 100 € Bargeld oder 500 € Ware, nur in der Filiale."
+     ]
+    ],
+    [
+     "Beispiel",
+     [
+      "Standardbrief als Einwurf-Einschreiben: 0,95 € + 2,35 € = 3,30 €."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein Einschreiben Einwurf?",
+     "2,35 € plus Porto – als Standardbrief 3,30 €."
+    ],
+    [
+     "Wann brauche ich einen Rückschein?",
+     "Wenn du die Unterschrift des Empfängers als Nachweis zurückhaben willst."
+    ]
+   ],
+   "sources": [
+    [
+     "Deutsche Post: Porto für Briefe in Deutschland",
+     "https://www.deutschepost.de/de/b/briefe-in-deutschland.html"
+    ]
+   ],
+   "links": [
+    "/wissen/briefporto-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "dhl-paeckchen-oder-paket",
+   "title": "DHL Päckchen oder Paket: Was ist der Unterschied?",
+   "desc": "DHL-Päckchen (ab 4,19 €) haben keine Sendungsverfolgung und keine Haftung. Pakete (ab 6,19 €) sind verfolgbar und versichert. Für Wertsachen immer Paket.",
+   "lead": "Kurze Antwort: Ein DHL-Päckchen ist günstiger (S 4,19 €, M 5,19 €, bis 2 kg), hat aber keine Sendungsverfolgung und keine Haftung. Ein Paket kostet ab 6,19 € (2 kg, online) und enthält beides. Verschickst du etwas Wertvolles oder verkaufst online, nimm ein Paket – sonst kannst du die Zustellung nicht nachweisen.",
+   "sections": [
+    [
+     "Päckchen",
+     [
+      "S: 35 × 25 × 10 cm, bis 2 kg – 4,19 €.",
+      "M: 60 × 30 × 15 cm, bis 2 kg – 5,19 €.",
+      "Keine Sendungsverfolgung, keine Haftung."
+     ]
+    ],
+    [
+     "Paket",
+     [
+      "2 kg: 6,19 € (nur online) · 5 kg: 7,69 € · 10 kg: 10,49 €.",
+      "Mit Sendungsverfolgung und Haftung."
+     ]
+    ],
+    [
+     "Für Verkäufer",
+     [
+      "eBay und PayPal prüfen bei „nicht erhalten“ die Sendungsverfolgung – ohne Tracking kein Nachweis."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Hat ein DHL-Päckchen Sendungsverfolgung?",
+     "Nein."
+    ],
+    [
+     "Was kostet das günstigste DHL-Paket?",
+     "6,19 € für 2 kg, nur online."
+    ]
+   ],
+   "sources": [
+    [
+     "DHL: Preise national",
+     "https://www.dhl.de/de/privatkunden/pakete-versenden/deutschlandweit-versenden/preise-national.html"
+    ],
+    [
+     "eBay: Grundsatz zum eBay-Käuferschutz",
+     "https://www.ebay.de/help/policies/ebay-money-back-guarantee-policy/grundsatz-zum-ebaykuferschutz?id=4210"
+    ]
+   ],
+   "links": [
+    "/wissen/dhl-paketpreise-2026/",
+    "/wissen/guenstigster-paketdienst-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "netflix-zusatzmitglied",
+   "title": "Netflix Zusatzmitglied: Kosten und wann es sich lohnt",
+   "desc": "Ein Netflix-Zusatzmitglied kostet 4,99 € mit Werbung oder 5,99 € ohne – deutlich weniger als ein eigenes Standard-Abo (15,99 €).",
+   "lead": "Kurze Antwort: Für Personen außerhalb deines Haushalts kannst du bei Netflix ein Zusatzmitglied hinzufügen: 4,99 € im Monat mit Werbung oder 5,99 € ohne Werbung. Das ist deutlich günstiger als ein eigenes werbefreies Standard-Abo für 15,99 €.",
+   "sections": [
+    [
+     "Preise",
+     [
+      "Zusatzmitglied mit Werbung: 4,99 €.",
+      "Zusatzmitglied ohne Werbung: 5,99 €.",
+      "Eigenes Abo: 6,99 € (Werbung) / 15,99 € (Standard)."
+     ]
+    ],
+    [
+     "Rechnung",
+     [
+      "Werbefrei teilen: 5,99 € statt eigenem 15,99-€-Abo – 10 € gespart."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Was kostet ein Netflix-Zusatzmitglied?",
+     "4,99 € mit Werbung, 5,99 € ohne."
+    ]
+   ],
+   "sources": [
+    [
+     "TECHBOOK: Netflix-Preiserhöhung Deutschland (04.09.2026)",
+     "https://www.techbook.de/streaming/anbieter/netflix-preiserhoehung-deutschland-2026"
+    ]
+   ],
+   "links": [
+    "/wissen/netflix-preise-2026/",
+    "/wissen/streaming-abo-vergleich-2026/"
+   ],
+   "figures": []
+  },
+  {
+   "slug": "youtube-premium-guenstiger-buchen",
+   "title": "YouTube Premium günstiger: Über die Website statt App Store",
+   "desc": "YouTube Premium kostet 14,99 € bei Buchung über die Website – im Apple App Store zahlst du mehr. Mit dem Jahresabo (149,99 €) sparst du nochmal rund 30 €.",
+   "lead": "Kurze Antwort: Buche YouTube Premium über die YouTube-Website und nicht über den Apple App Store – nur auf der Website gelten die Preise von 14,99 € im Monat. Mit dem Jahresabo für 149,99 € zahlst du rund 30 € weniger als zwölf Monatszahlungen (179,88 €). Wer nur werbefrei Videos schauen will, nimmt Premium Lite für 7,99 €.",
+   "sections": [
+    [
+     "Spar-Wege",
+     [
+      "Über die Website buchen statt App Store.",
+      "Jahresabo: 149,99 € statt 179,88 €.",
+      "Premium Lite: 7,99 €.",
+      "Family: 27,99 € für den Haushalt; Student: 8,99 €."
+     ]
+    ]
+   ],
+   "faq": [
+    [
+     "Warum ist YouTube Premium auf dem iPhone teurer?",
+     "Bei Buchung über den Apple App Store gelten höhere Preise; die 14,99 € gelten auf der Website."
+    ],
+    [
+     "Lohnt sich das YouTube-Premium-Jahresabo?",
+     "Ja, rund 30 € Ersparnis gegenüber monatlich."
+    ]
+   ],
+   "sources": [
+    [
+     "TECHBOOK: YouTube Premium Preise 2026",
+     "https://www.techbook.de/streaming/anbieter/youtube-premium-preise-deutschland-2026"
+    ]
+   ],
+   "links": [
+    "/wissen/youtube-premium-preise-2026/",
+    "/wissen/musik-streaming-vergleich-2026/"
    ],
    "figures": []
   }
